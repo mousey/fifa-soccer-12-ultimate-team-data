@@ -1,6 +1,6 @@
 # FIFA Ultimate Team Player Statistics
 
-FIFA Ultimate Team exposes all player data via publicly accessible web services. This repository is here to help you build *your* ultimate team. Want to know who the tallest player is, the fastest, the best overall? Want to compare player data from previous seasons?
+FIFA Ultimate Team exposes all player data via publicly accessible web services. This repository is here to help you build *your* ultimate team. Want to know who the tallest player is, the fastest, the best overall?
 
 You can use this information to hack player data too, but don't do that!
 
@@ -25,7 +25,7 @@ http://cdn.content.easports.com/fifa/fltOnlineAssets/2010/fut/items/images/playe
 
 ## Player data
 
-### 2012 Data
+Player data is sent to the client (FIFA ultimate team on your XBOX, PS3, PC, or browser) in JSON e.g.
 
 `http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/web/179686.json`
 
@@ -69,11 +69,6 @@ Most of these fields are self-explanatory, but they're detailed below:
 * **Rare:** No longer used
 * **ItemType:** This tells us whether the player's a goalkeeper (PlayerGk), defender (PlayerD), midfielder (PlayerM), or an attacking player (PlayerA).
 
-### 2011 Data
-
-### 2010 Data
-
-### 2009 Data
 
 # Fun discoveries
 
