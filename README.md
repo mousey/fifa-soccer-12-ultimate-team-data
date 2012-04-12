@@ -10,28 +10,16 @@ Every player in the game has a unique identifier. Identifiers remain the same re
 
 Let's take Maurice Edu as an example. He's an American midfielder currently playing for Rangers FC, the most successful club in the world. Maurice was on the cover of the American version of FIFA 11. He's also my 4-year old son's favorite player.
 
-### 2012 Image
+Mo's FIFA player ID is 179686, so we can grab his image from the 2012, 2011 and 2010 data set with the following URLs:
 
 ```
 http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/images/players/web/179686.png
-```
-
-![](http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/images/players/web/179686.png)
-
-### 2011 Image
-
-```
 http://cdn.content.easports.com/fifa/fltOnlineAssets/2011/fut/items/images/players/web/179686.png
-```
-
-![](http://cdn.content.easports.com/fifa/fltOnlineAssets/2011/fut/items/images/players/web/179686.png)
-
-### 2010 Image
-
-```
 http://cdn.content.easports.com/fifa/fltOnlineAssets/2010/fut/items/images/players/web/179686.png
 ```
 
+![](http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/images/players/web/179686.png)
+![](http://cdn.content.easports.com/fifa/fltOnlineAssets/2011/fut/items/images/players/web/179686.png)
 ![](http://cdn.content.easports.com/fifa/fltOnlineAssets/2010/fut/items/images/players/web/179686.png)
 
 
@@ -72,14 +60,14 @@ http://cdn.content.easports.com/fifa/fltOnlineAssets/2010/fut/items/images/playe
 
 Most of these fields are self-explanatory, but they're detailed below:
 
-* Attribute1:
-* Attribute2:
-* Attribute3:
-* Attribute4:
-* Attribute5:
-* Attribute6:
-* Rare: No longer used
-* ItemType: This tells us whether the player's a goalkeeper (PlayerGk), defender (PlayerD), midfielder (PlayerM), or an attacking player (PlayerA).
+* **Attribute1:** pace for outfield players; diving for goalkeepers
+* **Attribute2:** shooting for outfield players; handling for  goalkeepers
+* **Attribute3:** passing for outfield players; kicking for goalkeepers
+* **Attribute4:** dribbling for outfield players; ref for goalkeepers
+* **Attribute5:** defending for outfield players; speed for goalkeepers
+* **Attribute6:** heading for outfield players; positioning for goalkeepers
+* **Rare:** No longer used
+* **ItemType:** This tells us whether the player's a goalkeeper (PlayerGk), defender (PlayerD), midfielder (PlayerM), or an attacking player (PlayerA).
 
 ### 2011 Data
 
