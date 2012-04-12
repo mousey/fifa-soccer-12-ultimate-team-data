@@ -2,7 +2,7 @@
 
 FIFA Ultimate Team exposes all player data via publicly accessible web services. This repository is here to help you build *your* ultimate team. Want to know who the tallest player is, the fastest, the best overall?
 
-You can use this information to hack player data too, but don't do that!
+You can use this information to [hack player data](http://www.youtube.com/watch?v=vslVG-oIhcc) too, but don't do that!
 
 ## Player Images
 
