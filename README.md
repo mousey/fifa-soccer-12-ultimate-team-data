@@ -18,9 +18,9 @@ http://cdn.content.easports.com/fifa/fltOnlineAssets/2011/fut/items/images/playe
 http://cdn.content.easports.com/fifa/fltOnlineAssets/2010/fut/items/images/players/web/179686.png
 ```
 
-![](http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/images/players/web/179686.png)
-![](http://cdn.content.easports.com/fifa/fltOnlineAssets/2011/fut/items/images/players/web/179686.png)
-![](http://cdn.content.easports.com/fifa/fltOnlineAssets/2010/fut/items/images/players/web/179686.png)
+![](http://i.imgur.com/D9pTc.png)
+![](http://i.imgur.com/Qph7i.png)
+![](http://i.imgur.com/W6n3n.png)
 
 
 ## Player data
