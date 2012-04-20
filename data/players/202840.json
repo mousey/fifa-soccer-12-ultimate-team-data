@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Nick",
+    "LastName": "Van Belle",
+    "CommonName": null,
+    "Height": "192",
+    "DateOfBirth": {
+      "Year": "1993",
+      "Month": "3",
+      "Day": "17"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "231",
+    "LeagueId": "4",
+    "NationId": "7",
+    "Rating": "54",
+    "Attribute1": "51",
+    "Attribute2": "55",
+    "Attribute3": "40",
+    "Attribute4": "46",
+    "Attribute5": "48",
+    "Attribute6": "61",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

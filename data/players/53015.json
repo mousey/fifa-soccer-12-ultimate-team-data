@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jason",
+    "LastName": "Roberts",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1978",
+      "Month": "1",
+      "Day": "25"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "3",
+    "LeagueId": "13",
+    "NationId": "77",
+    "Rating": "71",
+    "Attribute1": "54",
+    "Attribute2": "68",
+    "Attribute3": "34",
+    "Attribute4": "69",
+    "Attribute5": "62",
+    "Attribute6": "75",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

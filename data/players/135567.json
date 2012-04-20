@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Nilmar",
+    "LastName": "Honorato da Silva",
+    "CommonName": "Nilmar",
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "7",
+      "Day": "14"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "483",
+    "LeagueId": "53",
+    "NationId": "54",
+    "Rating": "83",
+    "Attribute1": "92",
+    "Attribute2": "77",
+    "Attribute3": "64",
+    "Attribute4": "86",
+    "Attribute5": "46",
+    "Attribute6": "68",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

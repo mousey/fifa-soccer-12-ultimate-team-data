@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Kafoumba",
+    "LastName": "Coulibaly",
+    "CommonName": null,
+    "Height": "179",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "10",
+      "Day": "26"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "72",
+    "LeagueId": "16",
+    "NationId": "108",
+    "Rating": "72",
+    "Attribute1": "68",
+    "Attribute2": "48",
+    "Attribute3": "72",
+    "Attribute4": "58",
+    "Attribute5": "73",
+    "Attribute6": "67",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

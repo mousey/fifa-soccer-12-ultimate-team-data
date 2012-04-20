@@ -1,0 +1,15 @@
+{
+  "Manager": {
+    "FirstName": "Bob",
+    "LastName": "Peeters",
+    "NationId": "7",
+    "Value": "70",
+    "Rare": "1",
+    "Weight": "15",
+    "FormationId": "27",
+    "TalkRating": "0",
+    "Negotiation": "2",
+    "AssetId": "1000296",
+    "ItemType": "Manager"
+  }
+}

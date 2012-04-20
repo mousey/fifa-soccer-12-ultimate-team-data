@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Mark",
+    "LastName": "Cousins",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "1",
+      "Day": "9"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1935",
+    "LeagueId": "60",
+    "NationId": "14",
+    "Rating": "59",
+    "Attribute1": "71",
+    "Attribute2": "45",
+    "Attribute3": "36",
+    "Attribute4": "74",
+    "Attribute5": "56",
+    "Attribute6": "54",
+    "Rare": "1",
+    "ItemType": "PlayerGk"
+  }
+}

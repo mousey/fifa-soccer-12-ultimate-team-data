@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Thomas",
+    "LastName": "Kessler",
+    "CommonName": null,
+    "Height": "197",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "1",
+      "Day": "20"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1824",
+    "LeagueId": "20",
+    "NationId": "21",
+    "Rating": "72",
+    "Attribute1": "75",
+    "Attribute2": "73",
+    "Attribute3": "68",
+    "Attribute4": "72",
+    "Attribute5": "56",
+    "Attribute6": "70",
+    "Rare": "1",
+    "ItemType": "PlayerGk"
+  }
+}

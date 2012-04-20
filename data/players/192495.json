@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Romaine",
+    "LastName": "Sawyers",
+    "CommonName": null,
+    "Height": "176",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "11",
+      "Day": "2"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "109",
+    "LeagueId": "13",
+    "NationId": "14",
+    "Rating": "59",
+    "Attribute1": "77",
+    "Attribute2": "56",
+    "Attribute3": "34",
+    "Attribute4": "62",
+    "Attribute5": "41",
+    "Attribute6": "50",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

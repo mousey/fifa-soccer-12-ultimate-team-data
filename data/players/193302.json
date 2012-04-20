@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Filip",
+    "LastName": "Kurto",
+    "CommonName": null,
+    "Height": "191",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "6",
+      "Day": "14"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1873",
+    "LeagueId": "66",
+    "NationId": "37",
+    "Rating": "56",
+    "Attribute1": "49",
+    "Attribute2": "59",
+    "Attribute3": "42",
+    "Attribute4": "67",
+    "Attribute5": "59",
+    "Attribute6": "51",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

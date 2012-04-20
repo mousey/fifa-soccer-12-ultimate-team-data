@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Santiago",
+    "LastName": "Morero",
+    "CommonName": null,
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "2",
+      "Day": "1"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "192",
+    "LeagueId": "31",
+    "NationId": "52",
+    "Rating": "71",
+    "Attribute1": "51",
+    "Attribute2": "41",
+    "Attribute3": "56",
+    "Attribute4": "45",
+    "Attribute5": "74",
+    "Attribute6": "72",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

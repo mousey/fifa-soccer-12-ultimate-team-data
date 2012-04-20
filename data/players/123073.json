@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Markus",
+    "LastName": "Heikkinen",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1978",
+      "Month": "10",
+      "Day": "13"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "254",
+    "LeagueId": "80",
+    "NationId": "17",
+    "Rating": "69",
+    "Attribute1": "65",
+    "Attribute2": "49",
+    "Attribute3": "63",
+    "Attribute4": "63",
+    "Attribute5": "73",
+    "Attribute6": "75",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

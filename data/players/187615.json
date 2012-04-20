@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Danleigh",
+    "LastName": "Borman",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "1",
+      "Day": "25"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "111651",
+    "LeagueId": "39",
+    "NationId": "140",
+    "Rating": "61",
+    "Attribute1": "84",
+    "Attribute2": "50",
+    "Attribute3": "50",
+    "Attribute4": "64",
+    "Attribute5": "58",
+    "Attribute6": "53",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

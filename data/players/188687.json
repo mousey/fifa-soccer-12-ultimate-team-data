@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Douglas",
+    "LastName": "Ferreira",
+    "CommonName": "Douglão",
+    "Height": "193",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "5",
+      "Day": "18"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1896",
+    "LeagueId": "308",
+    "NationId": "54",
+    "Rating": "57",
+    "Attribute1": "51",
+    "Attribute2": "35",
+    "Attribute3": "54",
+    "Attribute4": "39",
+    "Attribute5": "58",
+    "Attribute6": "66",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

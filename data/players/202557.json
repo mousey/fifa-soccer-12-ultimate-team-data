@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Esmaël Rui",
+    "LastName": "Gonçalves",
+    "CommonName": "Esmaël Gonçalves",
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "6",
+      "Day": "25"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "72",
+    "LeagueId": "16",
+    "NationId": "38",
+    "Rating": "65",
+    "Attribute1": "74",
+    "Attribute2": "63",
+    "Attribute3": "56",
+    "Attribute4": "63",
+    "Attribute5": "49",
+    "Attribute6": "66",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

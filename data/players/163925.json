@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Alessandro",
+    "LastName": "Diamanti",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "5",
+      "Day": "2"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "189",
+    "LeagueId": "31",
+    "NationId": "27",
+    "Rating": "79",
+    "Attribute1": "78",
+    "Attribute2": "76",
+    "Attribute3": "73",
+    "Attribute4": "79",
+    "Attribute5": "56",
+    "Attribute6": "50",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

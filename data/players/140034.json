@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Melvin",
+    "LastName": "Brown",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "1",
+      "Day": "28"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110780",
+    "LeagueId": "341",
+    "NationId": "83",
+    "Rating": "64",
+    "Attribute1": "55",
+    "Attribute2": "49",
+    "Attribute3": "53",
+    "Attribute4": "40",
+    "Attribute5": "70",
+    "Attribute6": "73",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

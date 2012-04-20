@@ -1,0 +1,11 @@
+{
+  "Physio": {
+    "FirstName": "P",
+    "LastName": "Jones",
+    "Rating": "55",
+    "Rare": "0",
+    "Attr": "1",
+    "Amount": "5",
+    "ItemType": "Physio"
+  }
+}

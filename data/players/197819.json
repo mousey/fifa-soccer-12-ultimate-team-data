@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Zach",
+    "LastName": "Loyd",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "7",
+      "Day": "18"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "695",
+    "LeagueId": "39",
+    "NationId": "95",
+    "Rating": "65",
+    "Attribute1": "76",
+    "Attribute2": "50",
+    "Attribute3": "59",
+    "Attribute4": "64",
+    "Attribute5": "67",
+    "Attribute6": "67",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

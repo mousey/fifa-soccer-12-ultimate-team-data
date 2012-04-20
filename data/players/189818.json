@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Renan",
+    "LastName": "Rodrigues da Silva",
+    "CommonName": "Renan",
+    "Height": "181",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "10",
+      "Day": "9"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1039",
+    "LeagueId": "7",
+    "NationId": "54",
+    "Rating": "65",
+    "Attribute1": "64",
+    "Attribute2": "48",
+    "Attribute3": "65",
+    "Attribute4": "44",
+    "Attribute5": "66",
+    "Attribute6": "63",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

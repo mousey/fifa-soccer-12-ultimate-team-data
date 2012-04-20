@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Gonzalo",
+    "LastName": "Zárate",
+    "CommonName": null,
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "8",
+      "Day": "6"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "191",
+    "LeagueId": "80",
+    "NationId": "52",
+    "Rating": "68",
+    "Attribute1": "79",
+    "Attribute2": "66",
+    "Attribute3": "63",
+    "Attribute4": "75",
+    "Attribute5": "34",
+    "Attribute6": "52",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

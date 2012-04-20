@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Sergej",
+    "LastName": "Schmik",
+    "CommonName": null,
+    "Height": "179",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "11",
+      "Day": "27"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "10030",
+    "LeagueId": "20",
+    "NationId": "21",
+    "Rating": "55",
+    "Attribute1": "71",
+    "Attribute2": "45",
+    "Attribute3": "55",
+    "Attribute4": "58",
+    "Attribute5": "54",
+    "Attribute6": "58",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

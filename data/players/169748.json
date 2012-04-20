@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jonas",
+    "LastName": "Elmer",
+    "CommonName": null,
+    "Height": "176",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "2",
+      "Day": "28"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "110770",
+    "LeagueId": "189",
+    "NationId": "47",
+    "Rating": "59",
+    "Attribute1": "71",
+    "Attribute2": "48",
+    "Attribute3": "65",
+    "Attribute4": "63",
+    "Attribute5": "56",
+    "Attribute6": "57",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Gerard",
+    "LastName": "Autet Serrabasa",
+    "CommonName": "Gerard",
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1978",
+      "Month": "9",
+      "Day": "8"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1742",
+    "LeagueId": "54",
+    "NationId": "45",
+    "Rating": "63",
+    "Attribute1": "52",
+    "Attribute2": "42",
+    "Attribute3": "55",
+    "Attribute4": "49",
+    "Attribute5": "66",
+    "Attribute6": "58",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

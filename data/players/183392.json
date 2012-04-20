@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "David",
+    "LastName": "Pollet",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "8",
+      "Day": "12"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "64",
+    "LeagueId": "17",
+    "NationId": "7",
+    "Rating": "62",
+    "Attribute1": "69",
+    "Attribute2": "65",
+    "Attribute3": "44",
+    "Attribute4": "60",
+    "Attribute5": "44",
+    "Attribute6": "72",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

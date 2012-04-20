@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jan",
+    "LastName": "Ďurica",
+    "CommonName": null,
+    "Height": "187",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "12",
+      "Day": "10"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "100765",
+    "LeagueId": "67",
+    "NationId": "43",
+    "Rating": "74",
+    "Attribute1": "72",
+    "Attribute2": "47",
+    "Attribute3": "57",
+    "Attribute4": "61",
+    "Attribute5": "76",
+    "Attribute6": "79",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

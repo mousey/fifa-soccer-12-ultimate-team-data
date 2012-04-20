@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Gibril",
+    "LastName": "Sankoh",
+    "CommonName": null,
+    "Height": "187",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "5",
+      "Day": "15"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "100409",
+    "LeagueId": "19",
+    "NationId": "138",
+    "Rating": "71",
+    "Attribute1": "64",
+    "Attribute2": "50",
+    "Attribute3": "65",
+    "Attribute4": "60",
+    "Attribute5": "73",
+    "Attribute6": "66",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

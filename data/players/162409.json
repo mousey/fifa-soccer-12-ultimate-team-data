@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Giuseppe",
+    "LastName": "Rossi",
+    "CommonName": null,
+    "Height": "173",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "2",
+      "Day": "1"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "483",
+    "LeagueId": "53",
+    "NationId": "27",
+    "Rating": "85",
+    "Attribute1": "83",
+    "Attribute2": "83",
+    "Attribute3": "75",
+    "Attribute4": "84",
+    "Attribute5": "51",
+    "Attribute6": "63",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

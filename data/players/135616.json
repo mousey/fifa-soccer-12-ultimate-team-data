@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Pablo",
+    "LastName": "García",
+    "CommonName": null,
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1977",
+      "Month": "5",
+      "Day": "11"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "393",
+    "LeagueId": "63",
+    "NationId": "60",
+    "Rating": "75",
+    "Attribute1": "57",
+    "Attribute2": "63",
+    "Attribute3": "69",
+    "Attribute4": "67",
+    "Attribute5": "79",
+    "Attribute6": "68",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

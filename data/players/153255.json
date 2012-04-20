@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Virgile",
+    "LastName": "Reset",
+    "CommonName": null,
+    "Height": "176",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "8",
+      "Day": "3"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111376",
+    "LeagueId": "17",
+    "NationId": "18",
+    "Rating": "66",
+    "Attribute1": "87",
+    "Attribute2": "37",
+    "Attribute3": "54",
+    "Attribute4": "68",
+    "Attribute5": "51",
+    "Attribute6": "38",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

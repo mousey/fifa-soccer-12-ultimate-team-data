@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Dong Nyck",
+    "LastName": "Lee",
+    "CommonName": "Lee Dong Nyck",
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1992",
+      "Month": "2",
+      "Day": "23"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "982",
+    "LeagueId": "83",
+    "NationId": "167",
+    "Rating": "54",
+    "Attribute1": "60",
+    "Attribute2": "41",
+    "Attribute3": "46",
+    "Attribute4": "42",
+    "Attribute5": "57",
+    "Attribute6": "67",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

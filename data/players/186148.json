@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ron-Robert",
+    "LastName": "Zieler",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "2",
+      "Day": "12"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "485",
+    "LeagueId": "19",
+    "NationId": "21",
+    "Rating": "78",
+    "Attribute1": "78",
+    "Attribute2": "78",
+    "Attribute3": "73",
+    "Attribute4": "79",
+    "Attribute5": "52",
+    "Attribute6": "77",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Neeskens",
+    "LastName": "Kebano",
+    "CommonName": null,
+    "Height": "170",
+    "DateOfBirth": {
+      "Year": "1992",
+      "Month": "3",
+      "Day": "10"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "73",
+    "LeagueId": "16",
+    "NationId": "18",
+    "Rating": "66",
+    "Attribute1": "75",
+    "Attribute2": "57",
+    "Attribute3": "65",
+    "Attribute4": "69",
+    "Attribute5": "48",
+    "Attribute6": "56",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

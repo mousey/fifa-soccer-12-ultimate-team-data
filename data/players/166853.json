@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Darius",
+    "LastName": "Charles",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "12",
+      "Day": "10"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "361",
+    "LeagueId": "60",
+    "NationId": "14",
+    "Rating": "57",
+    "Attribute1": "65",
+    "Attribute2": "49",
+    "Attribute3": "45",
+    "Attribute4": "55",
+    "Attribute5": "65",
+    "Attribute6": "63",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

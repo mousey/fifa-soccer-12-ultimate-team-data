@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Steven",
+    "LastName": "Emory",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "8",
+      "Day": "31"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "694",
+    "LeagueId": "39",
+    "NationId": "95",
+    "Rating": "53",
+    "Attribute1": "53",
+    "Attribute2": "58",
+    "Attribute3": "51",
+    "Attribute4": "53",
+    "Attribute5": "50",
+    "Attribute6": "69",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

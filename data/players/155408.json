@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Marcel",
+    "LastName": "Schäfer",
+    "CommonName": null,
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "6",
+      "Day": "7"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "175",
+    "LeagueId": "19",
+    "NationId": "21",
+    "Rating": "76",
+    "Attribute1": "75",
+    "Attribute2": "72",
+    "Attribute3": "78",
+    "Attribute4": "73",
+    "Attribute5": "73",
+    "Attribute6": "70",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Scott",
+    "LastName": "Davies",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "3",
+      "Day": "10"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110890",
+    "LeagueId": "61",
+    "NationId": "25",
+    "Rating": "61",
+    "Attribute1": "75",
+    "Attribute2": "62",
+    "Attribute3": "60",
+    "Attribute4": "61",
+    "Attribute5": "54",
+    "Attribute6": "53",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

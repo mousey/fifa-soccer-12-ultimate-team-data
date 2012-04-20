@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Pablo",
+    "LastName": "Hernandez Dominguez",
+    "CommonName": "Pablo Hernández",
+    "Height": "173",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "4",
+      "Day": "11"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "461",
+    "LeagueId": "53",
+    "NationId": "45",
+    "Rating": "81",
+    "Attribute1": "85",
+    "Attribute2": "77",
+    "Attribute3": "74",
+    "Attribute4": "84",
+    "Attribute5": "57",
+    "Attribute6": "60",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

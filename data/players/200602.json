@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Sung Bin",
+    "LastName": "An",
+    "CommonName": "An Sung Bin",
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "10",
+      "Day": "3"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111588",
+    "LeagueId": "83",
+    "NationId": "167",
+    "Rating": "57",
+    "Attribute1": "66",
+    "Attribute2": "62",
+    "Attribute3": "42",
+    "Attribute4": "56",
+    "Attribute5": "55",
+    "Attribute6": "70",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

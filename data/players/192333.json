@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Lamine",
+    "LastName": "Sané",
+    "CommonName": null,
+    "Height": "192",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "3",
+      "Day": "22"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "59",
+    "LeagueId": "16",
+    "NationId": "136",
+    "Rating": "73",
+    "Attribute1": "64",
+    "Attribute2": "37",
+    "Attribute3": "56",
+    "Attribute4": "55",
+    "Attribute5": "76",
+    "Attribute6": "75",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

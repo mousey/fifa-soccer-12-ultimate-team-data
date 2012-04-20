@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Clive",
+    "LastName": "Platt",
+    "CommonName": null,
+    "Height": "193",
+    "DateOfBirth": {
+      "Year": "1977",
+      "Month": "10",
+      "Day": "27"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1800",
+    "LeagueId": "14",
+    "NationId": "14",
+    "Rating": "61",
+    "Attribute1": "51",
+    "Attribute2": "56",
+    "Attribute3": "32",
+    "Attribute4": "51",
+    "Attribute5": "56",
+    "Attribute6": "78",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

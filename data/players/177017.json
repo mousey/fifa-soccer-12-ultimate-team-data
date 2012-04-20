@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Malaury",
+    "LastName": "Martin",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "8",
+      "Day": "25"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "12",
+    "LeagueId": "14",
+    "NationId": "18",
+    "Rating": "66",
+    "Attribute1": "62",
+    "Attribute2": "56",
+    "Attribute3": "65",
+    "Attribute4": "49",
+    "Attribute5": "65",
+    "Attribute6": "68",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Martin",
+    "LastName": "Bergvold",
+    "CommonName": null,
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "2",
+      "Day": "20"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "819",
+    "LeagueId": "1",
+    "NationId": "13",
+    "Rating": "70",
+    "Attribute1": "71",
+    "Attribute2": "57",
+    "Attribute3": "70",
+    "Attribute4": "64",
+    "Attribute5": "63",
+    "Attribute6": "64",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

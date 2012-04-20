@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Lasse",
+    "LastName": "Sobiech",
+    "CommonName": null,
+    "Height": "196",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "1",
+      "Day": "18"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110329",
+    "LeagueId": "20",
+    "NationId": "21",
+    "Rating": "65",
+    "Attribute1": "57",
+    "Attribute2": "47",
+    "Attribute3": "47",
+    "Attribute4": "35",
+    "Attribute5": "68",
+    "Attribute6": "71",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Lucas Antonio",
+    "LastName": "Silva de Oliveira",
+    "CommonName": "Lucas Silva",
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "8",
+      "Day": "26"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110152",
+    "LeagueId": "341",
+    "NationId": "54",
+    "Rating": "64",
+    "Attribute1": "68",
+    "Attribute2": "60",
+    "Attribute3": "58",
+    "Attribute4": "64",
+    "Attribute5": "52",
+    "Attribute6": "63",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

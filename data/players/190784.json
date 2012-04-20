@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jean-Marc",
+    "LastName": "Alexandre",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "8",
+      "Day": "24"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111065",
+    "LeagueId": "39",
+    "NationId": "80",
+    "Rating": "59",
+    "Attribute1": "47",
+    "Attribute2": "58",
+    "Attribute3": "50",
+    "Attribute4": "60",
+    "Attribute5": "70",
+    "Attribute6": "67",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

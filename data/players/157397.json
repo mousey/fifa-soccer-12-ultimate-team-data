@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Anthony",
+    "LastName": "Murphy",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "7",
+      "Day": "31"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "423",
+    "LeagueId": "65",
+    "NationId": "25",
+    "Rating": "57",
+    "Attribute1": "72",
+    "Attribute2": "50",
+    "Attribute3": "55",
+    "Attribute4": "57",
+    "Attribute5": "56",
+    "Attribute6": "59",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

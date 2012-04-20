@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Maicon",
+    "LastName": "Pereira Roque",
+    "CommonName": "Maicon",
+    "Height": "191",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "9",
+      "Day": "14"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "236",
+    "LeagueId": "308",
+    "NationId": "54",
+    "Rating": "74",
+    "Attribute1": "60",
+    "Attribute2": "37",
+    "Attribute3": "58",
+    "Attribute4": "59",
+    "Attribute5": "78",
+    "Attribute6": "61",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

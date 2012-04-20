@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ryan",
+    "LastName": "McGivern",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "1",
+      "Day": "8"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1919",
+    "LeagueId": "14",
+    "NationId": "35",
+    "Rating": "64",
+    "Attribute1": "71",
+    "Attribute2": "42",
+    "Attribute3": "63",
+    "Attribute4": "50",
+    "Attribute5": "67",
+    "Attribute6": "67",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

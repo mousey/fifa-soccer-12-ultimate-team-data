@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Makhach",
+    "LastName": "Gadzhiev",
+    "CommonName": null,
+    "Height": "181",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "10",
+      "Day": "18"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "100766",
+    "LeagueId": "67",
+    "NationId": "40",
+    "Rating": "65",
+    "Attribute1": "64",
+    "Attribute2": "50",
+    "Attribute3": "67",
+    "Attribute4": "66",
+    "Attribute5": "54",
+    "Attribute6": "53",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

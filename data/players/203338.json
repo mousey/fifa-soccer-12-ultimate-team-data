@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ashtone",
+    "LastName": "Morgan",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "2",
+      "Day": "9"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "111651",
+    "LeagueId": "39",
+    "NationId": "70",
+    "Rating": "57",
+    "Attribute1": "77",
+    "Attribute2": "37",
+    "Attribute3": "51",
+    "Attribute4": "56",
+    "Attribute5": "60",
+    "Attribute6": "49",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

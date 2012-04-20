@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Mesut",
+    "LastName": "Özil",
+    "CommonName": null,
+    "Height": "181",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "10",
+      "Day": "15"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "243",
+    "LeagueId": "53",
+    "NationId": "21",
+    "Rating": "86",
+    "Attribute1": "78",
+    "Attribute2": "74",
+    "Attribute3": "86",
+    "Attribute4": "87",
+    "Attribute5": "49",
+    "Attribute6": "55",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

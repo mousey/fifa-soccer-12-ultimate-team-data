@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Kevin",
+    "LastName": "Ingreso",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1993",
+      "Month": "2",
+      "Day": "10"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "28",
+    "LeagueId": "19",
+    "NationId": "21",
+    "Rating": "61",
+    "Attribute1": "70",
+    "Attribute2": "48",
+    "Attribute3": "65",
+    "Attribute4": "66",
+    "Attribute5": "32",
+    "Attribute6": "52",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

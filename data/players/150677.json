@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Romain",
+    "LastName": "Sartre",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "11",
+      "Day": "12"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110326",
+    "LeagueId": "17",
+    "NationId": "18",
+    "Rating": "65",
+    "Attribute1": "51",
+    "Attribute2": "38",
+    "Attribute3": "49",
+    "Attribute4": "28",
+    "Attribute5": "69",
+    "Attribute6": "69",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

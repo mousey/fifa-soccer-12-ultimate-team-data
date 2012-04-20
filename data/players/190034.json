@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Thimothée",
+    "LastName": "Kolodziejczak",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "10",
+      "Day": "1"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "66",
+    "LeagueId": "16",
+    "NationId": "18",
+    "Rating": "69",
+    "Attribute1": "79",
+    "Attribute2": "36",
+    "Attribute3": "69",
+    "Attribute4": "66",
+    "Attribute5": "67",
+    "Attribute6": "61",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

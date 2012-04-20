@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Felipe Augusto",
+    "LastName": "Santana",
+    "CommonName": "Felipe Santana",
+    "Height": "194",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "3",
+      "Day": "17"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "22",
+    "LeagueId": "19",
+    "NationId": "54",
+    "Rating": "75",
+    "Attribute1": "78",
+    "Attribute2": "50",
+    "Attribute3": "60",
+    "Attribute4": "53",
+    "Attribute5": "75",
+    "Attribute6": "83",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

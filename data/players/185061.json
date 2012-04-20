@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Javier",
+    "LastName": "Morales",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1980",
+      "Month": "1",
+      "Day": "10"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111065",
+    "LeagueId": "39",
+    "NationId": "52",
+    "Rating": "76",
+    "Attribute1": "69",
+    "Attribute2": "73",
+    "Attribute3": "74",
+    "Attribute4": "74",
+    "Attribute5": "56",
+    "Attribute6": "59",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

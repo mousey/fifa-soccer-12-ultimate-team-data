@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Oli",
+    "LastName": "Johnson",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "11",
+      "Day": "6"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1792",
+    "LeagueId": "13",
+    "NationId": "14",
+    "Rating": "62",
+    "Attribute1": "71",
+    "Attribute2": "57",
+    "Attribute3": "45",
+    "Attribute4": "67",
+    "Attribute5": "49",
+    "Attribute6": "56",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

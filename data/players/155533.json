@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Leon",
+    "LastName": "Clarke",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "2",
+      "Day": "10"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1934",
+    "LeagueId": "61",
+    "NationId": "14",
+    "Rating": "63",
+    "Attribute1": "65",
+    "Attribute2": "60",
+    "Attribute3": "52",
+    "Attribute4": "56",
+    "Attribute5": "54",
+    "Attribute6": "71",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

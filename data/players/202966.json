@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Bo Kyung",
+    "LastName": "Choi",
+    "CommonName": "Choi Bo Kyung",
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "4",
+      "Day": "12"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1473",
+    "LeagueId": "83",
+    "NationId": "167",
+    "Rating": "57",
+    "Attribute1": "57",
+    "Attribute2": "42",
+    "Attribute3": "52",
+    "Attribute4": "38",
+    "Attribute5": "58",
+    "Attribute6": "56",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Eric",
+    "LastName": "Abidal",
+    "CommonName": null,
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "7",
+      "Day": "11"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "241",
+    "LeagueId": "53",
+    "NationId": "18",
+    "Rating": "81",
+    "Attribute1": "78",
+    "Attribute2": "36",
+    "Attribute3": "74",
+    "Attribute4": "62",
+    "Attribute5": "82",
+    "Attribute6": "77",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

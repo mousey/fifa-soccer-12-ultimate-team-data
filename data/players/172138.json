@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Christophe",
+    "LastName": "Grondin",
+    "CommonName": null,
+    "Height": "181",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "9",
+      "Day": "2"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "674",
+    "LeagueId": "4",
+    "NationId": "18",
+    "Rating": "69",
+    "Attribute1": "65",
+    "Attribute2": "50",
+    "Attribute3": "67",
+    "Attribute4": "57",
+    "Attribute5": "70",
+    "Attribute6": "70",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

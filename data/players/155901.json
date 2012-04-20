@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "John",
+    "LastName": "O'Flynn",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "7",
+      "Day": "11"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "143",
+    "LeagueId": "60",
+    "NationId": "25",
+    "Rating": "62",
+    "Attribute1": "71",
+    "Attribute2": "64",
+    "Attribute3": "53",
+    "Attribute4": "57",
+    "Attribute5": "48",
+    "Attribute6": "56",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Christian",
+    "LastName": "Clemens",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "8",
+      "Day": "4"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "31",
+    "LeagueId": "19",
+    "NationId": "21",
+    "Rating": "71",
+    "Attribute1": "79",
+    "Attribute2": "66",
+    "Attribute3": "68",
+    "Attribute4": "74",
+    "Attribute5": "54",
+    "Attribute6": "62",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

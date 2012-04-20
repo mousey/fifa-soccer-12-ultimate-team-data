@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Mehdi",
+    "LastName": "Carcela-Gonzalez",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "7",
+      "Day": "1"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "100766",
+    "LeagueId": "67",
+    "NationId": "129",
+    "Rating": "74",
+    "Attribute1": "85",
+    "Attribute2": "71",
+    "Attribute3": "69",
+    "Attribute4": "82",
+    "Attribute5": "45",
+    "Attribute6": "52",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

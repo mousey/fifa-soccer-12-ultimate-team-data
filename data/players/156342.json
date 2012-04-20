@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Adrián",
+    "LastName": "García Arias",
+    "CommonName": null,
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1975",
+      "Month": "12",
+      "Day": "6"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "110150",
+    "LeagueId": "341",
+    "NationId": "83",
+    "Rating": "65",
+    "Attribute1": "55",
+    "Attribute2": "49",
+    "Attribute3": "52",
+    "Attribute4": "50",
+    "Attribute5": "68",
+    "Attribute6": "68",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Pajtim",
+    "LastName": "Kasami",
+    "CommonName": null,
+    "Height": "187",
+    "DateOfBirth": {
+      "Year": "1992",
+      "Month": "6",
+      "Day": "2"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "144",
+    "LeagueId": "13",
+    "NationId": "47",
+    "Rating": "70",
+    "Attribute1": "68",
+    "Attribute2": "64",
+    "Attribute3": "70",
+    "Attribute4": "68",
+    "Attribute5": "66",
+    "Attribute6": "61",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

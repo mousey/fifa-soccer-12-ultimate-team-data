@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Manuel",
+    "LastName": "Coppola",
+    "CommonName": null,
+    "Height": "172",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "5",
+      "Day": "11"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1746",
+    "LeagueId": "32",
+    "NationId": "27",
+    "Rating": "68",
+    "Attribute1": "75",
+    "Attribute2": "53",
+    "Attribute3": "68",
+    "Attribute4": "62",
+    "Attribute5": "62",
+    "Attribute6": "52",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

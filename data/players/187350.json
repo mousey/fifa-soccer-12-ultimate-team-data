@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Enrique",
+    "LastName": "Pérez",
+    "CommonName": null,
+    "Height": "174",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "10",
+      "Day": "13"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1028",
+    "LeagueId": "341",
+    "NationId": "83",
+    "Rating": "69",
+    "Attribute1": "89",
+    "Attribute2": "52",
+    "Attribute3": "66",
+    "Attribute4": "64",
+    "Attribute5": "67",
+    "Attribute6": "67",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

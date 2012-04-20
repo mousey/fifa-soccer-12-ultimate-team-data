@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Tommy",
+    "LastName": "Forecast",
+    "CommonName": null,
+    "Height": "198",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "10",
+      "Day": "15"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "17",
+    "LeagueId": "14",
+    "NationId": "14",
+    "Rating": "50",
+    "Attribute1": "51",
+    "Attribute2": "49",
+    "Attribute3": "52",
+    "Attribute4": "48",
+    "Attribute5": "61",
+    "Attribute6": "49",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Nicolás",
+    "LastName": "Lodeiro",
+    "CommonName": null,
+    "Height": "173",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "3",
+      "Day": "21"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "245",
+    "LeagueId": "10",
+    "NationId": "60",
+    "Rating": "73",
+    "Attribute1": "69",
+    "Attribute2": "69",
+    "Attribute3": "72",
+    "Attribute4": "75",
+    "Attribute5": "46",
+    "Attribute6": "54",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

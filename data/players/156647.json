@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Franck",
+    "LastName": "Dja Djédjé",
+    "CommonName": null,
+    "Height": "176",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "6",
+      "Day": "2"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "72",
+    "LeagueId": "16",
+    "NationId": "18",
+    "Rating": "65",
+    "Attribute1": "80",
+    "Attribute2": "58",
+    "Attribute3": "51",
+    "Attribute4": "71",
+    "Attribute5": "49",
+    "Attribute6": "65",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

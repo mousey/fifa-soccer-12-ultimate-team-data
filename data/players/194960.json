@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "James",
+    "LastName": "Hurst",
+    "CommonName": null,
+    "Height": "181",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "1",
+      "Day": "31"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1926",
+    "LeagueId": "14",
+    "NationId": "14",
+    "Rating": "58",
+    "Attribute1": "68",
+    "Attribute2": "44",
+    "Attribute3": "52",
+    "Attribute4": "46",
+    "Attribute5": "57",
+    "Attribute6": "54",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

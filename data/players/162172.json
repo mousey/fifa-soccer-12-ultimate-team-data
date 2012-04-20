@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Juvenal Edjogo",
+    "LastName": "Owono Montalbán",
+    "CommonName": "Juvenal",
+    "Height": "177",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "4",
+      "Day": "3"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "15021",
+    "LeagueId": "54",
+    "NationId": "112",
+    "Rating": "60",
+    "Attribute1": "64",
+    "Attribute2": "64",
+    "Attribute3": "61",
+    "Attribute4": "55",
+    "Attribute5": "61",
+    "Attribute6": "62",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Gabriele",
+    "LastName": "Perico",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "3",
+      "Day": "11"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1842",
+    "LeagueId": "31",
+    "NationId": "27",
+    "Rating": "70",
+    "Attribute1": "68",
+    "Attribute2": "60",
+    "Attribute3": "63",
+    "Attribute4": "62",
+    "Attribute5": "68",
+    "Attribute6": "65",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

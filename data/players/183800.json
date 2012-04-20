@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Yohan",
+    "LastName": "Mollo",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "7",
+      "Day": "18"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110832",
+    "LeagueId": "53",
+    "NationId": "18",
+    "Rating": "75",
+    "Attribute1": "88",
+    "Attribute2": "68",
+    "Attribute3": "70",
+    "Attribute4": "79",
+    "Attribute5": "49",
+    "Attribute6": "65",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

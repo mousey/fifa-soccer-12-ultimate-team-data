@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Alexandre",
+    "LastName": "Song",
+    "CommonName": null,
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "9",
+      "Day": "9"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1",
+    "LeagueId": "13",
+    "NationId": "103",
+    "Rating": "82",
+    "Attribute1": "72",
+    "Attribute2": "57",
+    "Attribute3": "72",
+    "Attribute4": "76",
+    "Attribute5": "84",
+    "Attribute6": "74",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "José",
+    "LastName": "Bosingwa da Silva",
+    "CommonName": "José Bosingwa",
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "8",
+      "Day": "24"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "5",
+    "LeagueId": "13",
+    "NationId": "38",
+    "Rating": "80",
+    "Attribute1": "83",
+    "Attribute2": "60",
+    "Attribute3": "78",
+    "Attribute4": "77",
+    "Attribute5": "75",
+    "Attribute6": "67",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

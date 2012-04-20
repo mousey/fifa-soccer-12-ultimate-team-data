@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "James",
+    "LastName": "Marcelin",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "6",
+      "Day": "13"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111140",
+    "LeagueId": "39",
+    "NationId": "80",
+    "Rating": "61",
+    "Attribute1": "65",
+    "Attribute2": "54",
+    "Attribute3": "51",
+    "Attribute4": "54",
+    "Attribute5": "68",
+    "Attribute6": "67",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

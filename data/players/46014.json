@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Barry",
+    "LastName": "Robson",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1978",
+      "Month": "11",
+      "Day": "7"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "12",
+    "LeagueId": "14",
+    "NationId": "42",
+    "Rating": "67",
+    "Attribute1": "61",
+    "Attribute2": "71",
+    "Attribute3": "72",
+    "Attribute4": "70",
+    "Attribute5": "67",
+    "Attribute6": "73",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

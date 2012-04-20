@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Giacomo",
+    "LastName": "Beretta",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1992",
+      "Month": "3",
+      "Day": "14"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1846",
+    "LeagueId": "32",
+    "NationId": "27",
+    "Rating": "62",
+    "Attribute1": "68",
+    "Attribute2": "59",
+    "Attribute3": "56",
+    "Attribute4": "50",
+    "Attribute5": "46",
+    "Attribute6": "67",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

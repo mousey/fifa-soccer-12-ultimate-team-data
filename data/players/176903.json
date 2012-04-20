@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Manuel",
+    "LastName": "Iturra",
+    "CommonName": null,
+    "Height": "174",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "6",
+      "Day": "23"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1855",
+    "LeagueId": "54",
+    "NationId": "55",
+    "Rating": "70",
+    "Attribute1": "73",
+    "Attribute2": "54",
+    "Attribute3": "68",
+    "Attribute4": "62",
+    "Attribute5": "69",
+    "Attribute6": "57",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

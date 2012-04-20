@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Nathan",
+    "LastName": "Tyson",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "5",
+      "Day": "4"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "91",
+    "LeagueId": "14",
+    "NationId": "14",
+    "Rating": "67",
+    "Attribute1": "91",
+    "Attribute2": "61",
+    "Attribute3": "61",
+    "Attribute4": "69",
+    "Attribute5": "54",
+    "Attribute6": "63",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

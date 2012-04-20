@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Hans-Jörg",
+    "LastName": "Butt",
+    "CommonName": null,
+    "Height": "191",
+    "DateOfBirth": {
+      "Year": "1974",
+      "Month": "5",
+      "Day": "28"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "21",
+    "LeagueId": "19",
+    "NationId": "21",
+    "Rating": "77",
+    "Attribute1": "73",
+    "Attribute2": "80",
+    "Attribute3": "81",
+    "Attribute4": "75",
+    "Attribute5": "39",
+    "Attribute6": "82",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

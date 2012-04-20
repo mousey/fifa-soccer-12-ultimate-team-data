@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Steven",
+    "LastName": "Gerrard",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1980",
+      "Month": "5",
+      "Day": "30"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "9",
+    "LeagueId": "13",
+    "NationId": "14",
+    "Rating": "87",
+    "Attribute1": "76",
+    "Attribute2": "87",
+    "Attribute3": "88",
+    "Attribute4": "77",
+    "Attribute5": "78",
+    "Attribute6": "76",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

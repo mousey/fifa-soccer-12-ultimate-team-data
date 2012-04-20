@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Christian",
+    "LastName": "Brocchi",
+    "CommonName": null,
+    "Height": "171",
+    "DateOfBirth": {
+      "Year": "1976",
+      "Month": "1",
+      "Day": "30"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "46",
+    "LeagueId": "31",
+    "NationId": "27",
+    "Rating": "75",
+    "Attribute1": "64",
+    "Attribute2": "66",
+    "Attribute3": "76",
+    "Attribute4": "69",
+    "Attribute5": "72",
+    "Attribute6": "64",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

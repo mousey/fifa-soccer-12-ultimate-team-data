@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Gökhan",
+    "LastName": "Töre",
+    "CommonName": null,
+    "Height": "176",
+    "DateOfBirth": {
+      "Year": "1992",
+      "Month": "1",
+      "Day": "20"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "28",
+    "LeagueId": "19",
+    "NationId": "48",
+    "Rating": "72",
+    "Attribute1": "77",
+    "Attribute2": "69",
+    "Attribute3": "73",
+    "Attribute4": "78",
+    "Attribute5": "54",
+    "Attribute6": "68",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Juho",
+    "LastName": "Mäkelä",
+    "CommonName": null,
+    "Height": "190",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "6",
+      "Day": "23"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111400",
+    "LeagueId": "351",
+    "NationId": "17",
+    "Rating": "62",
+    "Attribute1": "59",
+    "Attribute2": "57",
+    "Attribute3": "48",
+    "Attribute4": "53",
+    "Attribute5": "47",
+    "Attribute6": "67",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

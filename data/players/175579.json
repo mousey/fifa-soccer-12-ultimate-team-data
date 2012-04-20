@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Rui Miguel",
+    "LastName": "Melo Rodrigues",
+    "CommonName": "Rui Miguel",
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "11",
+      "Day": "15"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "112218",
+    "LeagueId": "67",
+    "NationId": "38",
+    "Rating": "73",
+    "Attribute1": "76",
+    "Attribute2": "68",
+    "Attribute3": "71",
+    "Attribute4": "76",
+    "Attribute5": "55",
+    "Attribute6": "60",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

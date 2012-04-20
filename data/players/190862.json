@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Michael",
+    "LastName": "Holody",
+    "CommonName": null,
+    "Height": "191",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "3",
+      "Day": "30"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "694",
+    "LeagueId": "39",
+    "NationId": "95",
+    "Rating": "57",
+    "Attribute1": "49",
+    "Attribute2": "24",
+    "Attribute3": "32",
+    "Attribute4": "33",
+    "Attribute5": "61",
+    "Attribute6": "69",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

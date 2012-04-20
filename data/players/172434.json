@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jonas",
+    "LastName": "Portin",
+    "CommonName": null,
+    "Height": "190",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "9",
+      "Day": "30"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110912",
+    "LeagueId": "32",
+    "NationId": "17",
+    "Rating": "63",
+    "Attribute1": "52",
+    "Attribute2": "41",
+    "Attribute3": "40",
+    "Attribute4": "42",
+    "Attribute5": "70",
+    "Attribute6": "66",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

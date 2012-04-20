@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Frédéric",
+    "LastName": "Sammaritano",
+    "CommonName": null,
+    "Height": "162",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "3",
+      "Day": "23"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "614",
+    "LeagueId": "16",
+    "NationId": "18",
+    "Rating": "71",
+    "Attribute1": "78",
+    "Attribute2": "61",
+    "Attribute3": "67",
+    "Attribute4": "76",
+    "Attribute5": "41",
+    "Attribute6": "36",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

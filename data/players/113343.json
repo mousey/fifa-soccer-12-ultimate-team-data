@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Manuel",
+    "LastName": "Almunia Rivero",
+    "CommonName": "Almunia",
+    "Height": "193",
+    "DateOfBirth": {
+      "Year": "1977",
+      "Month": "5",
+      "Day": "19"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1",
+    "LeagueId": "13",
+    "NationId": "45",
+    "Rating": "74",
+    "Attribute1": "76",
+    "Attribute2": "74",
+    "Attribute3": "77",
+    "Attribute4": "75",
+    "Attribute5": "50",
+    "Attribute6": "68",
+    "Rare": "1",
+    "ItemType": "PlayerGk"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Eñaut",
+    "LastName": "Zubikarai Goñi",
+    "CommonName": "Zubikarai",
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "2",
+      "Day": "26"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "457",
+    "LeagueId": "53",
+    "NationId": "45",
+    "Rating": "66",
+    "Attribute1": "71",
+    "Attribute2": "61",
+    "Attribute3": "50",
+    "Attribute4": "75",
+    "Attribute5": "42",
+    "Attribute6": "64",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Maurizio",
+    "LastName": "Peccarisi",
+    "CommonName": null,
+    "Height": "192",
+    "DateOfBirth": {
+      "Year": "1978",
+      "Month": "2",
+      "Day": "17"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1846",
+    "LeagueId": "32",
+    "NationId": "27",
+    "Rating": "64",
+    "Attribute1": "52",
+    "Attribute2": "41",
+    "Attribute3": "41",
+    "Attribute4": "38",
+    "Attribute5": "70",
+    "Attribute6": "68",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

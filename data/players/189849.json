@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Moestafa",
+    "LastName": "El Kabir",
+    "CommonName": null,
+    "Height": "177",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "10",
+      "Day": "5"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1842",
+    "LeagueId": "31",
+    "NationId": "34",
+    "Rating": "73",
+    "Attribute1": "87",
+    "Attribute2": "70",
+    "Attribute3": "49",
+    "Attribute4": "77",
+    "Attribute5": "54",
+    "Attribute6": "60",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

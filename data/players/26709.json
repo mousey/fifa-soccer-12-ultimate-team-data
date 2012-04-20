@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Rafael",
+    "LastName": "Márquez",
+    "CommonName": null,
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "2",
+      "Day": "13"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "689",
+    "LeagueId": "39",
+    "NationId": "83",
+    "Rating": "80",
+    "Attribute1": "59",
+    "Attribute2": "65",
+    "Attribute3": "75",
+    "Attribute4": "69",
+    "Attribute5": "80",
+    "Attribute6": "74",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

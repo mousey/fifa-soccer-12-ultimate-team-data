@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Stephen",
+    "LastName": "O'Halloran",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "11",
+      "Day": "29"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1480",
+    "LeagueId": "60",
+    "NationId": "25",
+    "Rating": "62",
+    "Attribute1": "68",
+    "Attribute2": "38",
+    "Attribute3": "61",
+    "Attribute4": "60",
+    "Attribute5": "62",
+    "Attribute6": "58",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

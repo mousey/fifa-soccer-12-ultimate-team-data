@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Thomas",
+    "LastName": "Azevedo",
+    "CommonName": null,
+    "Height": "172",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "8",
+      "Day": "31"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "100087",
+    "LeagueId": "4",
+    "NationId": "7",
+    "Rating": "60",
+    "Attribute1": "76",
+    "Attribute2": "56",
+    "Attribute3": "55",
+    "Attribute4": "67",
+    "Attribute5": "38",
+    "Attribute6": "45",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

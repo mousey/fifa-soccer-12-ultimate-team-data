@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Willem",
+    "LastName": "Janssen",
+    "CommonName": null,
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "7",
+      "Day": "4"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1908",
+    "LeagueId": "10",
+    "NationId": "34",
+    "Rating": "73",
+    "Attribute1": "72",
+    "Attribute2": "65",
+    "Attribute3": "70",
+    "Attribute4": "70",
+    "Attribute5": "68",
+    "Attribute6": "63",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

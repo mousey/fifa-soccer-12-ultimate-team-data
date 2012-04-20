@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Luiz Henrique",
+    "LastName": "da Silva Alves",
+    "CommonName": "Luiz",
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "7",
+      "Day": "2"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1477",
+    "LeagueId": "83",
+    "NationId": "54",
+    "Rating": "72",
+    "Attribute1": "85",
+    "Attribute2": "67",
+    "Attribute3": "67",
+    "Attribute4": "74",
+    "Attribute5": "56",
+    "Attribute6": "52",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

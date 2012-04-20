@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Diego",
+    "LastName": "Contento",
+    "CommonName": null,
+    "Height": "176",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "5",
+      "Day": "1"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "21",
+    "LeagueId": "19",
+    "NationId": "21",
+    "Rating": "70",
+    "Attribute1": "77",
+    "Attribute2": "49",
+    "Attribute3": "68",
+    "Attribute4": "69",
+    "Attribute5": "67",
+    "Attribute6": "63",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Amir",
+    "LastName": "Spahić",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "9",
+      "Day": "13"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "111092",
+    "LeagueId": "66",
+    "NationId": "8",
+    "Rating": "60",
+    "Attribute1": "71",
+    "Attribute2": "51",
+    "Attribute3": "54",
+    "Attribute4": "64",
+    "Attribute5": "64",
+    "Attribute6": "58",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

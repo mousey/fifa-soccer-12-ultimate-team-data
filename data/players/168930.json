@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Julián Omar",
+    "LastName": "Ramos Suárez",
+    "CommonName": "Omar Ramos",
+    "Height": "172",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "1",
+      "Day": "26"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1861",
+    "LeagueId": "54",
+    "NationId": "45",
+    "Rating": "66",
+    "Attribute1": "79",
+    "Attribute2": "53",
+    "Attribute3": "60",
+    "Attribute4": "72",
+    "Attribute5": "45",
+    "Attribute6": "55",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

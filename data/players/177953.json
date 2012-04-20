@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Clément",
+    "LastName": "Chantôme",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "9",
+      "Day": "11"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "73",
+    "LeagueId": "16",
+    "NationId": "18",
+    "Rating": "74",
+    "Attribute1": "71",
+    "Attribute2": "55",
+    "Attribute3": "78",
+    "Attribute4": "75",
+    "Attribute5": "69",
+    "Attribute6": "75",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

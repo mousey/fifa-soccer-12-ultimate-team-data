@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Cédric",
+    "LastName": "Barbosa",
+    "CommonName": null,
+    "Height": "179",
+    "DateOfBirth": {
+      "Year": "1976",
+      "Month": "3",
+      "Day": "6"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111271",
+    "LeagueId": "16",
+    "NationId": "18",
+    "Rating": "66",
+    "Attribute1": "51",
+    "Attribute2": "65",
+    "Attribute3": "73",
+    "Attribute4": "67",
+    "Attribute5": "65",
+    "Attribute6": "64",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

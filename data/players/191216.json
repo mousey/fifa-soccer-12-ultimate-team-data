@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jhon Kennedy",
+    "LastName": "Hurtado",
+    "CommonName": null,
+    "Height": "181",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "5",
+      "Day": "16"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111144",
+    "LeagueId": "39",
+    "NationId": "56",
+    "Rating": "67",
+    "Attribute1": "71",
+    "Attribute2": "30",
+    "Attribute3": "47",
+    "Attribute4": "47",
+    "Attribute5": "71",
+    "Attribute6": "74",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

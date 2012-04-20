@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Mijat",
+    "LastName": "Marić",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "4",
+      "Day": "30"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "2007",
+    "LeagueId": "4",
+    "NationId": "47",
+    "Rating": "67",
+    "Attribute1": "54",
+    "Attribute2": "56",
+    "Attribute3": "57",
+    "Attribute4": "41",
+    "Attribute5": "70",
+    "Attribute6": "61",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

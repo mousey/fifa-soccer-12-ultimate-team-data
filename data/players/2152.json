@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Leonardo Vitor",
+    "LastName": "Santiago",
+    "CommonName": "Leonardo",
+    "Height": "171",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "3",
+      "Day": "9"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "191",
+    "LeagueId": "80",
+    "NationId": "54",
+    "Rating": "73",
+    "Attribute1": "88",
+    "Attribute2": "70",
+    "Attribute3": "55",
+    "Attribute4": "84",
+    "Attribute5": "44",
+    "Attribute6": "48",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

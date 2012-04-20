@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Miguel",
+    "LastName": "Layún",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "6",
+      "Day": "25"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1879",
+    "LeagueId": "341",
+    "NationId": "83",
+    "Rating": "65",
+    "Attribute1": "71",
+    "Attribute2": "50",
+    "Attribute3": "62",
+    "Attribute4": "64",
+    "Attribute5": "64",
+    "Attribute6": "58",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

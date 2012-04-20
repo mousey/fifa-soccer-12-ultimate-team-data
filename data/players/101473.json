@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Tomasz",
+    "LastName": "Kuszczak",
+    "CommonName": null,
+    "Height": "190",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "3",
+      "Day": "20"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "11",
+    "LeagueId": "13",
+    "NationId": "37",
+    "Rating": "75",
+    "Attribute1": "78",
+    "Attribute2": "72",
+    "Attribute3": "62",
+    "Attribute4": "81",
+    "Attribute5": "50",
+    "Attribute6": "73",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Sebastian",
+    "LastName": "Schachten",
+    "CommonName": null,
+    "Height": "190",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "11",
+      "Day": "6"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110329",
+    "LeagueId": "20",
+    "NationId": "21",
+    "Rating": "65",
+    "Attribute1": "71",
+    "Attribute2": "42",
+    "Attribute3": "63",
+    "Attribute4": "63",
+    "Attribute5": "69",
+    "Attribute6": "63",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

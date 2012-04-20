@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Min Oh",
+    "LastName": "Kim",
+    "CommonName": "Kim Min Oh",
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "5",
+      "Day": "8"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "2055",
+    "LeagueId": "83",
+    "NationId": "167",
+    "Rating": "57",
+    "Attribute1": "59",
+    "Attribute2": "54",
+    "Attribute3": "55",
+    "Attribute4": "57",
+    "Attribute5": "59",
+    "Attribute6": "67",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Pablo",
+    "LastName": "Mastroeni",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1976",
+      "Month": "8",
+      "Day": "26"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "694",
+    "LeagueId": "39",
+    "NationId": "95",
+    "Rating": "68",
+    "Attribute1": "61",
+    "Attribute2": "53",
+    "Attribute3": "51",
+    "Attribute4": "60",
+    "Attribute5": "74",
+    "Attribute6": "75",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

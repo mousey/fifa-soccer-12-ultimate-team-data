@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Zargo",
+    "LastName": "Touré",
+    "CommonName": null,
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "11",
+      "Day": "11"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111376",
+    "LeagueId": "17",
+    "NationId": "136",
+    "Rating": "60",
+    "Attribute1": "61",
+    "Attribute2": "26",
+    "Attribute3": "50",
+    "Attribute4": "40",
+    "Attribute5": "66",
+    "Attribute6": "66",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

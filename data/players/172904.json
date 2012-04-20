@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Lee",
+    "LastName": "Tomlin",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "1",
+      "Day": "12"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1938",
+    "LeagueId": "14",
+    "NationId": "14",
+    "Rating": "64",
+    "Attribute1": "74",
+    "Attribute2": "63",
+    "Attribute3": "41",
+    "Attribute4": "68",
+    "Attribute5": "52",
+    "Attribute6": "58",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "David",
+    "LastName": "Zurutuza Veillet",
+    "CommonName": "Zurutuza",
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "7",
+      "Day": "19"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "457",
+    "LeagueId": "53",
+    "NationId": "18",
+    "Rating": "74",
+    "Attribute1": "68",
+    "Attribute2": "65",
+    "Attribute3": "73",
+    "Attribute4": "77",
+    "Attribute5": "58",
+    "Attribute6": "62",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

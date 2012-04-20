@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Charlie",
+    "LastName": "Clough",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "9",
+      "Day": "3"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1962",
+    "LeagueId": "61",
+    "NationId": "14",
+    "Rating": "50",
+    "Attribute1": "62",
+    "Attribute2": "38",
+    "Attribute3": "45",
+    "Attribute4": "42",
+    "Attribute5": "55",
+    "Attribute6": "39",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Fábio Júnior",
+    "LastName": "Pereira",
+    "CommonName": "Fábio Júnior",
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1977",
+      "Month": "11",
+      "Day": "20"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "112001",
+    "LeagueId": "7",
+    "NationId": "54",
+    "Rating": "69",
+    "Attribute1": "52",
+    "Attribute2": "70",
+    "Attribute3": "57",
+    "Attribute4": "60",
+    "Attribute5": "52",
+    "Attribute6": "72",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

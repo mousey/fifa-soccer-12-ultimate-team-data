@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Marwin",
+    "LastName": "Hitz",
+    "CommonName": null,
+    "Height": "192",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "9",
+      "Day": "18"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "175",
+    "LeagueId": "19",
+    "NationId": "47",
+    "Rating": "69",
+    "Attribute1": "72",
+    "Attribute2": "66",
+    "Attribute3": "58",
+    "Attribute4": "74",
+    "Attribute5": "51",
+    "Attribute6": "67",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

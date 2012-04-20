@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "William",
+    "LastName": "Dennehy",
+    "CommonName": null,
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "2",
+      "Day": "17"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "306",
+    "LeagueId": "65",
+    "NationId": "25",
+    "Rating": "62",
+    "Attribute1": "82",
+    "Attribute2": "55",
+    "Attribute3": "59",
+    "Attribute4": "62",
+    "Attribute5": "40",
+    "Attribute6": "55",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

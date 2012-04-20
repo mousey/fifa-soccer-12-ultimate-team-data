@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Connor",
+    "LastName": "Ripley",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1993",
+      "Month": "2",
+      "Day": "13"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "12",
+    "LeagueId": "14",
+    "NationId": "14",
+    "Rating": "61",
+    "Attribute1": "66",
+    "Attribute2": "59",
+    "Attribute3": "71",
+    "Attribute4": "60",
+    "Attribute5": "14",
+    "Attribute6": "64",
+    "Rare": "1",
+    "ItemType": "PlayerGk"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Lee",
+    "LastName": "Johnson",
+    "CommonName": null,
+    "Height": "168",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "6",
+      "Day": "7"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1924",
+    "LeagueId": "60",
+    "NationId": "14",
+    "Rating": "66",
+    "Attribute1": "71",
+    "Attribute2": "62",
+    "Attribute3": "67",
+    "Attribute4": "66",
+    "Attribute5": "61",
+    "Attribute6": "60",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

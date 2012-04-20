@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "David",
+    "LastName": "Healy",
+    "CommonName": null,
+    "Height": "173",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "8",
+      "Day": "5"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "86",
+    "LeagueId": "50",
+    "NationId": "35",
+    "Rating": "69",
+    "Attribute1": "64",
+    "Attribute2": "72",
+    "Attribute3": "51",
+    "Attribute4": "60",
+    "Attribute5": "48",
+    "Attribute6": "69",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

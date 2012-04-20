@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Tadeusz",
+    "LastName": "Socha",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "2",
+      "Day": "15"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111092",
+    "LeagueId": "66",
+    "NationId": "37",
+    "Rating": "64",
+    "Attribute1": "79",
+    "Attribute2": "44",
+    "Attribute3": "53",
+    "Attribute4": "56",
+    "Attribute5": "59",
+    "Attribute6": "58",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Bruno",
+    "LastName": "Soriano Llido",
+    "CommonName": "Bruno",
+    "Height": "179",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "6",
+      "Day": "12"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "483",
+    "LeagueId": "53",
+    "NationId": "45",
+    "Rating": "82",
+    "Attribute1": "66",
+    "Attribute2": "59",
+    "Attribute3": "76",
+    "Attribute4": "76",
+    "Attribute5": "79",
+    "Attribute6": "67",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

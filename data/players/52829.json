@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Angelo",
+    "LastName": "Palombo",
+    "CommonName": null,
+    "Height": "177",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "9",
+      "Day": "25"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1837",
+    "LeagueId": "32",
+    "NationId": "27",
+    "Rating": "76",
+    "Attribute1": "74",
+    "Attribute2": "68",
+    "Attribute3": "75",
+    "Attribute4": "72",
+    "Attribute5": "77",
+    "Attribute6": "73",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

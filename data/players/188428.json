@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Seydou",
+    "LastName": "Doumbia",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "12",
+      "Day": "31"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "315",
+    "LeagueId": "67",
+    "NationId": "108",
+    "Rating": "82",
+    "Attribute1": "94",
+    "Attribute2": "77",
+    "Attribute3": "54",
+    "Attribute4": "85",
+    "Attribute5": "56",
+    "Attribute6": "76",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

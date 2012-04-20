@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Žarco",
+    "LastName": "Tomašević",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "2",
+      "Day": "22"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1891",
+    "LeagueId": "308",
+    "NationId": "15",
+    "Rating": "68",
+    "Attribute1": "66",
+    "Attribute2": "55",
+    "Attribute3": "65",
+    "Attribute4": "66",
+    "Attribute5": "72",
+    "Attribute6": "64",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

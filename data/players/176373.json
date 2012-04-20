@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ki Jong",
+    "LastName": "Bae",
+    "CommonName": "Bae Ki Jong",
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "5",
+      "Day": "26"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1478",
+    "LeagueId": "83",
+    "NationId": "167",
+    "Rating": "65",
+    "Attribute1": "89",
+    "Attribute2": "61",
+    "Attribute3": "64",
+    "Attribute4": "65",
+    "Attribute5": "50",
+    "Attribute6": "61",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

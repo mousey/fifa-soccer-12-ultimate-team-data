@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Silvestre",
+    "LastName": "Gonçalves Varela",
+    "CommonName": "Varela",
+    "Height": "179",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "2",
+      "Day": "2"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "236",
+    "LeagueId": "308",
+    "NationId": "38",
+    "Rating": "81",
+    "Attribute1": "85",
+    "Attribute2": "74",
+    "Attribute3": "76",
+    "Attribute4": "82",
+    "Attribute5": "62",
+    "Attribute6": "66",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Joel",
+    "LastName": "Huiqui",
+    "CommonName": null,
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "2",
+      "Day": "18"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1028",
+    "LeagueId": "341",
+    "NationId": "83",
+    "Rating": "67",
+    "Attribute1": "66",
+    "Attribute2": "37",
+    "Attribute3": "48",
+    "Attribute4": "45",
+    "Attribute5": "72",
+    "Attribute6": "71",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

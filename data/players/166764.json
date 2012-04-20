@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Trevor",
+    "LastName": "Carson",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "3",
+      "Day": "5"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "106",
+    "LeagueId": "13",
+    "NationId": "35",
+    "Rating": "61",
+    "Attribute1": "66",
+    "Attribute2": "54",
+    "Attribute3": "51",
+    "Attribute4": "68",
+    "Attribute5": "58",
+    "Attribute6": "60",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

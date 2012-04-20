@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Dacian",
+    "LastName": "Varga",
+    "CommonName": null,
+    "Height": "173",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "10",
+      "Day": "15"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "110089",
+    "LeagueId": "67",
+    "NationId": "39",
+    "Rating": "72",
+    "Attribute1": "69",
+    "Attribute2": "59",
+    "Attribute3": "72",
+    "Attribute4": "72",
+    "Attribute5": "44",
+    "Attribute6": "51",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

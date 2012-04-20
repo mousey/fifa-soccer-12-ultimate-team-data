@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Roberto",
+    "LastName": "Rosales",
+    "CommonName": null,
+    "Height": "174",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "11",
+      "Day": "20"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1908",
+    "LeagueId": "10",
+    "NationId": "61",
+    "Rating": "72",
+    "Attribute1": "81",
+    "Attribute2": "62",
+    "Attribute3": "73",
+    "Attribute4": "74",
+    "Attribute5": "68",
+    "Attribute6": "68",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

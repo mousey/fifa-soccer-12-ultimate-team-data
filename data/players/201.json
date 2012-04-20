@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Hugo Miguel",
+    "LastName": "Ribeiro Leal",
+    "CommonName": "Hugo Leal",
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1980",
+      "Month": "5",
+      "Day": "21"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "665",
+    "LeagueId": "308",
+    "NationId": "38",
+    "Rating": "74",
+    "Attribute1": "44",
+    "Attribute2": "70",
+    "Attribute3": "80",
+    "Attribute4": "74",
+    "Attribute5": "62",
+    "Attribute6": "52",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

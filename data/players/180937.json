@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Tomáš",
+    "LastName": "Jirsák",
+    "CommonName": null,
+    "Height": "172",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "6",
+      "Day": "29"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1873",
+    "LeagueId": "66",
+    "NationId": "12",
+    "Rating": "63",
+    "Attribute1": "66",
+    "Attribute2": "61",
+    "Attribute3": "68",
+    "Attribute4": "54",
+    "Attribute5": "62",
+    "Attribute6": "63",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

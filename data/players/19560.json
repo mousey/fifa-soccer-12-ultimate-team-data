@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Lee",
+    "LastName": "Bullock",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "5",
+      "Day": "22"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1804",
+    "LeagueId": "61",
+    "NationId": "14",
+    "Rating": "56",
+    "Attribute1": "56",
+    "Attribute2": "51",
+    "Attribute3": "55",
+    "Attribute4": "56",
+    "Attribute5": "62",
+    "Attribute6": "64",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

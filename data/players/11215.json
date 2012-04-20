@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Florian",
+    "LastName": "Bruns",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "8",
+      "Day": "21"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "110329",
+    "LeagueId": "20",
+    "NationId": "21",
+    "Rating": "66",
+    "Attribute1": "68",
+    "Attribute2": "64",
+    "Attribute3": "64",
+    "Attribute4": "63",
+    "Attribute5": "65",
+    "Attribute6": "66",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

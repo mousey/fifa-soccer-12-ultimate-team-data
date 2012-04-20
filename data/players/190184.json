@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Chris",
+    "LastName": "Tierney",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "1",
+      "Day": "9"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "691",
+    "LeagueId": "39",
+    "NationId": "95",
+    "Rating": "60",
+    "Attribute1": "47",
+    "Attribute2": "55",
+    "Attribute3": "57",
+    "Attribute4": "60",
+    "Attribute5": "64",
+    "Attribute6": "65",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

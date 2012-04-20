@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Josh",
+    "LastName": "Morris",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "9",
+      "Day": "30"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "3",
+    "LeagueId": "13",
+    "NationId": "14",
+    "Rating": "60",
+    "Attribute1": "66",
+    "Attribute2": "47",
+    "Attribute3": "58",
+    "Attribute4": "56",
+    "Attribute5": "62",
+    "Attribute6": "57",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

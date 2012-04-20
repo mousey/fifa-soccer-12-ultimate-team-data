@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Warren",
+    "LastName": "Cummings",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1980",
+      "Month": "10",
+      "Day": "15"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1943",
+    "LeagueId": "60",
+    "NationId": "42",
+    "Rating": "58",
+    "Attribute1": "57",
+    "Attribute2": "32",
+    "Attribute3": "44",
+    "Attribute4": "40",
+    "Attribute5": "68",
+    "Attribute6": "65",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Daniel",
+    "LastName": "Ludueña",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "7",
+      "Day": "27"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110144",
+    "LeagueId": "341",
+    "NationId": "52",
+    "Rating": "73",
+    "Attribute1": "65",
+    "Attribute2": "75",
+    "Attribute3": "72",
+    "Attribute4": "74",
+    "Attribute5": "47",
+    "Attribute6": "57",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

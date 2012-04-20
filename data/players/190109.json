@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Dominic",
+    "LastName": "Adiyiah",
+    "CommonName": null,
+    "Height": "172",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "11",
+      "Day": "29"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "47",
+    "LeagueId": "31",
+    "NationId": "117",
+    "Rating": "63",
+    "Attribute1": "78",
+    "Attribute2": "60",
+    "Attribute3": "50",
+    "Attribute4": "64",
+    "Attribute5": "49",
+    "Attribute6": "61",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

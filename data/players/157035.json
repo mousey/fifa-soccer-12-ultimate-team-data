@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Sergio",
+    "LastName": "Santana",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "8",
+      "Day": "10"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1032",
+    "LeagueId": "341",
+    "NationId": "83",
+    "Rating": "69",
+    "Attribute1": "75",
+    "Attribute2": "65",
+    "Attribute3": "66",
+    "Attribute4": "70",
+    "Attribute5": "54",
+    "Attribute6": "69",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

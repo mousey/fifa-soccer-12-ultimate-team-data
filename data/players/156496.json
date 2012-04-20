@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Elgabry",
+    "LastName": "Rangel",
+    "CommonName": null,
+    "Height": "165",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "4",
+      "Day": "3"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110780",
+    "LeagueId": "341",
+    "NationId": "83",
+    "Rating": "64",
+    "Attribute1": "71",
+    "Attribute2": "54",
+    "Attribute3": "63",
+    "Attribute4": "61",
+    "Attribute5": "62",
+    "Attribute6": "62",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Collin",
+    "LastName": "Benjamin",
+    "CommonName": null,
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1978",
+      "Month": "8",
+      "Day": "3"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "33",
+    "LeagueId": "20",
+    "NationId": "131",
+    "Rating": "68",
+    "Attribute1": "68",
+    "Attribute2": "61",
+    "Attribute3": "71",
+    "Attribute4": "70",
+    "Attribute5": "68",
+    "Attribute6": "66",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

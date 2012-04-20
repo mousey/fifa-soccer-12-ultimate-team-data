@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Pablo",
+    "LastName": "Sánchez Alberto",
+    "CommonName": "Pablo Sánchez",
+    "Height": "173",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "1",
+      "Day": "24"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "571",
+    "LeagueId": "54",
+    "NationId": "45",
+    "Rating": "64",
+    "Attribute1": "75",
+    "Attribute2": "57",
+    "Attribute3": "52",
+    "Attribute4": "64",
+    "Attribute5": "43",
+    "Attribute6": "65",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

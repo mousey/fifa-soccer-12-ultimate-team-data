@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ander",
+    "LastName": "Herrera Agüera",
+    "CommonName": "Ander Herrera",
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "8",
+      "Day": "14"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "448",
+    "LeagueId": "53",
+    "NationId": "45",
+    "Rating": "79",
+    "Attribute1": "79",
+    "Attribute2": "65",
+    "Attribute3": "76",
+    "Attribute4": "76",
+    "Attribute5": "57",
+    "Attribute6": "41",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

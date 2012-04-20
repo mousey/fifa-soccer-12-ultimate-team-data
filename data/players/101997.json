@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "David",
+    "LastName": "Lucas",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1977",
+      "Month": "11",
+      "Day": "23"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1955",
+    "LeagueId": "60",
+    "NationId": "14",
+    "Rating": "61",
+    "Attribute1": "57",
+    "Attribute2": "60",
+    "Attribute3": "64",
+    "Attribute4": "66",
+    "Attribute5": "54",
+    "Attribute6": "60",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

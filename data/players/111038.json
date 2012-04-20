@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Alejandro",
+    "LastName": "Castro Fernández",
+    "CommonName": "Jandro",
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "2",
+      "Day": "27"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110062",
+    "LeagueId": "54",
+    "NationId": "45",
+    "Rating": "70",
+    "Attribute1": "71",
+    "Attribute2": "68",
+    "Attribute3": "64",
+    "Attribute4": "68",
+    "Attribute5": "57",
+    "Attribute6": "62",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

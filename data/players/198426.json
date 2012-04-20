@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Gonzalo",
+    "LastName": "Castellani",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "8",
+      "Day": "10"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110902",
+    "LeagueId": "54",
+    "NationId": "52",
+    "Rating": "65",
+    "Attribute1": "62",
+    "Attribute2": "59",
+    "Attribute3": "65",
+    "Attribute4": "63",
+    "Attribute5": "46",
+    "Attribute6": "45",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

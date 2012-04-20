@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Hee Chul",
+    "LastName": "Park",
+    "CommonName": "Park Hee Chul",
+    "Height": "179",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "1",
+      "Day": "7"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1474",
+    "LeagueId": "83",
+    "NationId": "167",
+    "Rating": "63",
+    "Attribute1": "80",
+    "Attribute2": "50",
+    "Attribute3": "64",
+    "Attribute4": "58",
+    "Attribute5": "62",
+    "Attribute6": "58",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

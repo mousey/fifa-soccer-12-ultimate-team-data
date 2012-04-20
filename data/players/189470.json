@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Elton",
+    "LastName": "Divino Célio",
+    "CommonName": "Eltinho",
+    "Height": "172",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "7",
+      "Day": "7"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "111044",
+    "LeagueId": "7",
+    "NationId": "54",
+    "Rating": "67",
+    "Attribute1": "77",
+    "Attribute2": "63",
+    "Attribute3": "69",
+    "Attribute4": "76",
+    "Attribute5": "63",
+    "Attribute6": "58",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

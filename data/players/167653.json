@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Magnus",
+    "LastName": "Troest",
+    "CommonName": null,
+    "Height": "189",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "6",
+      "Day": "5"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "112237",
+    "LeagueId": "32",
+    "NationId": "13",
+    "Rating": "68",
+    "Attribute1": "65",
+    "Attribute2": "38",
+    "Attribute3": "50",
+    "Attribute4": "40",
+    "Attribute5": "73",
+    "Attribute6": "73",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

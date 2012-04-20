@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Stijn",
+    "LastName": "Minne",
+    "CommonName": null,
+    "Height": "171",
+    "DateOfBirth": {
+      "Year": "1978",
+      "Month": "6",
+      "Day": "29"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "15005",
+    "LeagueId": "4",
+    "NationId": "7",
+    "Rating": "64",
+    "Attribute1": "67",
+    "Attribute2": "41",
+    "Attribute3": "58",
+    "Attribute4": "44",
+    "Attribute5": "62",
+    "Attribute6": "60",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

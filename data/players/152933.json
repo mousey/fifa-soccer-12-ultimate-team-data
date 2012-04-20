@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Darryl",
+    "LastName": "Flahavan",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1978",
+      "Month": "11",
+      "Day": "28"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1943",
+    "LeagueId": "60",
+    "NationId": "14",
+    "Rating": "63",
+    "Attribute1": "60",
+    "Attribute2": "62",
+    "Attribute3": "65",
+    "Attribute4": "64",
+    "Attribute5": "52",
+    "Attribute6": "70",
+    "Rare": "1",
+    "ItemType": "PlayerGk"
+  }
+}

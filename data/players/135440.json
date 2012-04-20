@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "André Luiz",
+    "LastName": "Silva do Nascimento",
+    "CommonName": "André Luiz",
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1980",
+      "Month": "1",
+      "Day": "27"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1823",
+    "LeagueId": "16",
+    "NationId": "54",
+    "Rating": "74",
+    "Attribute1": "57",
+    "Attribute2": "47",
+    "Attribute3": "54",
+    "Attribute4": "42",
+    "Attribute5": "75",
+    "Attribute6": "80",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

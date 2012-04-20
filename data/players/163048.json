@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Chris",
+    "LastName": "Morgan",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1977",
+      "Month": "11",
+      "Day": "9"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1794",
+    "LeagueId": "60",
+    "NationId": "14",
+    "Rating": "68",
+    "Attribute1": "28",
+    "Attribute2": "28",
+    "Attribute3": "29",
+    "Attribute4": "23",
+    "Attribute5": "75",
+    "Attribute6": "75",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

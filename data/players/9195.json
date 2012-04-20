@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Pantelis",
+    "LastName": "Kafes",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1978",
+      "Month": "6",
+      "Day": "24"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "278",
+    "LeagueId": "63",
+    "NationId": "22",
+    "Rating": "70",
+    "Attribute1": "66",
+    "Attribute2": "72",
+    "Attribute3": "73",
+    "Attribute4": "74",
+    "Attribute5": "68",
+    "Attribute6": "63",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

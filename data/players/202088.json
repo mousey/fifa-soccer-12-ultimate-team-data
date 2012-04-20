@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Felix",
+    "LastName": "Klaus",
+    "CommonName": null,
+    "Height": "179",
+    "DateOfBirth": {
+      "Year": "1992",
+      "Month": "9",
+      "Day": "13"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "165",
+    "LeagueId": "20",
+    "NationId": "21",
+    "Rating": "65",
+    "Attribute1": "81",
+    "Attribute2": "63",
+    "Attribute3": "58",
+    "Attribute4": "70",
+    "Attribute5": "37",
+    "Attribute6": "49",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Éver",
+    "LastName": "Banega",
+    "CommonName": null,
+    "Height": "174",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "6",
+      "Day": "29"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "461",
+    "LeagueId": "53",
+    "NationId": "52",
+    "Rating": "79",
+    "Attribute1": "66",
+    "Attribute2": "71",
+    "Attribute3": "82",
+    "Attribute4": "80",
+    "Attribute5": "70",
+    "Attribute6": "60",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

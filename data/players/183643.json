@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Lukas",
+    "LastName": "Königshofer",
+    "CommonName": null,
+    "Height": "193",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "3",
+      "Day": "16"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "254",
+    "LeagueId": "80",
+    "NationId": "4",
+    "Rating": "59",
+    "Attribute1": "59",
+    "Attribute2": "58",
+    "Attribute3": "56",
+    "Attribute4": "60",
+    "Attribute5": "50",
+    "Attribute6": "58",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

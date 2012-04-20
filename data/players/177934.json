@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Sidney",
+    "LastName": "Sam",
+    "CommonName": null,
+    "Height": "174",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "1",
+      "Day": "31"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "32",
+    "LeagueId": "19",
+    "NationId": "21",
+    "Rating": "77",
+    "Attribute1": "90",
+    "Attribute2": "76",
+    "Attribute3": "71",
+    "Attribute4": "82",
+    "Attribute5": "54",
+    "Attribute6": "68",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Andrea",
+    "LastName": "Mei",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "5",
+      "Day": "18"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "100651",
+    "LeagueId": "10",
+    "NationId": "27",
+    "Rating": "64",
+    "Attribute1": "68",
+    "Attribute2": "38",
+    "Attribute3": "46",
+    "Attribute4": "52",
+    "Attribute5": "68",
+    "Attribute6": "64",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

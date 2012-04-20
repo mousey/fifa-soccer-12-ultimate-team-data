@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Khari",
+    "LastName": "Stephenson",
+    "CommonName": null,
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "1",
+      "Day": "18"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111928",
+    "LeagueId": "39",
+    "NationId": "82",
+    "Rating": "63",
+    "Attribute1": "58",
+    "Attribute2": "67",
+    "Attribute3": "58",
+    "Attribute4": "61",
+    "Attribute5": "68",
+    "Attribute6": "67",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

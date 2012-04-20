@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "David Luiz",
+    "LastName": "Moreira Marinho",
+    "CommonName": "David Luiz",
+    "Height": "189",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "4",
+      "Day": "22"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "5",
+    "LeagueId": "13",
+    "NationId": "54",
+    "Rating": "82",
+    "Attribute1": "79",
+    "Attribute2": "64",
+    "Attribute3": "70",
+    "Attribute4": "66",
+    "Attribute5": "82",
+    "Attribute6": "79",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Aidan",
+    "LastName": "Price",
+    "CommonName": null,
+    "Height": "191",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "12",
+      "Day": "8"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "305",
+    "LeagueId": "65",
+    "NationId": "25",
+    "Rating": "59",
+    "Attribute1": "54",
+    "Attribute2": "31",
+    "Attribute3": "41",
+    "Attribute4": "27",
+    "Attribute5": "66",
+    "Attribute6": "67",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

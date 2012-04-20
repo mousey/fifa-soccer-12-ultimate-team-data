@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Neil",
+    "LastName": "Taylor",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "2",
+      "Day": "7"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1960",
+    "LeagueId": "13",
+    "NationId": "50",
+    "Rating": "68",
+    "Attribute1": "75",
+    "Attribute2": "41",
+    "Attribute3": "63",
+    "Attribute4": "61",
+    "Attribute5": "67",
+    "Attribute6": "66",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Darren",
+    "LastName": "Randolph",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "5",
+      "Day": "12"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "83",
+    "LeagueId": "50",
+    "NationId": "25",
+    "Rating": "65",
+    "Attribute1": "64",
+    "Attribute2": "64",
+    "Attribute3": "72",
+    "Attribute4": "66",
+    "Attribute5": "61",
+    "Attribute6": "66",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

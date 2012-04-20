@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Simon",
+    "LastName": "Terodde",
+    "CommonName": null,
+    "Height": "192",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "3",
+      "Day": "2"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1831",
+    "LeagueId": "20",
+    "NationId": "21",
+    "Rating": "64",
+    "Attribute1": "71",
+    "Attribute2": "60",
+    "Attribute3": "48",
+    "Attribute4": "54",
+    "Attribute5": "48",
+    "Attribute6": "70",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

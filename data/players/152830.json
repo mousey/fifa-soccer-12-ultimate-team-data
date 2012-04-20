@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Carlos Henrique",
+    "LastName": "dos Santos Souza",
+    "CommonName": "Henrique",
+    "Height": "189",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "5",
+      "Day": "2"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "59",
+    "LeagueId": "16",
+    "NationId": "54",
+    "Rating": "73",
+    "Attribute1": "54",
+    "Attribute2": "48",
+    "Attribute3": "57",
+    "Attribute4": "39",
+    "Attribute5": "76",
+    "Attribute6": "81",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

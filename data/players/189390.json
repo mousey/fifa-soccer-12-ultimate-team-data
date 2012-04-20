@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Bastian",
+    "LastName": "Oczipka",
+    "CommonName": null,
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "1",
+      "Day": "12"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "32",
+    "LeagueId": "19",
+    "NationId": "21",
+    "Rating": "71",
+    "Attribute1": "71",
+    "Attribute2": "53",
+    "Attribute3": "74",
+    "Attribute4": "73",
+    "Attribute5": "72",
+    "Attribute6": "71",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

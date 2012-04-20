@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ciaran",
+    "LastName": "Nangle",
+    "CommonName": null,
+    "Height": "173",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "3",
+      "Day": "23"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "111132",
+    "LeagueId": "65",
+    "NationId": "25",
+    "Rating": "53",
+    "Attribute1": "60",
+    "Attribute2": "27",
+    "Attribute3": "44",
+    "Attribute4": "34",
+    "Attribute5": "56",
+    "Attribute6": "53",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

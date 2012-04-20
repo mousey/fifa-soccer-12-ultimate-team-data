@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jahmir",
+    "LastName": "Hyka",
+    "CommonName": null,
+    "Height": "168",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "3",
+      "Day": "8"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "897",
+    "LeagueId": "189",
+    "NationId": "1",
+    "Rating": "61",
+    "Attribute1": "76",
+    "Attribute2": "54",
+    "Attribute3": "55",
+    "Attribute4": "64",
+    "Attribute5": "41",
+    "Attribute6": "49",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

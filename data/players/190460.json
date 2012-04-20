@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Christian",
+    "LastName": "Eriksen",
+    "CommonName": null,
+    "Height": "177",
+    "DateOfBirth": {
+      "Year": "1992",
+      "Month": "2",
+      "Day": "14"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "245",
+    "LeagueId": "10",
+    "NationId": "13",
+    "Rating": "80",
+    "Attribute1": "82",
+    "Attribute2": "71",
+    "Attribute3": "74",
+    "Attribute4": "79",
+    "Attribute5": "46",
+    "Attribute6": "55",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

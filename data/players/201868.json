@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Philippe",
+    "LastName": "Davies",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "12",
+      "Day": "12"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "101112",
+    "LeagueId": "39",
+    "NationId": "70",
+    "Rating": "57",
+    "Attribute1": "71",
+    "Attribute2": "58",
+    "Attribute3": "56",
+    "Attribute4": "58",
+    "Attribute5": "49",
+    "Attribute6": "59",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

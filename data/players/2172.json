@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Kew",
+    "LastName": "Jaliens",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1978",
+      "Month": "9",
+      "Day": "15"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1873",
+    "LeagueId": "66",
+    "NationId": "34",
+    "Rating": "68",
+    "Attribute1": "59",
+    "Attribute2": "37",
+    "Attribute3": "61",
+    "Attribute4": "62",
+    "Attribute5": "70",
+    "Attribute6": "63",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

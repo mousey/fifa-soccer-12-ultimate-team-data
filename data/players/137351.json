@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Daniel",
+    "LastName": "Baier",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "5",
+      "Day": "18"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "100409",
+    "LeagueId": "19",
+    "NationId": "21",
+    "Rating": "71",
+    "Attribute1": "73",
+    "Attribute2": "65",
+    "Attribute3": "70",
+    "Attribute4": "71",
+    "Attribute5": "48",
+    "Attribute6": "66",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jonathan",
+    "LastName": "Tuffey",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "1",
+      "Day": "20"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "620",
+    "LeagueId": "50",
+    "NationId": "35",
+    "Rating": "60",
+    "Attribute1": "57",
+    "Attribute2": "62",
+    "Attribute3": "58",
+    "Attribute4": "63",
+    "Attribute5": "50",
+    "Attribute6": "62",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

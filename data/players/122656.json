@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Kevin",
+    "LastName": "Roelandts",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "8",
+      "Day": "27"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "100087",
+    "LeagueId": "4",
+    "NationId": "7",
+    "Rating": "67",
+    "Attribute1": "45",
+    "Attribute2": "69",
+    "Attribute3": "67",
+    "Attribute4": "66",
+    "Attribute5": "59",
+    "Attribute6": "66",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

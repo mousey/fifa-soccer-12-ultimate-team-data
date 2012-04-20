@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jaime",
+    "LastName": "Gavilán Martínez",
+    "CommonName": "Gavilán",
+    "Height": "179",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "5",
+      "Day": "12"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1860",
+    "LeagueId": "53",
+    "NationId": "45",
+    "Rating": "76",
+    "Attribute1": "75",
+    "Attribute2": "70",
+    "Attribute3": "75",
+    "Attribute4": "80",
+    "Attribute5": "50",
+    "Attribute6": "52",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

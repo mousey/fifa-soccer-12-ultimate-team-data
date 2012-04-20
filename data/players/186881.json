@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "James",
+    "LastName": "Holland",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "5",
+      "Day": "15"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1906",
+    "LeagueId": "10",
+    "NationId": "195",
+    "Rating": "64",
+    "Attribute1": "65",
+    "Attribute2": "60",
+    "Attribute3": "56",
+    "Attribute4": "67",
+    "Attribute5": "56",
+    "Attribute6": "58",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

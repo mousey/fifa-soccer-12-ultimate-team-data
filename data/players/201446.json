@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "George",
+    "LastName": "Moncur",
+    "CommonName": null,
+    "Height": "179",
+    "DateOfBirth": {
+      "Year": "1993",
+      "Month": "8",
+      "Day": "8"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "19",
+    "LeagueId": "14",
+    "NationId": "14",
+    "Rating": "52",
+    "Attribute1": "68",
+    "Attribute2": "34",
+    "Attribute3": "51",
+    "Attribute4": "46",
+    "Attribute5": "52",
+    "Attribute6": "52",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

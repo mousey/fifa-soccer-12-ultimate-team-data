@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Froylán",
+    "LastName": "Ledezma",
+    "CommonName": null,
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1978",
+      "Month": "1",
+      "Day": "2"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111821",
+    "LeagueId": "80",
+    "NationId": "72",
+    "Rating": "60",
+    "Attribute1": "68",
+    "Attribute2": "62",
+    "Attribute3": "49",
+    "Attribute4": "64",
+    "Attribute5": "49",
+    "Attribute6": "60",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

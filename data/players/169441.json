@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "David",
+    "LastName": "Barron",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "9",
+      "Day": "10"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "100805",
+    "LeagueId": "50",
+    "NationId": "42",
+    "Rating": "61",
+    "Attribute1": "58",
+    "Attribute2": "20",
+    "Attribute3": "56",
+    "Attribute4": "52",
+    "Attribute5": "60",
+    "Attribute6": "68",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

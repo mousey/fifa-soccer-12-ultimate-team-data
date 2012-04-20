@@ -1,0 +1,15 @@
+{
+  "Manager": {
+    "FirstName": "Julio César",
+    "LastName": "Falcioni",
+    "NationId": "52",
+    "Value": "72",
+    "Rare": "1",
+    "Weight": "15",
+    "FormationId": "1",
+    "TalkRating": "0",
+    "Negotiation": "2",
+    "AssetId": "1000427",
+    "ItemType": "Manager"
+  }
+}

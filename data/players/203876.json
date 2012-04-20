@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Antoine",
+    "LastName": "Jouan",
+    "CommonName": null,
+    "Height": "176",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "10",
+      "Day": "19"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1815",
+    "LeagueId": "17",
+    "NationId": "18",
+    "Rating": "54",
+    "Attribute1": "54",
+    "Attribute2": "29",
+    "Attribute3": "51",
+    "Attribute4": "42",
+    "Attribute5": "54",
+    "Attribute6": "57",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

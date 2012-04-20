@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Franco",
+    "LastName": "Semioli",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1980",
+      "Month": "6",
+      "Day": "20"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1837",
+    "LeagueId": "32",
+    "NationId": "27",
+    "Rating": "69",
+    "Attribute1": "74",
+    "Attribute2": "65",
+    "Attribute3": "67",
+    "Attribute4": "71",
+    "Attribute5": "52",
+    "Attribute6": "57",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

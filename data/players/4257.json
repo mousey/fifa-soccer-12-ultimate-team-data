@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Matt",
+    "LastName": "Oakley",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1977",
+      "Month": "8",
+      "Day": "17"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "95",
+    "LeagueId": "14",
+    "NationId": "14",
+    "Rating": "64",
+    "Attribute1": "51",
+    "Attribute2": "62",
+    "Attribute3": "69",
+    "Attribute4": "61",
+    "Attribute5": "64",
+    "Attribute6": "65",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

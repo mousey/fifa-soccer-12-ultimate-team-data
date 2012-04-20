@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Javier",
+    "LastName": "Zanetti",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1973",
+      "Month": "8",
+      "Day": "10"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "44",
+    "LeagueId": "31",
+    "NationId": "52",
+    "Rating": "82",
+    "Attribute1": "63",
+    "Attribute2": "59",
+    "Attribute3": "80",
+    "Attribute4": "79",
+    "Attribute5": "80",
+    "Attribute6": "57",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

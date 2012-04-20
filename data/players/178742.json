@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Patrik",
+    "LastName": "Baumann",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "7",
+      "Day": "26"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "324",
+    "LeagueId": "189",
+    "NationId": "47",
+    "Rating": "58",
+    "Attribute1": "54",
+    "Attribute2": "49",
+    "Attribute3": "55",
+    "Attribute4": "50",
+    "Attribute5": "62",
+    "Attribute6": "70",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

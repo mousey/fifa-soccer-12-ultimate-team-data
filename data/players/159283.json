@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Leandro",
+    "LastName": "Luchese Guerreiro",
+    "CommonName": "Leandro Guerreiro",
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1978",
+      "Month": "11",
+      "Day": "17"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "568",
+    "LeagueId": "7",
+    "NationId": "54",
+    "Rating": "73",
+    "Attribute1": "64",
+    "Attribute2": "58",
+    "Attribute3": "64",
+    "Attribute4": "62",
+    "Attribute5": "77",
+    "Attribute6": "71",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

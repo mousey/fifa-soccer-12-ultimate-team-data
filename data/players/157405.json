@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Joseph",
+    "LastName": "Ndo",
+    "CommonName": null,
+    "Height": "179",
+    "DateOfBirth": {
+      "Year": "1976",
+      "Month": "4",
+      "Day": "28"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "563",
+    "LeagueId": "65",
+    "NationId": "103",
+    "Rating": "60",
+    "Attribute1": "61",
+    "Attribute2": "60",
+    "Attribute3": "58",
+    "Attribute4": "63",
+    "Attribute5": "52",
+    "Attribute6": "59",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

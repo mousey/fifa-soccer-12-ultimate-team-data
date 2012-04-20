@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Fernando",
+    "LastName": "Morales",
+    "CommonName": null,
+    "Height": "174",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "9",
+      "Day": "14"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "110149",
+    "LeagueId": "341",
+    "NationId": "83",
+    "Rating": "64",
+    "Attribute1": "63",
+    "Attribute2": "61",
+    "Attribute3": "61",
+    "Attribute4": "68",
+    "Attribute5": "49",
+    "Attribute6": "62",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

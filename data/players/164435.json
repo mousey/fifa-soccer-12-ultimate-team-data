@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Mbark",
+    "LastName": "Boussoufa",
+    "CommonName": null,
+    "Height": "167",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "8",
+      "Day": "15"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "100766",
+    "LeagueId": "67",
+    "NationId": "129",
+    "Rating": "82",
+    "Attribute1": "77",
+    "Attribute2": "74",
+    "Attribute3": "78",
+    "Attribute4": "86",
+    "Attribute5": "46",
+    "Attribute6": "53",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Omar",
+    "LastName": "Flores",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "5",
+      "Day": "6"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110151",
+    "LeagueId": "341",
+    "NationId": "83",
+    "Rating": "65",
+    "Attribute1": "50",
+    "Attribute2": "47",
+    "Attribute3": "60",
+    "Attribute4": "55",
+    "Attribute5": "71",
+    "Attribute6": "58",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

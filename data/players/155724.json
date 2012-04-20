@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Darren",
+    "LastName": "Ambrose",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "2",
+      "Day": "29"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1799",
+    "LeagueId": "14",
+    "NationId": "14",
+    "Rating": "70",
+    "Attribute1": "77",
+    "Attribute2": "75",
+    "Attribute3": "66",
+    "Attribute4": "68",
+    "Attribute5": "52",
+    "Attribute6": "54",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

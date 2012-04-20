@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Fábio",
+    "LastName": "Pereira da Cruz",
+    "CommonName": "Pereira",
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "7",
+      "Day": "30"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111044",
+    "LeagueId": "7",
+    "NationId": "54",
+    "Rating": "71",
+    "Attribute1": "67",
+    "Attribute2": "47",
+    "Attribute3": "46",
+    "Attribute4": "39",
+    "Attribute5": "74",
+    "Attribute6": "78",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

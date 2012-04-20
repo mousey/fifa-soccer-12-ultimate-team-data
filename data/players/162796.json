@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Yves",
+    "LastName": "Lenaerts",
+    "CommonName": null,
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "2",
+      "Day": "27"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "100087",
+    "LeagueId": "4",
+    "NationId": "7",
+    "Rating": "63",
+    "Attribute1": "63",
+    "Attribute2": "60",
+    "Attribute3": "65",
+    "Attribute4": "68",
+    "Attribute5": "59",
+    "Attribute6": "61",
+    "Rare": "1",
+    "ItemType": "PlayerGk"
+  }
+}

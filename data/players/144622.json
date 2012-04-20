@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Rafael Caetano",
+    "LastName": "de Araujo",
+    "CommonName": "Raffael",
+    "Height": "174",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "3",
+      "Day": "28"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "166",
+    "LeagueId": "19",
+    "NationId": "54",
+    "Rating": "76",
+    "Attribute1": "77",
+    "Attribute2": "73",
+    "Attribute3": "71",
+    "Attribute4": "81",
+    "Attribute5": "57",
+    "Attribute6": "72",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jonathan",
+    "LastName": "De Guzmán",
+    "CommonName": null,
+    "Height": "173",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "9",
+      "Day": "13"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "483",
+    "LeagueId": "53",
+    "NationId": "34",
+    "Rating": "78",
+    "Attribute1": "77",
+    "Attribute2": "78",
+    "Attribute3": "75",
+    "Attribute4": "81",
+    "Attribute5": "56",
+    "Attribute6": "62",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

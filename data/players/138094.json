@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Taylor",
+    "LastName": "Graham",
+    "CommonName": null,
+    "Height": "193",
+    "DateOfBirth": {
+      "Year": "1980",
+      "Month": "6",
+      "Day": "3"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111144",
+    "LeagueId": "39",
+    "NationId": "88",
+    "Rating": "59",
+    "Attribute1": "65",
+    "Attribute2": "45",
+    "Attribute3": "45",
+    "Attribute4": "52",
+    "Attribute5": "62",
+    "Attribute6": "60",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

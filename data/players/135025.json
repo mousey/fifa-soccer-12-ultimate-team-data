@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Patrick",
+    "LastName": "Milchraum",
+    "CommonName": null,
+    "Height": "174",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "5",
+      "Day": "26"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1832",
+    "LeagueId": "20",
+    "NationId": "21",
+    "Rating": "62",
+    "Attribute1": "81",
+    "Attribute2": "63",
+    "Attribute3": "60",
+    "Attribute4": "66",
+    "Attribute5": "62",
+    "Attribute6": "61",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

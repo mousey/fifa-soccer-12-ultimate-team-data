@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Luciano",
+    "LastName": "Becchio",
+    "CommonName": null,
+    "Height": "187",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "12",
+      "Day": "28"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "8",
+    "LeagueId": "14",
+    "NationId": "52",
+    "Rating": "74",
+    "Attribute1": "67",
+    "Attribute2": "70",
+    "Attribute3": "54",
+    "Attribute4": "69",
+    "Attribute5": "67",
+    "Attribute6": "87",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

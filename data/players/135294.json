@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Junior Cesar E.",
+    "LastName": "Machado",
+    "CommonName": "Junior Cesar",
+    "Height": "166",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "4",
+      "Day": "9"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1043",
+    "LeagueId": "7",
+    "NationId": "54",
+    "Rating": "72",
+    "Attribute1": "86",
+    "Attribute2": "67",
+    "Attribute3": "71",
+    "Attribute4": "71",
+    "Attribute5": "65",
+    "Attribute6": "62",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

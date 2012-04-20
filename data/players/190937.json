@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Quincy",
+    "LastName": "Amarikwa",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "10",
+      "Day": "29"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "694",
+    "LeagueId": "39",
+    "NationId": "95",
+    "Rating": "60",
+    "Attribute1": "82",
+    "Attribute2": "54",
+    "Attribute3": "36",
+    "Attribute4": "68",
+    "Attribute5": "47",
+    "Attribute6": "61",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

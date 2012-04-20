@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Carl",
+    "LastName": "Robinson",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1976",
+      "Month": "10",
+      "Day": "13"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "689",
+    "LeagueId": "39",
+    "NationId": "50",
+    "Rating": "62",
+    "Attribute1": "57",
+    "Attribute2": "50",
+    "Attribute3": "55",
+    "Attribute4": "59",
+    "Attribute5": "64",
+    "Attribute6": "62",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ki Hun",
+    "LastName": "Yeom",
+    "CommonName": "Yeom Ki Hun",
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "3",
+      "Day": "30"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "983",
+    "LeagueId": "83",
+    "NationId": "167",
+    "Rating": "73",
+    "Attribute1": "81",
+    "Attribute2": "71",
+    "Attribute3": "72",
+    "Attribute4": "72",
+    "Attribute5": "68",
+    "Attribute6": "60",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

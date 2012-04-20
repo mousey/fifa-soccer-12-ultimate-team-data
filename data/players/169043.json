@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Tomislav",
+    "LastName": "Mikulic",
+    "CommonName": null,
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "1",
+      "Day": "4"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "675",
+    "LeagueId": "4",
+    "NationId": "10",
+    "Rating": "67",
+    "Attribute1": "64",
+    "Attribute2": "46",
+    "Attribute3": "60",
+    "Attribute4": "53",
+    "Attribute5": "71",
+    "Attribute6": "69",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

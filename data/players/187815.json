@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Diogo",
+    "LastName": "Luis Santo",
+    "CommonName": "Diogo",
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "5",
+      "Day": "26"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1053",
+    "LeagueId": "7",
+    "NationId": "54",
+    "Rating": "72",
+    "Attribute1": "75",
+    "Attribute2": "68",
+    "Attribute3": "56",
+    "Attribute4": "76",
+    "Attribute5": "48",
+    "Attribute6": "74",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

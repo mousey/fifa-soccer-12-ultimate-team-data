@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Andréa",
+    "LastName": "Fileccia",
+    "CommonName": null,
+    "Height": "194",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "12",
+      "Day": "6"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1971",
+    "LeagueId": "10",
+    "NationId": "7",
+    "Rating": "61",
+    "Attribute1": "61",
+    "Attribute2": "59",
+    "Attribute3": "45",
+    "Attribute4": "50",
+    "Attribute5": "51",
+    "Attribute6": "57",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

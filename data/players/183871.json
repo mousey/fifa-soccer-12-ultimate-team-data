@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Nicolai",
+    "LastName": "Müller",
+    "CommonName": null,
+    "Height": "173",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "9",
+      "Day": "25"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "169",
+    "LeagueId": "19",
+    "NationId": "21",
+    "Rating": "71",
+    "Attribute1": "77",
+    "Attribute2": "60",
+    "Attribute3": "65",
+    "Attribute4": "76",
+    "Attribute5": "38",
+    "Attribute6": "61",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

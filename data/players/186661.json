@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Stephen",
+    "LastName": "King",
+    "CommonName": null,
+    "Height": "170",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "3",
+      "Day": "6"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "688",
+    "LeagueId": "39",
+    "NationId": "95",
+    "Rating": "59",
+    "Attribute1": "65",
+    "Attribute2": "55",
+    "Attribute3": "56",
+    "Attribute4": "58",
+    "Attribute5": "56",
+    "Attribute6": "59",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

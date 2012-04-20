@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ho Young",
+    "LastName": "Song",
+    "CommonName": "Song Ho Young",
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "1",
+      "Day": "21"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "981",
+    "LeagueId": "83",
+    "NationId": "167",
+    "Rating": "62",
+    "Attribute1": "80",
+    "Attribute2": "49",
+    "Attribute3": "62",
+    "Attribute4": "66",
+    "Attribute5": "52",
+    "Attribute6": "60",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

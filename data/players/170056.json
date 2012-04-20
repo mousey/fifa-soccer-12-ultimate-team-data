@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Joel",
+    "LastName": "Grant",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "8",
+      "Day": "28"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1933",
+    "LeagueId": "60",
+    "NationId": "82",
+    "Rating": "60",
+    "Attribute1": "82",
+    "Attribute2": "53",
+    "Attribute3": "57",
+    "Attribute4": "63",
+    "Attribute5": "38",
+    "Attribute6": "52",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

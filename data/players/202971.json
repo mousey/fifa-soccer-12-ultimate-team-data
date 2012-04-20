@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Sun Kyu",
+    "LastName": "Kim",
+    "CommonName": "Kim Sun Kyu",
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "10",
+      "Day": "7"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111588",
+    "LeagueId": "83",
+    "NationId": "167",
+    "Rating": "57",
+    "Attribute1": "50",
+    "Attribute2": "55",
+    "Attribute3": "61",
+    "Attribute4": "63",
+    "Attribute5": "44",
+    "Attribute6": "61",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

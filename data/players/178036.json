@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Alain",
+    "LastName": "Traoré",
+    "CommonName": null,
+    "Height": "176",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "12",
+      "Day": "31"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "57",
+    "LeagueId": "16",
+    "NationId": "101",
+    "Rating": "75",
+    "Attribute1": "77",
+    "Attribute2": "71",
+    "Attribute3": "68",
+    "Attribute4": "75",
+    "Attribute5": "68",
+    "Attribute6": "65",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

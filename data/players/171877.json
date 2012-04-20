@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Marek",
+    "LastName": "Hamšik",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "7",
+      "Day": "27"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "48",
+    "LeagueId": "31",
+    "NationId": "43",
+    "Rating": "84",
+    "Attribute1": "76",
+    "Attribute2": "80",
+    "Attribute3": "81",
+    "Attribute4": "77",
+    "Attribute5": "69",
+    "Attribute6": "74",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

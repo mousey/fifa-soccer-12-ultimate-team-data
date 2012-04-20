@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Marcel",
+    "LastName": "Herzog",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1980",
+      "Month": "6",
+      "Day": "28"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "896",
+    "LeagueId": "189",
+    "NationId": "47",
+    "Rating": "66",
+    "Attribute1": "71",
+    "Attribute2": "65",
+    "Attribute3": "64",
+    "Attribute4": "67",
+    "Attribute5": "55",
+    "Attribute6": "61",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

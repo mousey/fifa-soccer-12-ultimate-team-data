@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Myles",
+    "LastName": "Weston",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "3",
+      "Day": "12"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1925",
+    "LeagueId": "60",
+    "NationId": "14",
+    "Rating": "61",
+    "Attribute1": "93",
+    "Attribute2": "58",
+    "Attribute3": "54",
+    "Attribute4": "64",
+    "Attribute5": "46",
+    "Attribute6": "46",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

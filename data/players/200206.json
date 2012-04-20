@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Alan Patrick",
+    "LastName": "Lourenço",
+    "CommonName": "Alan Patrick",
+    "Height": "177",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "5",
+      "Day": "13"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1053",
+    "LeagueId": "7",
+    "NationId": "54",
+    "Rating": "74",
+    "Attribute1": "78",
+    "Attribute2": "70",
+    "Attribute3": "70",
+    "Attribute4": "80",
+    "Attribute5": "38",
+    "Attribute6": "51",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

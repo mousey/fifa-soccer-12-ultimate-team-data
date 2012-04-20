@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "William",
+    "LastName": "Gallas",
+    "CommonName": null,
+    "Height": "181",
+    "DateOfBirth": {
+      "Year": "1977",
+      "Month": "8",
+      "Day": "17"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "18",
+    "LeagueId": "13",
+    "NationId": "18",
+    "Rating": "81",
+    "Attribute1": "63",
+    "Attribute2": "50",
+    "Attribute3": "56",
+    "Attribute4": "56",
+    "Attribute5": "80",
+    "Attribute6": "85",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

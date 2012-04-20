@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Hope",
+    "LastName": "Akpan",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "8",
+      "Day": "14"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110890",
+    "LeagueId": "61",
+    "NationId": "133",
+    "Rating": "64",
+    "Attribute1": "63",
+    "Attribute2": "48",
+    "Attribute3": "51",
+    "Attribute4": "46",
+    "Attribute5": "66",
+    "Attribute6": "60",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

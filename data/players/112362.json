@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "François",
+    "LastName": "Zoko",
+    "CommonName": null,
+    "Height": "181",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "9",
+      "Day": "13"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1480",
+    "LeagueId": "60",
+    "NationId": "108",
+    "Rating": "63",
+    "Attribute1": "74",
+    "Attribute2": "67",
+    "Attribute3": "56",
+    "Attribute4": "62",
+    "Attribute5": "56",
+    "Attribute6": "65",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

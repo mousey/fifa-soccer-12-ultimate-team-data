@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Leon",
+    "LastName": "Britton",
+    "CommonName": null,
+    "Height": "165",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "9",
+      "Day": "16"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1960",
+    "LeagueId": "13",
+    "NationId": "14",
+    "Rating": "68",
+    "Attribute1": "69",
+    "Attribute2": "46",
+    "Attribute3": "68",
+    "Attribute4": "75",
+    "Attribute5": "61",
+    "Attribute6": "50",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

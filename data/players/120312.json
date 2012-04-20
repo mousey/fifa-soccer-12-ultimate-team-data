@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Michael",
+    "LastName": "Dawson",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "11",
+      "Day": "18"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "18",
+    "LeagueId": "13",
+    "NationId": "14",
+    "Rating": "80",
+    "Attribute1": "67",
+    "Attribute2": "31",
+    "Attribute3": "51",
+    "Attribute4": "30",
+    "Attribute5": "82",
+    "Attribute6": "85",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

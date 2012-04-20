@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Titus",
+    "LastName": "Bramble",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "7",
+      "Day": "31"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "106",
+    "LeagueId": "13",
+    "NationId": "14",
+    "Rating": "74",
+    "Attribute1": "69",
+    "Attribute2": "42",
+    "Attribute3": "54",
+    "Attribute4": "35",
+    "Attribute5": "78",
+    "Attribute6": "82",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

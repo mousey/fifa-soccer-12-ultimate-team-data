@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Nzuzi",
+    "LastName": "Toko",
+    "CommonName": null,
+    "Height": "171",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "11",
+      "Day": "20"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "322",
+    "LeagueId": "189",
+    "NationId": "47",
+    "Rating": "57",
+    "Attribute1": "79",
+    "Attribute2": "50",
+    "Attribute3": "57",
+    "Attribute4": "67",
+    "Attribute5": "55",
+    "Attribute6": "56",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

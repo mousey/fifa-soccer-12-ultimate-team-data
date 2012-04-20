@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Keisuke",
+    "LastName": "Honda",
+    "CommonName": null,
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "6",
+      "Day": "13"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "315",
+    "LeagueId": "67",
+    "NationId": "163",
+    "Rating": "81",
+    "Attribute1": "83",
+    "Attribute2": "82",
+    "Attribute3": "79",
+    "Attribute4": "81",
+    "Attribute5": "69",
+    "Attribute6": "74",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

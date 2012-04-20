@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Johnnie",
+    "LastName": "Jackson",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "8",
+      "Day": "15"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "89",
+    "LeagueId": "60",
+    "NationId": "14",
+    "Rating": "66",
+    "Attribute1": "59",
+    "Attribute2": "66",
+    "Attribute3": "72",
+    "Attribute4": "58",
+    "Attribute5": "52",
+    "Attribute6": "48",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

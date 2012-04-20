@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Sami",
+    "LastName": "Khedira",
+    "CommonName": null,
+    "Height": "189",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "4",
+      "Day": "4"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "243",
+    "LeagueId": "53",
+    "NationId": "21",
+    "Rating": "81",
+    "Attribute1": "64",
+    "Attribute2": "72",
+    "Attribute3": "73",
+    "Attribute4": "69",
+    "Attribute5": "82",
+    "Attribute6": "81",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Mario",
+    "LastName": "Santana",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "12",
+      "Day": "23"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "48",
+    "LeagueId": "31",
+    "NationId": "52",
+    "Rating": "77",
+    "Attribute1": "78",
+    "Attribute2": "72",
+    "Attribute3": "71",
+    "Attribute4": "83",
+    "Attribute5": "61",
+    "Attribute6": "60",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Johnny",
+    "LastName": "Russell",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "4",
+      "Day": "8"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "181",
+    "LeagueId": "50",
+    "NationId": "42",
+    "Rating": "70",
+    "Attribute1": "92",
+    "Attribute2": "62",
+    "Attribute3": "40",
+    "Attribute4": "76",
+    "Attribute5": "44",
+    "Attribute6": "80",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

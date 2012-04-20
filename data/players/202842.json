@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Thomas",
+    "LastName": "Boyle",
+    "CommonName": null,
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "4",
+      "Day": "24"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111132",
+    "LeagueId": "65",
+    "NationId": "25",
+    "Rating": "53",
+    "Attribute1": "34",
+    "Attribute2": "31",
+    "Attribute3": "25",
+    "Attribute4": "29",
+    "Attribute5": "60",
+    "Attribute6": "58",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

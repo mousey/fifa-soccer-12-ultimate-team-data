@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Konstantinos",
+    "LastName": "Chalkias",
+    "CommonName": null,
+    "Height": "199",
+    "DateOfBirth": {
+      "Year": "1974",
+      "Month": "5",
+      "Day": "30"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "393",
+    "LeagueId": "63",
+    "NationId": "22",
+    "Rating": "71",
+    "Attribute1": "71",
+    "Attribute2": "69",
+    "Attribute3": "76",
+    "Attribute4": "74",
+    "Attribute5": "60",
+    "Attribute6": "68",
+    "Rare": "1",
+    "ItemType": "PlayerGk"
+  }
+}

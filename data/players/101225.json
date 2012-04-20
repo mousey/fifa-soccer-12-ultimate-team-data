@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "João Alexandre",
+    "LastName": "Duarte Fernandes",
+    "CommonName": "Neca",
+    "Height": "177",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "12",
+      "Day": "31"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "665",
+    "LeagueId": "308",
+    "NationId": "38",
+    "Rating": "73",
+    "Attribute1": "64",
+    "Attribute2": "70",
+    "Attribute3": "72",
+    "Attribute4": "74",
+    "Attribute5": "57",
+    "Attribute6": "63",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

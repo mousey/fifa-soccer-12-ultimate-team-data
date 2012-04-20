@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Mario",
+    "LastName": "Yepes",
+    "CommonName": null,
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1976",
+      "Month": "1",
+      "Day": "13"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "47",
+    "LeagueId": "31",
+    "NationId": "56",
+    "Rating": "77",
+    "Attribute1": "48",
+    "Attribute2": "43",
+    "Attribute3": "52",
+    "Attribute4": "38",
+    "Attribute5": "79",
+    "Attribute6": "79",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

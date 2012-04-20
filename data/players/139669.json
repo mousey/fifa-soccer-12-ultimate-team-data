@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Giovanni",
+    "LastName": "Marchese",
+    "CommonName": null,
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "10",
+      "Day": "17"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "110364",
+    "LeagueId": "31",
+    "NationId": "27",
+    "Rating": "69",
+    "Attribute1": "73",
+    "Attribute2": "52",
+    "Attribute3": "66",
+    "Attribute4": "62",
+    "Attribute5": "69",
+    "Attribute6": "64",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

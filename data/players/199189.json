@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ross",
+    "LastName": "Barkley",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1993",
+      "Month": "12",
+      "Day": "5"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "7",
+    "LeagueId": "13",
+    "NationId": "14",
+    "Rating": "69",
+    "Attribute1": "79",
+    "Attribute2": "60",
+    "Attribute3": "70",
+    "Attribute4": "67",
+    "Attribute5": "59",
+    "Attribute6": "66",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

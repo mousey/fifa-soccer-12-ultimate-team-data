@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Matthias",
+    "LastName": "Zimmermann",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1992",
+      "Month": "6",
+      "Day": "16"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "23",
+    "LeagueId": "19",
+    "NationId": "21",
+    "Rating": "66",
+    "Attribute1": "74",
+    "Attribute2": "46",
+    "Attribute3": "63",
+    "Attribute4": "65",
+    "Attribute5": "59",
+    "Attribute6": "53",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

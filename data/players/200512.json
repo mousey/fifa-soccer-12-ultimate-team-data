@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Osman",
+    "LastName": "Chávez",
+    "CommonName": null,
+    "Height": "187",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "7",
+      "Day": "29"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1873",
+    "LeagueId": "66",
+    "NationId": "81",
+    "Rating": "71",
+    "Attribute1": "64",
+    "Attribute2": "42",
+    "Attribute3": "29",
+    "Attribute4": "44",
+    "Attribute5": "76",
+    "Attribute6": "72",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

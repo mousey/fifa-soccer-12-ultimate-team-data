@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Andrea",
+    "LastName": "Romanò",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1993",
+      "Month": "7",
+      "Day": "23"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "44",
+    "LeagueId": "31",
+    "NationId": "27",
+    "Rating": "60",
+    "Attribute1": "62",
+    "Attribute2": "47",
+    "Attribute3": "64",
+    "Attribute4": "60",
+    "Attribute5": "52",
+    "Attribute6": "52",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

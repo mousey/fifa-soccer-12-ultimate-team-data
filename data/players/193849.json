@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Conor",
+    "LastName": "Hourihane",
+    "CommonName": null,
+    "Height": "181",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "2",
+      "Day": "2"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1929",
+    "LeagueId": "61",
+    "NationId": "25",
+    "Rating": "56",
+    "Attribute1": "67",
+    "Attribute2": "47",
+    "Attribute3": "53",
+    "Attribute4": "61",
+    "Attribute5": "40",
+    "Attribute6": "52",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

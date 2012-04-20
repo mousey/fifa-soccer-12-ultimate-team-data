@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Gabriel",
+    "LastName": "Zakuani",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "5",
+      "Day": "31"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1938",
+    "LeagueId": "14",
+    "NationId": "110",
+    "Rating": "64",
+    "Attribute1": "80",
+    "Attribute2": "22",
+    "Attribute3": "33",
+    "Attribute4": "39",
+    "Attribute5": "68",
+    "Attribute6": "70",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

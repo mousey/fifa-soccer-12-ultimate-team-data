@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Axel",
+    "LastName": "Witsel",
+    "CommonName": null,
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "1",
+      "Day": "12"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "234",
+    "LeagueId": "308",
+    "NationId": "7",
+    "Rating": "76",
+    "Attribute1": "73",
+    "Attribute2": "73",
+    "Attribute3": "73",
+    "Attribute4": "79",
+    "Attribute5": "71",
+    "Attribute6": "74",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

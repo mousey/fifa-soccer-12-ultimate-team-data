@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Johan",
+    "LastName": "Cavalli",
+    "CommonName": null,
+    "Height": "170",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "9",
+      "Day": "12"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "614",
+    "LeagueId": "16",
+    "NationId": "18",
+    "Rating": "62",
+    "Attribute1": "63",
+    "Attribute2": "54",
+    "Attribute3": "66",
+    "Attribute4": "68",
+    "Attribute5": "51",
+    "Attribute6": "49",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

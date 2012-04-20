@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Adil",
+    "LastName": "Ramzi",
+    "CommonName": null,
+    "Height": "179",
+    "DateOfBirth": {
+      "Year": "1977",
+      "Month": "7",
+      "Day": "14"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1902",
+    "LeagueId": "10",
+    "NationId": "129",
+    "Rating": "66",
+    "Attribute1": "59",
+    "Attribute2": "61",
+    "Attribute3": "70",
+    "Attribute4": "70",
+    "Attribute5": "57",
+    "Attribute6": "63",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

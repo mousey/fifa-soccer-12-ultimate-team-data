@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Lens",
+    "LastName": "Annab",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "7",
+      "Day": "20"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "681",
+    "LeagueId": "4",
+    "NationId": "7",
+    "Rating": "65",
+    "Attribute1": "64",
+    "Attribute2": "52",
+    "Attribute3": "60",
+    "Attribute4": "72",
+    "Attribute5": "59",
+    "Attribute6": "56",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

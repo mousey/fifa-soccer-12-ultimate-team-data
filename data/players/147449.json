@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Júlio César",
+    "LastName": "da Silva Sousa",
+    "CommonName": "Júlio César",
+    "Height": "177",
+    "DateOfBirth": {
+      "Year": "1980",
+      "Month": "2",
+      "Day": "2"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "111045",
+    "LeagueId": "7",
+    "NationId": "54",
+    "Rating": "69",
+    "Attribute1": "70",
+    "Attribute2": "70",
+    "Attribute3": "53",
+    "Attribute4": "71",
+    "Attribute5": "52",
+    "Attribute6": "62",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

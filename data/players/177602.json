@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "William",
+    "LastName": "Paredes",
+    "CommonName": null,
+    "Height": "166",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "9",
+      "Day": "9"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1032",
+    "LeagueId": "341",
+    "NationId": "83",
+    "Rating": "66",
+    "Attribute1": "80",
+    "Attribute2": "55",
+    "Attribute3": "63",
+    "Attribute4": "69",
+    "Attribute5": "64",
+    "Attribute6": "63",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

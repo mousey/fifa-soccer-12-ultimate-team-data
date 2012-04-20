@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Pablo",
+    "LastName": "Ibáñez Tebar",
+    "CommonName": "Pablo Ibáñez",
+    "Height": "192",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "8",
+      "Day": "3"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "88",
+    "LeagueId": "14",
+    "NationId": "45",
+    "Rating": "73",
+    "Attribute1": "52",
+    "Attribute2": "40",
+    "Attribute3": "55",
+    "Attribute4": "47",
+    "Attribute5": "75",
+    "Attribute6": "74",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Rauwshan",
+    "LastName": "McKenzie",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "11",
+      "Day": "19"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111065",
+    "LeagueId": "39",
+    "NationId": "95",
+    "Rating": "61",
+    "Attribute1": "61",
+    "Attribute2": "32",
+    "Attribute3": "43",
+    "Attribute4": "44",
+    "Attribute5": "64",
+    "Attribute6": "65",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

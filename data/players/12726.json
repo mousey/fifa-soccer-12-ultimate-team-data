@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ian",
+    "LastName": "Bennett",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1971",
+      "Month": "10",
+      "Day": "10"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1939",
+    "LeagueId": "60",
+    "NationId": "14",
+    "Rating": "63",
+    "Attribute1": "66",
+    "Attribute2": "62",
+    "Attribute3": "60",
+    "Attribute4": "59",
+    "Attribute5": "22",
+    "Attribute6": "64",
+    "Rare": "1",
+    "ItemType": "PlayerGk"
+  }
+}

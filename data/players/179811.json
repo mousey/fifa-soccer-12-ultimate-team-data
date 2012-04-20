@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Brecht",
+    "LastName": "Capon",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "4",
+      "Day": "22"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "100081",
+    "LeagueId": "4",
+    "NationId": "7",
+    "Rating": "65",
+    "Attribute1": "75",
+    "Attribute2": "61",
+    "Attribute3": "60",
+    "Attribute4": "65",
+    "Attribute5": "61",
+    "Attribute6": "61",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

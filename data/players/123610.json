@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Giandomenico",
+    "LastName": "Mesto",
+    "CommonName": null,
+    "Height": "181",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "5",
+      "Day": "25"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110556",
+    "LeagueId": "31",
+    "NationId": "27",
+    "Rating": "76",
+    "Attribute1": "83",
+    "Attribute2": "69",
+    "Attribute3": "75",
+    "Attribute4": "72",
+    "Attribute5": "75",
+    "Attribute6": "67",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

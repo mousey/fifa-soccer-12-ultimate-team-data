@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Sofian",
+    "LastName": "Chahed",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "4",
+      "Day": "18"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "485",
+    "LeagueId": "19",
+    "NationId": "145",
+    "Rating": "66",
+    "Attribute1": "65",
+    "Attribute2": "51",
+    "Attribute3": "64",
+    "Attribute4": "65",
+    "Attribute5": "65",
+    "Attribute6": "64",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Anton",
+    "LastName": "Shunin",
+    "CommonName": null,
+    "Height": "190",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "1",
+      "Day": "27"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "312",
+    "LeagueId": "67",
+    "NationId": "40",
+    "Rating": "75",
+    "Attribute1": "72",
+    "Attribute2": "79",
+    "Attribute3": "72",
+    "Attribute4": "79",
+    "Attribute5": "43",
+    "Attribute6": "75",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

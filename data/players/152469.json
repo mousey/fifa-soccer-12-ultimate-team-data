@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Kelvin",
+    "LastName": "Davis",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1976",
+      "Month": "9",
+      "Day": "29"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "17",
+    "LeagueId": "14",
+    "NationId": "14",
+    "Rating": "69",
+    "Attribute1": "67",
+    "Attribute2": "69",
+    "Attribute3": "73",
+    "Attribute4": "70",
+    "Attribute5": "61",
+    "Attribute6": "70",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

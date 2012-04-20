@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Stiven",
+    "LastName": "Rivić",
+    "CommonName": null,
+    "Height": "181",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "8",
+      "Day": "9"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "29",
+    "LeagueId": "19",
+    "NationId": "10",
+    "Rating": "68",
+    "Attribute1": "74",
+    "Attribute2": "63",
+    "Attribute3": "65",
+    "Attribute4": "72",
+    "Attribute5": "47",
+    "Attribute6": "47",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

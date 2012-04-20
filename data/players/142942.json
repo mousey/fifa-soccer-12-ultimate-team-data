@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Javier",
+    "LastName": "Gandolfi",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1980",
+      "Month": "12",
+      "Day": "5"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "111678",
+    "LeagueId": "341",
+    "NationId": "52",
+    "Rating": "67",
+    "Attribute1": "42",
+    "Attribute2": "35",
+    "Attribute3": "56",
+    "Attribute4": "46",
+    "Attribute5": "69",
+    "Attribute6": "67",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

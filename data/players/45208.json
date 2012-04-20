@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Grégory",
+    "LastName": "Dufer",
+    "CommonName": null,
+    "Height": "176",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "12",
+      "Day": "19"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "680",
+    "LeagueId": "4",
+    "NationId": "7",
+    "Rating": "66",
+    "Attribute1": "67",
+    "Attribute2": "70",
+    "Attribute3": "65",
+    "Attribute4": "67",
+    "Attribute5": "46",
+    "Attribute6": "51",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

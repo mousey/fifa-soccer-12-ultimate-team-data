@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Abdelhamid",
+    "LastName": "El Kaoutari",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "3",
+      "Day": "17"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "70",
+    "LeagueId": "16",
+    "NationId": "129",
+    "Rating": "72",
+    "Attribute1": "68",
+    "Attribute2": "33",
+    "Attribute3": "61",
+    "Attribute4": "45",
+    "Attribute5": "74",
+    "Attribute6": "71",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

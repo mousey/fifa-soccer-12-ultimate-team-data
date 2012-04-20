@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Yoann",
+    "LastName": "Gourcuff",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "7",
+      "Day": "11"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "66",
+    "LeagueId": "16",
+    "NationId": "18",
+    "Rating": "81",
+    "Attribute1": "77",
+    "Attribute2": "77",
+    "Attribute3": "80",
+    "Attribute4": "79",
+    "Attribute5": "66",
+    "Attribute6": "72",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

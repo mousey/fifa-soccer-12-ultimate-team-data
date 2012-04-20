@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Christian",
+    "LastName": "Gratzei",
+    "CommonName": null,
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "9",
+      "Day": "19"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "209",
+    "LeagueId": "80",
+    "NationId": "4",
+    "Rating": "72",
+    "Attribute1": "70",
+    "Attribute2": "76",
+    "Attribute3": "75",
+    "Attribute4": "74",
+    "Attribute5": "60",
+    "Attribute6": "69",
+    "Rare": "1",
+    "ItemType": "PlayerGk"
+  }
+}

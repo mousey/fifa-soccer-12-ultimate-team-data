@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Young Sun",
+    "LastName": "Yun",
+    "CommonName": "Yun Young Sun",
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "10",
+      "Day": "4"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "981",
+    "LeagueId": "83",
+    "NationId": "167",
+    "Rating": "65",
+    "Attribute1": "78",
+    "Attribute2": "32",
+    "Attribute3": "43",
+    "Attribute4": "42",
+    "Attribute5": "73",
+    "Attribute6": "66",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

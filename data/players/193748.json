@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Sandro",
+    "LastName": "Kaiser",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "9",
+      "Day": "21"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "33",
+    "LeagueId": "20",
+    "NationId": "21",
+    "Rating": "61",
+    "Attribute1": "76",
+    "Attribute2": "47",
+    "Attribute3": "57",
+    "Attribute4": "65",
+    "Attribute5": "59",
+    "Attribute6": "48",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

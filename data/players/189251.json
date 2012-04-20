@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Sebastian",
+    "LastName": "Rudy",
+    "CommonName": null,
+    "Height": "179",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "2",
+      "Day": "28"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "10029",
+    "LeagueId": "19",
+    "NationId": "21",
+    "Rating": "74",
+    "Attribute1": "70",
+    "Attribute2": "69",
+    "Attribute3": "75",
+    "Attribute4": "76",
+    "Attribute5": "70",
+    "Attribute6": "64",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

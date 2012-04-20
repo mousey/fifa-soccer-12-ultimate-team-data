@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Samir",
+    "LastName": "Muratović",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1976",
+      "Month": "2",
+      "Day": "25"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "209",
+    "LeagueId": "80",
+    "NationId": "8",
+    "Rating": "67",
+    "Attribute1": "60",
+    "Attribute2": "66",
+    "Attribute3": "65",
+    "Attribute4": "66",
+    "Attribute5": "64",
+    "Attribute6": "66",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

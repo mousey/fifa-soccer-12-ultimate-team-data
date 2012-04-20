@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Aritz",
+    "LastName": "Borda Etxezarreta",
+    "CommonName": "Borda",
+    "Height": "189",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "1",
+      "Day": "3"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "571",
+    "LeagueId": "54",
+    "NationId": "45",
+    "Rating": "63",
+    "Attribute1": "47",
+    "Attribute2": "45",
+    "Attribute3": "48",
+    "Attribute4": "39",
+    "Attribute5": "69",
+    "Attribute6": "61",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

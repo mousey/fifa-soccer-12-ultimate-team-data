@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Nemanja",
+    "LastName": "Vidić",
+    "CommonName": null,
+    "Height": "189",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "10",
+      "Day": "21"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "11",
+    "LeagueId": "13",
+    "NationId": "51",
+    "Rating": "89",
+    "Attribute1": "67",
+    "Attribute2": "44",
+    "Attribute3": "58",
+    "Attribute4": "52",
+    "Attribute5": "89",
+    "Attribute6": "91",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

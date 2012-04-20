@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "James",
+    "LastName": "Chambers",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1980",
+      "Month": "11",
+      "Day": "20"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "142",
+    "LeagueId": "14",
+    "NationId": "14",
+    "Rating": "65",
+    "Attribute1": "76",
+    "Attribute2": "51",
+    "Attribute3": "58",
+    "Attribute4": "63",
+    "Attribute5": "66",
+    "Attribute6": "67",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

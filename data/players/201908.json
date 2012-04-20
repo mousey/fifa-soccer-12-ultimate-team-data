@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Andre",
+    "LastName": "Wisdom",
+    "CommonName": null,
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1993",
+      "Month": "5",
+      "Day": "9"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "9",
+    "LeagueId": "13",
+    "NationId": "14",
+    "Rating": "55",
+    "Attribute1": "67",
+    "Attribute2": "28",
+    "Attribute3": "30",
+    "Attribute4": "36",
+    "Attribute5": "58",
+    "Attribute6": "67",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

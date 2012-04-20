@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Alexandru",
+    "LastName": "Ioniţă",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "8",
+      "Day": "5"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "31",
+    "LeagueId": "19",
+    "NationId": "39",
+    "Rating": "68",
+    "Attribute1": "68",
+    "Attribute2": "65",
+    "Attribute3": "51",
+    "Attribute4": "61",
+    "Attribute5": "50",
+    "Attribute6": "69",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

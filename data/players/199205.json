@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "R. Martinho",
+    "LastName": "Alves de Lima",
+    "CommonName": "Raphael Martinho",
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "4",
+      "Day": "15"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "110915",
+    "LeagueId": "31",
+    "NationId": "54",
+    "Rating": "72",
+    "Attribute1": "89",
+    "Attribute2": "67",
+    "Attribute3": "65",
+    "Attribute4": "76",
+    "Attribute5": "56",
+    "Attribute6": "57",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

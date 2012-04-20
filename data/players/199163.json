@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Kevin",
+    "LastName": "Wattamaleo",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "1",
+      "Day": "25"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1971",
+    "LeagueId": "10",
+    "NationId": "34",
+    "Rating": "64",
+    "Attribute1": "69",
+    "Attribute2": "58",
+    "Attribute3": "64",
+    "Attribute4": "64",
+    "Attribute5": "71",
+    "Attribute6": "67",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

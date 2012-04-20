@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Brede",
+    "LastName": "Hangeland",
+    "CommonName": null,
+    "Height": "195",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "6",
+      "Day": "20"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "144",
+    "LeagueId": "13",
+    "NationId": "36",
+    "Rating": "81",
+    "Attribute1": "60",
+    "Attribute2": "53",
+    "Attribute3": "58",
+    "Attribute4": "46",
+    "Attribute5": "86",
+    "Attribute6": "66",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

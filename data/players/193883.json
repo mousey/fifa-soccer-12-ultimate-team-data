@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Kushtrim",
+    "LastName": "Lushtaku",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "10",
+      "Day": "8"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "705",
+    "LeagueId": "56",
+    "NationId": "1",
+    "Rating": "62",
+    "Attribute1": "74",
+    "Attribute2": "57",
+    "Attribute3": "50",
+    "Attribute4": "66",
+    "Attribute5": "47",
+    "Attribute6": "60",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

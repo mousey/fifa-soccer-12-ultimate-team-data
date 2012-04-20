@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "William",
+    "LastName": "Grigg",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "7",
+      "Day": "3"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1803",
+    "LeagueId": "60",
+    "NationId": "35",
+    "Rating": "58",
+    "Attribute1": "69",
+    "Attribute2": "57",
+    "Attribute3": "40",
+    "Attribute4": "53",
+    "Attribute5": "46",
+    "Attribute6": "59",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

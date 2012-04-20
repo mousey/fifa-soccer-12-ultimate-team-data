@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Adnan",
+    "LastName": "Haidar",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "8",
+      "Day": "3"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "920",
+    "LeagueId": "41",
+    "NationId": "36",
+    "Rating": "57",
+    "Attribute1": "67",
+    "Attribute2": "48",
+    "Attribute3": "55",
+    "Attribute4": "68",
+    "Attribute5": "59",
+    "Attribute6": "47",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

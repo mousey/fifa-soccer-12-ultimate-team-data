@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Kalú",
+    "LastName": "Gastelum",
+    "CommonName": null,
+    "Height": "173",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "2",
+      "Day": "28"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1028",
+    "LeagueId": "341",
+    "NationId": "83",
+    "Rating": "68",
+    "Attribute1": "62",
+    "Attribute2": "55",
+    "Attribute3": "60",
+    "Attribute4": "64",
+    "Attribute5": "68",
+    "Attribute6": "64",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

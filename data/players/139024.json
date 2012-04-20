@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ismael",
+    "LastName": "Íñiguez",
+    "CommonName": null,
+    "Height": "168",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "7",
+      "Day": "23"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111678",
+    "LeagueId": "341",
+    "NationId": "83",
+    "Rating": "64",
+    "Attribute1": "74",
+    "Attribute2": "61",
+    "Attribute3": "60",
+    "Attribute4": "66",
+    "Attribute5": "49",
+    "Attribute6": "63",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

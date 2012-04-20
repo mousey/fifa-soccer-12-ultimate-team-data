@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Alberto Tomás",
+    "LastName": "Botía Rabasco",
+    "CommonName": "Botía",
+    "Height": "187",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "1",
+      "Day": "27"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "459",
+    "LeagueId": "53",
+    "NationId": "45",
+    "Rating": "77",
+    "Attribute1": "62",
+    "Attribute2": "52",
+    "Attribute3": "64",
+    "Attribute4": "56",
+    "Attribute5": "78",
+    "Attribute6": "78",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

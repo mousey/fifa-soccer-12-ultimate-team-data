@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Guillermo",
+    "LastName": "Rojas",
+    "CommonName": null,
+    "Height": "165",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "3",
+      "Day": "29"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "101114",
+    "LeagueId": "341",
+    "NationId": "83",
+    "Rating": "67",
+    "Attribute1": "92",
+    "Attribute2": "54",
+    "Attribute3": "58",
+    "Attribute4": "70",
+    "Attribute5": "49",
+    "Attribute6": "52",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

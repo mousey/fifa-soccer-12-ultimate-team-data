@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Deivson Rogério",
+    "LastName": "Da Silva",
+    "CommonName": "Bobô",
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "1",
+      "Day": "1"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "568",
+    "LeagueId": "7",
+    "NationId": "54",
+    "Rating": "74",
+    "Attribute1": "58",
+    "Attribute2": "71",
+    "Attribute3": "61",
+    "Attribute4": "68",
+    "Attribute5": "56",
+    "Attribute6": "64",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

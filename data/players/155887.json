@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Michael",
+    "LastName": "Bradley",
+    "CommonName": null,
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "7",
+      "Day": "31"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "192",
+    "LeagueId": "31",
+    "NationId": "95",
+    "Rating": "73",
+    "Attribute1": "66",
+    "Attribute2": "71",
+    "Attribute3": "70",
+    "Attribute4": "70",
+    "Attribute5": "74",
+    "Attribute6": "72",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

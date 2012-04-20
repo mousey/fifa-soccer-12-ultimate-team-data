@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Hal",
+    "LastName": "Robson-Kanu",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "5",
+      "Day": "21"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1793",
+    "LeagueId": "14",
+    "NationId": "50",
+    "Rating": "65",
+    "Attribute1": "85",
+    "Attribute2": "57",
+    "Attribute3": "56",
+    "Attribute4": "68",
+    "Attribute5": "47",
+    "Attribute6": "52",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

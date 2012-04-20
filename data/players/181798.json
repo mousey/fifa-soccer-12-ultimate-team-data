@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Robbie",
+    "LastName": "Clarke",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "9",
+      "Day": "16"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1572",
+    "LeagueId": "65",
+    "NationId": "25",
+    "Rating": "53",
+    "Attribute1": "62",
+    "Attribute2": "35",
+    "Attribute3": "43",
+    "Attribute4": "45",
+    "Attribute5": "54",
+    "Attribute6": "53",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

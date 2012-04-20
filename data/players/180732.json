@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Rodrigo",
+    "LastName": "Vargas",
+    "CommonName": null,
+    "Height": "181",
+    "DateOfBirth": {
+      "Year": "1978",
+      "Month": "10",
+      "Day": "20"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111397",
+    "LeagueId": "351",
+    "NationId": "195",
+    "Rating": "63",
+    "Attribute1": "40",
+    "Attribute2": "43",
+    "Attribute3": "45",
+    "Attribute4": "43",
+    "Attribute5": "67",
+    "Attribute6": "70",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

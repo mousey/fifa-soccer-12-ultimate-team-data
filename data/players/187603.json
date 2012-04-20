@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Andrey",
+    "LastName": "Ivanov",
+    "CommonName": null,
+    "Height": "179",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "10",
+      "Day": "8"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "100765",
+    "LeagueId": "67",
+    "NationId": "40",
+    "Rating": "71",
+    "Attribute1": "73",
+    "Attribute2": "47",
+    "Attribute3": "66",
+    "Attribute4": "60",
+    "Attribute5": "71",
+    "Attribute6": "64",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

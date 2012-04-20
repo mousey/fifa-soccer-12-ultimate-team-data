@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Alessio",
+    "LastName": "Sestu",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "9",
+      "Day": "29"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1838",
+    "LeagueId": "31",
+    "NationId": "27",
+    "Rating": "71",
+    "Attribute1": "80",
+    "Attribute2": "66",
+    "Attribute3": "66",
+    "Attribute4": "72",
+    "Attribute5": "61",
+    "Attribute6": "58",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

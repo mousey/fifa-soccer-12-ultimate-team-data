@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Philipp",
+    "LastName": "Tschauner",
+    "CommonName": null,
+    "Height": "196",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "11",
+      "Day": "3"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110329",
+    "LeagueId": "20",
+    "NationId": "21",
+    "Rating": "67",
+    "Attribute1": "70",
+    "Attribute2": "66",
+    "Attribute3": "60",
+    "Attribute4": "69",
+    "Attribute5": "53",
+    "Attribute6": "66",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

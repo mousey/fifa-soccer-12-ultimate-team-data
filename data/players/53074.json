@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Steffen",
+    "LastName": "Hofmann",
+    "CommonName": null,
+    "Height": "173",
+    "DateOfBirth": {
+      "Year": "1980",
+      "Month": "9",
+      "Day": "9"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "254",
+    "LeagueId": "80",
+    "NationId": "21",
+    "Rating": "75",
+    "Attribute1": "76",
+    "Attribute2": "71",
+    "Attribute3": "73",
+    "Attribute4": "80",
+    "Attribute5": "56",
+    "Attribute6": "58",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

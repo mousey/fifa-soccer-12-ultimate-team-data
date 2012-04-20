@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Francesco",
+    "LastName": "Benussi",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "10",
+      "Day": "15"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1843",
+    "LeagueId": "31",
+    "NationId": "27",
+    "Rating": "71",
+    "Attribute1": "73",
+    "Attribute2": "71",
+    "Attribute3": "66",
+    "Attribute4": "75",
+    "Attribute5": "50",
+    "Attribute6": "66",
+    "Rare": "1",
+    "ItemType": "PlayerGk"
+  }
+}

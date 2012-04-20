@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Keith",
+    "LastName": "Southern",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "4",
+      "Day": "24"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1926",
+    "LeagueId": "14",
+    "NationId": "14",
+    "Rating": "68",
+    "Attribute1": "61",
+    "Attribute2": "65",
+    "Attribute3": "72",
+    "Attribute4": "66",
+    "Attribute5": "71",
+    "Attribute6": "70",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

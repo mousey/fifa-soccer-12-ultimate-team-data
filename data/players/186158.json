@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Kyle",
+    "LastName": "Bartley",
+    "CommonName": null,
+    "Height": "194",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "5",
+      "Day": "22"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "86",
+    "LeagueId": "50",
+    "NationId": "14",
+    "Rating": "68",
+    "Attribute1": "72",
+    "Attribute2": "27",
+    "Attribute3": "44",
+    "Attribute4": "34",
+    "Attribute5": "75",
+    "Attribute6": "62",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

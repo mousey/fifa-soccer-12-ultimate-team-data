@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Miralem",
+    "LastName": "Sulejmani",
+    "CommonName": null,
+    "Height": "176",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "12",
+      "Day": "5"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "245",
+    "LeagueId": "10",
+    "NationId": "51",
+    "Rating": "77",
+    "Attribute1": "89",
+    "Attribute2": "75",
+    "Attribute3": "59",
+    "Attribute4": "80",
+    "Attribute5": "51",
+    "Attribute6": "59",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

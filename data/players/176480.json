@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jean",
+    "LastName": "Calvé",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "4",
+      "Day": "30"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1823",
+    "LeagueId": "16",
+    "NationId": "18",
+    "Rating": "67",
+    "Attribute1": "66",
+    "Attribute2": "51",
+    "Attribute3": "64",
+    "Attribute4": "42",
+    "Attribute5": "67",
+    "Attribute6": "67",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

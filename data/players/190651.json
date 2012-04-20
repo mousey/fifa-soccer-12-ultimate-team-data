@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Miguel Ángel",
+    "LastName": "Martínez",
+    "CommonName": null,
+    "Height": "187",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "1",
+      "Day": "19"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110151",
+    "LeagueId": "341",
+    "NationId": "52",
+    "Rating": "69",
+    "Attribute1": "60",
+    "Attribute2": "52",
+    "Attribute3": "51",
+    "Attribute4": "48",
+    "Attribute5": "74",
+    "Attribute6": "66",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

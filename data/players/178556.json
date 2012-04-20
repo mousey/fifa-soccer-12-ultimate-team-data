@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Danny",
+    "LastName": "Holla",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "12",
+      "Day": "31"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1915",
+    "LeagueId": "10",
+    "NationId": "34",
+    "Rating": "70",
+    "Attribute1": "69",
+    "Attribute2": "72",
+    "Attribute3": "71",
+    "Attribute4": "64",
+    "Attribute5": "69",
+    "Attribute6": "67",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

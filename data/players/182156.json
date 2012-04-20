@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Greg",
+    "LastName": "Bolger",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "9",
+      "Day": "9"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "837",
+    "LeagueId": "65",
+    "NationId": "25",
+    "Rating": "58",
+    "Attribute1": "60",
+    "Attribute2": "53",
+    "Attribute3": "57",
+    "Attribute4": "57",
+    "Attribute5": "45",
+    "Attribute6": "59",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

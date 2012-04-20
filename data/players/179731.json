@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "David",
+    "LastName": "Cabrera",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "9",
+      "Day": "7"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1881",
+    "LeagueId": "341",
+    "NationId": "83",
+    "Rating": "69",
+    "Attribute1": "72",
+    "Attribute2": "55",
+    "Attribute3": "65",
+    "Attribute4": "63",
+    "Attribute5": "67",
+    "Attribute6": "56",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Zac",
+    "LastName": "MacMath",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "8",
+      "Day": "7"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "112134",
+    "LeagueId": "39",
+    "NationId": "95",
+    "Rating": "61",
+    "Attribute1": "66",
+    "Attribute2": "59",
+    "Attribute3": "71",
+    "Attribute4": "57",
+    "Attribute5": "51",
+    "Attribute6": "61",
+    "Rare": "1",
+    "ItemType": "PlayerGk"
+  }
+}

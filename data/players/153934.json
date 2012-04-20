@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Francisco",
+    "LastName": "Medina Luna",
+    "CommonName": "Piti",
+    "Height": "174",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "5",
+      "Day": "26"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "480",
+    "LeagueId": "53",
+    "NationId": "45",
+    "Rating": "69",
+    "Attribute1": "72",
+    "Attribute2": "75",
+    "Attribute3": "58",
+    "Attribute4": "66",
+    "Attribute5": "54",
+    "Attribute6": "57",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Dušan",
+    "LastName": "Perniš",
+    "CommonName": null,
+    "Height": "191",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "11",
+      "Day": "28"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "181",
+    "LeagueId": "50",
+    "NationId": "43",
+    "Rating": "69",
+    "Attribute1": "68",
+    "Attribute2": "69",
+    "Attribute3": "71",
+    "Attribute4": "68",
+    "Attribute5": "38",
+    "Attribute6": "69",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

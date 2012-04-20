@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Billy",
+    "LastName": "Clifford",
+    "CommonName": null,
+    "Height": "168",
+    "DateOfBirth": {
+      "Year": "1992",
+      "Month": "10",
+      "Day": "18"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "5",
+    "LeagueId": "13",
+    "NationId": "14",
+    "Rating": "59",
+    "Attribute1": "68",
+    "Attribute2": "42",
+    "Attribute3": "49",
+    "Attribute4": "63",
+    "Attribute5": "58",
+    "Attribute6": "50",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

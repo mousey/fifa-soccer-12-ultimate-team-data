@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jonathan",
+    "LastName": "Mensah",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "7",
+      "Day": "13"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111271",
+    "LeagueId": "16",
+    "NationId": "117",
+    "Rating": "65",
+    "Attribute1": "60",
+    "Attribute2": "39",
+    "Attribute3": "42",
+    "Attribute4": "43",
+    "Attribute5": "70",
+    "Attribute6": "75",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

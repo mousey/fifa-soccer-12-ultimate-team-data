@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jack",
+    "LastName": "Colback",
+    "CommonName": null,
+    "Height": "176",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "10",
+      "Day": "24"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "106",
+    "LeagueId": "13",
+    "NationId": "14",
+    "Rating": "70",
+    "Attribute1": "75",
+    "Attribute2": "49",
+    "Attribute3": "71",
+    "Attribute4": "69",
+    "Attribute5": "63",
+    "Attribute6": "59",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

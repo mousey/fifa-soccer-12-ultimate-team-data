@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Corey",
+    "LastName": "Ashe",
+    "CommonName": null,
+    "Height": "168",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "3",
+      "Day": "14"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "698",
+    "LeagueId": "39",
+    "NationId": "95",
+    "Rating": "62",
+    "Attribute1": "89",
+    "Attribute2": "47",
+    "Attribute3": "59",
+    "Attribute4": "68",
+    "Attribute5": "57",
+    "Attribute6": "57",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

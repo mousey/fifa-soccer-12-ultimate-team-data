@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Kevin",
+    "LastName": "McNaughton",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "8",
+      "Day": "28"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1961",
+    "LeagueId": "14",
+    "NationId": "42",
+    "Rating": "69",
+    "Attribute1": "78",
+    "Attribute2": "52",
+    "Attribute3": "69",
+    "Attribute4": "60",
+    "Attribute5": "65",
+    "Attribute6": "66",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

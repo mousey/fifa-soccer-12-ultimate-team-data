@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Cameron",
+    "LastName": "Belford",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "10",
+      "Day": "16"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1945",
+    "LeagueId": "60",
+    "NationId": "14",
+    "Rating": "59",
+    "Attribute1": "67",
+    "Attribute2": "52",
+    "Attribute3": "53",
+    "Attribute4": "69",
+    "Attribute5": "48",
+    "Attribute6": "55",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Sam",
+    "LastName": "Togwell",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "10",
+      "Day": "14"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1949",
+    "LeagueId": "60",
+    "NationId": "14",
+    "Rating": "63",
+    "Attribute1": "68",
+    "Attribute2": "50",
+    "Attribute3": "63",
+    "Attribute4": "64",
+    "Attribute5": "60",
+    "Attribute6": "62",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

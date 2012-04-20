@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Vincenzo",
+    "LastName": "Italiano",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1977",
+      "Month": "12",
+      "Day": "10"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110912",
+    "LeagueId": "32",
+    "NationId": "27",
+    "Rating": "67",
+    "Attribute1": "57",
+    "Attribute2": "67",
+    "Attribute3": "70",
+    "Attribute4": "62",
+    "Attribute5": "61",
+    "Attribute6": "58",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

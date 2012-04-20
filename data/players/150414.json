@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Heiko",
+    "LastName": "Butscher",
+    "CommonName": null,
+    "Height": "189",
+    "DateOfBirth": {
+      "Year": "1980",
+      "Month": "7",
+      "Day": "28"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "25",
+    "LeagueId": "19",
+    "NationId": "21",
+    "Rating": "73",
+    "Attribute1": "49",
+    "Attribute2": "57",
+    "Attribute3": "66",
+    "Attribute4": "46",
+    "Attribute5": "76",
+    "Attribute6": "72",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

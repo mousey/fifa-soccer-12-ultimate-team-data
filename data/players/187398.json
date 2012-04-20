@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "John",
+    "LastName": "Mulroy",
+    "CommonName": null,
+    "Height": "176",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "12",
+      "Day": "27"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "838",
+    "LeagueId": "65",
+    "NationId": "25",
+    "Rating": "54",
+    "Attribute1": "71",
+    "Attribute2": "52",
+    "Attribute3": "42",
+    "Attribute4": "53",
+    "Attribute5": "37",
+    "Attribute6": "53",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

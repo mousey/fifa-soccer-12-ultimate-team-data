@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Branislav",
+    "LastName": "Miličević",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "7",
+      "Day": "23"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1524",
+    "LeagueId": "41",
+    "NationId": "51",
+    "Rating": "52",
+    "Attribute1": "68",
+    "Attribute2": "47",
+    "Attribute3": "49",
+    "Attribute4": "42",
+    "Attribute5": "53",
+    "Attribute6": "54",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

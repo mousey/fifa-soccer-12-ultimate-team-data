@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Victor Leandro",
+    "LastName": "Bagy",
+    "CommonName": "Victor",
+    "Height": "193",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "1",
+      "Day": "21"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1629",
+    "LeagueId": "7",
+    "NationId": "54",
+    "Rating": "78",
+    "Attribute1": "79",
+    "Attribute2": "83",
+    "Attribute3": "75",
+    "Attribute4": "74",
+    "Attribute5": "50",
+    "Attribute6": "77",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

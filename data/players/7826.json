@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Robin",
+    "LastName": "van Persie",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "8",
+      "Day": "6"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1",
+    "LeagueId": "13",
+    "NationId": "34",
+    "Rating": "86",
+    "Attribute1": "79",
+    "Attribute2": "89",
+    "Attribute3": "79",
+    "Attribute4": "84",
+    "Attribute5": "57",
+    "Attribute6": "66",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

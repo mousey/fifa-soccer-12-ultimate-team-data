@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Adam",
+    "LastName": "Boyd",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "5",
+      "Day": "25"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1941",
+    "LeagueId": "60",
+    "NationId": "14",
+    "Rating": "61",
+    "Attribute1": "54",
+    "Attribute2": "64",
+    "Attribute3": "45",
+    "Attribute4": "52",
+    "Attribute5": "48",
+    "Attribute6": "65",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Matías",
+    "LastName": "Caruzzo",
+    "CommonName": null,
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "8",
+      "Day": "15"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1877",
+    "LeagueId": "353",
+    "NationId": "52",
+    "Rating": "74",
+    "Attribute1": "66",
+    "Attribute2": "34",
+    "Attribute3": "56",
+    "Attribute4": "35",
+    "Attribute5": "77",
+    "Attribute6": "72",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

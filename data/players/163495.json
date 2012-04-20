@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Tim",
+    "LastName": "Matthys",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "12",
+      "Day": "23"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1747",
+    "LeagueId": "4",
+    "NationId": "7",
+    "Rating": "65",
+    "Attribute1": "71",
+    "Attribute2": "64",
+    "Attribute3": "60",
+    "Attribute4": "64",
+    "Attribute5": "53",
+    "Attribute6": "61",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

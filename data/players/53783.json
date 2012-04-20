@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Víctor Hugo",
+    "LastName": "Mareco",
+    "CommonName": null,
+    "Height": "189",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "2",
+      "Day": "26"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "206",
+    "LeagueId": "32",
+    "NationId": "58",
+    "Rating": "64",
+    "Attribute1": "52",
+    "Attribute2": "33",
+    "Attribute3": "53",
+    "Attribute4": "35",
+    "Attribute5": "75",
+    "Attribute6": "75",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

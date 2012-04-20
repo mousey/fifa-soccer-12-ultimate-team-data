@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Rodnei F.",
+    "LastName": "de Lima",
+    "CommonName": "Rodnei",
+    "Height": "190",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "9",
+      "Day": "11"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "29",
+    "LeagueId": "19",
+    "NationId": "54",
+    "Rating": "75",
+    "Attribute1": "66",
+    "Attribute2": "54",
+    "Attribute3": "55",
+    "Attribute4": "53",
+    "Attribute5": "78",
+    "Attribute6": "76",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Andy",
+    "LastName": "Halliday",
+    "CommonName": null,
+    "Height": "173",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "10",
+      "Day": "18"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "12",
+    "LeagueId": "14",
+    "NationId": "42",
+    "Rating": "65",
+    "Attribute1": "82",
+    "Attribute2": "50",
+    "Attribute3": "60",
+    "Attribute4": "67",
+    "Attribute5": "38",
+    "Attribute6": "51",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

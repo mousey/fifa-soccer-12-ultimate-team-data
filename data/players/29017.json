@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Freddy",
+    "LastName": "dos Santos",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1976",
+      "Month": "10",
+      "Day": "2"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "920",
+    "LeagueId": "41",
+    "NationId": "36",
+    "Rating": "57",
+    "Attribute1": "70",
+    "Attribute2": "55",
+    "Attribute3": "51",
+    "Attribute4": "47",
+    "Attribute5": "59",
+    "Attribute6": "58",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

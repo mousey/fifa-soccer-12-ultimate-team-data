@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "José Carlos",
+    "LastName": "Fernández Vázquez",
+    "CommonName": "Jose Carlos",
+    "Height": "177",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "7",
+      "Day": "17"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "278",
+    "LeagueId": "63",
+    "NationId": "45",
+    "Rating": "69",
+    "Attribute1": "77",
+    "Attribute2": "70",
+    "Attribute3": "72",
+    "Attribute4": "70",
+    "Attribute5": "52",
+    "Attribute6": "63",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

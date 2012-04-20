@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Caiuby Fr.",
+    "LastName": "da Silva",
+    "CommonName": "Caiuby",
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "7",
+      "Day": "14"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111239",
+    "LeagueId": "20",
+    "NationId": "54",
+    "Rating": "67",
+    "Attribute1": "82",
+    "Attribute2": "65",
+    "Attribute3": "57",
+    "Attribute4": "68",
+    "Attribute5": "54",
+    "Attribute6": "71",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

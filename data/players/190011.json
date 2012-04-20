@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Michel",
+    "LastName": "Avanzini",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "3",
+      "Day": "28"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1862",
+    "LeagueId": "189",
+    "NationId": "47",
+    "Rating": "56",
+    "Attribute1": "69",
+    "Attribute2": "49",
+    "Attribute3": "52",
+    "Attribute4": "56",
+    "Attribute5": "57",
+    "Attribute6": "53",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

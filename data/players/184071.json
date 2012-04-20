@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ryan",
+    "LastName": "Koolwijk",
+    "CommonName": null,
+    "Height": "196",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "8",
+      "Day": "8"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1910",
+    "LeagueId": "10",
+    "NationId": "34",
+    "Rating": "70",
+    "Attribute1": "41",
+    "Attribute2": "60",
+    "Attribute3": "75",
+    "Attribute4": "65",
+    "Attribute5": "67",
+    "Attribute6": "60",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

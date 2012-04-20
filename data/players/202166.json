@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Julian",
+    "LastName": "Draxler",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1993",
+      "Month": "9",
+      "Day": "20"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "34",
+    "LeagueId": "19",
+    "NationId": "21",
+    "Rating": "73",
+    "Attribute1": "70",
+    "Attribute2": "68",
+    "Attribute3": "67",
+    "Attribute4": "76",
+    "Attribute5": "43",
+    "Attribute6": "55",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

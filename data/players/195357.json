@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Fabien",
+    "LastName": "Farnolle",
+    "CommonName": null,
+    "Height": "196",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "2",
+      "Day": "2"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1815",
+    "LeagueId": "17",
+    "NationId": "18",
+    "Rating": "61",
+    "Attribute1": "64",
+    "Attribute2": "61",
+    "Attribute3": "59",
+    "Attribute4": "56",
+    "Attribute5": "39",
+    "Attribute6": "69",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Artur",
+    "LastName": "Jędrzejczyk",
+    "CommonName": null,
+    "Height": "189",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "11",
+      "Day": "4"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1871",
+    "LeagueId": "66",
+    "NationId": "37",
+    "Rating": "65",
+    "Attribute1": "67",
+    "Attribute2": "49",
+    "Attribute3": "59",
+    "Attribute4": "60",
+    "Attribute5": "68",
+    "Attribute6": "63",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Rodolfo",
+    "LastName": "Dantas Bispo",
+    "CommonName": "Rodolfo",
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "10",
+      "Day": "23"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1629",
+    "LeagueId": "7",
+    "NationId": "54",
+    "Rating": "73",
+    "Attribute1": "65",
+    "Attribute2": "64",
+    "Attribute3": "56",
+    "Attribute4": "49",
+    "Attribute5": "73",
+    "Attribute6": "78",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

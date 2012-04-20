@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Adam",
+    "LastName": "Barrett",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "11",
+      "Day": "29"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1943",
+    "LeagueId": "60",
+    "NationId": "14",
+    "Rating": "64",
+    "Attribute1": "39",
+    "Attribute2": "24",
+    "Attribute3": "33",
+    "Attribute4": "33",
+    "Attribute5": "69",
+    "Attribute6": "78",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

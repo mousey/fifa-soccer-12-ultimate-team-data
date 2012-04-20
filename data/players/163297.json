@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Miloš",
+    "LastName": "Krasić",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "11",
+      "Day": "1"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "45",
+    "LeagueId": "31",
+    "NationId": "51",
+    "Rating": "82",
+    "Attribute1": "90",
+    "Attribute2": "78",
+    "Attribute3": "74",
+    "Attribute4": "81",
+    "Attribute5": "61",
+    "Attribute6": "61",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

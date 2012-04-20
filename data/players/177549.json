@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Dominic",
+    "LastName": "Oduro",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "8",
+      "Day": "13"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "693",
+    "LeagueId": "39",
+    "NationId": "117",
+    "Rating": "63",
+    "Attribute1": "92",
+    "Attribute2": "55",
+    "Attribute3": "38",
+    "Attribute4": "65",
+    "Attribute5": "44",
+    "Attribute6": "60",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Theo",
+    "LastName": "Janssen",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "7",
+      "Day": "27"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "245",
+    "LeagueId": "10",
+    "NationId": "34",
+    "Rating": "79",
+    "Attribute1": "54",
+    "Attribute2": "80",
+    "Attribute3": "87",
+    "Attribute4": "68",
+    "Attribute5": "69",
+    "Attribute6": "62",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

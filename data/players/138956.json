@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Giorgio",
+    "LastName": "Chiellini",
+    "CommonName": null,
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "8",
+      "Day": "14"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "45",
+    "LeagueId": "31",
+    "NationId": "27",
+    "Rating": "84",
+    "Attribute1": "82",
+    "Attribute2": "58",
+    "Attribute3": "64",
+    "Attribute4": "48",
+    "Attribute5": "86",
+    "Attribute6": "85",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

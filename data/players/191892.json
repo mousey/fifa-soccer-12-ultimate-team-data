@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Tae Hyun",
+    "LastName": "Chun",
+    "CommonName": "Chun Tae Hyun",
+    "Height": "195",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "8",
+      "Day": "18"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1478",
+    "LeagueId": "83",
+    "NationId": "167",
+    "Rating": "53",
+    "Attribute1": "55",
+    "Attribute2": "54",
+    "Attribute3": "60",
+    "Attribute4": "61",
+    "Attribute5": "24",
+    "Attribute6": "51",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

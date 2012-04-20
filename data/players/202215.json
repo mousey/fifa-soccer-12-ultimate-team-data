@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Joe",
+    "LastName": "Willis",
+    "CommonName": null,
+    "Height": "196",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "8",
+      "Day": "10"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "688",
+    "LeagueId": "39",
+    "NationId": "95",
+    "Rating": "60",
+    "Attribute1": "63",
+    "Attribute2": "58",
+    "Attribute3": "57",
+    "Attribute4": "59",
+    "Attribute5": "47",
+    "Attribute6": "63",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

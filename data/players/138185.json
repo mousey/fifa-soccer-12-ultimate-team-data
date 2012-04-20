@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Stacy",
+    "LastName": "Long",
+    "CommonName": null,
+    "Height": "173",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "1",
+      "Day": "11"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "361",
+    "LeagueId": "60",
+    "NationId": "14",
+    "Rating": "56",
+    "Attribute1": "74",
+    "Attribute2": "46",
+    "Attribute3": "51",
+    "Attribute4": "59",
+    "Attribute5": "58",
+    "Attribute6": "63",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

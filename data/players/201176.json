@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ádám",
+    "LastName": "Pintér",
+    "CommonName": null,
+    "Height": "190",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "6",
+      "Day": "12"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "244",
+    "LeagueId": "53",
+    "NationId": "23",
+    "Rating": "67",
+    "Attribute1": "45",
+    "Attribute2": "46",
+    "Attribute3": "58",
+    "Attribute4": "46",
+    "Attribute5": "74",
+    "Attribute6": "61",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

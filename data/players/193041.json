@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Keylor",
+    "LastName": "Navas",
+    "CommonName": null,
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "12",
+      "Day": "15"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1853",
+    "LeagueId": "53",
+    "NationId": "72",
+    "Rating": "69",
+    "Attribute1": "75",
+    "Attribute2": "60",
+    "Attribute3": "65",
+    "Attribute4": "82",
+    "Attribute5": "54",
+    "Attribute6": "61",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

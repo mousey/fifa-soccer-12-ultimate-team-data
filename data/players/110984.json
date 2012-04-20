@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Mikel",
+    "LastName": "Alonso Olano",
+    "CommonName": "Mikel Alonso",
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1980",
+      "Month": "5",
+      "Day": "17"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "89",
+    "LeagueId": "60",
+    "NationId": "45",
+    "Rating": "65",
+    "Attribute1": "56",
+    "Attribute2": "61",
+    "Attribute3": "66",
+    "Attribute4": "57",
+    "Attribute5": "61",
+    "Attribute6": "56",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Dong Won",
+    "LastName": "Lee",
+    "CommonName": "Lee Dong Won",
+    "Height": "189",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "11",
+      "Day": "7"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1476",
+    "LeagueId": "83",
+    "NationId": "167",
+    "Rating": "62",
+    "Attribute1": "56",
+    "Attribute2": "26",
+    "Attribute3": "36",
+    "Attribute4": "30",
+    "Attribute5": "68",
+    "Attribute6": "78",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

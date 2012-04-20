@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Stefan",
+    "LastName": "Kießling",
+    "CommonName": null,
+    "Height": "191",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "1",
+      "Day": "25"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "32",
+    "LeagueId": "19",
+    "NationId": "21",
+    "Rating": "79",
+    "Attribute1": "73",
+    "Attribute2": "76",
+    "Attribute3": "65",
+    "Attribute4": "67",
+    "Attribute5": "59",
+    "Attribute6": "80",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Christian",
+    "LastName": "Benítez",
+    "CommonName": null,
+    "Height": "168",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "5",
+      "Day": "1"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1879",
+    "LeagueId": "341",
+    "NationId": "57",
+    "Rating": "76",
+    "Attribute1": "91",
+    "Attribute2": "68",
+    "Attribute3": "65",
+    "Attribute4": "82",
+    "Attribute5": "54",
+    "Attribute6": "79",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

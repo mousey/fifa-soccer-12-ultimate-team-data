@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Lasse",
+    "LastName": "Schøne",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "5",
+      "Day": "27"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1910",
+    "LeagueId": "10",
+    "NationId": "13",
+    "Rating": "75",
+    "Attribute1": "74",
+    "Attribute2": "71",
+    "Attribute3": "67",
+    "Attribute4": "76",
+    "Attribute5": "50",
+    "Attribute6": "56",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

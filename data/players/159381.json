@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Yohan",
+    "LastName": "Démont",
+    "CommonName": null,
+    "Height": "181",
+    "DateOfBirth": {
+      "Year": "1978",
+      "Month": "5",
+      "Day": "15"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "64",
+    "LeagueId": "17",
+    "NationId": "18",
+    "Rating": "68",
+    "Attribute1": "73",
+    "Attribute2": "63",
+    "Attribute3": "70",
+    "Attribute4": "66",
+    "Attribute5": "63",
+    "Attribute6": "64",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

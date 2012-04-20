@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Lasse",
+    "LastName": "Heinze",
+    "CommonName": null,
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "4",
+      "Day": "3"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "270",
+    "LeagueId": "1",
+    "NationId": "13",
+    "Rating": "67",
+    "Attribute1": "72",
+    "Attribute2": "63",
+    "Attribute3": "60",
+    "Attribute4": "71",
+    "Attribute5": "40",
+    "Attribute6": "62",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

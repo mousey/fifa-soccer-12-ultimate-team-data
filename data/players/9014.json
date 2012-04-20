@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Arjen",
+    "LastName": "Robben",
+    "CommonName": null,
+    "Height": "181",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "1",
+      "Day": "23"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "21",
+    "LeagueId": "19",
+    "NationId": "34",
+    "Rating": "90",
+    "Attribute1": "93",
+    "Attribute2": "85",
+    "Attribute3": "81",
+    "Attribute4": "93",
+    "Attribute5": "53",
+    "Attribute6": "60",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

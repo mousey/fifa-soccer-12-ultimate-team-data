@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Marco",
+    "LastName": "Pappa",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "11",
+      "Day": "15"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "693",
+    "LeagueId": "39",
+    "NationId": "78",
+    "Rating": "68",
+    "Attribute1": "79",
+    "Attribute2": "69",
+    "Attribute3": "61",
+    "Attribute4": "71",
+    "Attribute5": "51",
+    "Attribute6": "49",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

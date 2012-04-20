@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Kris",
+    "LastName": "Stadsgaard",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "8",
+      "Day": "1"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "573",
+    "LeagueId": "53",
+    "NationId": "13",
+    "Rating": "72",
+    "Attribute1": "57",
+    "Attribute2": "44",
+    "Attribute3": "66",
+    "Attribute4": "34",
+    "Attribute5": "74",
+    "Attribute6": "65",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

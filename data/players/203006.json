@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Min Kyu",
+    "LastName": "Lee",
+    "CommonName": "Lee Min Kyu",
+    "Height": "176",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "1",
+      "Day": "6"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "112115",
+    "LeagueId": "83",
+    "NationId": "167",
+    "Rating": "45",
+    "Attribute1": "52",
+    "Attribute2": "36",
+    "Attribute3": "33",
+    "Attribute4": "36",
+    "Attribute5": "50",
+    "Attribute6": "46",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

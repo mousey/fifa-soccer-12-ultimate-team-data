@@ -1,0 +1,15 @@
+{
+  "Manager": {
+    "FirstName": "Kjetil André",
+    "LastName": "Rekdal",
+    "NationId": "36",
+    "Value": "65",
+    "Rare": "1",
+    "Weight": "15",
+    "FormationId": "11",
+    "TalkRating": "0",
+    "Negotiation": "2",
+    "AssetId": "1000378",
+    "ItemType": "Manager"
+  }
+}

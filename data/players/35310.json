@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Davy",
+    "LastName": "De Beule",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "11",
+      "Day": "7"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1902",
+    "LeagueId": "10",
+    "NationId": "7",
+    "Rating": "67",
+    "Attribute1": "66",
+    "Attribute2": "64",
+    "Attribute3": "64",
+    "Attribute4": "67",
+    "Attribute5": "53",
+    "Attribute6": "60",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

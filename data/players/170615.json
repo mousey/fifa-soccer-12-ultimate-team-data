@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Eudi",
+    "LastName": "Silva da Souza",
+    "CommonName": "Eudis",
+    "Height": "179",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "8",
+      "Day": "5"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "324",
+    "LeagueId": "189",
+    "NationId": "54",
+    "Rating": "59",
+    "Attribute1": "65",
+    "Attribute2": "56",
+    "Attribute3": "56",
+    "Attribute4": "62",
+    "Attribute5": "44",
+    "Attribute6": "60",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

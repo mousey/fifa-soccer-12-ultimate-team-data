@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Denis",
+    "LastName": "Tonucci",
+    "CommonName": null,
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "9",
+      "Day": "6"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1847",
+    "LeagueId": "32",
+    "NationId": "27",
+    "Rating": "64",
+    "Attribute1": "55",
+    "Attribute2": "36",
+    "Attribute3": "41",
+    "Attribute4": "43",
+    "Attribute5": "70",
+    "Attribute6": "66",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

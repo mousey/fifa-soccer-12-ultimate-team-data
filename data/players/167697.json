@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Stephen",
+    "LastName": "O'Donnell",
+    "CommonName": null,
+    "Height": "177",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "1",
+      "Day": "15"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "306",
+    "LeagueId": "65",
+    "NationId": "25",
+    "Rating": "57",
+    "Attribute1": "63",
+    "Attribute2": "56",
+    "Attribute3": "57",
+    "Attribute4": "55",
+    "Attribute5": "57",
+    "Attribute6": "55",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

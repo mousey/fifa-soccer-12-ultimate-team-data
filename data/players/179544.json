@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Youssouf",
+    "LastName": "Mulumbu",
+    "CommonName": null,
+    "Height": "177",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "1",
+      "Day": "25"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "109",
+    "LeagueId": "13",
+    "NationId": "110",
+    "Rating": "74",
+    "Attribute1": "73",
+    "Attribute2": "58",
+    "Attribute3": "68",
+    "Attribute4": "69",
+    "Attribute5": "75",
+    "Attribute6": "68",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

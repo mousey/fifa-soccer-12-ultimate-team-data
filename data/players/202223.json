@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Justin",
+    "LastName": "Meram",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "12",
+      "Day": "4"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "687",
+    "LeagueId": "39",
+    "NationId": "95",
+    "Rating": "63",
+    "Attribute1": "77",
+    "Attribute2": "65",
+    "Attribute3": "59",
+    "Attribute4": "64",
+    "Attribute5": "58",
+    "Attribute6": "63",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

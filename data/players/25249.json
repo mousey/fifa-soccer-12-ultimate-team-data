@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ewerthon",
+    "LastName": "Henrique de Souza",
+    "CommonName": "Ewerthon",
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "6",
+      "Day": "10"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110109",
+    "LeagueId": "67",
+    "NationId": "54",
+    "Rating": "72",
+    "Attribute1": "81",
+    "Attribute2": "71",
+    "Attribute3": "58",
+    "Attribute4": "76",
+    "Attribute5": "47",
+    "Attribute6": "67",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

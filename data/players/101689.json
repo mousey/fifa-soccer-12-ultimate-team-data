@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Antônio",
+    "LastName": "da Silva",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1978",
+      "Month": "6",
+      "Day": "13"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "22",
+    "LeagueId": "19",
+    "NationId": "54",
+    "Rating": "73",
+    "Attribute1": "48",
+    "Attribute2": "70",
+    "Attribute3": "78",
+    "Attribute4": "75",
+    "Attribute5": "58",
+    "Attribute6": "53",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

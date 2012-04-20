@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Aatif",
+    "LastName": "Chahechouhe",
+    "CommonName": null,
+    "Height": "176",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "7",
+      "Day": "2"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1823",
+    "LeagueId": "16",
+    "NationId": "18",
+    "Rating": "56",
+    "Attribute1": "60",
+    "Attribute2": "43",
+    "Attribute3": "54",
+    "Attribute4": "62",
+    "Attribute5": "36",
+    "Attribute6": "44",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

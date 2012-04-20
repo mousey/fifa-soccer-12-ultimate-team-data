@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Edin",
+    "LastName": "Džeko",
+    "CommonName": null,
+    "Height": "193",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "3",
+      "Day": "17"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "10",
+    "LeagueId": "13",
+    "NationId": "8",
+    "Rating": "84",
+    "Attribute1": "76",
+    "Attribute2": "82",
+    "Attribute3": "66",
+    "Attribute4": "81",
+    "Attribute5": "58",
+    "Attribute6": "72",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Asier",
+    "LastName": "Riesgo Unamuno",
+    "CommonName": "Riesgo",
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "10",
+      "Day": "6"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "479",
+    "LeagueId": "53",
+    "NationId": "45",
+    "Rating": "73",
+    "Attribute1": "77",
+    "Attribute2": "72",
+    "Attribute3": "61",
+    "Attribute4": "72",
+    "Attribute5": "59",
+    "Attribute6": "76",
+    "Rare": "1",
+    "ItemType": "PlayerGk"
+  }
+}

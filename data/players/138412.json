@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "James",
+    "LastName": "Milner",
+    "CommonName": null,
+    "Height": "176",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "1",
+      "Day": "4"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "10",
+    "LeagueId": "13",
+    "NationId": "14",
+    "Rating": "81",
+    "Attribute1": "78",
+    "Attribute2": "79",
+    "Attribute3": "84",
+    "Attribute4": "81",
+    "Attribute5": "73",
+    "Attribute6": "67",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

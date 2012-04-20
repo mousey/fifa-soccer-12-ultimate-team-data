@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Axel",
+    "LastName": "Bellinghausen",
+    "CommonName": null,
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "5",
+      "Day": "17"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "100409",
+    "LeagueId": "19",
+    "NationId": "21",
+    "Rating": "67",
+    "Attribute1": "71",
+    "Attribute2": "62",
+    "Attribute3": "64",
+    "Attribute4": "58",
+    "Attribute5": "67",
+    "Attribute6": "68",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

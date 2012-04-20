@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Héctor",
+    "LastName": "Rodas Ramírez",
+    "CommonName": "Héctor Rodas",
+    "Height": "190",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "3",
+      "Day": "7"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1853",
+    "LeagueId": "53",
+    "NationId": "45",
+    "Rating": "68",
+    "Attribute1": "50",
+    "Attribute2": "52",
+    "Attribute3": "55",
+    "Attribute4": "47",
+    "Attribute5": "75",
+    "Attribute6": "60",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

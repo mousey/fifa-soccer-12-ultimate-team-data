@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Mario",
+    "LastName": "Bermejo Castanedo",
+    "CommonName": "Mario Bermejo",
+    "Height": "176",
+    "DateOfBirth": {
+      "Year": "1978",
+      "Month": "10",
+      "Day": "7"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "450",
+    "LeagueId": "54",
+    "NationId": "45",
+    "Rating": "71",
+    "Attribute1": "64",
+    "Attribute2": "69",
+    "Attribute3": "49",
+    "Attribute4": "62",
+    "Attribute5": "61",
+    "Attribute6": "86",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

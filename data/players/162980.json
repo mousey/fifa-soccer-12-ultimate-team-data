@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Andrew",
+    "LastName": "Taylor",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "8",
+      "Day": "1"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1961",
+    "LeagueId": "14",
+    "NationId": "14",
+    "Rating": "68",
+    "Attribute1": "74",
+    "Attribute2": "38",
+    "Attribute3": "64",
+    "Attribute4": "61",
+    "Attribute5": "65",
+    "Attribute6": "62",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

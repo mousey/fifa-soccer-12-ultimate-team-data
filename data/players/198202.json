@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Philipp",
+    "LastName": "Wollscheid",
+    "CommonName": null,
+    "Height": "194",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "3",
+      "Day": "6"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "171",
+    "LeagueId": "19",
+    "NationId": "21",
+    "Rating": "73",
+    "Attribute1": "60",
+    "Attribute2": "37",
+    "Attribute3": "48",
+    "Attribute4": "45",
+    "Attribute5": "76",
+    "Attribute6": "72",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

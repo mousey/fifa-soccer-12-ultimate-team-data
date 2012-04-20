@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Dimitri",
+    "LastName": "Payet",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "3",
+      "Day": "29"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "65",
+    "LeagueId": "16",
+    "NationId": "18",
+    "Rating": "79",
+    "Attribute1": "82",
+    "Attribute2": "80",
+    "Attribute3": "76",
+    "Attribute4": "81",
+    "Attribute5": "60",
+    "Attribute6": "60",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

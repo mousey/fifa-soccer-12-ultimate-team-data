@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Michelangelo",
+    "LastName": "Minieri",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "5",
+      "Day": "29"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1847",
+    "LeagueId": "32",
+    "NationId": "27",
+    "Rating": "61",
+    "Attribute1": "55",
+    "Attribute2": "36",
+    "Attribute3": "38",
+    "Attribute4": "43",
+    "Attribute5": "65",
+    "Attribute6": "64",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

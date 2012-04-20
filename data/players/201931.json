@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Gabriel",
+    "LastName": "Vasconcellos F.",
+    "CommonName": "Gabriel",
+    "Height": "193",
+    "DateOfBirth": {
+      "Year": "1992",
+      "Month": "9",
+      "Day": "27"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "568",
+    "LeagueId": "7",
+    "NationId": "54",
+    "Rating": "66",
+    "Attribute1": "69",
+    "Attribute2": "62",
+    "Attribute3": "63",
+    "Attribute4": "65",
+    "Attribute5": "43",
+    "Attribute6": "69",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Shane",
+    "LastName": "O'Connor",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "6",
+      "Day": "19"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "838",
+    "LeagueId": "65",
+    "NationId": "25",
+    "Rating": "54",
+    "Attribute1": "55",
+    "Attribute2": "35",
+    "Attribute3": "32",
+    "Attribute4": "42",
+    "Attribute5": "55",
+    "Attribute6": "55",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

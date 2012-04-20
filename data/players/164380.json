@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Mirko",
+    "LastName": "Pieri",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1978",
+      "Month": "7",
+      "Day": "24"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1844",
+    "LeagueId": "32",
+    "NationId": "27",
+    "Rating": "62",
+    "Attribute1": "64",
+    "Attribute2": "54",
+    "Attribute3": "59",
+    "Attribute4": "56",
+    "Attribute5": "67",
+    "Attribute6": "61",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

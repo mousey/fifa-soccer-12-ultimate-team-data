@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Philipp",
+    "LastName": "Lahm",
+    "CommonName": null,
+    "Height": "170",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "11",
+      "Day": "11"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "21",
+    "LeagueId": "19",
+    "NationId": "21",
+    "Rating": "87",
+    "Attribute1": "83",
+    "Attribute2": "59",
+    "Attribute3": "82",
+    "Attribute4": "82",
+    "Attribute5": "77",
+    "Attribute6": "67",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

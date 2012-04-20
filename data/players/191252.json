@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Marcel",
+    "LastName": "Gaus",
+    "CommonName": null,
+    "Height": "181",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "8",
+      "Day": "2"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "110596",
+    "LeagueId": "20",
+    "NationId": "21",
+    "Rating": "60",
+    "Attribute1": "71",
+    "Attribute2": "50",
+    "Attribute3": "54",
+    "Attribute4": "62",
+    "Attribute5": "48",
+    "Attribute6": "59",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Nicolas",
+    "LastName": "Flegeau",
+    "CommonName": null,
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "9",
+      "Day": "6"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1820",
+    "LeagueId": "17",
+    "NationId": "18",
+    "Rating": "56",
+    "Attribute1": "58",
+    "Attribute2": "37",
+    "Attribute3": "54",
+    "Attribute4": "37",
+    "Attribute5": "55",
+    "Attribute6": "66",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

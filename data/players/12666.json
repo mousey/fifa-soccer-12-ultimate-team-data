@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Peguy",
+    "LastName": "Luyindula",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "5",
+      "Day": "25"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "73",
+    "LeagueId": "16",
+    "NationId": "18",
+    "Rating": "73",
+    "Attribute1": "68",
+    "Attribute2": "72",
+    "Attribute3": "67",
+    "Attribute4": "73",
+    "Attribute5": "53",
+    "Attribute6": "75",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

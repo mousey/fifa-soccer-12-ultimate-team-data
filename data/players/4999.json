@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jamie",
+    "LastName": "Langfield",
+    "CommonName": null,
+    "Height": "193",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "12",
+      "Day": "22"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "77",
+    "LeagueId": "50",
+    "NationId": "42",
+    "Rating": "66",
+    "Attribute1": "67",
+    "Attribute2": "66",
+    "Attribute3": "58",
+    "Attribute4": "65",
+    "Attribute5": "31",
+    "Attribute6": "67",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

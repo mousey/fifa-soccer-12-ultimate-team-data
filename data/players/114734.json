@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Iñaki",
+    "LastName": "Bea Jáuregi",
+    "CommonName": "Iñaki Bea",
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1978",
+      "Month": "6",
+      "Day": "27"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "2045",
+    "LeagueId": "80",
+    "NationId": "45",
+    "Rating": "68",
+    "Attribute1": "53",
+    "Attribute2": "41",
+    "Attribute3": "49",
+    "Attribute4": "43",
+    "Attribute5": "72",
+    "Attribute6": "71",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

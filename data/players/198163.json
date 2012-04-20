@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Emre",
+    "LastName": "Turan",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "11",
+      "Day": "16"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110500",
+    "LeagueId": "20",
+    "NationId": "48",
+    "Rating": "57",
+    "Attribute1": "67",
+    "Attribute2": "34",
+    "Attribute3": "43",
+    "Attribute4": "43",
+    "Attribute5": "61",
+    "Attribute6": "66",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Stephen",
+    "LastName": "Rice",
+    "CommonName": null,
+    "Height": "179",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "10",
+      "Day": "6"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "306",
+    "LeagueId": "65",
+    "NationId": "25",
+    "Rating": "59",
+    "Attribute1": "61",
+    "Attribute2": "54",
+    "Attribute3": "58",
+    "Attribute4": "57",
+    "Attribute5": "60",
+    "Attribute6": "60",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

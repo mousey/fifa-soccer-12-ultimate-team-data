@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Viktor",
+    "LastName": "Elm",
+    "CommonName": null,
+    "Height": "192",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "11",
+      "Day": "13"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1913",
+    "LeagueId": "10",
+    "NationId": "46",
+    "Rating": "71",
+    "Attribute1": "38",
+    "Attribute2": "70",
+    "Attribute3": "68",
+    "Attribute4": "61",
+    "Attribute5": "71",
+    "Attribute6": "64",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

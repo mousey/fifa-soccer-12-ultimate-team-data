@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Gary",
+    "LastName": "Cahill",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "12",
+      "Day": "19"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "4",
+    "LeagueId": "13",
+    "NationId": "14",
+    "Rating": "79",
+    "Attribute1": "69",
+    "Attribute2": "54",
+    "Attribute3": "54",
+    "Attribute4": "62",
+    "Attribute5": "80",
+    "Attribute6": "82",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

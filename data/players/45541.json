@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jan",
+    "LastName": "Kristiansen",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "8",
+      "Day": "4"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "269",
+    "LeagueId": "1",
+    "NationId": "13",
+    "Rating": "65",
+    "Attribute1": "64",
+    "Attribute2": "68",
+    "Attribute3": "59",
+    "Attribute4": "64",
+    "Attribute5": "60",
+    "Attribute6": "52",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

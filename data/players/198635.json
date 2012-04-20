@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Wellington",
+    "LastName": "Alves da Silva",
+    "CommonName": "Wellington Silva",
+    "Height": "170",
+    "DateOfBirth": {
+      "Year": "1993",
+      "Month": "1",
+      "Day": "6"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1853",
+    "LeagueId": "53",
+    "NationId": "54",
+    "Rating": "69",
+    "Attribute1": "81",
+    "Attribute2": "64",
+    "Attribute3": "56",
+    "Attribute4": "81",
+    "Attribute5": "39",
+    "Attribute6": "59",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

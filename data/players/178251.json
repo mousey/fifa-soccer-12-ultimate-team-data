@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Romain",
+    "LastName": "Danzé",
+    "CommonName": null,
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "7",
+      "Day": "3"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "74",
+    "LeagueId": "16",
+    "NationId": "18",
+    "Rating": "73",
+    "Attribute1": "77",
+    "Attribute2": "59",
+    "Attribute3": "71",
+    "Attribute4": "65",
+    "Attribute5": "72",
+    "Attribute6": "66",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

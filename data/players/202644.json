@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Stefano",
+    "LastName": "Giacomelli",
+    "CommonName": null,
+    "Height": "168",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "4",
+      "Day": "30"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "200",
+    "LeagueId": "32",
+    "NationId": "27",
+    "Rating": "64",
+    "Attribute1": "83",
+    "Attribute2": "58",
+    "Attribute3": "53",
+    "Attribute4": "65",
+    "Attribute5": "47",
+    "Attribute6": "48",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

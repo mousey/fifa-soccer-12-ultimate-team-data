@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Salif",
+    "LastName": "Diao",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1977",
+      "Month": "2",
+      "Day": "10"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1806",
+    "LeagueId": "13",
+    "NationId": "136",
+    "Rating": "67",
+    "Attribute1": "30",
+    "Attribute2": "49",
+    "Attribute3": "67",
+    "Attribute4": "59",
+    "Attribute5": "71",
+    "Attribute6": "71",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

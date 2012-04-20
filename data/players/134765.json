@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Dušan",
+    "LastName": "Djurić",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "9",
+      "Day": "16"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "894",
+    "LeagueId": "189",
+    "NationId": "46",
+    "Rating": "74",
+    "Attribute1": "75",
+    "Attribute2": "68",
+    "Attribute3": "72",
+    "Attribute4": "73",
+    "Attribute5": "61",
+    "Attribute6": "61",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

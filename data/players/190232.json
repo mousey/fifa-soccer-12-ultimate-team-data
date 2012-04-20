@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Fellipe",
+    "LastName": "Ramos Ignez Bastos",
+    "CommonName": "Fellipe Bastos",
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "2",
+      "Day": "1"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "569",
+    "LeagueId": "7",
+    "NationId": "54",
+    "Rating": "65",
+    "Attribute1": "62",
+    "Attribute2": "64",
+    "Attribute3": "68",
+    "Attribute4": "70",
+    "Attribute5": "67",
+    "Attribute6": "69",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Timothy",
+    "LastName": "Durwael",
+    "CommonName": null,
+    "Height": "173",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "2",
+      "Day": "24"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "673",
+    "LeagueId": "4",
+    "NationId": "7",
+    "Rating": "58",
+    "Attribute1": "72",
+    "Attribute2": "34",
+    "Attribute3": "56",
+    "Attribute4": "41",
+    "Attribute5": "53",
+    "Attribute6": "56",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "David",
+    "LastName": "Harrer",
+    "CommonName": null,
+    "Height": "171",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "4",
+      "Day": "24"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "15011",
+    "LeagueId": "80",
+    "NationId": "4",
+    "Rating": "57",
+    "Attribute1": "73",
+    "Attribute2": "20",
+    "Attribute3": "42",
+    "Attribute4": "58",
+    "Attribute5": "49",
+    "Attribute6": "53",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

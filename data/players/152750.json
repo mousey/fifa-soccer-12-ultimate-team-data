@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "David",
+    "LastName": "Hunt",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "9",
+      "Day": "10"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110890",
+    "LeagueId": "61",
+    "NationId": "14",
+    "Rating": "57",
+    "Attribute1": "61",
+    "Attribute2": "39",
+    "Attribute3": "58",
+    "Attribute4": "53",
+    "Attribute5": "63",
+    "Attribute6": "48",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Koen",
+    "LastName": "Casteels",
+    "CommonName": null,
+    "Height": "196",
+    "DateOfBirth": {
+      "Year": "1992",
+      "Month": "6",
+      "Day": "25"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "10029",
+    "LeagueId": "19",
+    "NationId": "7",
+    "Rating": "63",
+    "Attribute1": "68",
+    "Attribute2": "61",
+    "Attribute3": "58",
+    "Attribute4": "66",
+    "Attribute5": "24",
+    "Attribute6": "59",
+    "Rare": "1",
+    "ItemType": "PlayerGk"
+  }
+}

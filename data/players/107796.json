@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Markus",
+    "LastName": "Krösche",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1980",
+      "Month": "9",
+      "Day": "17"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "10030",
+    "LeagueId": "20",
+    "NationId": "21",
+    "Rating": "65",
+    "Attribute1": "61",
+    "Attribute2": "49",
+    "Attribute3": "48",
+    "Attribute4": "46",
+    "Attribute5": "70",
+    "Attribute6": "73",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

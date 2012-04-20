@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Andreas",
+    "LastName": "Luthe",
+    "CommonName": null,
+    "Height": "194",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "3",
+      "Day": "10"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "160",
+    "LeagueId": "20",
+    "NationId": "21",
+    "Rating": "68",
+    "Attribute1": "68",
+    "Attribute2": "63",
+    "Attribute3": "64",
+    "Attribute4": "75",
+    "Attribute5": "45",
+    "Attribute6": "68",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

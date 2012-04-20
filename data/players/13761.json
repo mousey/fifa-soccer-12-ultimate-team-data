@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Gary",
+    "LastName": "Teale",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1978",
+      "Month": "7",
+      "Day": "21"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "100805",
+    "LeagueId": "50",
+    "NationId": "42",
+    "Rating": "68",
+    "Attribute1": "74",
+    "Attribute2": "49",
+    "Attribute3": "69",
+    "Attribute4": "63",
+    "Attribute5": "58",
+    "Attribute6": "63",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

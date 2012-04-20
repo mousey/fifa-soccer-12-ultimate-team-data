@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Maurice",
+    "LastName": "Edu",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "4",
+      "Day": "18"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "86",
+    "LeagueId": "50",
+    "NationId": "95",
+    "Rating": "66",
+    "Attribute1": "79",
+    "Attribute2": "61",
+    "Attribute3": "64",
+    "Attribute4": "67",
+    "Attribute5": "67",
+    "Attribute6": "78",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

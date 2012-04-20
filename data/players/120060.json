@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Rémi",
+    "LastName": "Mareval",
+    "CommonName": null,
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "2",
+      "Day": "24"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "15005",
+    "LeagueId": "4",
+    "NationId": "18",
+    "Rating": "66",
+    "Attribute1": "76",
+    "Attribute2": "61",
+    "Attribute3": "70",
+    "Attribute4": "62",
+    "Attribute5": "67",
+    "Attribute6": "70",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

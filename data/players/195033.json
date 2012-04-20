@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Mathew",
+    "LastName": "Leckie",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "2",
+      "Day": "4"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "23",
+    "LeagueId": "19",
+    "NationId": "195",
+    "Rating": "66",
+    "Attribute1": "85",
+    "Attribute2": "65",
+    "Attribute3": "52",
+    "Attribute4": "71",
+    "Attribute5": "45",
+    "Attribute6": "60",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

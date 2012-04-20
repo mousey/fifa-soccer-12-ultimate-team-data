@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Fabrício",
+    "LastName": "de Souza",
+    "CommonName": "Fabrício",
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "7",
+      "Day": "5"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "568",
+    "LeagueId": "7",
+    "NationId": "54",
+    "Rating": "75",
+    "Attribute1": "72",
+    "Attribute2": "71",
+    "Attribute3": "79",
+    "Attribute4": "74",
+    "Attribute5": "76",
+    "Attribute6": "66",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

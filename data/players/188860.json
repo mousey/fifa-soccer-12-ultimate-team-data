@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Walter Henrique",
+    "LastName": "da Silva",
+    "CommonName": "Walter",
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "7",
+      "Day": "22"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "236",
+    "LeagueId": "308",
+    "NationId": "54",
+    "Rating": "74",
+    "Attribute1": "61",
+    "Attribute2": "75",
+    "Attribute3": "59",
+    "Attribute4": "73",
+    "Attribute5": "60",
+    "Attribute6": "60",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

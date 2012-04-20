@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ben",
+    "LastName": "Hutchinson",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "11",
+      "Day": "27"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "82",
+    "LeagueId": "50",
+    "NationId": "14",
+    "Rating": "56",
+    "Attribute1": "61",
+    "Attribute2": "56",
+    "Attribute3": "32",
+    "Attribute4": "54",
+    "Attribute5": "42",
+    "Attribute6": "67",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

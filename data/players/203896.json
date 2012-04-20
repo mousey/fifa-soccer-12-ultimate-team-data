@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Pierre-Baptiste",
+    "LastName": "Baherlé",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "7",
+      "Day": "7"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111376",
+    "LeagueId": "17",
+    "NationId": "18",
+    "Rating": "56",
+    "Attribute1": "62",
+    "Attribute2": "47",
+    "Attribute3": "55",
+    "Attribute4": "53",
+    "Attribute5": "57",
+    "Attribute6": "65",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

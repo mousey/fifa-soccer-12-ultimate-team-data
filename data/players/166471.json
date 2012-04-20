@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Terry",
+    "LastName": "Boss",
+    "CommonName": null,
+    "Height": "190",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "9",
+      "Day": "1"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111144",
+    "LeagueId": "39",
+    "NationId": "88",
+    "Rating": "59",
+    "Attribute1": "61",
+    "Attribute2": "56",
+    "Attribute3": "83",
+    "Attribute4": "61",
+    "Attribute5": "41",
+    "Attribute6": "60",
+    "Rare": "1",
+    "ItemType": "PlayerGk"
+  }
+}

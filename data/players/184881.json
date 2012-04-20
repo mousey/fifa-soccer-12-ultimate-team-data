@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Sofiane",
+    "LastName": "Feghouli",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "12",
+      "Day": "26"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "461",
+    "LeagueId": "53",
+    "NationId": "18",
+    "Rating": "73",
+    "Attribute1": "76",
+    "Attribute2": "71",
+    "Attribute3": "68",
+    "Attribute4": "78",
+    "Attribute5": "53",
+    "Attribute6": "58",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

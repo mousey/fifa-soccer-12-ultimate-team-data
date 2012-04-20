@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ahmed",
+    "LastName": "Ammi",
+    "CommonName": null,
+    "Height": "179",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "1",
+      "Day": "19"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "650",
+    "LeagueId": "10",
+    "NationId": "129",
+    "Rating": "65",
+    "Attribute1": "70",
+    "Attribute2": "40",
+    "Attribute3": "60",
+    "Attribute4": "67",
+    "Attribute5": "65",
+    "Attribute6": "63",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

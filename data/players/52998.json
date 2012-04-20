@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Martin",
+    "LastName": "Amedick",
+    "CommonName": null,
+    "Height": "194",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "9",
+      "Day": "6"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "29",
+    "LeagueId": "19",
+    "NationId": "21",
+    "Rating": "71",
+    "Attribute1": "56",
+    "Attribute2": "42",
+    "Attribute3": "51",
+    "Attribute4": "41",
+    "Attribute5": "74",
+    "Attribute6": "77",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

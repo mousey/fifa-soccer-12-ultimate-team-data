@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Luís",
+    "LastName": "Aguiar",
+    "CommonName": null,
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "11",
+      "Day": "17"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "237",
+    "LeagueId": "308",
+    "NationId": "60",
+    "Rating": "77",
+    "Attribute1": "68",
+    "Attribute2": "73",
+    "Attribute3": "78",
+    "Attribute4": "75",
+    "Attribute5": "64",
+    "Attribute6": "65",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

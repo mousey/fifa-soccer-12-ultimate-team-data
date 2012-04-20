@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Antonio",
+    "LastName": "Doblas Santana",
+    "CommonName": "Doblas",
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1980",
+      "Month": "8",
+      "Day": "5"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1742",
+    "LeagueId": "54",
+    "NationId": "45",
+    "Rating": "72",
+    "Attribute1": "72",
+    "Attribute2": "65",
+    "Attribute3": "69",
+    "Attribute4": "77",
+    "Attribute5": "58",
+    "Attribute6": "78",
+    "Rare": "1",
+    "ItemType": "PlayerGk"
+  }
+}

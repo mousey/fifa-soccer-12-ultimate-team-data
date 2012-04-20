@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Simon",
+    "LastName": "Dawkins",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "12",
+      "Day": "1"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111928",
+    "LeagueId": "39",
+    "NationId": "14",
+    "Rating": "64",
+    "Attribute1": "74",
+    "Attribute2": "63",
+    "Attribute3": "60",
+    "Attribute4": "66",
+    "Attribute5": "56",
+    "Attribute6": "63",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

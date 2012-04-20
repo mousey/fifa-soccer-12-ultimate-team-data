@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Andrea",
+    "LastName": "Russotto",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "5",
+      "Day": "25"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1844",
+    "LeagueId": "32",
+    "NationId": "27",
+    "Rating": "64",
+    "Attribute1": "75",
+    "Attribute2": "63",
+    "Attribute3": "61",
+    "Attribute4": "66",
+    "Attribute5": "45",
+    "Attribute6": "58",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

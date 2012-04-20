@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Nolan",
+    "LastName": "Roux",
+    "CommonName": null,
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "3",
+      "Day": "1"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "378",
+    "LeagueId": "16",
+    "NationId": "18",
+    "Rating": "78",
+    "Attribute1": "82",
+    "Attribute2": "78",
+    "Attribute3": "64",
+    "Attribute4": "70",
+    "Attribute5": "54",
+    "Attribute6": "70",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

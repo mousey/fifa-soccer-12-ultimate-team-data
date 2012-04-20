@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Paddy",
+    "LastName": "McCourt",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "12",
+      "Day": "16"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "78",
+    "LeagueId": "50",
+    "NationId": "35",
+    "Rating": "70",
+    "Attribute1": "71",
+    "Attribute2": "68",
+    "Attribute3": "61",
+    "Attribute4": "82",
+    "Attribute5": "46",
+    "Attribute6": "53",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

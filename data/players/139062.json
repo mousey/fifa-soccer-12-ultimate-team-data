@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Wilfredo",
+    "LastName": "Caballero",
+    "CommonName": null,
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "9",
+      "Day": "28"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "573",
+    "LeagueId": "53",
+    "NationId": "52",
+    "Rating": "75",
+    "Attribute1": "75",
+    "Attribute2": "76",
+    "Attribute3": "68",
+    "Attribute4": "78",
+    "Attribute5": "52",
+    "Attribute6": "74",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

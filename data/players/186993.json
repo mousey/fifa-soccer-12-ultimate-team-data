@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Javier",
+    "LastName": "Cortés",
+    "CommonName": null,
+    "Height": "171",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "7",
+      "Day": "20"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1881",
+    "LeagueId": "341",
+    "NationId": "83",
+    "Rating": "72",
+    "Attribute1": "88",
+    "Attribute2": "73",
+    "Attribute3": "66",
+    "Attribute4": "79",
+    "Attribute5": "49",
+    "Attribute6": "60",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Álvaro Marcio",
+    "LastName": "Santos",
+    "CommonName": "Álvaro Santos",
+    "Height": "181",
+    "DateOfBirth": {
+      "Year": "1980",
+      "Month": "1",
+      "Day": "30"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "432",
+    "LeagueId": "56",
+    "NationId": "54",
+    "Rating": "64",
+    "Attribute1": "57",
+    "Attribute2": "60",
+    "Attribute3": "44",
+    "Attribute4": "57",
+    "Attribute5": "50",
+    "Attribute6": "58",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

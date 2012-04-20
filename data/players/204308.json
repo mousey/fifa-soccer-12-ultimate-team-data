@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Hendrik",
+    "LastName": "Van Crombrugge",
+    "CommonName": null,
+    "Height": "189",
+    "DateOfBirth": {
+      "Year": "1993",
+      "Month": "4",
+      "Day": "30"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "680",
+    "LeagueId": "4",
+    "NationId": "7",
+    "Rating": "55",
+    "Attribute1": "57",
+    "Attribute2": "52",
+    "Attribute3": "53",
+    "Attribute4": "62",
+    "Attribute5": "61",
+    "Attribute6": "49",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

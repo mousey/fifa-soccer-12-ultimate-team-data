@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Damien",
+    "LastName": "Perquis",
+    "CommonName": null,
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "3",
+      "Day": "8"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "210",
+    "LeagueId": "16",
+    "NationId": "18",
+    "Rating": "61",
+    "Attribute1": "59",
+    "Attribute2": "62",
+    "Attribute3": "60",
+    "Attribute4": "61",
+    "Attribute5": "46",
+    "Attribute6": "69",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

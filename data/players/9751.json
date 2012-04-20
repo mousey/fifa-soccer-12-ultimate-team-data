@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Gábor",
+    "LastName": "Babos",
+    "CommonName": null,
+    "Height": "196",
+    "DateOfBirth": {
+      "Year": "1974",
+      "Month": "10",
+      "Day": "24"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1910",
+    "LeagueId": "10",
+    "NationId": "23",
+    "Rating": "71",
+    "Attribute1": "70",
+    "Attribute2": "70",
+    "Attribute3": "60",
+    "Attribute4": "70",
+    "Attribute5": "29",
+    "Attribute6": "75",
+    "Rare": "1",
+    "ItemType": "PlayerGk"
+  }
+}

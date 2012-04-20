@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Yves",
+    "LastName": "De Winter",
+    "CommonName": null,
+    "Height": "187",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "5",
+      "Day": "25"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "635",
+    "LeagueId": "10",
+    "NationId": "7",
+    "Rating": "68",
+    "Attribute1": "70",
+    "Attribute2": "66",
+    "Attribute3": "61",
+    "Attribute4": "71",
+    "Attribute5": "51",
+    "Attribute6": "67",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

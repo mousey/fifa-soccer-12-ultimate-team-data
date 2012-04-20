@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ante",
+    "LastName": "Jazic",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1976",
+      "Month": "2",
+      "Day": "26"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "111070",
+    "LeagueId": "39",
+    "NationId": "70",
+    "Rating": "61",
+    "Attribute1": "64",
+    "Attribute2": "44",
+    "Attribute3": "57",
+    "Attribute4": "57",
+    "Attribute5": "62",
+    "Attribute6": "59",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

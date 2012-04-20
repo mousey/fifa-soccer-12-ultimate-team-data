@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ruud",
+    "LastName": "Vormer",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "5",
+      "Day": "11"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1902",
+    "LeagueId": "10",
+    "NationId": "34",
+    "Rating": "74",
+    "Attribute1": "65",
+    "Attribute2": "60",
+    "Attribute3": "74",
+    "Attribute4": "62",
+    "Attribute5": "74",
+    "Attribute6": "59",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

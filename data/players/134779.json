@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jimmy",
+    "LastName": "Briand",
+    "CommonName": null,
+    "Height": "181",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "8",
+      "Day": "2"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "66",
+    "LeagueId": "16",
+    "NationId": "18",
+    "Rating": "77",
+    "Attribute1": "91",
+    "Attribute2": "76",
+    "Attribute3": "67",
+    "Attribute4": "76",
+    "Attribute5": "62",
+    "Attribute6": "76",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

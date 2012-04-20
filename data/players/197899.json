@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Shaun",
+    "LastName": "Jeffers",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1992",
+      "Month": "4",
+      "Day": "14"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1800",
+    "LeagueId": "14",
+    "NationId": "14",
+    "Rating": "56",
+    "Attribute1": "75",
+    "Attribute2": "56",
+    "Attribute3": "50",
+    "Attribute4": "60",
+    "Attribute5": "37",
+    "Attribute6": "39",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

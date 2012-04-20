@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Young Sun",
+    "LastName": "Gong",
+    "CommonName": "Gong Young Sun",
+    "Height": "179",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "5",
+      "Day": "9"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1475",
+    "LeagueId": "83",
+    "NationId": "167",
+    "Rating": "64",
+    "Attribute1": "76",
+    "Attribute2": "62",
+    "Attribute3": "51",
+    "Attribute4": "60",
+    "Attribute5": "49",
+    "Attribute6": "68",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

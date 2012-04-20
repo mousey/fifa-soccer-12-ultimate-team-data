@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Michele",
+    "LastName": "Arcari",
+    "CommonName": null,
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1978",
+      "Month": "7",
+      "Day": "26"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "190",
+    "LeagueId": "32",
+    "NationId": "27",
+    "Rating": "68",
+    "Attribute1": "68",
+    "Attribute2": "67",
+    "Attribute3": "62",
+    "Attribute4": "70",
+    "Attribute5": "35",
+    "Attribute6": "68",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Zlatan",
+    "LastName": "Ibrahimović",
+    "CommonName": null,
+    "Height": "195",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "10",
+      "Day": "3"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "47",
+    "LeagueId": "31",
+    "NationId": "46",
+    "Rating": "88",
+    "Attribute1": "79",
+    "Attribute2": "89",
+    "Attribute3": "78",
+    "Attribute4": "87",
+    "Attribute5": "65",
+    "Attribute6": "82",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

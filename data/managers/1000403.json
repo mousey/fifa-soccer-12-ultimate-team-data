@@ -1,0 +1,15 @@
+{
+  "Manager": {
+    "FirstName": "Kenny",
+    "LastName": "Dalglish",
+    "NationId": "42",
+    "Value": "81",
+    "Rare": "1",
+    "Weight": "15",
+    "FormationId": "11",
+    "TalkRating": "0",
+    "Negotiation": "3",
+    "AssetId": "1000403",
+    "ItemType": "Manager"
+  }
+}

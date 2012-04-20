@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Steven",
+    "LastName": "Zellner",
+    "CommonName": null,
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "3",
+      "Day": "14"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "29",
+    "LeagueId": "19",
+    "NationId": "21",
+    "Rating": "56",
+    "Attribute1": "56",
+    "Attribute2": "59",
+    "Attribute3": "40",
+    "Attribute4": "50",
+    "Attribute5": "54",
+    "Attribute6": "65",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Tyson",
+    "LastName": "Wahl",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "2",
+      "Day": "23"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "111144",
+    "LeagueId": "39",
+    "NationId": "95",
+    "Rating": "63",
+    "Attribute1": "69",
+    "Attribute2": "61",
+    "Attribute3": "65",
+    "Attribute4": "56",
+    "Attribute5": "66",
+    "Attribute6": "64",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

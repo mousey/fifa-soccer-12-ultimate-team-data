@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Hamdi",
+    "LastName": "Harbaoui",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "1",
+      "Day": "5"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "2007",
+    "LeagueId": "4",
+    "NationId": "145",
+    "Rating": "64",
+    "Attribute1": "55",
+    "Attribute2": "60",
+    "Attribute3": "54",
+    "Attribute4": "64",
+    "Attribute5": "52",
+    "Attribute6": "70",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

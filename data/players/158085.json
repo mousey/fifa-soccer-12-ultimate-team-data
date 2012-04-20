@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Cleveland",
+    "LastName": "Taylor",
+    "CommonName": null,
+    "Height": "173",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "9",
+      "Day": "9"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "15015",
+    "LeagueId": "61",
+    "NationId": "14",
+    "Rating": "61",
+    "Attribute1": "84",
+    "Attribute2": "46",
+    "Attribute3": "50",
+    "Attribute4": "64",
+    "Attribute5": "42",
+    "Attribute6": "51",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

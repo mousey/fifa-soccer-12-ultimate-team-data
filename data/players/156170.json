@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jerome",
+    "LastName": "Thomas",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "3",
+      "Day": "23"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "109",
+    "LeagueId": "13",
+    "NationId": "14",
+    "Rating": "73",
+    "Attribute1": "80",
+    "Attribute2": "62",
+    "Attribute3": "69",
+    "Attribute4": "79",
+    "Attribute5": "54",
+    "Attribute6": "54",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

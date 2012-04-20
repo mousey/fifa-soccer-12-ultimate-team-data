@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "David",
+    "LastName": "Albelda Aliqués",
+    "CommonName": "Albelda",
+    "Height": "181",
+    "DateOfBirth": {
+      "Year": "1977",
+      "Month": "9",
+      "Day": "1"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "461",
+    "LeagueId": "53",
+    "NationId": "45",
+    "Rating": "77",
+    "Attribute1": "49",
+    "Attribute2": "64",
+    "Attribute3": "70",
+    "Attribute4": "63",
+    "Attribute5": "79",
+    "Attribute6": "62",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Yong Hoon",
+    "LastName": "Noh",
+    "CommonName": "Noh Yong Hoon",
+    "Height": "170",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "3",
+      "Day": "29"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "980",
+    "LeagueId": "83",
+    "NationId": "167",
+    "Rating": "55",
+    "Attribute1": "65",
+    "Attribute2": "53",
+    "Attribute3": "52",
+    "Attribute4": "54",
+    "Attribute5": "55",
+    "Attribute6": "50",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

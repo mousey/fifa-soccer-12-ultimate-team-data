@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Timo",
+    "LastName": "Staffeldt",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "2",
+      "Day": "9"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1832",
+    "LeagueId": "20",
+    "NationId": "21",
+    "Rating": "66",
+    "Attribute1": "75",
+    "Attribute2": "57",
+    "Attribute3": "61",
+    "Attribute4": "66",
+    "Attribute5": "64",
+    "Attribute6": "58",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

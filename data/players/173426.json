@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Simon",
+    "LastName": "Mignolet",
+    "CommonName": null,
+    "Height": "193",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "3",
+      "Day": "6"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "106",
+    "LeagueId": "13",
+    "NationId": "7",
+    "Rating": "74",
+    "Attribute1": "78",
+    "Attribute2": "81",
+    "Attribute3": "80",
+    "Attribute4": "81",
+    "Attribute5": "60",
+    "Attribute6": "57",
+    "Rare": "1",
+    "ItemType": "PlayerGk"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Massimiliano",
+    "LastName": "Marsili",
+    "CommonName": null,
+    "Height": "174",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "7",
+      "Day": "14"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "112282",
+    "LeagueId": "32",
+    "NationId": "27",
+    "Rating": "57",
+    "Attribute1": "69",
+    "Attribute2": "54",
+    "Attribute3": "61",
+    "Attribute4": "55",
+    "Attribute5": "56",
+    "Attribute6": "51",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

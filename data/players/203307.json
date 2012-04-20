@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jake",
+    "LastName": "Barker-Daish",
+    "CommonName": null,
+    "Height": "179",
+    "DateOfBirth": {
+      "Year": "1993",
+      "Month": "5",
+      "Day": "7"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "112078",
+    "LeagueId": "351",
+    "NationId": "195",
+    "Rating": "56",
+    "Attribute1": "72",
+    "Attribute2": "42",
+    "Attribute3": "45",
+    "Attribute4": "57",
+    "Attribute5": "45",
+    "Attribute6": "41",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

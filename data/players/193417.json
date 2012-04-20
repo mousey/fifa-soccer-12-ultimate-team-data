@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Rafael",
+    "LastName": "Gómez Llorens",
+    "CommonName": "Rafa Gómez",
+    "Height": "179",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "5",
+      "Day": "23"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110833",
+    "LeagueId": "54",
+    "NationId": "45",
+    "Rating": "58",
+    "Attribute1": "67",
+    "Attribute2": "54",
+    "Attribute3": "48",
+    "Attribute4": "61",
+    "Attribute5": "40",
+    "Attribute6": "56",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

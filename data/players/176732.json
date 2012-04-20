@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Mattias",
+    "LastName": "Bjärsmyr",
+    "CommonName": null,
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "1",
+      "Day": "3"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1884",
+    "LeagueId": "63",
+    "NationId": "46",
+    "Rating": "68",
+    "Attribute1": "65",
+    "Attribute2": "45",
+    "Attribute3": "61",
+    "Attribute4": "39",
+    "Attribute5": "69",
+    "Attribute6": "74",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Osama",
+    "LastName": "Malik",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "9",
+      "Day": "30"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111393",
+    "LeagueId": "351",
+    "NationId": "195",
+    "Rating": "58",
+    "Attribute1": "69",
+    "Attribute2": "45",
+    "Attribute3": "56",
+    "Attribute4": "63",
+    "Attribute5": "61",
+    "Attribute6": "62",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

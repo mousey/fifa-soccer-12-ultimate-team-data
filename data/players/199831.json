@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Rouven",
+    "LastName": "Sattelmaier",
+    "CommonName": null,
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "8",
+      "Day": "7"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "21",
+    "LeagueId": "19",
+    "NationId": "21",
+    "Rating": "66",
+    "Attribute1": "69",
+    "Attribute2": "63",
+    "Attribute3": "63",
+    "Attribute4": "67",
+    "Attribute5": "38",
+    "Attribute6": "65",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

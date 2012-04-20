@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Antonio",
+    "LastName": "Adán Garrido",
+    "CommonName": "Adán",
+    "Height": "190",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "5",
+      "Day": "13"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "243",
+    "LeagueId": "53",
+    "NationId": "45",
+    "Rating": "70",
+    "Attribute1": "71",
+    "Attribute2": "72",
+    "Attribute3": "64",
+    "Attribute4": "75",
+    "Attribute5": "57",
+    "Attribute6": "68",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Georg",
+    "LastName": "Teigl",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "2",
+      "Day": "9"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "191",
+    "LeagueId": "80",
+    "NationId": "4",
+    "Rating": "59",
+    "Attribute1": "88",
+    "Attribute2": "59",
+    "Attribute3": "51",
+    "Attribute4": "61",
+    "Attribute5": "46",
+    "Attribute6": "47",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

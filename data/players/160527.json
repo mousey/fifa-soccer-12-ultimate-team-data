@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "André Luiz",
+    "LastName": "Barretto Silva Lima",
+    "CommonName": "André Lima",
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "5",
+      "Day": "3"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1629",
+    "LeagueId": "7",
+    "NationId": "54",
+    "Rating": "73",
+    "Attribute1": "66",
+    "Attribute2": "71",
+    "Attribute3": "59",
+    "Attribute4": "68",
+    "Attribute5": "53",
+    "Attribute6": "82",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

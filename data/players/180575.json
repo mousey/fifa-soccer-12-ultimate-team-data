@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Márcio Emerson",
+    "LastName": "de Albuquerque",
+    "CommonName": "Emerson",
+    "Height": "171",
+    "DateOfBirth": {
+      "Year": "1978",
+      "Month": "12",
+      "Day": "6"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1041",
+    "LeagueId": "7",
+    "NationId": "182",
+    "Rating": "75",
+    "Attribute1": "73",
+    "Attribute2": "70",
+    "Attribute3": "63",
+    "Attribute4": "76",
+    "Attribute5": "48",
+    "Attribute6": "72",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

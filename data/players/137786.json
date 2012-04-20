@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Valerio",
+    "LastName": "Di Cesare",
+    "CommonName": null,
+    "Height": "187",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "5",
+      "Day": "23"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "54",
+    "LeagueId": "32",
+    "NationId": "27",
+    "Rating": "65",
+    "Attribute1": "60",
+    "Attribute2": "39",
+    "Attribute3": "39",
+    "Attribute4": "37",
+    "Attribute5": "69",
+    "Attribute6": "74",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

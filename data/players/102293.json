@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ranisav",
+    "LastName": "Jovanović",
+    "CommonName": null,
+    "Height": "193",
+    "DateOfBirth": {
+      "Year": "1980",
+      "Month": "11",
+      "Day": "5"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "110636",
+    "LeagueId": "20",
+    "NationId": "51",
+    "Rating": "60",
+    "Attribute1": "69",
+    "Attribute2": "59",
+    "Attribute3": "48",
+    "Attribute4": "56",
+    "Attribute5": "54",
+    "Attribute6": "59",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

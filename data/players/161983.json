@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Emin",
+    "LastName": "Sulimani",
+    "CommonName": null,
+    "Height": "172",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "8",
+      "Day": "4"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111821",
+    "LeagueId": "80",
+    "NationId": "4",
+    "Rating": "63",
+    "Attribute1": "71",
+    "Attribute2": "58",
+    "Attribute3": "60",
+    "Attribute4": "71",
+    "Attribute5": "34",
+    "Attribute6": "40",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

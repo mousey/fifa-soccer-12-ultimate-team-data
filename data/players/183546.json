@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jonathon",
+    "LastName": "Hogg",
+    "CommonName": null,
+    "Height": "170",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "12",
+      "Day": "6"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1795",
+    "LeagueId": "14",
+    "NationId": "14",
+    "Rating": "64",
+    "Attribute1": "75",
+    "Attribute2": "57",
+    "Attribute3": "58",
+    "Attribute4": "67",
+    "Attribute5": "68",
+    "Attribute6": "63",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

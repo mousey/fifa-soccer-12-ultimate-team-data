@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Marvin",
+    "LastName": "Bartley",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "7",
+      "Day": "1"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1796",
+    "LeagueId": "14",
+    "NationId": "14",
+    "Rating": "62",
+    "Attribute1": "79",
+    "Attribute2": "48",
+    "Attribute3": "61",
+    "Attribute4": "63",
+    "Attribute5": "64",
+    "Attribute6": "63",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

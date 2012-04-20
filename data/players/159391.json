@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ian",
+    "LastName": "Black",
+    "CommonName": null,
+    "Height": "173",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "3",
+      "Day": "14"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "80",
+    "LeagueId": "50",
+    "NationId": "42",
+    "Rating": "64",
+    "Attribute1": "68",
+    "Attribute2": "53",
+    "Attribute3": "61",
+    "Attribute4": "64",
+    "Attribute5": "64",
+    "Attribute6": "65",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

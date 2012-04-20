@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Roman",
+    "LastName": "Eremenko",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "3",
+      "Day": "19"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110227",
+    "LeagueId": "67",
+    "NationId": "17",
+    "Rating": "78",
+    "Attribute1": "76",
+    "Attribute2": "69",
+    "Attribute3": "78",
+    "Attribute4": "80",
+    "Attribute5": "67",
+    "Attribute6": "58",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

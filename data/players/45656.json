@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Walter",
+    "LastName": "Pandiani",
+    "CommonName": null,
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1976",
+      "Month": "4",
+      "Day": "27"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "452",
+    "LeagueId": "53",
+    "NationId": "60",
+    "Rating": "75",
+    "Attribute1": "64",
+    "Attribute2": "72",
+    "Attribute3": "58",
+    "Attribute4": "67",
+    "Attribute5": "60",
+    "Attribute6": "81",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

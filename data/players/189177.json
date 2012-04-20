@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "John",
+    "LastName": "Fleck",
+    "CommonName": null,
+    "Height": "169",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "8",
+      "Day": "24"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1794",
+    "LeagueId": "60",
+    "NationId": "42",
+    "Rating": "67",
+    "Attribute1": "74",
+    "Attribute2": "57",
+    "Attribute3": "63",
+    "Attribute4": "72",
+    "Attribute5": "56",
+    "Attribute6": "59",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

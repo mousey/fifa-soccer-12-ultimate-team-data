@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Nils",
+    "LastName": "Petersen",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "12",
+      "Day": "6"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "21",
+    "LeagueId": "19",
+    "NationId": "21",
+    "Rating": "74",
+    "Attribute1": "69",
+    "Attribute2": "69",
+    "Attribute3": "56",
+    "Attribute4": "67",
+    "Attribute5": "55",
+    "Attribute6": "66",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Grégory",
+    "LastName": "Lacombe",
+    "CommonName": null,
+    "Height": "164",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "1",
+      "Day": "11"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "70",
+    "LeagueId": "16",
+    "NationId": "18",
+    "Rating": "67",
+    "Attribute1": "66",
+    "Attribute2": "51",
+    "Attribute3": "69",
+    "Attribute4": "70",
+    "Attribute5": "43",
+    "Attribute6": "42",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

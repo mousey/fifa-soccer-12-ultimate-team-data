@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Felipe",
+    "LastName": "Mattioni Rohde",
+    "CommonName": "Felipe Mattioni",
+    "Height": "177",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "10",
+      "Day": "15"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "452",
+    "LeagueId": "53",
+    "NationId": "54",
+    "Rating": "70",
+    "Attribute1": "75",
+    "Attribute2": "57",
+    "Attribute3": "72",
+    "Attribute4": "77",
+    "Attribute5": "70",
+    "Attribute6": "64",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

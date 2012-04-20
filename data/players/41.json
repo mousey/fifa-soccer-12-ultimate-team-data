@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Andrés",
+    "LastName": "Iniesta Luján",
+    "CommonName": "Iniesta",
+    "Height": "170",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "5",
+      "Day": "11"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "241",
+    "LeagueId": "53",
+    "NationId": "45",
+    "Rating": "91",
+    "Attribute1": "78",
+    "Attribute2": "72",
+    "Attribute3": "90",
+    "Attribute4": "91",
+    "Attribute5": "65",
+    "Attribute6": "55",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

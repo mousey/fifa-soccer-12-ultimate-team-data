@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Radhi",
+    "LastName": "Jaidi",
+    "CommonName": null,
+    "Height": "189",
+    "DateOfBirth": {
+      "Year": "1975",
+      "Month": "8",
+      "Day": "30"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "17",
+    "LeagueId": "14",
+    "NationId": "145",
+    "Rating": "66",
+    "Attribute1": "33",
+    "Attribute2": "29",
+    "Attribute3": "41",
+    "Attribute4": "35",
+    "Attribute5": "71",
+    "Attribute6": "74",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

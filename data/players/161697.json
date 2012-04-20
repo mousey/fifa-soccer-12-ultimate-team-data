@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Diego",
+    "LastName": "de la Torre",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "2",
+      "Day": "5"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1882",
+    "LeagueId": "341",
+    "NationId": "83",
+    "Rating": "64",
+    "Attribute1": "67",
+    "Attribute2": "62",
+    "Attribute3": "60",
+    "Attribute4": "66",
+    "Attribute5": "54",
+    "Attribute6": "61",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

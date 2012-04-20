@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Hans",
+    "LastName": "Cornelis",
+    "CommonName": null,
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "10",
+      "Day": "13"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1750",
+    "LeagueId": "4",
+    "NationId": "7",
+    "Rating": "67",
+    "Attribute1": "67",
+    "Attribute2": "60",
+    "Attribute3": "66",
+    "Attribute4": "63",
+    "Attribute5": "65",
+    "Attribute6": "62",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

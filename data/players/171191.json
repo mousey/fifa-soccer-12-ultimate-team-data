@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Damion",
+    "LastName": "Stewart",
+    "CommonName": null,
+    "Height": "191",
+    "DateOfBirth": {
+      "Year": "1980",
+      "Month": "8",
+      "Day": "18"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1919",
+    "LeagueId": "14",
+    "NationId": "82",
+    "Rating": "65",
+    "Attribute1": "58",
+    "Attribute2": "32",
+    "Attribute3": "53",
+    "Attribute4": "52",
+    "Attribute5": "70",
+    "Attribute6": "69",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

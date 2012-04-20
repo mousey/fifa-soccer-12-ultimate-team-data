@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Nicky",
+    "LastName": "Ajose",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "10",
+      "Day": "7"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1938",
+    "LeagueId": "14",
+    "NationId": "14",
+    "Rating": "63",
+    "Attribute1": "79",
+    "Attribute2": "62",
+    "Attribute3": "44",
+    "Attribute4": "62",
+    "Attribute5": "42",
+    "Attribute6": "56",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

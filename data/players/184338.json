@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Giuseppe",
+    "LastName": "Bellusci",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "8",
+      "Day": "21"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110364",
+    "LeagueId": "31",
+    "NationId": "27",
+    "Rating": "69",
+    "Attribute1": "68",
+    "Attribute2": "46",
+    "Attribute3": "52",
+    "Attribute4": "48",
+    "Attribute5": "72",
+    "Attribute6": "67",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

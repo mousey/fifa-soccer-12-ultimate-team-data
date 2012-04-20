@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Carlos",
+    "LastName": "Valdés",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "5",
+      "Day": "22"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "112134",
+    "LeagueId": "39",
+    "NationId": "56",
+    "Rating": "69",
+    "Attribute1": "68",
+    "Attribute2": "40",
+    "Attribute3": "47",
+    "Attribute4": "61",
+    "Attribute5": "74",
+    "Attribute6": "69",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

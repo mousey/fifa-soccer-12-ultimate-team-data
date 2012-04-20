@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Frank",
+    "LastName": "Hansen",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "2",
+      "Day": "23"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "270",
+    "LeagueId": "1",
+    "NationId": "13",
+    "Rating": "66",
+    "Attribute1": "84",
+    "Attribute2": "49",
+    "Attribute3": "59",
+    "Attribute4": "60",
+    "Attribute5": "65",
+    "Attribute6": "60",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

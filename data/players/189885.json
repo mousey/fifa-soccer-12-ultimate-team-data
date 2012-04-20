@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Craig",
+    "LastName": "Noone",
+    "CommonName": null,
+    "Height": "177",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "11",
+      "Day": "17"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1808",
+    "LeagueId": "14",
+    "NationId": "14",
+    "Rating": "63",
+    "Attribute1": "81",
+    "Attribute2": "48",
+    "Attribute3": "61",
+    "Attribute4": "62",
+    "Attribute5": "46",
+    "Attribute6": "54",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

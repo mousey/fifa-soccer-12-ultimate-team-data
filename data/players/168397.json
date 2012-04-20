@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Leonardo",
+    "LastName": "Miglionico",
+    "CommonName": null,
+    "Height": "179",
+    "DateOfBirth": {
+      "Year": "1980",
+      "Month": "1",
+      "Day": "31"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1844",
+    "LeagueId": "32",
+    "NationId": "60",
+    "Rating": "68",
+    "Attribute1": "63",
+    "Attribute2": "40",
+    "Attribute3": "60",
+    "Attribute4": "53",
+    "Attribute5": "68",
+    "Attribute6": "75",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

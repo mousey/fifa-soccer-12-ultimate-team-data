@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Vassilis",
+    "LastName": "Torosidis",
+    "CommonName": null,
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "6",
+      "Day": "10"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "280",
+    "LeagueId": "63",
+    "NationId": "22",
+    "Rating": "79",
+    "Attribute1": "79",
+    "Attribute2": "56",
+    "Attribute3": "75",
+    "Attribute4": "71",
+    "Attribute5": "77",
+    "Attribute6": "77",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

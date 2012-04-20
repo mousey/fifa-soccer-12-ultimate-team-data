@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Quin",
+    "LastName": "Kruijsen",
+    "CommonName": null,
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "11",
+      "Day": "27"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "100651",
+    "LeagueId": "10",
+    "NationId": "34",
+    "Rating": "63",
+    "Attribute1": "63",
+    "Attribute2": "58",
+    "Attribute3": "67",
+    "Attribute4": "66",
+    "Attribute5": "63",
+    "Attribute6": "65",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

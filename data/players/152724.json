@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Danny",
+    "LastName": "Pugh",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "10",
+      "Day": "19"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1806",
+    "LeagueId": "13",
+    "NationId": "14",
+    "Rating": "69",
+    "Attribute1": "66",
+    "Attribute2": "54",
+    "Attribute3": "74",
+    "Attribute4": "67",
+    "Attribute5": "64",
+    "Attribute6": "68",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

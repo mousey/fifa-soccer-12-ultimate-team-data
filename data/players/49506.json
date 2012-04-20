@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Marius",
+    "LastName": "Johnsen",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "8",
+      "Day": "28"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "299",
+    "LeagueId": "41",
+    "NationId": "36",
+    "Rating": "52",
+    "Attribute1": "44",
+    "Attribute2": "67",
+    "Attribute3": "52",
+    "Attribute4": "48",
+    "Attribute5": "57",
+    "Attribute6": "79",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

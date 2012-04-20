@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Pavel",
+    "LastName": "Novitskiy",
+    "CommonName": null,
+    "Height": "187",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "4",
+      "Day": "6"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "100764",
+    "LeagueId": "67",
+    "NationId": "40",
+    "Rating": "59",
+    "Attribute1": "62",
+    "Attribute2": "34",
+    "Attribute3": "48",
+    "Attribute4": "34",
+    "Attribute5": "61",
+    "Attribute6": "66",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

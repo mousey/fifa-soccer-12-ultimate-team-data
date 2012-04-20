@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Juraj",
+    "LastName": "Kucka",
+    "CommonName": null,
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "2",
+      "Day": "26"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110556",
+    "LeagueId": "31",
+    "NationId": "43",
+    "Rating": "78",
+    "Attribute1": "72",
+    "Attribute2": "74",
+    "Attribute3": "77",
+    "Attribute4": "76",
+    "Attribute5": "80",
+    "Attribute6": "77",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

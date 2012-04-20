@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Torsten",
+    "LastName": "Oehrl",
+    "CommonName": null,
+    "Height": "191",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "1",
+      "Day": "7"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "100409",
+    "LeagueId": "19",
+    "NationId": "21",
+    "Rating": "64",
+    "Attribute1": "62",
+    "Attribute2": "61",
+    "Attribute3": "45",
+    "Attribute4": "58",
+    "Attribute5": "53",
+    "Attribute6": "63",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

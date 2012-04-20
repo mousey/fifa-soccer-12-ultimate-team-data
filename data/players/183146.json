@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Tom",
+    "LastName": "Craddock",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "10",
+      "Day": "14"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1951",
+    "LeagueId": "61",
+    "NationId": "14",
+    "Rating": "57",
+    "Attribute1": "71",
+    "Attribute2": "56",
+    "Attribute3": "32",
+    "Attribute4": "58",
+    "Attribute5": "45",
+    "Attribute6": "50",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

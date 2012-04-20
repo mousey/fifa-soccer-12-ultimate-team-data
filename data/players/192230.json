@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Marlon",
+    "LastName": "Jackson",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "12",
+      "Day": "6"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1919",
+    "LeagueId": "14",
+    "NationId": "14",
+    "Rating": "59",
+    "Attribute1": "79",
+    "Attribute2": "56",
+    "Attribute3": "52",
+    "Attribute4": "58",
+    "Attribute5": "43",
+    "Attribute6": "59",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Diogo",
+    "LastName": "S. Bittencourt",
+    "CommonName": "Diogo",
+    "Height": "176",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "12",
+      "Day": "30"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "229",
+    "LeagueId": "4",
+    "NationId": "54",
+    "Rating": "65",
+    "Attribute1": "80",
+    "Attribute2": "59",
+    "Attribute3": "62",
+    "Attribute4": "65",
+    "Attribute5": "67",
+    "Attribute6": "62",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

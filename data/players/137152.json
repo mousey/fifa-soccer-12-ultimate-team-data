@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Pierre",
+    "LastName": "Regonesi",
+    "CommonName": null,
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "2",
+      "Day": "22"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "2044",
+    "LeagueId": "32",
+    "NationId": "27",
+    "Rating": "60",
+    "Attribute1": "61",
+    "Attribute2": "55",
+    "Attribute3": "58",
+    "Attribute4": "58",
+    "Attribute5": "66",
+    "Attribute6": "61",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

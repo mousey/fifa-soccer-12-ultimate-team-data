@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "David",
+    "LastName": "Stephens",
+    "CommonName": null,
+    "Height": "193",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "10",
+      "Day": "18"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "81",
+    "LeagueId": "50",
+    "NationId": "50",
+    "Rating": "54",
+    "Attribute1": "54",
+    "Attribute2": "29",
+    "Attribute3": "36",
+    "Attribute4": "26",
+    "Attribute5": "60",
+    "Attribute6": "48",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Amaury",
+    "LastName": "Ponce",
+    "CommonName": null,
+    "Height": "179",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "8",
+      "Day": "13"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110150",
+    "LeagueId": "341",
+    "NationId": "83",
+    "Rating": "64",
+    "Attribute1": "64",
+    "Attribute2": "62",
+    "Attribute3": "66",
+    "Attribute4": "63",
+    "Attribute5": "64",
+    "Attribute6": "57",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

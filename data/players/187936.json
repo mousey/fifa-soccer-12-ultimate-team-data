@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Steven",
+    "LastName": "N'Zonzi",
+    "CommonName": null,
+    "Height": "190",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "12",
+      "Day": "15"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "3",
+    "LeagueId": "13",
+    "NationId": "18",
+    "Rating": "76",
+    "Attribute1": "71",
+    "Attribute2": "58",
+    "Attribute3": "70",
+    "Attribute4": "58",
+    "Attribute5": "77",
+    "Attribute6": "72",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Phil",
+    "LastName": "Bardsley",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "6",
+      "Day": "28"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "106",
+    "LeagueId": "13",
+    "NationId": "42",
+    "Rating": "74",
+    "Attribute1": "68",
+    "Attribute2": "58",
+    "Attribute3": "64",
+    "Attribute4": "68",
+    "Attribute5": "75",
+    "Attribute6": "71",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

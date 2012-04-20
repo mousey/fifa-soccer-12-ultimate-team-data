@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jin Ryong",
+    "LastName": "Kim",
+    "CommonName": "Kim Jin Ryong",
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "10",
+      "Day": "9"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "112115",
+    "LeagueId": "83",
+    "NationId": "167",
+    "Rating": "60",
+    "Attribute1": "66",
+    "Attribute2": "59",
+    "Attribute3": "56",
+    "Attribute4": "67",
+    "Attribute5": "58",
+    "Attribute6": "72",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

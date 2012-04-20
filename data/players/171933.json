@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jim",
+    "LastName": "Larsen",
+    "CommonName": null,
+    "Height": "190",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "5",
+      "Day": "13"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "298",
+    "LeagueId": "41",
+    "NationId": "13",
+    "Rating": "75",
+    "Attribute1": "65",
+    "Attribute2": "44",
+    "Attribute3": "49",
+    "Attribute4": "52",
+    "Attribute5": "78",
+    "Attribute6": "78",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

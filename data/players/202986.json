@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jin Ho",
+    "LastName": "Shin",
+    "CommonName": "Shin Jin Ho",
+    "Height": "177",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "8",
+      "Day": "7"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1474",
+    "LeagueId": "83",
+    "NationId": "167",
+    "Rating": "54",
+    "Attribute1": "64",
+    "Attribute2": "53",
+    "Attribute3": "52",
+    "Attribute4": "51",
+    "Attribute5": "47",
+    "Attribute6": "45",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

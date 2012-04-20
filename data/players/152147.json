@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Enrico",
+    "LastName": "Kern",
+    "CommonName": null,
+    "Height": "189",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "3",
+      "Day": "12"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "506",
+    "LeagueId": "20",
+    "NationId": "21",
+    "Rating": "65",
+    "Attribute1": "65",
+    "Attribute2": "61",
+    "Attribute3": "47",
+    "Attribute4": "61",
+    "Attribute5": "54",
+    "Attribute6": "66",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

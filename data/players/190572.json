@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Laurens",
+    "LastName": "De Bock",
+    "CommonName": null,
+    "Height": "179",
+    "DateOfBirth": {
+      "Year": "1992",
+      "Month": "11",
+      "Day": "7"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "2007",
+    "LeagueId": "4",
+    "NationId": "7",
+    "Rating": "66",
+    "Attribute1": "76",
+    "Attribute2": "50",
+    "Attribute3": "68",
+    "Attribute4": "64",
+    "Attribute5": "62",
+    "Attribute6": "63",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

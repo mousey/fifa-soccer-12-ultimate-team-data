@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Daniel",
+    "LastName": "Hofstetter",
+    "CommonName": null,
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1992",
+      "Month": "7",
+      "Day": "4"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "33",
+    "LeagueId": "20",
+    "NationId": "21",
+    "Rating": "58",
+    "Attribute1": "60",
+    "Attribute2": "27",
+    "Attribute3": "37",
+    "Attribute4": "28",
+    "Attribute5": "61",
+    "Attribute6": "67",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

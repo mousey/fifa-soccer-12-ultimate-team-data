@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jonathan",
+    "LastName": "Macken",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1977",
+      "Month": "9",
+      "Day": "7"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1803",
+    "LeagueId": "60",
+    "NationId": "25",
+    "Rating": "64",
+    "Attribute1": "59",
+    "Attribute2": "64",
+    "Attribute3": "43",
+    "Attribute4": "46",
+    "Attribute5": "50",
+    "Attribute6": "71",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

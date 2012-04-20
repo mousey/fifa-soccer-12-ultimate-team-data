@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Aldo",
+    "LastName": "Simoncini",
+    "CommonName": null,
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "8",
+      "Day": "30"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110915",
+    "LeagueId": "31",
+    "NationId": "41",
+    "Rating": "64",
+    "Attribute1": "63",
+    "Attribute2": "62",
+    "Attribute3": "51",
+    "Attribute4": "69",
+    "Attribute5": "53",
+    "Attribute6": "68",
+    "Rare": "1",
+    "ItemType": "PlayerGk"
+  }
+}

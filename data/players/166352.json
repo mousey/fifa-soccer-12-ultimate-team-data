@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Tim",
+    "LastName": "Brown",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "3",
+      "Day": "6"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111766",
+    "LeagueId": "351",
+    "NationId": "198",
+    "Rating": "62",
+    "Attribute1": "61",
+    "Attribute2": "53",
+    "Attribute3": "58",
+    "Attribute4": "54",
+    "Attribute5": "67",
+    "Attribute6": "71",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

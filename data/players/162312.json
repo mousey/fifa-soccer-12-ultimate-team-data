@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Andrea",
+    "LastName": "Guatelli",
+    "CommonName": null,
+    "Height": "197",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "5",
+      "Day": "5"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "894",
+    "LeagueId": "189",
+    "NationId": "27",
+    "Rating": "64",
+    "Attribute1": "67",
+    "Attribute2": "63",
+    "Attribute3": "71",
+    "Attribute4": "63",
+    "Attribute5": "34",
+    "Attribute6": "59",
+    "Rare": "1",
+    "ItemType": "PlayerGk"
+  }
+}

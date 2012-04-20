@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Romain",
+    "LastName": "Vincelot",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "10",
+      "Day": "29"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1808",
+    "LeagueId": "14",
+    "NationId": "18",
+    "Rating": "63",
+    "Attribute1": "66",
+    "Attribute2": "52",
+    "Attribute3": "63",
+    "Attribute4": "65",
+    "Attribute5": "66",
+    "Attribute6": "81",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

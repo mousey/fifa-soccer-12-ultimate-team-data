@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Matteo",
+    "LastName": "Brighi",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "2",
+      "Day": "14"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "39",
+    "LeagueId": "31",
+    "NationId": "27",
+    "Rating": "74",
+    "Attribute1": "70",
+    "Attribute2": "68",
+    "Attribute3": "74",
+    "Attribute4": "71",
+    "Attribute5": "72",
+    "Attribute6": "69",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

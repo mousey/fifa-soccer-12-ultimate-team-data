@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Mahamane",
+    "LastName": "Traoré",
+    "CommonName": null,
+    "Height": "176",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "8",
+      "Day": "31"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "68",
+    "LeagueId": "17",
+    "NationId": "126",
+    "Rating": "66",
+    "Attribute1": "78",
+    "Attribute2": "64",
+    "Attribute3": "67",
+    "Attribute4": "72",
+    "Attribute5": "42",
+    "Attribute6": "56",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "George",
+    "LastName": "Baldock",
+    "CommonName": null,
+    "Height": "177",
+    "DateOfBirth": {
+      "Year": "1993",
+      "Month": "1",
+      "Day": "26"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1798",
+    "LeagueId": "60",
+    "NationId": "14",
+    "Rating": "52",
+    "Attribute1": "71",
+    "Attribute2": "34",
+    "Attribute3": "48",
+    "Attribute4": "59",
+    "Attribute5": "44",
+    "Attribute6": "49",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

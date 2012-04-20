@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Carlo",
+    "LastName": "Pinsoglio",
+    "CommonName": null,
+    "Height": "192",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "3",
+      "Day": "16"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "200",
+    "LeagueId": "32",
+    "NationId": "27",
+    "Rating": "65",
+    "Attribute1": "65",
+    "Attribute2": "60",
+    "Attribute3": "59",
+    "Attribute4": "72",
+    "Attribute5": "58",
+    "Attribute6": "65",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

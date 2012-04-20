@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Amobi",
+    "LastName": "Okugo",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "3",
+      "Day": "13"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "112134",
+    "LeagueId": "39",
+    "NationId": "95",
+    "Rating": "59",
+    "Attribute1": "77",
+    "Attribute2": "54",
+    "Attribute3": "53",
+    "Attribute4": "61",
+    "Attribute5": "60",
+    "Attribute6": "70",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

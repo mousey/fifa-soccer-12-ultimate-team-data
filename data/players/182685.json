@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Max",
+    "LastName": "Porter",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "6",
+      "Day": "29"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "112259",
+    "LeagueId": "61",
+    "NationId": "14",
+    "Rating": "56",
+    "Attribute1": "67",
+    "Attribute2": "31",
+    "Attribute3": "56",
+    "Attribute4": "55",
+    "Attribute5": "51",
+    "Attribute6": "45",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

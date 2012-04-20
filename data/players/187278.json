@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jin Sub",
+    "LastName": "Hong",
+    "CommonName": "Hong Jin Sub",
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "10",
+      "Day": "14"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "981",
+    "LeagueId": "83",
+    "NationId": "167",
+    "Rating": "63",
+    "Attribute1": "83",
+    "Attribute2": "53",
+    "Attribute3": "60",
+    "Attribute4": "65",
+    "Attribute5": "46",
+    "Attribute6": "51",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

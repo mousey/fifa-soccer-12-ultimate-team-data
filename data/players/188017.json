@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Alberto",
+    "LastName": "Pomini",
+    "CommonName": null,
+    "Height": "187",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "3",
+      "Day": "17"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111974",
+    "LeagueId": "32",
+    "NationId": "27",
+    "Rating": "65",
+    "Attribute1": "63",
+    "Attribute2": "61",
+    "Attribute3": "55",
+    "Attribute4": "70",
+    "Attribute5": "50",
+    "Attribute6": "69",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

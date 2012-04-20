@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Robert",
+    "LastName": "Strauß",
+    "CommonName": null,
+    "Height": "174",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "10",
+      "Day": "7"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "506",
+    "LeagueId": "20",
+    "NationId": "21",
+    "Rating": "61",
+    "Attribute1": "77",
+    "Attribute2": "58",
+    "Attribute3": "53",
+    "Attribute4": "63",
+    "Attribute5": "45",
+    "Attribute6": "69",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

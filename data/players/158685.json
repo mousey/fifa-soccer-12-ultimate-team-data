@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Rodrigo",
+    "LastName": "Defendi",
+    "CommonName": null,
+    "Height": "190",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "6",
+      "Day": "1"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1887",
+    "LeagueId": "308",
+    "NationId": "54",
+    "Rating": "63",
+    "Attribute1": "44",
+    "Attribute2": "28",
+    "Attribute3": "41",
+    "Attribute4": "34",
+    "Attribute5": "67",
+    "Attribute6": "68",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

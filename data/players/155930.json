@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Andrea",
+    "LastName": "Orlandi Stabilin",
+    "CommonName": "Orlandi",
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "8",
+      "Day": "3"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1960",
+    "LeagueId": "13",
+    "NationId": "45",
+    "Rating": "66",
+    "Attribute1": "64",
+    "Attribute2": "61",
+    "Attribute3": "66",
+    "Attribute4": "68",
+    "Attribute5": "53",
+    "Attribute6": "57",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

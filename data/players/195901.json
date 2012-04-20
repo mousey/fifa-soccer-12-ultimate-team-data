@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Mauricio",
+    "LastName": "Saucedo",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "8",
+      "Day": "14"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1887",
+    "LeagueId": "308",
+    "NationId": "53",
+    "Rating": "64",
+    "Attribute1": "66",
+    "Attribute2": "62",
+    "Attribute3": "59",
+    "Attribute4": "62",
+    "Attribute5": "47",
+    "Attribute6": "61",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

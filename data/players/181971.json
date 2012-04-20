@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Bowen",
+    "LastName": "Huang",
+    "CommonName": "Huang Bowen",
+    "Height": "177",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "7",
+      "Day": "13"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1477",
+    "LeagueId": "83",
+    "NationId": "155",
+    "Rating": "64",
+    "Attribute1": "75",
+    "Attribute2": "59",
+    "Attribute3": "64",
+    "Attribute4": "64",
+    "Attribute5": "63",
+    "Attribute6": "65",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

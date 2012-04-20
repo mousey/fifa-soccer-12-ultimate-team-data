@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Luis",
+    "LastName": "Pérez",
+    "CommonName": null,
+    "Height": "170",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "1",
+      "Day": "12"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1032",
+    "LeagueId": "341",
+    "NationId": "83",
+    "Rating": "69",
+    "Attribute1": "71",
+    "Attribute2": "64",
+    "Attribute3": "71",
+    "Attribute4": "68",
+    "Attribute5": "68",
+    "Attribute6": "62",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

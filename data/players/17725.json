@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Aaron",
+    "LastName": "Hughes",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "11",
+      "Day": "8"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "144",
+    "LeagueId": "13",
+    "NationId": "35",
+    "Rating": "76",
+    "Attribute1": "54",
+    "Attribute2": "37",
+    "Attribute3": "56",
+    "Attribute4": "56",
+    "Attribute5": "74",
+    "Attribute6": "76",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

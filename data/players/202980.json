@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ji Ho",
+    "LastName": "Han",
+    "CommonName": "Han Ji Ho",
+    "Height": "179",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "12",
+      "Day": "15"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1476",
+    "LeagueId": "83",
+    "NationId": "167",
+    "Rating": "63",
+    "Attribute1": "68",
+    "Attribute2": "63",
+    "Attribute3": "47",
+    "Attribute4": "62",
+    "Attribute5": "46",
+    "Attribute6": "65",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "José Fernando",
+    "LastName": "Marqués Martín",
+    "CommonName": "Marqués",
+    "Height": "177",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "12",
+      "Day": "4"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "50",
+    "LeagueId": "31",
+    "NationId": "45",
+    "Rating": "75",
+    "Attribute1": "83",
+    "Attribute2": "68",
+    "Attribute3": "70",
+    "Attribute4": "77",
+    "Attribute5": "50",
+    "Attribute6": "54",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

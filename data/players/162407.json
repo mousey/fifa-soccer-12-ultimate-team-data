@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Michael",
+    "LastName": "Jakobsen",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "1",
+      "Day": "2"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1861",
+    "LeagueId": "54",
+    "NationId": "13",
+    "Rating": "68",
+    "Attribute1": "65",
+    "Attribute2": "55",
+    "Attribute3": "65",
+    "Attribute4": "57",
+    "Attribute5": "69",
+    "Attribute6": "73",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Benjamin",
+    "LastName": "Mokulu",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "11",
+      "Day": "10"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "2007",
+    "LeagueId": "4",
+    "NationId": "7",
+    "Rating": "66",
+    "Attribute1": "73",
+    "Attribute2": "55",
+    "Attribute3": "64",
+    "Attribute4": "70",
+    "Attribute5": "53",
+    "Attribute6": "71",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

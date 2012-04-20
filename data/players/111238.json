@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Florian",
+    "LastName": "Jarjat",
+    "CommonName": null,
+    "Height": "181",
+    "DateOfBirth": {
+      "Year": "1980",
+      "Month": "2",
+      "Day": "18"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "294",
+    "LeagueId": "17",
+    "NationId": "18",
+    "Rating": "60",
+    "Attribute1": "53",
+    "Attribute2": "44",
+    "Attribute3": "58",
+    "Attribute4": "46",
+    "Attribute5": "63",
+    "Attribute6": "74",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

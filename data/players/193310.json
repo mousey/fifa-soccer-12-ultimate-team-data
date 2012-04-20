@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Dominik",
+    "LastName": "Schmidt",
+    "CommonName": null,
+    "Height": "187",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "7",
+      "Day": "1"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1824",
+    "LeagueId": "20",
+    "NationId": "21",
+    "Rating": "67",
+    "Attribute1": "63",
+    "Attribute2": "36",
+    "Attribute3": "61",
+    "Attribute4": "63",
+    "Attribute5": "71",
+    "Attribute6": "67",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

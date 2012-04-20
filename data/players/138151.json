@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "John",
+    "LastName": "Welsh",
+    "CommonName": null,
+    "Height": "170",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "1",
+      "Day": "10"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "15048",
+    "LeagueId": "60",
+    "NationId": "14",
+    "Rating": "63",
+    "Attribute1": "61",
+    "Attribute2": "57",
+    "Attribute3": "63",
+    "Attribute4": "68",
+    "Attribute5": "63",
+    "Attribute6": "72",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

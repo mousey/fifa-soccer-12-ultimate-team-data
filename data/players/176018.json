@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Bart",
+    "LastName": "Buysse",
+    "CommonName": null,
+    "Height": "179",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "10",
+      "Day": "16"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1908",
+    "LeagueId": "10",
+    "NationId": "7",
+    "Rating": "68",
+    "Attribute1": "73",
+    "Attribute2": "46",
+    "Attribute3": "65",
+    "Attribute4": "64",
+    "Attribute5": "65",
+    "Attribute6": "63",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

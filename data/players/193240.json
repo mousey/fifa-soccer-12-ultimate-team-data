@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Kevin",
+    "LastName": "Conrad",
+    "CommonName": null,
+    "Height": "181",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "8",
+      "Day": "10"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "10029",
+    "LeagueId": "19",
+    "NationId": "21",
+    "Rating": "59",
+    "Attribute1": "54",
+    "Attribute2": "27",
+    "Attribute3": "58",
+    "Attribute4": "41",
+    "Attribute5": "62",
+    "Attribute6": "62",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Colin",
+    "LastName": "Hawkins",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1977",
+      "Month": "8",
+      "Day": "17"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "837",
+    "LeagueId": "65",
+    "NationId": "25",
+    "Rating": "61",
+    "Attribute1": "33",
+    "Attribute2": "33",
+    "Attribute3": "39",
+    "Attribute4": "31",
+    "Attribute5": "64",
+    "Attribute6": "66",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Luis Amaranto",
+    "LastName": "Perea",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "1",
+      "Day": "30"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "240",
+    "LeagueId": "53",
+    "NationId": "56",
+    "Rating": "76",
+    "Attribute1": "82",
+    "Attribute2": "37",
+    "Attribute3": "51",
+    "Attribute4": "44",
+    "Attribute5": "81",
+    "Attribute6": "79",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

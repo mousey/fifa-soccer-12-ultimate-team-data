@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Dante Bonfim",
+    "LastName": "Costa Santos",
+    "CommonName": "Dante",
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "10",
+      "Day": "18"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "23",
+    "LeagueId": "19",
+    "NationId": "54",
+    "Rating": "77",
+    "Attribute1": "66",
+    "Attribute2": "64",
+    "Attribute3": "74",
+    "Attribute4": "66",
+    "Attribute5": "81",
+    "Attribute6": "73",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Nicky",
+    "LastName": "Wroe",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "9",
+      "Day": "28"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "127",
+    "LeagueId": "61",
+    "NationId": "14",
+    "Rating": "63",
+    "Attribute1": "59",
+    "Attribute2": "56",
+    "Attribute3": "65",
+    "Attribute4": "72",
+    "Attribute5": "53",
+    "Attribute6": "64",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

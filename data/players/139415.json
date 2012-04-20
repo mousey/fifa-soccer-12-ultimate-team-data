@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jung Woo",
+    "LastName": "Kim",
+    "CommonName": "Kim Jung Woo",
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "5",
+      "Day": "9"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "2055",
+    "LeagueId": "83",
+    "NationId": "167",
+    "Rating": "74",
+    "Attribute1": "77",
+    "Attribute2": "75",
+    "Attribute3": "74",
+    "Attribute4": "71",
+    "Attribute5": "71",
+    "Attribute6": "76",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

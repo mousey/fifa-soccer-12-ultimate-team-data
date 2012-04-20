@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Erik",
+    "LastName": "Pieters",
+    "CommonName": null,
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "8",
+      "Day": "7"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "247",
+    "LeagueId": "10",
+    "NationId": "34",
+    "Rating": "74",
+    "Attribute1": "72",
+    "Attribute2": "39",
+    "Attribute3": "66",
+    "Attribute4": "61",
+    "Attribute5": "76",
+    "Attribute6": "66",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

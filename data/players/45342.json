@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Patrick",
+    "LastName": "Zoundi",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "7",
+      "Day": "19"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1831",
+    "LeagueId": "20",
+    "NationId": "101",
+    "Rating": "64",
+    "Attribute1": "91",
+    "Attribute2": "47",
+    "Attribute3": "52",
+    "Attribute4": "68",
+    "Attribute5": "39",
+    "Attribute6": "52",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

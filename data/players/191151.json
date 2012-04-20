@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Samba",
+    "LastName": "Sow",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "4",
+      "Day": "29"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "64",
+    "LeagueId": "17",
+    "NationId": "126",
+    "Rating": "64",
+    "Attribute1": "76",
+    "Attribute2": "32",
+    "Attribute3": "58",
+    "Attribute4": "57",
+    "Attribute5": "69",
+    "Attribute6": "60",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

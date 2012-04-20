@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ross",
+    "LastName": "Wallace",
+    "CommonName": null,
+    "Height": "167",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "5",
+      "Day": "23"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1796",
+    "LeagueId": "14",
+    "NationId": "42",
+    "Rating": "71",
+    "Attribute1": "79",
+    "Attribute2": "66",
+    "Attribute3": "71",
+    "Attribute4": "69",
+    "Attribute5": "54",
+    "Attribute6": "62",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ivan",
+    "LastName": "Sproule",
+    "CommonName": null,
+    "Height": "173",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "2",
+      "Day": "18"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "81",
+    "LeagueId": "50",
+    "NationId": "35",
+    "Rating": "64",
+    "Attribute1": "90",
+    "Attribute2": "56",
+    "Attribute3": "53",
+    "Attribute4": "66",
+    "Attribute5": "54",
+    "Attribute6": "60",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

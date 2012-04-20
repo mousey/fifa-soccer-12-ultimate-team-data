@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "René",
+    "LastName": "Renno",
+    "CommonName": null,
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "2",
+      "Day": "19"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "162",
+    "LeagueId": "20",
+    "NationId": "21",
+    "Rating": "60",
+    "Attribute1": "66",
+    "Attribute2": "60",
+    "Attribute3": "63",
+    "Attribute4": "51",
+    "Attribute5": "30",
+    "Attribute6": "64",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Cédric",
+    "LastName": "Collet",
+    "CommonName": null,
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "3",
+      "Day": "7"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "379",
+    "LeagueId": "17",
+    "NationId": "18",
+    "Rating": "64",
+    "Attribute1": "71",
+    "Attribute2": "54",
+    "Attribute3": "59",
+    "Attribute4": "66",
+    "Attribute5": "61",
+    "Attribute6": "60",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

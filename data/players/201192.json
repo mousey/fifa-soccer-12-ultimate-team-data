@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Luke",
+    "LastName": "Hubbins",
+    "CommonName": null,
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1992",
+      "Month": "12",
+      "Day": "17"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "88",
+    "LeagueId": "14",
+    "NationId": "14",
+    "Rating": "58",
+    "Attribute1": "81",
+    "Attribute2": "57",
+    "Attribute3": "54",
+    "Attribute4": "64",
+    "Attribute5": "57",
+    "Attribute6": "57",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Rafał",
+    "LastName": "Murawski",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "10",
+      "Day": "9"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "873",
+    "LeagueId": "66",
+    "NationId": "37",
+    "Rating": "71",
+    "Attribute1": "78",
+    "Attribute2": "65",
+    "Attribute3": "70",
+    "Attribute4": "75",
+    "Attribute5": "67",
+    "Attribute6": "67",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

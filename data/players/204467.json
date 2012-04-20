@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Pelle",
+    "LastName": "Jensen",
+    "CommonName": null,
+    "Height": "193",
+    "DateOfBirth": {
+      "Year": "1992",
+      "Month": "5",
+      "Day": "24"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "27",
+    "LeagueId": "20",
+    "NationId": "21",
+    "Rating": "57",
+    "Attribute1": "62",
+    "Attribute2": "44",
+    "Attribute3": "44",
+    "Attribute4": "45",
+    "Attribute5": "63",
+    "Attribute6": "57",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

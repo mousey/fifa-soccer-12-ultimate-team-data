@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Björn Bergmann",
+    "LastName": "Sigurdarson",
+    "CommonName": null,
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "12",
+      "Day": "26"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "299",
+    "LeagueId": "41",
+    "NationId": "24",
+    "Rating": "74",
+    "Attribute1": "80",
+    "Attribute2": "67",
+    "Attribute3": "47",
+    "Attribute4": "70",
+    "Attribute5": "60",
+    "Attribute6": "79",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

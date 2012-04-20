@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jacob",
+    "LastName": "Mulenga",
+    "CommonName": null,
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "2",
+      "Day": "12"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1903",
+    "LeagueId": "10",
+    "NationId": "147",
+    "Rating": "71",
+    "Attribute1": "76",
+    "Attribute2": "68",
+    "Attribute3": "61",
+    "Attribute4": "71",
+    "Attribute5": "63",
+    "Attribute6": "68",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

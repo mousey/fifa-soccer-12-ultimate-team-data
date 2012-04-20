@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Rhys",
+    "LastName": "Williams",
+    "CommonName": null,
+    "Height": "187",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "7",
+      "Day": "14"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "12",
+    "LeagueId": "14",
+    "NationId": "195",
+    "Rating": "69",
+    "Attribute1": "69",
+    "Attribute2": "53",
+    "Attribute3": "67",
+    "Attribute4": "63",
+    "Attribute5": "69",
+    "Attribute6": "68",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

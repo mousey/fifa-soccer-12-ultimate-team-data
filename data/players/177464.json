@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Pierre",
+    "LastName": "de Wit",
+    "CommonName": null,
+    "Height": "172",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "9",
+      "Day": "26"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "29",
+    "LeagueId": "19",
+    "NationId": "21",
+    "Rating": "69",
+    "Attribute1": "64",
+    "Attribute2": "68",
+    "Attribute3": "68",
+    "Attribute4": "70",
+    "Attribute5": "64",
+    "Attribute6": "61",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

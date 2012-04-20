@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Fabian",
+    "LastName": "Johnson",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "12",
+      "Day": "11"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "10029",
+    "LeagueId": "19",
+    "NationId": "21",
+    "Rating": "69",
+    "Attribute1": "78",
+    "Attribute2": "53",
+    "Attribute3": "67",
+    "Attribute4": "71",
+    "Attribute5": "69",
+    "Attribute6": "60",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

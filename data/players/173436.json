@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Nathan",
+    "LastName": "Dyer",
+    "CommonName": null,
+    "Height": "165",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "11",
+      "Day": "29"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1960",
+    "LeagueId": "13",
+    "NationId": "14",
+    "Rating": "73",
+    "Attribute1": "88",
+    "Attribute2": "56",
+    "Attribute3": "58",
+    "Attribute4": "82",
+    "Attribute5": "49",
+    "Attribute6": "47",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

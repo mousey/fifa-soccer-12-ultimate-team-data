@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Danny",
+    "LastName": "Murphy",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1977",
+      "Month": "3",
+      "Day": "18"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "144",
+    "LeagueId": "13",
+    "NationId": "14",
+    "Rating": "77",
+    "Attribute1": "45",
+    "Attribute2": "74",
+    "Attribute3": "82",
+    "Attribute4": "68",
+    "Attribute5": "71",
+    "Attribute6": "65",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

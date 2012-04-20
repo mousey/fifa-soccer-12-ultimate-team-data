@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Tamás",
+    "LastName": "Hajnal",
+    "CommonName": null,
+    "Height": "168",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "3",
+      "Day": "15"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "36",
+    "LeagueId": "19",
+    "NationId": "23",
+    "Rating": "77",
+    "Attribute1": "65",
+    "Attribute2": "75",
+    "Attribute3": "75",
+    "Attribute4": "76",
+    "Attribute5": "49",
+    "Attribute6": "55",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

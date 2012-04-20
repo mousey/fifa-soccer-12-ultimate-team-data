@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Mitja",
+    "LastName": "Mörec",
+    "CommonName": null,
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "2",
+      "Day": "21"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "650",
+    "LeagueId": "10",
+    "NationId": "44",
+    "Rating": "64",
+    "Attribute1": "67",
+    "Attribute2": "44",
+    "Attribute3": "51",
+    "Attribute4": "49",
+    "Attribute5": "67",
+    "Attribute6": "70",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

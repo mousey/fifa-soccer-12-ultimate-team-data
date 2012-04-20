@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Craig",
+    "LastName": "Mackail-Smith",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "2",
+      "Day": "25"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1808",
+    "LeagueId": "14",
+    "NationId": "42",
+    "Rating": "71",
+    "Attribute1": "81",
+    "Attribute2": "70",
+    "Attribute3": "51",
+    "Attribute4": "66",
+    "Attribute5": "52",
+    "Attribute6": "66",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Christoph",
+    "LastName": "Moritz",
+    "CommonName": null,
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "1",
+      "Day": "27"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "34",
+    "LeagueId": "19",
+    "NationId": "21",
+    "Rating": "73",
+    "Attribute1": "73",
+    "Attribute2": "55",
+    "Attribute3": "71",
+    "Attribute4": "76",
+    "Attribute5": "66",
+    "Attribute6": "64",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

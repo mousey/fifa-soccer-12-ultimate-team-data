@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Andrea",
+    "LastName": "Rispoli",
+    "CommonName": null,
+    "Height": "187",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "1",
+      "Day": "29"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1837",
+    "LeagueId": "32",
+    "NationId": "27",
+    "Rating": "67",
+    "Attribute1": "77",
+    "Attribute2": "55",
+    "Attribute3": "66",
+    "Attribute4": "61",
+    "Attribute5": "69",
+    "Attribute6": "64",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

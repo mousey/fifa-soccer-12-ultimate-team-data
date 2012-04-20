@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Sebastián",
+    "LastName": "Eguren",
+    "CommonName": null,
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "1",
+      "Day": "8"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "459",
+    "LeagueId": "53",
+    "NationId": "60",
+    "Rating": "72",
+    "Attribute1": "45",
+    "Attribute2": "57",
+    "Attribute3": "65",
+    "Attribute4": "57",
+    "Attribute5": "75",
+    "Attribute6": "66",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

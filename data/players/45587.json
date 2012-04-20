@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Morten",
+    "LastName": "Skoubo",
+    "CommonName": null,
+    "Height": "190",
+    "DateOfBirth": {
+      "Year": "1980",
+      "Month": "6",
+      "Day": "30"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "272",
+    "LeagueId": "1",
+    "NationId": "13",
+    "Rating": "68",
+    "Attribute1": "67",
+    "Attribute2": "65",
+    "Attribute3": "62",
+    "Attribute4": "61",
+    "Attribute5": "57",
+    "Attribute6": "72",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

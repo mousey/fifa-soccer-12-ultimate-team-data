@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Min Hyuk",
+    "LastName": "Kang",
+    "CommonName": "Kang Min Hyuk",
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "7",
+      "Day": "10"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1478",
+    "LeagueId": "83",
+    "NationId": "167",
+    "Rating": "62",
+    "Attribute1": "49",
+    "Attribute2": "37",
+    "Attribute3": "46",
+    "Attribute4": "38",
+    "Attribute5": "64",
+    "Attribute6": "70",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

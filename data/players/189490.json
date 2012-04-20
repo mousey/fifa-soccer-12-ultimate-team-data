@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Mirko",
+    "LastName": "Boland",
+    "CommonName": null,
+    "Height": "174",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "4",
+      "Day": "23"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "110500",
+    "LeagueId": "20",
+    "NationId": "21",
+    "Rating": "67",
+    "Attribute1": "78",
+    "Attribute2": "62",
+    "Attribute3": "64",
+    "Attribute4": "69",
+    "Attribute5": "62",
+    "Attribute6": "66",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

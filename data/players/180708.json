@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Kyle",
+    "LastName": "Reynish",
+    "CommonName": null,
+    "Height": "191",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "11",
+      "Day": "3"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111065",
+    "LeagueId": "39",
+    "NationId": "95",
+    "Rating": "60",
+    "Attribute1": "61",
+    "Attribute2": "64",
+    "Attribute3": "69",
+    "Attribute4": "57",
+    "Attribute5": "41",
+    "Attribute6": "63",
+    "Rare": "1",
+    "ItemType": "PlayerGk"
+  }
+}

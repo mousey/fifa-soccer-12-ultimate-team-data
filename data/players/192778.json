@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ilombe",
+    "LastName": "Mboyo",
+    "CommonName": null,
+    "Height": "190",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "4",
+      "Day": "27"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "674",
+    "LeagueId": "4",
+    "NationId": "7",
+    "Rating": "69",
+    "Attribute1": "77",
+    "Attribute2": "63",
+    "Attribute3": "60",
+    "Attribute4": "74",
+    "Attribute5": "59",
+    "Attribute6": "69",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Tom",
+    "LastName": "Cleverley",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "8",
+      "Day": "12"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "11",
+    "LeagueId": "13",
+    "NationId": "14",
+    "Rating": "73",
+    "Attribute1": "77",
+    "Attribute2": "70",
+    "Attribute3": "78",
+    "Attribute4": "77",
+    "Attribute5": "59",
+    "Attribute6": "56",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

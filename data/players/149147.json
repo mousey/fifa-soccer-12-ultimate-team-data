@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Guglielmo",
+    "LastName": "Stendardo",
+    "CommonName": null,
+    "Height": "190",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "5",
+      "Day": "6"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "46",
+    "LeagueId": "31",
+    "NationId": "27",
+    "Rating": "74",
+    "Attribute1": "48",
+    "Attribute2": "42",
+    "Attribute3": "50",
+    "Attribute4": "35",
+    "Attribute5": "80",
+    "Attribute6": "67",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

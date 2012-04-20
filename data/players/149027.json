@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Sergio",
+    "LastName": "van Dijk",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "8",
+      "Day": "6"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "111393",
+    "LeagueId": "351",
+    "NationId": "160",
+    "Rating": "70",
+    "Attribute1": "62",
+    "Attribute2": "72",
+    "Attribute3": "46",
+    "Attribute4": "59",
+    "Attribute5": "56",
+    "Attribute6": "85",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

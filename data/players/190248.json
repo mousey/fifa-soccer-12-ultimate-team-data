@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Amadou",
+    "LastName": "Sidibe",
+    "CommonName": null,
+    "Height": "173",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "2",
+      "Day": "19"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "57",
+    "LeagueId": "16",
+    "NationId": "126",
+    "Rating": "63",
+    "Attribute1": "67",
+    "Attribute2": "60",
+    "Attribute3": "64",
+    "Attribute4": "64",
+    "Attribute5": "57",
+    "Attribute6": "58",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

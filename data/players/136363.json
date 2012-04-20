@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jo Gook",
+    "LastName": "Jung",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "4",
+      "Day": "23"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "57",
+    "LeagueId": "16",
+    "NationId": "167",
+    "Rating": "65",
+    "Attribute1": "59",
+    "Attribute2": "65",
+    "Attribute3": "58",
+    "Attribute4": "62",
+    "Attribute5": "49",
+    "Attribute6": "68",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

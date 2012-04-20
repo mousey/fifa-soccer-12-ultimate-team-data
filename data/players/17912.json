@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Dudu",
+    "LastName": "Aouate",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1977",
+      "Month": "10",
+      "Day": "17"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "453",
+    "LeagueId": "53",
+    "NationId": "26",
+    "Rating": "77",
+    "Attribute1": "81",
+    "Attribute2": "72",
+    "Attribute3": "76",
+    "Attribute4": "85",
+    "Attribute5": "55",
+    "Attribute6": "75",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

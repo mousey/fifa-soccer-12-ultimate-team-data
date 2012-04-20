@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Alejandro",
+    "LastName": "Campano Hernando",
+    "CommonName": "Campano",
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1978",
+      "Month": "12",
+      "Day": "29"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1742",
+    "LeagueId": "54",
+    "NationId": "45",
+    "Rating": "66",
+    "Attribute1": "58",
+    "Attribute2": "65",
+    "Attribute3": "77",
+    "Attribute4": "62",
+    "Attribute5": "66",
+    "Attribute6": "50",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

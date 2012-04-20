@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Andrei",
+    "LastName": "Arshavin",
+    "CommonName": null,
+    "Height": "172",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "5",
+      "Day": "29"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1",
+    "LeagueId": "13",
+    "NationId": "40",
+    "Rating": "83",
+    "Attribute1": "82",
+    "Attribute2": "79",
+    "Attribute3": "78",
+    "Attribute4": "87",
+    "Attribute5": "51",
+    "Attribute6": "55",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

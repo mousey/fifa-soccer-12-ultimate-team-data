@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Bradden",
+    "LastName": "Inman",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "12",
+      "Day": "10"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "13",
+    "LeagueId": "13",
+    "NationId": "42",
+    "Rating": "57",
+    "Attribute1": "57",
+    "Attribute2": "61",
+    "Attribute3": "68",
+    "Attribute4": "59",
+    "Attribute5": "35",
+    "Attribute6": "38",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

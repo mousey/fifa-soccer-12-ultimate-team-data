@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Dale",
+    "LastName": "Tonge",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "5",
+      "Day": "7"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1797",
+    "LeagueId": "61",
+    "NationId": "14",
+    "Rating": "59",
+    "Attribute1": "63",
+    "Attribute2": "42",
+    "Attribute3": "57",
+    "Attribute4": "56",
+    "Attribute5": "60",
+    "Attribute6": "62",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

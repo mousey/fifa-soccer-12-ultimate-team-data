@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Michael",
+    "LastName": "Owen",
+    "CommonName": null,
+    "Height": "173",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "12",
+      "Day": "14"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "11",
+    "LeagueId": "13",
+    "NationId": "14",
+    "Rating": "75",
+    "Attribute1": "71",
+    "Attribute2": "72",
+    "Attribute3": "60",
+    "Attribute4": "78",
+    "Attribute5": "44",
+    "Attribute6": "68",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

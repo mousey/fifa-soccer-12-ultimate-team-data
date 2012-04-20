@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Rene",
+    "LastName": "Krhin",
+    "CommonName": null,
+    "Height": "189",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "5",
+      "Day": "21"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "189",
+    "LeagueId": "31",
+    "NationId": "44",
+    "Rating": "68",
+    "Attribute1": "58",
+    "Attribute2": "59",
+    "Attribute3": "70",
+    "Attribute4": "67",
+    "Attribute5": "66",
+    "Attribute6": "61",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

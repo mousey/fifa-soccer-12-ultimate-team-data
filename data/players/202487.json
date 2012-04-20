@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jair Eduardo",
+    "LastName": "Britto da Silva",
+    "CommonName": "Jair",
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "10",
+      "Day": "6"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1478",
+    "LeagueId": "83",
+    "NationId": "54",
+    "Rating": "63",
+    "Attribute1": "59",
+    "Attribute2": "63",
+    "Attribute3": "59",
+    "Attribute4": "65",
+    "Attribute5": "57",
+    "Attribute6": "61",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

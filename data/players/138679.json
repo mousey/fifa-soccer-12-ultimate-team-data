@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "James",
+    "LastName": "McEveley",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "2",
+      "Day": "11"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1932",
+    "LeagueId": "14",
+    "NationId": "42",
+    "Rating": "65",
+    "Attribute1": "65",
+    "Attribute2": "54",
+    "Attribute3": "62",
+    "Attribute4": "58",
+    "Attribute5": "68",
+    "Attribute6": "69",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

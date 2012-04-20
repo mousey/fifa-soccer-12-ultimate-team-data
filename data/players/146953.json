@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Manuel",
+    "LastName": "Del Moral Fernández",
+    "CommonName": "Manu Del Moral",
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "2",
+      "Day": "25"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "481",
+    "LeagueId": "53",
+    "NationId": "45",
+    "Rating": "78",
+    "Attribute1": "83",
+    "Attribute2": "78",
+    "Attribute3": "63",
+    "Attribute4": "79",
+    "Attribute5": "47",
+    "Attribute6": "67",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

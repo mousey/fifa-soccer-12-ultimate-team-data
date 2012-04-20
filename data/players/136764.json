@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Khalid",
+    "LastName": "Boulahrouz",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "12",
+      "Day": "28"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "36",
+    "LeagueId": "19",
+    "NationId": "34",
+    "Rating": "70",
+    "Attribute1": "71",
+    "Attribute2": "40",
+    "Attribute3": "59",
+    "Attribute4": "64",
+    "Attribute5": "75",
+    "Attribute6": "70",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

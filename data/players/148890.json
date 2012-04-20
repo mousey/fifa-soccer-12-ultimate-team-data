@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Berry",
+    "LastName": "Powel",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1980",
+      "Month": "5",
+      "Day": "2"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "15019",
+    "LeagueId": "54",
+    "NationId": "34",
+    "Rating": "64",
+    "Attribute1": "62",
+    "Attribute2": "63",
+    "Attribute3": "46",
+    "Attribute4": "55",
+    "Attribute5": "58",
+    "Attribute6": "69",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

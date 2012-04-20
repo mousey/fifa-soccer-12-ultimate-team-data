@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Héctor",
+    "LastName": "Ladero Rivas",
+    "CommonName": "Ladero",
+    "Height": "192",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "5",
+      "Day": "13"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "477",
+    "LeagueId": "54",
+    "NationId": "45",
+    "Rating": "62",
+    "Attribute1": "48",
+    "Attribute2": "45",
+    "Attribute3": "47",
+    "Attribute4": "37",
+    "Attribute5": "69",
+    "Attribute6": "67",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

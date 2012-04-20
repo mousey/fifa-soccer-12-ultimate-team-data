@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Xabier",
+    "LastName": "Castillo Aranburu",
+    "CommonName": "Xabi Castillo",
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "3",
+      "Day": "29"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "448",
+    "LeagueId": "53",
+    "NationId": "45",
+    "Rating": "69",
+    "Attribute1": "70",
+    "Attribute2": "51",
+    "Attribute3": "64",
+    "Attribute4": "62",
+    "Attribute5": "73",
+    "Attribute6": "69",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

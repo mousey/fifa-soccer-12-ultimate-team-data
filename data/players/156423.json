@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Juan Carlos",
+    "LastName": "Medina",
+    "CommonName": null,
+    "Height": "170",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "8",
+      "Day": "22"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1879",
+    "LeagueId": "341",
+    "NationId": "83",
+    "Rating": "67",
+    "Attribute1": "70",
+    "Attribute2": "64",
+    "Attribute3": "68",
+    "Attribute4": "67",
+    "Attribute5": "53",
+    "Attribute6": "62",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

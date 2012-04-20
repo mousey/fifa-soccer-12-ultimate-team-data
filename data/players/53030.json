@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Alou",
+    "LastName": "Diarra",
+    "CommonName": null,
+    "Height": "190",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "7",
+      "Day": "15"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "219",
+    "LeagueId": "16",
+    "NationId": "18",
+    "Rating": "81",
+    "Attribute1": "64",
+    "Attribute2": "61",
+    "Attribute3": "67",
+    "Attribute4": "69",
+    "Attribute5": "84",
+    "Attribute6": "87",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

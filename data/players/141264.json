@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Mato",
+    "LastName": "Neretljak",
+    "CommonName": null,
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "6",
+      "Day": "3"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "983",
+    "LeagueId": "83",
+    "NationId": "10",
+    "Rating": "66",
+    "Attribute1": "52",
+    "Attribute2": "68",
+    "Attribute3": "59",
+    "Attribute4": "59",
+    "Attribute5": "69",
+    "Attribute6": "74",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

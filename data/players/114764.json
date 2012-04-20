@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Gorka",
+    "LastName": "Iraizoz Moreno",
+    "CommonName": "Iraizoz",
+    "Height": "191",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "3",
+      "Day": "6"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "448",
+    "LeagueId": "53",
+    "NationId": "45",
+    "Rating": "81",
+    "Attribute1": "77",
+    "Attribute2": "86",
+    "Attribute3": "75",
+    "Attribute4": "82",
+    "Attribute5": "57",
+    "Attribute6": "84",
+    "Rare": "1",
+    "ItemType": "PlayerGk"
+  }
+}

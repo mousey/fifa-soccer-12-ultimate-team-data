@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Louis",
+    "LastName": "Saha",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1978",
+      "Month": "8",
+      "Day": "8"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "7",
+    "LeagueId": "13",
+    "NationId": "18",
+    "Rating": "79",
+    "Attribute1": "79",
+    "Attribute2": "80",
+    "Attribute3": "55",
+    "Attribute4": "77",
+    "Attribute5": "60",
+    "Attribute6": "77",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "João",
+    "LastName": "Alves de Assis",
+    "CommonName": "Jô",
+    "Height": "189",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "3",
+      "Day": "20"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1048",
+    "LeagueId": "7",
+    "NationId": "54",
+    "Rating": "74",
+    "Attribute1": "80",
+    "Attribute2": "71",
+    "Attribute3": "60",
+    "Attribute4": "77",
+    "Attribute5": "53",
+    "Attribute6": "75",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

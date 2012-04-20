@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Lisandro",
+    "LastName": "López",
+    "CommonName": null,
+    "Height": "174",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "3",
+      "Day": "2"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "66",
+    "LeagueId": "16",
+    "NationId": "52",
+    "Rating": "84",
+    "Attribute1": "78",
+    "Attribute2": "82",
+    "Attribute3": "74",
+    "Attribute4": "80",
+    "Attribute5": "67",
+    "Attribute6": "77",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

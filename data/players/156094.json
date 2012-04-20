@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Federico",
+    "LastName": "Vilar",
+    "CommonName": null,
+    "Height": "181",
+    "DateOfBirth": {
+      "Year": "1977",
+      "Month": "5",
+      "Day": "30"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1028",
+    "LeagueId": "341",
+    "NationId": "52",
+    "Rating": "70",
+    "Attribute1": "65",
+    "Attribute2": "74",
+    "Attribute3": "71",
+    "Attribute4": "73",
+    "Attribute5": "62",
+    "Attribute6": "68",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

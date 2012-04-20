@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Emerse",
+    "LastName": "Faé",
+    "CommonName": null,
+    "Height": "174",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "1",
+      "Day": "24"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "72",
+    "LeagueId": "16",
+    "NationId": "108",
+    "Rating": "73",
+    "Attribute1": "71",
+    "Attribute2": "60",
+    "Attribute3": "68",
+    "Attribute4": "67",
+    "Attribute5": "75",
+    "Attribute6": "67",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

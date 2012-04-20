@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Michael",
+    "LastName": "Orozco",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "2",
+      "Day": "7"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110149",
+    "LeagueId": "341",
+    "NationId": "95",
+    "Rating": "64",
+    "Attribute1": "67",
+    "Attribute2": "37",
+    "Attribute3": "58",
+    "Attribute4": "52",
+    "Attribute5": "65",
+    "Attribute6": "67",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Marcelo",
+    "LastName": "Vieira da Silva",
+    "CommonName": "Marcelo",
+    "Height": "172",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "5",
+      "Day": "12"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "243",
+    "LeagueId": "53",
+    "NationId": "54",
+    "Rating": "82",
+    "Attribute1": "86",
+    "Attribute2": "70",
+    "Attribute3": "80",
+    "Attribute4": "82",
+    "Attribute5": "78",
+    "Attribute6": "72",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

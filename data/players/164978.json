@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Charles",
+    "LastName": "N'Zogbia",
+    "CommonName": null,
+    "Height": "171",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "5",
+      "Day": "28"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "2",
+    "LeagueId": "13",
+    "NationId": "18",
+    "Rating": "77",
+    "Attribute1": "90",
+    "Attribute2": "71",
+    "Attribute3": "71",
+    "Attribute4": "84",
+    "Attribute5": "65",
+    "Attribute6": "60",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

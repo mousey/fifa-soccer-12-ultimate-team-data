@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Daniele",
+    "LastName": "Conti",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "1",
+      "Day": "9"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1842",
+    "LeagueId": "31",
+    "NationId": "27",
+    "Rating": "76",
+    "Attribute1": "53",
+    "Attribute2": "71",
+    "Attribute3": "80",
+    "Attribute4": "71",
+    "Attribute5": "72",
+    "Attribute6": "64",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

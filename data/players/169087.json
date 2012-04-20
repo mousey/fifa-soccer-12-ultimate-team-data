@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Martin",
+    "LastName": "Ehrenreich",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "5",
+      "Day": "10"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "209",
+    "LeagueId": "80",
+    "NationId": "4",
+    "Rating": "61",
+    "Attribute1": "80",
+    "Attribute2": "42",
+    "Attribute3": "56",
+    "Attribute4": "58",
+    "Attribute5": "62",
+    "Attribute6": "59",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

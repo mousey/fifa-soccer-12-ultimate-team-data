@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Abdul-Yakini",
+    "LastName": "Iddi",
+    "CommonName": null,
+    "Height": "174",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "5",
+      "Day": "25"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "110724",
+    "LeagueId": "4",
+    "NationId": "117",
+    "Rating": "61",
+    "Attribute1": "69",
+    "Attribute2": "54",
+    "Attribute3": "60",
+    "Attribute4": "73",
+    "Attribute5": "48",
+    "Attribute6": "56",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

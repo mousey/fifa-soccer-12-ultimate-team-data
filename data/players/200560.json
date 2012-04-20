@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ho Jeong",
+    "LastName": "Jeong",
+    "CommonName": "Jeong Ho Jeong",
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "9",
+      "Day": "1"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "981",
+    "LeagueId": "83",
+    "NationId": "167",
+    "Rating": "50",
+    "Attribute1": "74",
+    "Attribute2": "36",
+    "Attribute3": "43",
+    "Attribute4": "37",
+    "Attribute5": "54",
+    "Attribute6": "52",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jorge",
+    "LastName": "Alonso Martín",
+    "CommonName": "Jorge Alonso",
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "1",
+      "Day": "5"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "462",
+    "LeagueId": "54",
+    "NationId": "45",
+    "Rating": "65",
+    "Attribute1": "58",
+    "Attribute2": "64",
+    "Attribute3": "71",
+    "Attribute4": "58",
+    "Attribute5": "62",
+    "Attribute6": "64",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

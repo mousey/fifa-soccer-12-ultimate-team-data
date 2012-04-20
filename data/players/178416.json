@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jeremain",
+    "LastName": "Lens",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "11",
+      "Day": "24"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "247",
+    "LeagueId": "10",
+    "NationId": "34",
+    "Rating": "78",
+    "Attribute1": "88",
+    "Attribute2": "75",
+    "Attribute3": "63",
+    "Attribute4": "82",
+    "Attribute5": "52",
+    "Attribute6": "64",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

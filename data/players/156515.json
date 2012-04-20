@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Mario",
+    "LastName": "Pérez",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "6",
+      "Day": "17"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "110780",
+    "LeagueId": "341",
+    "NationId": "83",
+    "Rating": "63",
+    "Attribute1": "67",
+    "Attribute2": "50",
+    "Attribute3": "63",
+    "Attribute4": "63",
+    "Attribute5": "69",
+    "Attribute6": "61",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Matthew",
+    "LastName": "Taylor",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "10",
+      "Day": "17"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "10030",
+    "LeagueId": "20",
+    "NationId": "95",
+    "Rating": "66",
+    "Attribute1": "71",
+    "Attribute2": "60",
+    "Attribute3": "44",
+    "Attribute4": "62",
+    "Attribute5": "46",
+    "Attribute6": "68",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

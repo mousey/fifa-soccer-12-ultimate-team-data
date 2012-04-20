@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jean-Armel",
+    "LastName": "Kana-Biyik",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "7",
+      "Day": "3"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "74",
+    "LeagueId": "16",
+    "NationId": "18",
+    "Rating": "74",
+    "Attribute1": "55",
+    "Attribute2": "31",
+    "Attribute3": "47",
+    "Attribute4": "45",
+    "Attribute5": "74",
+    "Attribute6": "74",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

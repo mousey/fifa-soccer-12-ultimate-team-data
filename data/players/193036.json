@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Geoffrey",
+    "LastName": "Ghesquière",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "12",
+      "Day": "6"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "100081",
+    "LeagueId": "4",
+    "NationId": "7",
+    "Rating": "54",
+    "Attribute1": "61",
+    "Attribute2": "45",
+    "Attribute3": "52",
+    "Attribute4": "54",
+    "Attribute5": "49",
+    "Attribute6": "49",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

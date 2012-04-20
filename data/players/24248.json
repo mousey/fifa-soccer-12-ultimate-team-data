@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "David",
+    "LastName": "Pizarro",
+    "CommonName": null,
+    "Height": "170",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "9",
+      "Day": "11"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "52",
+    "LeagueId": "31",
+    "NationId": "55",
+    "Rating": "77",
+    "Attribute1": "66",
+    "Attribute2": "70",
+    "Attribute3": "81",
+    "Attribute4": "77",
+    "Attribute5": "62",
+    "Attribute6": "52",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

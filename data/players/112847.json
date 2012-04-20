@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jermaine",
+    "LastName": "Jones",
+    "CommonName": null,
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "11",
+      "Day": "3"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "34",
+    "LeagueId": "19",
+    "NationId": "95",
+    "Rating": "77",
+    "Attribute1": "77",
+    "Attribute2": "69",
+    "Attribute3": "70",
+    "Attribute4": "72",
+    "Attribute5": "79",
+    "Attribute6": "74",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

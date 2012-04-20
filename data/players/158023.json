@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Lionel",
+    "LastName": "Messi",
+    "CommonName": null,
+    "Height": "169",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "6",
+      "Day": "24"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "241",
+    "LeagueId": "53",
+    "NationId": "52",
+    "Rating": "94",
+    "Attribute1": "93",
+    "Attribute2": "87",
+    "Attribute3": "82",
+    "Attribute4": "97",
+    "Attribute5": "46",
+    "Attribute6": "67",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

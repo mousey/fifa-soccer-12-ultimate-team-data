@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Héctor",
+    "LastName": "Bracamonte",
+    "CommonName": null,
+    "Height": "190",
+    "DateOfBirth": {
+      "Year": "1978",
+      "Month": "2",
+      "Day": "16"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110231",
+    "LeagueId": "67",
+    "NationId": "52",
+    "Rating": "72",
+    "Attribute1": "71",
+    "Attribute2": "68",
+    "Attribute3": "66",
+    "Attribute4": "63",
+    "Attribute5": "64",
+    "Attribute6": "77",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

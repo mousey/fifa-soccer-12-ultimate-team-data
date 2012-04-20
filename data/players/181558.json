@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Romain",
+    "LastName": "Armand",
+    "CommonName": null,
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "2",
+      "Day": "27"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1815",
+    "LeagueId": "17",
+    "NationId": "18",
+    "Rating": "59",
+    "Attribute1": "66",
+    "Attribute2": "53",
+    "Attribute3": "36",
+    "Attribute4": "59",
+    "Attribute5": "43",
+    "Attribute6": "69",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

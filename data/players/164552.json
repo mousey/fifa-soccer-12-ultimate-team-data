@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Kevin",
+    "LastName": "Goldthwaite",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "12",
+      "Day": "9"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "111140",
+    "LeagueId": "39",
+    "NationId": "95",
+    "Rating": "60",
+    "Attribute1": "62",
+    "Attribute2": "46",
+    "Attribute3": "56",
+    "Attribute4": "50",
+    "Attribute5": "62",
+    "Attribute6": "64",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

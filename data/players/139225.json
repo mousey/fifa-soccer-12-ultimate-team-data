@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Isaac",
+    "LastName": "Romo",
+    "CommonName": null,
+    "Height": "191",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "3",
+      "Day": "23"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110152",
+    "LeagueId": "341",
+    "NationId": "83",
+    "Rating": "64",
+    "Attribute1": "64",
+    "Attribute2": "62",
+    "Attribute3": "53",
+    "Attribute4": "56",
+    "Attribute5": "57",
+    "Attribute6": "71",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

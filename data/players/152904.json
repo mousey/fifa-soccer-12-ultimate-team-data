@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Steve",
+    "LastName": "Cronin",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "5",
+      "Day": "28"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "688",
+    "LeagueId": "39",
+    "NationId": "95",
+    "Rating": "61",
+    "Attribute1": "62",
+    "Attribute2": "58",
+    "Attribute3": "65",
+    "Attribute4": "66",
+    "Attribute5": "54",
+    "Attribute6": "62",
+    "Rare": "1",
+    "ItemType": "PlayerGk"
+  }
+}

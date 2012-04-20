@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Stevie",
+    "LastName": "May",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1992",
+      "Month": "11",
+      "Day": "3"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "100804",
+    "LeagueId": "50",
+    "NationId": "42",
+    "Rating": "58",
+    "Attribute1": "62",
+    "Attribute2": "58",
+    "Attribute3": "50",
+    "Attribute4": "57",
+    "Attribute5": "39",
+    "Attribute6": "67",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Rômulo",
+    "LastName": "Márques Antonelli",
+    "CommonName": "Rômulo",
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "2",
+      "Day": "25"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "681",
+    "LeagueId": "4",
+    "NationId": "54",
+    "Rating": "61",
+    "Attribute1": "65",
+    "Attribute2": "55",
+    "Attribute3": "49",
+    "Attribute4": "60",
+    "Attribute5": "53",
+    "Attribute6": "69",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

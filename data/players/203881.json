@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Christian",
+    "LastName": "Cappek",
+    "CommonName": null,
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "7",
+      "Day": "25"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "506",
+    "LeagueId": "20",
+    "NationId": "21",
+    "Rating": "54",
+    "Attribute1": "62",
+    "Attribute2": "60",
+    "Attribute3": "52",
+    "Attribute4": "56",
+    "Attribute5": "47",
+    "Attribute6": "60",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Michael",
+    "LastName": "Chopra",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "12",
+      "Day": "23"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "94",
+    "LeagueId": "14",
+    "NationId": "14",
+    "Rating": "74",
+    "Attribute1": "76",
+    "Attribute2": "71",
+    "Attribute3": "56",
+    "Attribute4": "72",
+    "Attribute5": "58",
+    "Attribute6": "68",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

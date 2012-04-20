@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Nuno Assis",
+    "LastName": "Lopes da Almeida",
+    "CommonName": "Nuno Assis",
+    "Height": "168",
+    "DateOfBirth": {
+      "Year": "1977",
+      "Month": "11",
+      "Day": "25"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1887",
+    "LeagueId": "308",
+    "NationId": "38",
+    "Rating": "77",
+    "Attribute1": "76",
+    "Attribute2": "71",
+    "Attribute3": "76",
+    "Attribute4": "79",
+    "Attribute5": "56",
+    "Attribute6": "63",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

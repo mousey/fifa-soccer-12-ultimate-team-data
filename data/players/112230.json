@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Franck",
+    "LastName": "Béria",
+    "CommonName": null,
+    "Height": "177",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "5",
+      "Day": "23"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "65",
+    "LeagueId": "16",
+    "NationId": "18",
+    "Rating": "76",
+    "Attribute1": "77",
+    "Attribute2": "55",
+    "Attribute3": "74",
+    "Attribute4": "66",
+    "Attribute5": "77",
+    "Attribute6": "75",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

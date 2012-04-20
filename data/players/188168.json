@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "George",
+    "LastName": "Friend",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "10",
+      "Day": "19"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "142",
+    "LeagueId": "14",
+    "NationId": "14",
+    "Rating": "65",
+    "Attribute1": "73",
+    "Attribute2": "57",
+    "Attribute3": "60",
+    "Attribute4": "60",
+    "Attribute5": "69",
+    "Attribute6": "71",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

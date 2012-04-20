@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Zvjezdan",
+    "LastName": "Misimović",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "6",
+      "Day": "5"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "312",
+    "LeagueId": "67",
+    "NationId": "8",
+    "Rating": "81",
+    "Attribute1": "62",
+    "Attribute2": "78",
+    "Attribute3": "82",
+    "Attribute4": "80",
+    "Attribute5": "51",
+    "Attribute6": "59",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

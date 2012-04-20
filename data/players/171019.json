@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "David",
+    "LastName": "Forde",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "12",
+      "Day": "20"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "97",
+    "LeagueId": "14",
+    "NationId": "25",
+    "Rating": "67",
+    "Attribute1": "69",
+    "Attribute2": "60",
+    "Attribute3": "71",
+    "Attribute4": "71",
+    "Attribute5": "47",
+    "Attribute6": "66",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Florent",
+    "LastName": "Malouda",
+    "CommonName": null,
+    "Height": "181",
+    "DateOfBirth": {
+      "Year": "1980",
+      "Month": "6",
+      "Day": "13"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "5",
+    "LeagueId": "13",
+    "NationId": "18",
+    "Rating": "84",
+    "Attribute1": "79",
+    "Attribute2": "79",
+    "Attribute3": "81",
+    "Attribute4": "85",
+    "Attribute5": "59",
+    "Attribute6": "62",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

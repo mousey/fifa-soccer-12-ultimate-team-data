@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Claudio",
+    "LastName": "Marchisio",
+    "CommonName": null,
+    "Height": "179",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "1",
+      "Day": "19"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "45",
+    "LeagueId": "31",
+    "NationId": "27",
+    "Rating": "81",
+    "Attribute1": "81",
+    "Attribute2": "72",
+    "Attribute3": "80",
+    "Attribute4": "79",
+    "Attribute5": "71",
+    "Attribute6": "62",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Robert",
+    "LastName": "Milsom",
+    "CommonName": null,
+    "Height": "179",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "1",
+      "Day": "2"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "77",
+    "LeagueId": "50",
+    "NationId": "14",
+    "Rating": "64",
+    "Attribute1": "73",
+    "Attribute2": "68",
+    "Attribute3": "65",
+    "Attribute4": "67",
+    "Attribute5": "62",
+    "Attribute6": "68",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

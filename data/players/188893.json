@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Omar",
+    "LastName": "Kossoko",
+    "CommonName": null,
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "3",
+      "Day": "10"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "57",
+    "LeagueId": "16",
+    "NationId": "18",
+    "Rating": "62",
+    "Attribute1": "77",
+    "Attribute2": "59",
+    "Attribute3": "44",
+    "Attribute4": "68",
+    "Attribute5": "40",
+    "Attribute6": "58",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

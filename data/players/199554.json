@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Damiano",
+    "LastName": "Zanon",
+    "CommonName": null,
+    "Height": "177",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "9",
+      "Day": "2"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "200",
+    "LeagueId": "32",
+    "NationId": "27",
+    "Rating": "62",
+    "Attribute1": "68",
+    "Attribute2": "47",
+    "Attribute3": "54",
+    "Attribute4": "56",
+    "Attribute5": "65",
+    "Attribute6": "65",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

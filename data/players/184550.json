@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Silvio Carlos",
+    "LastName": "de Oliveira",
+    "CommonName": "Silvio",
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "2",
+      "Day": "1"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1831",
+    "LeagueId": "20",
+    "NationId": "54",
+    "Rating": "66",
+    "Attribute1": "72",
+    "Attribute2": "65",
+    "Attribute3": "57",
+    "Attribute4": "68",
+    "Attribute5": "53",
+    "Attribute6": "64",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

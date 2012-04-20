@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ismaël",
+    "LastName": "Gace",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "9",
+      "Day": "19"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "111376",
+    "LeagueId": "17",
+    "NationId": "18",
+    "Rating": "67",
+    "Attribute1": "78",
+    "Attribute2": "30",
+    "Attribute3": "45",
+    "Attribute4": "41",
+    "Attribute5": "69",
+    "Attribute6": "74",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Darius",
+    "LastName": "Henderson",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "9",
+      "Day": "7"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "97",
+    "LeagueId": "14",
+    "NationId": "14",
+    "Rating": "69",
+    "Attribute1": "59",
+    "Attribute2": "67",
+    "Attribute3": "58",
+    "Attribute4": "63",
+    "Attribute5": "59",
+    "Attribute6": "78",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

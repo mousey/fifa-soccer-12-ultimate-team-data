@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Chris",
+    "LastName": "Clark",
+    "CommonName": null,
+    "Height": "173",
+    "DateOfBirth": {
+      "Year": "1980",
+      "Month": "9",
+      "Day": "15"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "77",
+    "LeagueId": "50",
+    "NationId": "42",
+    "Rating": "65",
+    "Attribute1": "77",
+    "Attribute2": "54",
+    "Attribute3": "63",
+    "Attribute4": "63",
+    "Attribute5": "60",
+    "Attribute6": "63",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

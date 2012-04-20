@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Iosif",
+    "LastName": "Daskalakis",
+    "CommonName": null,
+    "Height": "187",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "8",
+      "Day": "7"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "280",
+    "LeagueId": "63",
+    "NationId": "22",
+    "Rating": "69",
+    "Attribute1": "67",
+    "Attribute2": "70",
+    "Attribute3": "69",
+    "Attribute4": "70",
+    "Attribute5": "52",
+    "Attribute6": "68",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

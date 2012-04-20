@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Sergio",
+    "LastName": "Agüero",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "6",
+      "Day": "2"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "10",
+    "LeagueId": "13",
+    "NationId": "52",
+    "Rating": "86",
+    "Attribute1": "88",
+    "Attribute2": "81",
+    "Attribute3": "71",
+    "Attribute4": "92",
+    "Attribute5": "52",
+    "Attribute6": "76",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Fabian",
+    "LastName": "Lustenberger",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "5",
+      "Day": "2"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "166",
+    "LeagueId": "19",
+    "NationId": "47",
+    "Rating": "70",
+    "Attribute1": "63",
+    "Attribute2": "39",
+    "Attribute3": "68",
+    "Attribute4": "65",
+    "Attribute5": "68",
+    "Attribute6": "69",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

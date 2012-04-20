@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Clyde",
+    "LastName": "Simms",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "8",
+      "Day": "21"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "688",
+    "LeagueId": "39",
+    "NationId": "95",
+    "Rating": "64",
+    "Attribute1": "65",
+    "Attribute2": "56",
+    "Attribute3": "55",
+    "Attribute4": "59",
+    "Attribute5": "67",
+    "Attribute6": "67",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

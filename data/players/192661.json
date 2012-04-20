@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Michael",
+    "LastName": "Schulze",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "1",
+      "Day": "13"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "175",
+    "LeagueId": "19",
+    "NationId": "21",
+    "Rating": "62",
+    "Attribute1": "67",
+    "Attribute2": "44",
+    "Attribute3": "56",
+    "Attribute4": "62",
+    "Attribute5": "60",
+    "Attribute6": "63",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

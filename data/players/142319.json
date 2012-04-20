@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Tobias",
+    "LastName": "Rathgeb",
+    "CommonName": null,
+    "Height": "173",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "5",
+      "Day": "3"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "36",
+    "LeagueId": "19",
+    "NationId": "21",
+    "Rating": "65",
+    "Attribute1": "61",
+    "Attribute2": "61",
+    "Attribute3": "66",
+    "Attribute4": "70",
+    "Attribute5": "58",
+    "Attribute6": "49",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Omar",
+    "LastName": "Daf",
+    "CommonName": null,
+    "Height": "177",
+    "DateOfBirth": {
+      "Year": "1977",
+      "Month": "2",
+      "Day": "12"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "378",
+    "LeagueId": "16",
+    "NationId": "136",
+    "Rating": "68",
+    "Attribute1": "61",
+    "Attribute2": "38",
+    "Attribute3": "62",
+    "Attribute4": "47",
+    "Attribute5": "72",
+    "Attribute6": "69",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

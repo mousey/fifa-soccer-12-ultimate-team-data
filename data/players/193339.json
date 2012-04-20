@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jonathan",
+    "LastName": "Estrada",
+    "CommonName": null,
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "1",
+      "Day": "27"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "111976",
+    "LeagueId": "7",
+    "NationId": "56",
+    "Rating": "63",
+    "Attribute1": "58",
+    "Attribute2": "65",
+    "Attribute3": "65",
+    "Attribute4": "73",
+    "Attribute5": "56",
+    "Attribute6": "56",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

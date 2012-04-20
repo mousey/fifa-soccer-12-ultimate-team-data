@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Danny",
+    "LastName": "Drinkwater",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "3",
+      "Day": "5"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1932",
+    "LeagueId": "14",
+    "NationId": "14",
+    "Rating": "64",
+    "Attribute1": "69",
+    "Attribute2": "57",
+    "Attribute3": "63",
+    "Attribute4": "62",
+    "Attribute5": "58",
+    "Attribute6": "56",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

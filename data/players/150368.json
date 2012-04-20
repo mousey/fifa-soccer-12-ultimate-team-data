@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Christian",
+    "LastName": "Pander",
+    "CommonName": null,
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "8",
+      "Day": "28"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "485",
+    "LeagueId": "19",
+    "NationId": "21",
+    "Rating": "73",
+    "Attribute1": "68",
+    "Attribute2": "76",
+    "Attribute3": "78",
+    "Attribute4": "72",
+    "Attribute5": "74",
+    "Attribute6": "69",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

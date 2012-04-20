@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Kofi",
+    "LastName": "Sarkodie",
+    "CommonName": null,
+    "Height": "173",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "3",
+      "Day": "22"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "698",
+    "LeagueId": "39",
+    "NationId": "95",
+    "Rating": "60",
+    "Attribute1": "84",
+    "Attribute2": "55",
+    "Attribute3": "57",
+    "Attribute4": "62",
+    "Attribute5": "59",
+    "Attribute6": "64",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

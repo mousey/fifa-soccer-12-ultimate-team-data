@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Rene",
+    "LastName": "Gilmartin",
+    "CommonName": null,
+    "Height": "196",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "5",
+      "Day": "31"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1795",
+    "LeagueId": "14",
+    "NationId": "25",
+    "Rating": "61",
+    "Attribute1": "70",
+    "Attribute2": "54",
+    "Attribute3": "54",
+    "Attribute4": "65",
+    "Attribute5": "52",
+    "Attribute6": "58",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

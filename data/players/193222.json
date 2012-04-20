@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Fabian",
+    "LastName": "Giefer",
+    "CommonName": null,
+    "Height": "196",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "5",
+      "Day": "17"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "32",
+    "LeagueId": "19",
+    "NationId": "21",
+    "Rating": "67",
+    "Attribute1": "71",
+    "Attribute2": "64",
+    "Attribute3": "54",
+    "Attribute4": "72",
+    "Attribute5": "45",
+    "Attribute6": "61",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Josh",
+    "LastName": "Lillis",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "6",
+      "Day": "24"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1949",
+    "LeagueId": "60",
+    "NationId": "14",
+    "Rating": "62",
+    "Attribute1": "66",
+    "Attribute2": "58",
+    "Attribute3": "60",
+    "Attribute4": "68",
+    "Attribute5": "46",
+    "Attribute6": "57",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

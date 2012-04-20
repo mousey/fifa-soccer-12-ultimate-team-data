@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Benjamin",
+    "LastName": "Morel",
+    "CommonName": null,
+    "Height": "181",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "6",
+      "Day": "10"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "210",
+    "LeagueId": "16",
+    "NationId": "18",
+    "Rating": "61",
+    "Attribute1": "66",
+    "Attribute2": "61",
+    "Attribute3": "58",
+    "Attribute4": "61",
+    "Attribute5": "45",
+    "Attribute6": "64",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

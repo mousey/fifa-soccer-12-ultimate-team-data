@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Iñigo",
+    "LastName": "Pérez Soto",
+    "CommonName": "Iñigo Pérez",
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "1",
+      "Day": "18"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "448",
+    "LeagueId": "53",
+    "NationId": "45",
+    "Rating": "69",
+    "Attribute1": "70",
+    "Attribute2": "62",
+    "Attribute3": "70",
+    "Attribute4": "71",
+    "Attribute5": "59",
+    "Attribute6": "51",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

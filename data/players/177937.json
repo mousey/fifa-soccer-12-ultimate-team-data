@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "José Manuel",
+    "LastName": "Flores Moreno",
+    "CommonName": "Chico",
+    "Height": "187",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "3",
+      "Day": "6"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "453",
+    "LeagueId": "53",
+    "NationId": "45",
+    "Rating": "75",
+    "Attribute1": "60",
+    "Attribute2": "33",
+    "Attribute3": "46",
+    "Attribute4": "40",
+    "Attribute5": "79",
+    "Attribute6": "74",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Mickaël",
+    "LastName": "Le Bihan",
+    "CommonName": null,
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "5",
+      "Day": "15"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "613",
+    "LeagueId": "17",
+    "NationId": "18",
+    "Rating": "58",
+    "Attribute1": "64",
+    "Attribute2": "41",
+    "Attribute3": "53",
+    "Attribute4": "52",
+    "Attribute5": "61",
+    "Attribute6": "60",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

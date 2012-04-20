@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Petter",
+    "LastName": "Hansson",
+    "CommonName": null,
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1976",
+      "Month": "12",
+      "Day": "14"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "69",
+    "LeagueId": "17",
+    "NationId": "46",
+    "Rating": "70",
+    "Attribute1": "43",
+    "Attribute2": "55",
+    "Attribute3": "57",
+    "Attribute4": "49",
+    "Attribute5": "72",
+    "Attribute6": "76",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

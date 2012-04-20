@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Julien",
+    "LastName": "Cardy",
+    "CommonName": null,
+    "Height": "176",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "9",
+      "Day": "29"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110326",
+    "LeagueId": "17",
+    "NationId": "18",
+    "Rating": "67",
+    "Attribute1": "68",
+    "Attribute2": "51",
+    "Attribute3": "71",
+    "Attribute4": "67",
+    "Attribute5": "59",
+    "Attribute6": "64",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

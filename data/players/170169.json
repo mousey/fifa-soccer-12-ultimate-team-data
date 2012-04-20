@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Matt",
+    "LastName": "Thornhill",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "10",
+      "Day": "11"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "81",
+    "LeagueId": "50",
+    "NationId": "14",
+    "Rating": "58",
+    "Attribute1": "75",
+    "Attribute2": "45",
+    "Attribute3": "60",
+    "Attribute4": "62",
+    "Attribute5": "59",
+    "Attribute6": "55",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

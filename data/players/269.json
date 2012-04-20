@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Nick",
+    "LastName": "Barmby",
+    "CommonName": null,
+    "Height": "170",
+    "DateOfBirth": {
+      "Year": "1974",
+      "Month": "2",
+      "Day": "11"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1952",
+    "LeagueId": "14",
+    "NationId": "14",
+    "Rating": "61",
+    "Attribute1": "43",
+    "Attribute2": "64",
+    "Attribute3": "64",
+    "Attribute4": "65",
+    "Attribute5": "53",
+    "Attribute6": "60",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

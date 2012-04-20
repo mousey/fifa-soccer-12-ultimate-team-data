@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Bakaye",
+    "LastName": "Traoré",
+    "CommonName": null,
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "3",
+      "Day": "6"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1823",
+    "LeagueId": "16",
+    "NationId": "126",
+    "Rating": "68",
+    "Attribute1": "75",
+    "Attribute2": "69",
+    "Attribute3": "64",
+    "Attribute4": "69",
+    "Attribute5": "68",
+    "Attribute6": "71",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

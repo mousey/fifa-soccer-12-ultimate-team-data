@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Calen",
+    "LastName": "Carr",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "10",
+      "Day": "4"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "698",
+    "LeagueId": "39",
+    "NationId": "95",
+    "Rating": "62",
+    "Attribute1": "84",
+    "Attribute2": "57",
+    "Attribute3": "46",
+    "Attribute4": "65",
+    "Attribute5": "45",
+    "Attribute6": "57",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Paul",
+    "LastName": "Huntington",
+    "CommonName": null,
+    "Height": "191",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "9",
+      "Day": "17"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "346",
+    "LeagueId": "60",
+    "NationId": "14",
+    "Rating": "63",
+    "Attribute1": "52",
+    "Attribute2": "34",
+    "Attribute3": "47",
+    "Attribute4": "37",
+    "Attribute5": "68",
+    "Attribute6": "58",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

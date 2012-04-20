@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Vadim",
+    "LastName": "Demidov",
+    "CommonName": null,
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "10",
+      "Day": "10"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "457",
+    "LeagueId": "53",
+    "NationId": "36",
+    "Rating": "75",
+    "Attribute1": "53",
+    "Attribute2": "58",
+    "Attribute3": "66",
+    "Attribute4": "47",
+    "Attribute5": "76",
+    "Attribute6": "76",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

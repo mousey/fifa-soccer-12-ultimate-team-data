@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Alberto",
+    "LastName": "de la Bella Madueño",
+    "CommonName": "De la Bella",
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "12",
+      "Day": "2"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "457",
+    "LeagueId": "53",
+    "NationId": "45",
+    "Rating": "72",
+    "Attribute1": "76",
+    "Attribute2": "49",
+    "Attribute3": "73",
+    "Attribute4": "67",
+    "Attribute5": "69",
+    "Attribute6": "66",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

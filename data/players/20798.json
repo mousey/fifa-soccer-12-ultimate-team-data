@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Carlos Jorge",
+    "LastName": "Neto Martins",
+    "CommonName": "Carlos Martins",
+    "Height": "174",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "4",
+      "Day": "29"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110832",
+    "LeagueId": "53",
+    "NationId": "38",
+    "Rating": "78",
+    "Attribute1": "70",
+    "Attribute2": "82",
+    "Attribute3": "79",
+    "Attribute4": "76",
+    "Attribute5": "62",
+    "Attribute6": "60",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

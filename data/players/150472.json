@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ronald",
+    "LastName": "Zubar",
+    "CommonName": null,
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "9",
+      "Day": "20"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110",
+    "LeagueId": "13",
+    "NationId": "18",
+    "Rating": "69",
+    "Attribute1": "62",
+    "Attribute2": "44",
+    "Attribute3": "52",
+    "Attribute4": "44",
+    "Attribute5": "70",
+    "Attribute6": "73",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

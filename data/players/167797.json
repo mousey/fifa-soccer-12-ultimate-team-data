@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Emilio",
+    "LastName": "Nsue López",
+    "CommonName": "Nsue",
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "9",
+      "Day": "30"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "453",
+    "LeagueId": "53",
+    "NationId": "45",
+    "Rating": "73",
+    "Attribute1": "83",
+    "Attribute2": "66",
+    "Attribute3": "61",
+    "Attribute4": "75",
+    "Attribute5": "54",
+    "Attribute6": "77",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Rich",
+    "LastName": "Balchan",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "1",
+      "Day": "18"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "687",
+    "LeagueId": "39",
+    "NationId": "95",
+    "Rating": "64",
+    "Attribute1": "84",
+    "Attribute2": "48",
+    "Attribute3": "54",
+    "Attribute4": "59",
+    "Attribute5": "66",
+    "Attribute6": "56",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

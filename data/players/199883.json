@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Kingsley",
+    "LastName": "Onuegbu",
+    "CommonName": null,
+    "Height": "191",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "3",
+      "Day": "5"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "165",
+    "LeagueId": "20",
+    "NationId": "133",
+    "Rating": "65",
+    "Attribute1": "70",
+    "Attribute2": "62",
+    "Attribute3": "44",
+    "Attribute4": "59",
+    "Attribute5": "58",
+    "Attribute6": "62",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

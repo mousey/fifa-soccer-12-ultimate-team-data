@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Simone",
+    "LastName": "Colombi",
+    "CommonName": null,
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "7",
+      "Day": "1"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "112124",
+    "LeagueId": "32",
+    "NationId": "27",
+    "Rating": "60",
+    "Attribute1": "62",
+    "Attribute2": "60",
+    "Attribute3": "52",
+    "Attribute4": "62",
+    "Attribute5": "45",
+    "Attribute6": "56",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

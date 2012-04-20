@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Sergey",
+    "LastName": "Ryzhikov",
+    "CommonName": null,
+    "Height": "194",
+    "DateOfBirth": {
+      "Year": "1980",
+      "Month": "9",
+      "Day": "19"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110227",
+    "LeagueId": "67",
+    "NationId": "40",
+    "Rating": "79",
+    "Attribute1": "80",
+    "Attribute2": "79",
+    "Attribute3": "66",
+    "Attribute4": "81",
+    "Attribute5": "60",
+    "Attribute6": "80",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

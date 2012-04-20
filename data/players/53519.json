@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "André Filipe",
+    "LastName": "Monteiro Vilas Boas",
+    "CommonName": "André Vilas Boas",
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "6",
+      "Day": "4"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1893",
+    "LeagueId": "308",
+    "NationId": "38",
+    "Rating": "67",
+    "Attribute1": "57",
+    "Attribute2": "46",
+    "Attribute3": "60",
+    "Attribute4": "58",
+    "Attribute5": "70",
+    "Attribute6": "63",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

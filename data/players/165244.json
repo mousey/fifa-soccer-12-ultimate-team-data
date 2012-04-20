@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Emanuele",
+    "LastName": "Pesoli",
+    "CommonName": null,
+    "Height": "187",
+    "DateOfBirth": {
+      "Year": "1980",
+      "Month": "8",
+      "Day": "31"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1838",
+    "LeagueId": "31",
+    "NationId": "27",
+    "Rating": "67",
+    "Attribute1": "62",
+    "Attribute2": "40",
+    "Attribute3": "48",
+    "Attribute4": "45",
+    "Attribute5": "71",
+    "Attribute6": "69",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

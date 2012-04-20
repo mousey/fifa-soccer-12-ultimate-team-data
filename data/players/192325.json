@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Martin",
+    "LastName": "Grasegger",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "1",
+      "Day": "10"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "780",
+    "LeagueId": "80",
+    "NationId": "4",
+    "Rating": "49",
+    "Attribute1": "65",
+    "Attribute2": "23",
+    "Attribute3": "36",
+    "Attribute4": "43",
+    "Attribute5": "49",
+    "Attribute6": "52",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

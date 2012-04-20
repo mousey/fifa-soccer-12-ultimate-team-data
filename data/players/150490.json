@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Florian",
+    "LastName": "Fromlowitz",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "7",
+      "Day": "2"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1825",
+    "LeagueId": "20",
+    "NationId": "21",
+    "Rating": "72",
+    "Attribute1": "76",
+    "Attribute2": "70",
+    "Attribute3": "72",
+    "Attribute4": "77",
+    "Attribute5": "62",
+    "Attribute6": "63",
+    "Rare": "1",
+    "ItemType": "PlayerGk"
+  }
+}

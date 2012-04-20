@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Kenny",
+    "LastName": "Van Hoevelen",
+    "CommonName": null,
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "6",
+      "Day": "24"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110724",
+    "LeagueId": "4",
+    "NationId": "7",
+    "Rating": "65",
+    "Attribute1": "65",
+    "Attribute2": "37",
+    "Attribute3": "50",
+    "Attribute4": "48",
+    "Attribute5": "66",
+    "Attribute6": "67",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

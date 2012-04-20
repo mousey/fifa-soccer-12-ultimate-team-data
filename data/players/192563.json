@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Bernd",
+    "LastName": "Leno",
+    "CommonName": null,
+    "Height": "190",
+    "DateOfBirth": {
+      "Year": "1992",
+      "Month": "3",
+      "Day": "4"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "32",
+    "LeagueId": "19",
+    "NationId": "21",
+    "Rating": "70",
+    "Attribute1": "72",
+    "Attribute2": "67",
+    "Attribute3": "76",
+    "Attribute4": "75",
+    "Attribute5": "61",
+    "Attribute6": "65",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

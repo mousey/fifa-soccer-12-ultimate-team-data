@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Anderson Luis",
+    "LastName": "de Abreu Oliveira",
+    "CommonName": "Anderson",
+    "Height": "176",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "4",
+      "Day": "13"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "11",
+    "LeagueId": "13",
+    "NationId": "54",
+    "Rating": "77",
+    "Attribute1": "82",
+    "Attribute2": "56",
+    "Attribute3": "78",
+    "Attribute4": "83",
+    "Attribute5": "72",
+    "Attribute6": "71",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

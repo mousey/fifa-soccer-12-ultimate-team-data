@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Florent",
+    "LastName": "Perraud",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "6",
+      "Day": "11"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "613",
+    "LeagueId": "17",
+    "NationId": "18",
+    "Rating": "57",
+    "Attribute1": "54",
+    "Attribute2": "56",
+    "Attribute3": "52",
+    "Attribute4": "56",
+    "Attribute5": "34",
+    "Attribute6": "62",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

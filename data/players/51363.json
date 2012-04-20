@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Dennis",
+    "LastName": "Gentenaar",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1975",
+      "Month": "9",
+      "Day": "30"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "100651",
+    "LeagueId": "10",
+    "NationId": "34",
+    "Rating": "69",
+    "Attribute1": "65",
+    "Attribute2": "70",
+    "Attribute3": "64",
+    "Attribute4": "70",
+    "Attribute5": "55",
+    "Attribute6": "72",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

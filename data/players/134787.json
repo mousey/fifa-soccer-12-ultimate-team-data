@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Björn",
+    "LastName": "Vleminckx",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "12",
+      "Day": "1"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "231",
+    "LeagueId": "4",
+    "NationId": "7",
+    "Rating": "73",
+    "Attribute1": "68",
+    "Attribute2": "71",
+    "Attribute3": "56",
+    "Attribute4": "52",
+    "Attribute5": "68",
+    "Attribute6": "80",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

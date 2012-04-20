@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "David",
+    "LastName": "Córcoles Alcaraz",
+    "CommonName": "Córcoles",
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "5",
+      "Day": "8"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "571",
+    "LeagueId": "54",
+    "NationId": "45",
+    "Rating": "63",
+    "Attribute1": "69",
+    "Attribute2": "50",
+    "Attribute3": "54",
+    "Attribute4": "61",
+    "Attribute5": "66",
+    "Attribute6": "58",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

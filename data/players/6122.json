@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Graham",
+    "LastName": "Stack",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "9",
+      "Day": "26"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "81",
+    "LeagueId": "50",
+    "NationId": "25",
+    "Rating": "62",
+    "Attribute1": "63",
+    "Attribute2": "63",
+    "Attribute3": "56",
+    "Attribute4": "62",
+    "Attribute5": "37",
+    "Attribute6": "63",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

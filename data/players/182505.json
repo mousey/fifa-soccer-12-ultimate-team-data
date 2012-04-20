@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Manuel",
+    "LastName": "Hartmann",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "3",
+      "Day": "26"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111239",
+    "LeagueId": "20",
+    "NationId": "21",
+    "Rating": "63",
+    "Attribute1": "59",
+    "Attribute2": "56",
+    "Attribute3": "54",
+    "Attribute4": "58",
+    "Attribute5": "67",
+    "Attribute6": "69",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

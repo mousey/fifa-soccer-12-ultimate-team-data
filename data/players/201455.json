@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Geoffrey",
+    "LastName": "Kondogbia",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1993",
+      "Month": "2",
+      "Day": "15"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "64",
+    "LeagueId": "17",
+    "NationId": "18",
+    "Rating": "57",
+    "Attribute1": "59",
+    "Attribute2": "37",
+    "Attribute3": "49",
+    "Attribute4": "57",
+    "Attribute5": "59",
+    "Attribute6": "65",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

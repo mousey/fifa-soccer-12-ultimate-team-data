@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Sam",
+    "LastName": "Sodje",
+    "CommonName": null,
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "5",
+      "Day": "25"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1937",
+    "LeagueId": "60",
+    "NationId": "133",
+    "Rating": "61",
+    "Attribute1": "69",
+    "Attribute2": "40",
+    "Attribute3": "47",
+    "Attribute4": "52",
+    "Attribute5": "63",
+    "Attribute6": "72",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

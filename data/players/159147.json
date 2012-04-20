@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Loïc",
+    "LastName": "Perrin",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "8",
+      "Day": "7"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1819",
+    "LeagueId": "16",
+    "NationId": "18",
+    "Rating": "75",
+    "Attribute1": "64",
+    "Attribute2": "68",
+    "Attribute3": "76",
+    "Attribute4": "77",
+    "Attribute5": "70",
+    "Attribute6": "68",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

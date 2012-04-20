@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Bobby",
+    "LastName": "Grant",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "7",
+      "Day": "1"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1949",
+    "LeagueId": "60",
+    "NationId": "14",
+    "Rating": "61",
+    "Attribute1": "71",
+    "Attribute2": "60",
+    "Attribute3": "56",
+    "Attribute4": "64",
+    "Attribute5": "48",
+    "Attribute6": "54",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

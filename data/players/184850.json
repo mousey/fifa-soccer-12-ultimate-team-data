@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jackson",
+    "LastName": "Gonçalves Pereira",
+    "CommonName": "Jackson",
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "6",
+      "Day": "3"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "695",
+    "LeagueId": "39",
+    "NationId": "54",
+    "Rating": "64",
+    "Attribute1": "73",
+    "Attribute2": "57",
+    "Attribute3": "58",
+    "Attribute4": "68",
+    "Attribute5": "67",
+    "Attribute6": "67",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

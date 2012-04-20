@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Oswaldo",
+    "LastName": "Sánchez",
+    "CommonName": null,
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1973",
+      "Month": "9",
+      "Day": "21"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110144",
+    "LeagueId": "341",
+    "NationId": "83",
+    "Rating": "76",
+    "Attribute1": "83",
+    "Attribute2": "69",
+    "Attribute3": "61",
+    "Attribute4": "81",
+    "Attribute5": "45",
+    "Attribute6": "69",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

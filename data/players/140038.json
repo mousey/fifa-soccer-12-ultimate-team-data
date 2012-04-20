@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Juan Pablo",
+    "LastName": "Rodríguez",
+    "CommonName": null,
+    "Height": "167",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "8",
+      "Day": "7"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110144",
+    "LeagueId": "341",
+    "NationId": "83",
+    "Rating": "69",
+    "Attribute1": "68",
+    "Attribute2": "71",
+    "Attribute3": "74",
+    "Attribute4": "70",
+    "Attribute5": "64",
+    "Attribute6": "55",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

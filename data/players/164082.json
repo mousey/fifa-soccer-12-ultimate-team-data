@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Adriano",
+    "LastName": "Correia Claro",
+    "CommonName": "Adriano",
+    "Height": "172",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "10",
+      "Day": "26"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "241",
+    "LeagueId": "53",
+    "NationId": "54",
+    "Rating": "78",
+    "Attribute1": "80",
+    "Attribute2": "69",
+    "Attribute3": "77",
+    "Attribute4": "80",
+    "Attribute5": "70",
+    "Attribute6": "71",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

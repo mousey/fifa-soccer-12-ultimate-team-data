@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "David",
+    "LastName": "Meyler",
+    "CommonName": null,
+    "Height": "190",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "5",
+      "Day": "29"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "106",
+    "LeagueId": "13",
+    "NationId": "25",
+    "Rating": "68",
+    "Attribute1": "68",
+    "Attribute2": "60",
+    "Attribute3": "73",
+    "Attribute4": "65",
+    "Attribute5": "70",
+    "Attribute6": "68",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

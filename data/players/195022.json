@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Dan",
+    "LastName": "Thomas",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "9",
+      "Day": "1"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1943",
+    "LeagueId": "60",
+    "NationId": "14",
+    "Rating": "50",
+    "Attribute1": "57",
+    "Attribute2": "47",
+    "Attribute3": "48",
+    "Attribute4": "57",
+    "Attribute5": "51",
+    "Attribute6": "41",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

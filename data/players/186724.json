@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Saif",
+    "LastName": "Ghezal",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "6",
+      "Day": "30"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1715",
+    "LeagueId": "189",
+    "NationId": "145",
+    "Rating": "69",
+    "Attribute1": "61",
+    "Attribute2": "39",
+    "Attribute3": "62",
+    "Attribute4": "54",
+    "Attribute5": "72",
+    "Attribute6": "74",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

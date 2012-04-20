@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Maxime",
+    "LastName": "Annys",
+    "CommonName": null,
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "7",
+      "Day": "24"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "100087",
+    "LeagueId": "4",
+    "NationId": "7",
+    "Rating": "62",
+    "Attribute1": "67",
+    "Attribute2": "52",
+    "Attribute3": "61",
+    "Attribute4": "49",
+    "Attribute5": "64",
+    "Attribute6": "57",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

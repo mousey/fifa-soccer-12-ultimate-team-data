@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Christian",
+    "LastName": "Sørensen",
+    "CommonName": null,
+    "Height": "177",
+    "DateOfBirth": {
+      "Year": "1992",
+      "Month": "8",
+      "Day": "6"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "272",
+    "LeagueId": "1",
+    "NationId": "13",
+    "Rating": "52",
+    "Attribute1": "64",
+    "Attribute2": "44",
+    "Attribute3": "47",
+    "Attribute4": "52",
+    "Attribute5": "42",
+    "Attribute6": "54",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

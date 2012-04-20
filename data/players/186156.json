@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Luke",
+    "LastName": "Ayling",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "8",
+      "Day": "25"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "346",
+    "LeagueId": "60",
+    "NationId": "14",
+    "Rating": "61",
+    "Attribute1": "59",
+    "Attribute2": "24",
+    "Attribute3": "45",
+    "Attribute4": "39",
+    "Attribute5": "65",
+    "Attribute6": "72",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

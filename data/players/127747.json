@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Milorad",
+    "LastName": "Peković",
+    "CommonName": null,
+    "Height": "189",
+    "DateOfBirth": {
+      "Year": "1977",
+      "Month": "8",
+      "Day": "5"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "165",
+    "LeagueId": "20",
+    "NationId": "15",
+    "Rating": "65",
+    "Attribute1": "51",
+    "Attribute2": "60",
+    "Attribute3": "55",
+    "Attribute4": "59",
+    "Attribute5": "70",
+    "Attribute6": "72",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

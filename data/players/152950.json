@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Grzegorz",
+    "LastName": "Wojtkowiak",
+    "CommonName": null,
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "1",
+      "Day": "26"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "873",
+    "LeagueId": "66",
+    "NationId": "37",
+    "Rating": "72",
+    "Attribute1": "74",
+    "Attribute2": "41",
+    "Attribute3": "62",
+    "Attribute4": "55",
+    "Attribute5": "70",
+    "Attribute6": "69",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

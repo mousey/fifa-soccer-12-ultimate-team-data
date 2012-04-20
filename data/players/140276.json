@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "César",
+    "LastName": "Delgado",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "8",
+      "Day": "18"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1032",
+    "LeagueId": "341",
+    "NationId": "52",
+    "Rating": "78",
+    "Attribute1": "84",
+    "Attribute2": "72",
+    "Attribute3": "75",
+    "Attribute4": "82",
+    "Attribute5": "55",
+    "Attribute6": "65",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

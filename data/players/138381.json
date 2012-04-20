@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Christian",
+    "LastName": "Thonhofer",
+    "CommonName": null,
+    "Height": "177",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "5",
+      "Day": "26"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "254",
+    "LeagueId": "80",
+    "NationId": "4",
+    "Rating": "63",
+    "Attribute1": "73",
+    "Attribute2": "47",
+    "Attribute3": "60",
+    "Attribute4": "63",
+    "Attribute5": "65",
+    "Attribute6": "62",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

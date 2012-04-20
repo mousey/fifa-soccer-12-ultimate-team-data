@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Gernot",
+    "LastName": "Plassnegger",
+    "CommonName": null,
+    "Height": "179",
+    "DateOfBirth": {
+      "Year": "1978",
+      "Month": "3",
+      "Day": "23"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111821",
+    "LeagueId": "80",
+    "NationId": "4",
+    "Rating": "60",
+    "Attribute1": "67",
+    "Attribute2": "47",
+    "Attribute3": "59",
+    "Attribute4": "58",
+    "Attribute5": "61",
+    "Attribute6": "64",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

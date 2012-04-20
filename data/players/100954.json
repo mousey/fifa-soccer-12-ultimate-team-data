@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Monsef",
+    "LastName": "Zerka",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "8",
+      "Day": "30"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "691",
+    "LeagueId": "39",
+    "NationId": "129",
+    "Rating": "63",
+    "Attribute1": "69",
+    "Attribute2": "60",
+    "Attribute3": "59",
+    "Attribute4": "64",
+    "Attribute5": "53",
+    "Attribute6": "63",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

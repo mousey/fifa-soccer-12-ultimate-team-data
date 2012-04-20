@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jamie",
+    "LastName": "Paterson",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "12",
+      "Day": "20"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1803",
+    "LeagueId": "60",
+    "NationId": "14",
+    "Rating": "50",
+    "Attribute1": "76",
+    "Attribute2": "47",
+    "Attribute3": "38",
+    "Attribute4": "59",
+    "Attribute5": "32",
+    "Attribute6": "51",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

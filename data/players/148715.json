@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "João Pedro",
+    "LastName": "da Silva Pereira",
+    "CommonName": "João Pereira",
+    "Height": "172",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "2",
+      "Day": "25"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "237",
+    "LeagueId": "308",
+    "NationId": "38",
+    "Rating": "78",
+    "Attribute1": "85",
+    "Attribute2": "68",
+    "Attribute3": "76",
+    "Attribute4": "80",
+    "Attribute5": "70",
+    "Attribute6": "66",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

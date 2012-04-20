@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Domenico",
+    "LastName": "Maietta",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "8",
+      "Day": "3"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "206",
+    "LeagueId": "32",
+    "NationId": "27",
+    "Rating": "62",
+    "Attribute1": "63",
+    "Attribute2": "35",
+    "Attribute3": "45",
+    "Attribute4": "36",
+    "Attribute5": "63",
+    "Attribute6": "60",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jean-Daniel",
+    "LastName": "Padovani",
+    "CommonName": null,
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1980",
+      "Month": "1",
+      "Day": "17"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110569",
+    "LeagueId": "16",
+    "NationId": "18",
+    "Rating": "69",
+    "Attribute1": "74",
+    "Attribute2": "70",
+    "Attribute3": "65",
+    "Attribute4": "75",
+    "Attribute5": "31",
+    "Attribute6": "68",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

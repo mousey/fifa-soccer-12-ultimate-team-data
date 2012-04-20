@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Teemu",
+    "LastName": "Tainio",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "11",
+      "Day": "27"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "689",
+    "LeagueId": "39",
+    "NationId": "17",
+    "Rating": "76",
+    "Attribute1": "66",
+    "Attribute2": "61",
+    "Attribute3": "75",
+    "Attribute4": "64",
+    "Attribute5": "72",
+    "Attribute6": "65",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

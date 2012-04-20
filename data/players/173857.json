@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Mariano",
+    "LastName": "Andújar",
+    "CommonName": null,
+    "Height": "194",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "7",
+      "Day": "30"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110364",
+    "LeagueId": "31",
+    "NationId": "52",
+    "Rating": "77",
+    "Attribute1": "75",
+    "Attribute2": "76",
+    "Attribute3": "60",
+    "Attribute4": "76",
+    "Attribute5": "51",
+    "Attribute6": "80",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

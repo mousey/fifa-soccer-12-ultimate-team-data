@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Fábio Deivson",
+    "LastName": "Lopes Maciel",
+    "CommonName": "Fábio",
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1980",
+      "Month": "9",
+      "Day": "30"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "568",
+    "LeagueId": "7",
+    "NationId": "54",
+    "Rating": "81",
+    "Attribute1": "78",
+    "Attribute2": "81",
+    "Attribute3": "72",
+    "Attribute4": "85",
+    "Attribute5": "73",
+    "Attribute6": "83",
+    "Rare": "1",
+    "ItemType": "PlayerGk"
+  }
+}

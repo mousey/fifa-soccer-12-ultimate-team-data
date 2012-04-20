@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Doneil",
+    "LastName": "Henry",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1993",
+      "Month": "4",
+      "Day": "20"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111651",
+    "LeagueId": "39",
+    "NationId": "70",
+    "Rating": "60",
+    "Attribute1": "51",
+    "Attribute2": "32",
+    "Attribute3": "42",
+    "Attribute4": "43",
+    "Attribute5": "64",
+    "Attribute6": "71",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

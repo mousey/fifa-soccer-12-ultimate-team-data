@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Willie",
+    "LastName": "Overtoom",
+    "CommonName": null,
+    "Height": "170",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "9",
+      "Day": "2"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "100634",
+    "LeagueId": "10",
+    "NationId": "34",
+    "Rating": "74",
+    "Attribute1": "85",
+    "Attribute2": "72",
+    "Attribute3": "65",
+    "Attribute4": "77",
+    "Attribute5": "51",
+    "Attribute6": "61",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

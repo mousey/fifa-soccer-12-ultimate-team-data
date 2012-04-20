@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Andrew",
+    "LastName": "Driver",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "11",
+      "Day": "20"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "80",
+    "LeagueId": "50",
+    "NationId": "42",
+    "Rating": "69",
+    "Attribute1": "91",
+    "Attribute2": "62",
+    "Attribute3": "64",
+    "Attribute4": "71",
+    "Attribute5": "56",
+    "Attribute6": "53",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

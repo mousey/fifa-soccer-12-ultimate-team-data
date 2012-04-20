@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Oliver",
+    "LastName": "Bozanic",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "1",
+      "Day": "8"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "111396",
+    "LeagueId": "351",
+    "NationId": "195",
+    "Rating": "65",
+    "Attribute1": "78",
+    "Attribute2": "63",
+    "Attribute3": "61",
+    "Attribute4": "66",
+    "Attribute5": "50",
+    "Attribute6": "54",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

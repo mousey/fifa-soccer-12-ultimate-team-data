@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Eiji",
+    "LastName": "Kawashima",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "3",
+      "Day": "20"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "239",
+    "LeagueId": "4",
+    "NationId": "163",
+    "Rating": "69",
+    "Attribute1": "75",
+    "Attribute2": "64",
+    "Attribute3": "65",
+    "Attribute4": "74",
+    "Attribute5": "57",
+    "Attribute6": "67",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

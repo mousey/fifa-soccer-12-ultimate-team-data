@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Marcos",
+    "LastName": "Mondaini",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "2",
+      "Day": "14"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111070",
+    "LeagueId": "39",
+    "NationId": "52",
+    "Rating": "63",
+    "Attribute1": "63",
+    "Attribute2": "63",
+    "Attribute3": "61",
+    "Attribute4": "67",
+    "Attribute5": "52",
+    "Attribute6": "63",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

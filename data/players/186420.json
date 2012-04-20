@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Antonio",
+    "LastName": "Lechuga Mateos",
+    "CommonName": "Toni",
+    "Height": "193",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "2",
+      "Day": "15"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1742",
+    "LeagueId": "54",
+    "NationId": "45",
+    "Rating": "55",
+    "Attribute1": "53",
+    "Attribute2": "55",
+    "Attribute3": "51",
+    "Attribute4": "62",
+    "Attribute5": "44",
+    "Attribute6": "52",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

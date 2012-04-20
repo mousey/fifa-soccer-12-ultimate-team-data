@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Nathan",
+    "LastName": "Clarke",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "11",
+      "Day": "30"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1920",
+    "LeagueId": "60",
+    "NationId": "14",
+    "Rating": "62",
+    "Attribute1": "56",
+    "Attribute2": "26",
+    "Attribute3": "40",
+    "Attribute4": "35",
+    "Attribute5": "67",
+    "Attribute6": "64",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Paul",
+    "LastName": "Reid",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "2",
+      "Day": "18"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1949",
+    "LeagueId": "60",
+    "NationId": "14",
+    "Rating": "64",
+    "Attribute1": "48",
+    "Attribute2": "31",
+    "Attribute3": "42",
+    "Attribute4": "43",
+    "Attribute5": "72",
+    "Attribute6": "72",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Albert",
+    "LastName": "Dorca Maso",
+    "CommonName": "Dorca",
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "12",
+      "Day": "23"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "110062",
+    "LeagueId": "54",
+    "NationId": "45",
+    "Rating": "65",
+    "Attribute1": "57",
+    "Attribute2": "52",
+    "Attribute3": "59",
+    "Attribute4": "49",
+    "Attribute5": "70",
+    "Attribute6": "59",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

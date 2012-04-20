@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Anthony",
+    "LastName": "Flood",
+    "CommonName": null,
+    "Height": "191",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "12",
+      "Day": "31"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "305",
+    "LeagueId": "65",
+    "NationId": "25",
+    "Rating": "57",
+    "Attribute1": "65",
+    "Attribute2": "53",
+    "Attribute3": "40",
+    "Attribute4": "55",
+    "Attribute5": "40",
+    "Attribute6": "68",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

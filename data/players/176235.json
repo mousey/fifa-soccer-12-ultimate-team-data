@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Mehdi",
+    "LastName": "Ballouchy",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "4",
+      "Day": "6"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "689",
+    "LeagueId": "39",
+    "NationId": "129",
+    "Rating": "65",
+    "Attribute1": "72",
+    "Attribute2": "61",
+    "Attribute3": "63",
+    "Attribute4": "64",
+    "Attribute5": "51",
+    "Attribute6": "53",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

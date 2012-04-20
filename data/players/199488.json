@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Nicolás",
+    "LastName": "Cháfer García",
+    "CommonName": "Nico",
+    "Height": "174",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "2",
+      "Day": "11"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110902",
+    "LeagueId": "54",
+    "NationId": "45",
+    "Rating": "61",
+    "Attribute1": "68",
+    "Attribute2": "48",
+    "Attribute3": "62",
+    "Attribute4": "61",
+    "Attribute5": "46",
+    "Attribute6": "50",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

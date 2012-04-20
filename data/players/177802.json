@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Moreno",
+    "LastName": "Costanzo",
+    "CommonName": null,
+    "Height": "179",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "2",
+      "Day": "20"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "900",
+    "LeagueId": "189",
+    "NationId": "47",
+    "Rating": "64",
+    "Attribute1": "69",
+    "Attribute2": "69",
+    "Attribute3": "59",
+    "Attribute4": "66",
+    "Attribute5": "54",
+    "Attribute6": "53",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

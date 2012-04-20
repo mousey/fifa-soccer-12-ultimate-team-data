@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Daniel",
+    "LastName": "Alves da Silva",
+    "CommonName": "Dani Alves",
+    "Height": "171",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "5",
+      "Day": "6"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "241",
+    "LeagueId": "53",
+    "NationId": "54",
+    "Rating": "86",
+    "Attribute1": "93",
+    "Attribute2": "75",
+    "Attribute3": "84",
+    "Attribute4": "83",
+    "Attribute5": "80",
+    "Attribute6": "76",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

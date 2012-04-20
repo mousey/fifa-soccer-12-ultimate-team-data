@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Lewis",
+    "LastName": "Hunt",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "8",
+      "Day": "25"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1804",
+    "LeagueId": "61",
+    "NationId": "14",
+    "Rating": "55",
+    "Attribute1": "63",
+    "Attribute2": "28",
+    "Attribute3": "48",
+    "Attribute4": "52",
+    "Attribute5": "63",
+    "Attribute6": "60",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

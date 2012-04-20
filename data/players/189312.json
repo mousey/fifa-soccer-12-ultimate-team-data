@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Julian",
+    "LastName": "Kelly",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "9",
+      "Day": "6"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1937",
+    "LeagueId": "60",
+    "NationId": "14",
+    "Rating": "57",
+    "Attribute1": "80",
+    "Attribute2": "38",
+    "Attribute3": "52",
+    "Attribute4": "61",
+    "Attribute5": "58",
+    "Attribute6": "59",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

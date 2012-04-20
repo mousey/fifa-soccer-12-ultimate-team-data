@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ian",
+    "LastName": "Bermingham",
+    "CommonName": null,
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "1",
+      "Day": "8"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "423",
+    "LeagueId": "65",
+    "NationId": "25",
+    "Rating": "57",
+    "Attribute1": "59",
+    "Attribute2": "42",
+    "Attribute3": "55",
+    "Attribute4": "50",
+    "Attribute5": "56",
+    "Attribute6": "64",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

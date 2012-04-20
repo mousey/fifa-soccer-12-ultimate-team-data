@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Sean",
+    "LastName": "Stewart",
+    "CommonName": null,
+    "Height": "176",
+    "DateOfBirth": {
+      "Year": "1992",
+      "Month": "1",
+      "Day": "1"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "423",
+    "LeagueId": "65",
+    "NationId": "25",
+    "Rating": "52",
+    "Attribute1": "63",
+    "Attribute2": "44",
+    "Attribute3": "48",
+    "Attribute4": "54",
+    "Attribute5": "36",
+    "Attribute6": "47",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Diego",
+    "LastName": "Castro Giménez",
+    "CommonName": "Diego Castro",
+    "Height": "174",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "7",
+      "Day": "2"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1860",
+    "LeagueId": "53",
+    "NationId": "45",
+    "Rating": "79",
+    "Attribute1": "87",
+    "Attribute2": "73",
+    "Attribute3": "67",
+    "Attribute4": "84",
+    "Attribute5": "55",
+    "Attribute6": "65",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

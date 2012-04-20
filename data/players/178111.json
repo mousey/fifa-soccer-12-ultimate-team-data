@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Milan",
+    "LastName": "Biševac",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "8",
+      "Day": "31"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "73",
+    "LeagueId": "16",
+    "NationId": "51",
+    "Rating": "78",
+    "Attribute1": "48",
+    "Attribute2": "50",
+    "Attribute3": "64",
+    "Attribute4": "48",
+    "Attribute5": "79",
+    "Attribute6": "77",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

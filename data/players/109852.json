@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Gareth",
+    "LastName": "McAuley",
+    "CommonName": null,
+    "Height": "191",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "12",
+      "Day": "5"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "109",
+    "LeagueId": "13",
+    "NationId": "35",
+    "Rating": "69",
+    "Attribute1": "55",
+    "Attribute2": "38",
+    "Attribute3": "52",
+    "Attribute4": "36",
+    "Attribute5": "73",
+    "Attribute6": "75",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

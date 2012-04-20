@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Maximilian",
+    "LastName": "Karner",
+    "CommonName": null,
+    "Height": "187",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "1",
+      "Day": "3"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "780",
+    "LeagueId": "80",
+    "NationId": "4",
+    "Rating": "58",
+    "Attribute1": "50",
+    "Attribute2": "22",
+    "Attribute3": "13",
+    "Attribute4": "40",
+    "Attribute5": "65",
+    "Attribute6": "58",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

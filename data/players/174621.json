@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Honour",
+    "LastName": "Gombami",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "1",
+      "Day": "9"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1750",
+    "LeagueId": "4",
+    "NationId": "148",
+    "Rating": "63",
+    "Attribute1": "83",
+    "Attribute2": "58",
+    "Attribute3": "56",
+    "Attribute4": "66",
+    "Attribute5": "48",
+    "Attribute6": "62",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Will",
+    "LastName": "Buckley",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "11",
+      "Day": "21"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1808",
+    "LeagueId": "14",
+    "NationId": "14",
+    "Rating": "68",
+    "Attribute1": "83",
+    "Attribute2": "58",
+    "Attribute3": "53",
+    "Attribute4": "69",
+    "Attribute5": "50",
+    "Attribute6": "60",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

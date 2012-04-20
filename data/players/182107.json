@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Everton Leandro",
+    "LastName": "dos Santos Pinto",
+    "CommonName": "Everton",
+    "Height": "176",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "10",
+      "Day": "14"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "981",
+    "LeagueId": "83",
+    "NationId": "54",
+    "Rating": "66",
+    "Attribute1": "80",
+    "Attribute2": "60",
+    "Attribute3": "60",
+    "Attribute4": "64",
+    "Attribute5": "53",
+    "Attribute6": "63",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

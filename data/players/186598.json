@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Kyle",
+    "LastName": "Naughton",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "11",
+      "Day": "11"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1792",
+    "LeagueId": "13",
+    "NationId": "14",
+    "Rating": "70",
+    "Attribute1": "83",
+    "Attribute2": "51",
+    "Attribute3": "67",
+    "Attribute4": "61",
+    "Attribute5": "69",
+    "Attribute6": "70",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

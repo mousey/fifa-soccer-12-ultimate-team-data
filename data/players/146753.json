@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Javier",
+    "LastName": "Paredes Arango",
+    "CommonName": "Paredes",
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "7",
+      "Day": "5"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "244",
+    "LeagueId": "53",
+    "NationId": "45",
+    "Rating": "68",
+    "Attribute1": "68",
+    "Attribute2": "42",
+    "Attribute3": "59",
+    "Attribute4": "57",
+    "Attribute5": "68",
+    "Attribute6": "66",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

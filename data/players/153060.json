@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Juan Manuel",
+    "LastName": "Insaurralde",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "10",
+      "Day": "3"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1877",
+    "LeagueId": "353",
+    "NationId": "52",
+    "Rating": "74",
+    "Attribute1": "66",
+    "Attribute2": "42",
+    "Attribute3": "52",
+    "Attribute4": "35",
+    "Attribute5": "74",
+    "Attribute6": "77",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

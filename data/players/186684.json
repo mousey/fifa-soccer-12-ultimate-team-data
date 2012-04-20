@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Francisco José",
+    "LastName": "Olivas Alba",
+    "CommonName": "Kiko Olivas",
+    "Height": "189",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "8",
+      "Day": "21"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110902",
+    "LeagueId": "54",
+    "NationId": "45",
+    "Rating": "65",
+    "Attribute1": "51",
+    "Attribute2": "35",
+    "Attribute3": "49",
+    "Attribute4": "46",
+    "Attribute5": "71",
+    "Attribute6": "63",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

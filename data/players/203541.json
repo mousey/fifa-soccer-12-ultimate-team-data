@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Daniel",
+    "LastName": "Devine",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1992",
+      "Month": "9",
+      "Day": "7"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1801",
+    "LeagueId": "60",
+    "NationId": "35",
+    "Rating": "60",
+    "Attribute1": "65",
+    "Attribute2": "35",
+    "Attribute3": "42",
+    "Attribute4": "42",
+    "Attribute5": "62",
+    "Attribute6": "68",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

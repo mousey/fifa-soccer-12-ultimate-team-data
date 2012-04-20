@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Hjalte Bo",
+    "LastName": "Nørregaard",
+    "CommonName": null,
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "4",
+      "Day": "8"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "271",
+    "LeagueId": "1",
+    "NationId": "13",
+    "Rating": "69",
+    "Attribute1": "69",
+    "Attribute2": "65",
+    "Attribute3": "72",
+    "Attribute4": "63",
+    "Attribute5": "72",
+    "Attribute6": "68",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

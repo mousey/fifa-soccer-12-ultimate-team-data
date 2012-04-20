@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Stephen",
+    "LastName": "Crainey",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "6",
+      "Day": "22"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1926",
+    "LeagueId": "14",
+    "NationId": "42",
+    "Rating": "70",
+    "Attribute1": "74",
+    "Attribute2": "50",
+    "Attribute3": "66",
+    "Attribute4": "62",
+    "Attribute5": "62",
+    "Attribute6": "63",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

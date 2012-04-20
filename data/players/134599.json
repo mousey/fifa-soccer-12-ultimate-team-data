@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Fernando",
+    "LastName": "Varela Ramos",
+    "CommonName": "Varela",
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "9",
+      "Day": "1"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "462",
+    "LeagueId": "54",
+    "NationId": "45",
+    "Rating": "69",
+    "Attribute1": "72",
+    "Attribute2": "69",
+    "Attribute3": "67",
+    "Attribute4": "73",
+    "Attribute5": "67",
+    "Attribute6": "64",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

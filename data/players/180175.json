@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Alexandre",
+    "LastName": "Rodrigues da Silva",
+    "CommonName": "Alexandre Pato",
+    "Height": "179",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "9",
+      "Day": "2"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "47",
+    "LeagueId": "31",
+    "NationId": "54",
+    "Rating": "85",
+    "Attribute1": "87",
+    "Attribute2": "82",
+    "Attribute3": "67",
+    "Attribute4": "85",
+    "Attribute5": "53",
+    "Attribute6": "80",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

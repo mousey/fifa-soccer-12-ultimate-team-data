@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ryan",
+    "LastName": "Kinne",
+    "CommonName": null,
+    "Height": "173",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "8",
+      "Day": "31"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "691",
+    "LeagueId": "39",
+    "NationId": "95",
+    "Rating": "60",
+    "Attribute1": "62",
+    "Attribute2": "61",
+    "Attribute3": "52",
+    "Attribute4": "64",
+    "Attribute5": "44",
+    "Attribute6": "53",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Juan Maldonado",
+    "LastName": "Jaimez Junior",
+    "CommonName": "Juan",
+    "Height": "168",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "2",
+      "Day": "6"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "598",
+    "LeagueId": "7",
+    "NationId": "54",
+    "Rating": "73",
+    "Attribute1": "73",
+    "Attribute2": "70",
+    "Attribute3": "74",
+    "Attribute4": "80",
+    "Attribute5": "66",
+    "Attribute6": "63",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

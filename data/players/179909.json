@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Anthony",
+    "LastName": "Annan",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "7",
+      "Day": "21"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1909",
+    "LeagueId": "10",
+    "NationId": "117",
+    "Rating": "75",
+    "Attribute1": "69",
+    "Attribute2": "52",
+    "Attribute3": "69",
+    "Attribute4": "69",
+    "Attribute5": "73",
+    "Attribute6": "68",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

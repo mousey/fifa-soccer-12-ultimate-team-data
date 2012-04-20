@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Oscar",
+    "LastName": "Razo",
+    "CommonName": null,
+    "Height": "179",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "5",
+      "Day": "18"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "110151",
+    "LeagueId": "341",
+    "NationId": "83",
+    "Rating": "68",
+    "Attribute1": "68",
+    "Attribute2": "57",
+    "Attribute3": "66",
+    "Attribute4": "63",
+    "Attribute5": "70",
+    "Attribute6": "65",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

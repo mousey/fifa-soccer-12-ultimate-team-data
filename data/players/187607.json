@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Artem",
+    "LastName": "Dzyuba",
+    "CommonName": null,
+    "Height": "194",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "8",
+      "Day": "22"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "100767",
+    "LeagueId": "67",
+    "NationId": "40",
+    "Rating": "75",
+    "Attribute1": "78",
+    "Attribute2": "76",
+    "Attribute3": "65",
+    "Attribute4": "63",
+    "Attribute5": "59",
+    "Attribute6": "75",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Thibaut",
+    "LastName": "Van Acker",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "11",
+      "Day": "21"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "231",
+    "LeagueId": "4",
+    "NationId": "7",
+    "Rating": "61",
+    "Attribute1": "63",
+    "Attribute2": "54",
+    "Attribute3": "61",
+    "Attribute4": "59",
+    "Attribute5": "54",
+    "Attribute6": "57",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Liam",
+    "LastName": "Ridgewell",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "7",
+      "Day": "21"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "88",
+    "LeagueId": "14",
+    "NationId": "14",
+    "Rating": "74",
+    "Attribute1": "74",
+    "Attribute2": "44",
+    "Attribute3": "61",
+    "Attribute4": "60",
+    "Attribute5": "73",
+    "Attribute6": "85",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

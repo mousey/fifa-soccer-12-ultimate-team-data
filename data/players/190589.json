@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Stefan",
+    "LastName": "Hierländer",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "2",
+      "Day": "3"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "191",
+    "LeagueId": "80",
+    "NationId": "4",
+    "Rating": "63",
+    "Attribute1": "79",
+    "Attribute2": "57",
+    "Attribute3": "56",
+    "Attribute4": "67",
+    "Attribute5": "55",
+    "Attribute6": "54",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Andrea",
+    "LastName": "Adamo",
+    "CommonName": null,
+    "Height": "174",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "4",
+      "Day": "23"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1843",
+    "LeagueId": "31",
+    "NationId": "27",
+    "Rating": "54",
+    "Attribute1": "66",
+    "Attribute2": "31",
+    "Attribute3": "31",
+    "Attribute4": "30",
+    "Attribute5": "56",
+    "Attribute6": "40",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

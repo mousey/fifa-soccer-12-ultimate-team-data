@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Sergio",
+    "LastName": "Ortega González",
+    "CommonName": "Sergio Ortega",
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1980",
+      "Month": "11",
+      "Day": "25"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "450",
+    "LeagueId": "54",
+    "NationId": "45",
+    "Rating": "62",
+    "Attribute1": "50",
+    "Attribute2": "42",
+    "Attribute3": "56",
+    "Attribute4": "46",
+    "Attribute5": "66",
+    "Attribute6": "63",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

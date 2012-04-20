@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Stefanos",
+    "LastName": "Athanasiadis",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "12",
+      "Day": "24"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "393",
+    "LeagueId": "63",
+    "NationId": "22",
+    "Rating": "71",
+    "Attribute1": "78",
+    "Attribute2": "67",
+    "Attribute3": "65",
+    "Attribute4": "69",
+    "Attribute5": "55",
+    "Attribute6": "71",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

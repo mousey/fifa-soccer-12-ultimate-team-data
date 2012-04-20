@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Mark",
+    "LastName": "McChrystal",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "6",
+      "Day": "26"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "15048",
+    "LeagueId": "60",
+    "NationId": "35",
+    "Rating": "58",
+    "Attribute1": "51",
+    "Attribute2": "40",
+    "Attribute3": "44",
+    "Attribute4": "45",
+    "Attribute5": "62",
+    "Attribute6": "73",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

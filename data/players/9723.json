@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Camel",
+    "LastName": "Meriem",
+    "CommonName": null,
+    "Height": "174",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "10",
+      "Day": "18"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "72",
+    "LeagueId": "16",
+    "NationId": "18",
+    "Rating": "71",
+    "Attribute1": "58",
+    "Attribute2": "65",
+    "Attribute3": "69",
+    "Attribute4": "75",
+    "Attribute5": "45",
+    "Attribute6": "62",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

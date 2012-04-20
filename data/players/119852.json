@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Matthew",
+    "LastName": "Blinkhorn",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "3",
+      "Day": "2"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "563",
+    "LeagueId": "65",
+    "NationId": "14",
+    "Rating": "57",
+    "Attribute1": "62",
+    "Attribute2": "54",
+    "Attribute3": "32",
+    "Attribute4": "55",
+    "Attribute5": "40",
+    "Attribute6": "64",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

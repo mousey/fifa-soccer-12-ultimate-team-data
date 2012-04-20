@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Morgan",
+    "LastName": "De Sanctis",
+    "CommonName": null,
+    "Height": "190",
+    "DateOfBirth": {
+      "Year": "1977",
+      "Month": "3",
+      "Day": "26"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "48",
+    "LeagueId": "31",
+    "NationId": "27",
+    "Rating": "83",
+    "Attribute1": "82",
+    "Attribute2": "82",
+    "Attribute3": "71",
+    "Attribute4": "84",
+    "Attribute5": "40",
+    "Attribute6": "85",
+    "Rare": "1",
+    "ItemType": "PlayerGk"
+  }
+}

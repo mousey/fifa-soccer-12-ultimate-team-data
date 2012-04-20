@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Luciano",
+    "LastName": "Zavagno",
+    "CommonName": null,
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1977",
+      "Month": "8",
+      "Day": "6"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "54",
+    "LeagueId": "32",
+    "NationId": "52",
+    "Rating": "63",
+    "Attribute1": "55",
+    "Attribute2": "48",
+    "Attribute3": "60",
+    "Attribute4": "42",
+    "Attribute5": "70",
+    "Attribute6": "65",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

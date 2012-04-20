@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Steve",
+    "LastName": "Colpaert",
+    "CommonName": null,
+    "Height": "176",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "9",
+      "Day": "13"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "15005",
+    "LeagueId": "4",
+    "NationId": "7",
+    "Rating": "64",
+    "Attribute1": "69",
+    "Attribute2": "40",
+    "Attribute3": "58",
+    "Attribute4": "47",
+    "Attribute5": "65",
+    "Attribute6": "72",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jeffrey",
+    "LastName": "Sarpong",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "8",
+      "Day": "3"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "457",
+    "LeagueId": "53",
+    "NationId": "34",
+    "Rating": "73",
+    "Attribute1": "85",
+    "Attribute2": "61",
+    "Attribute3": "72",
+    "Attribute4": "73",
+    "Attribute5": "48",
+    "Attribute6": "56",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

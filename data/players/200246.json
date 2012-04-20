@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Pavel",
+    "LastName": "Verstraete",
+    "CommonName": null,
+    "Height": "196",
+    "DateOfBirth": {
+      "Year": "1992",
+      "Month": "4",
+      "Day": "2"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "15005",
+    "LeagueId": "4",
+    "NationId": "7",
+    "Rating": "54",
+    "Attribute1": "38",
+    "Attribute2": "35",
+    "Attribute3": "47",
+    "Attribute4": "37",
+    "Attribute5": "66",
+    "Attribute6": "50",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Neal",
+    "LastName": "Bishop",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "8",
+      "Day": "7"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1937",
+    "LeagueId": "60",
+    "NationId": "14",
+    "Rating": "60",
+    "Attribute1": "56",
+    "Attribute2": "52",
+    "Attribute3": "55",
+    "Attribute4": "58",
+    "Attribute5": "65",
+    "Attribute6": "65",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

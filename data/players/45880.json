@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Søren",
+    "LastName": "Larsen",
+    "CommonName": null,
+    "Height": "194",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "9",
+      "Day": "6"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "271",
+    "LeagueId": "1",
+    "NationId": "13",
+    "Rating": "68",
+    "Attribute1": "51",
+    "Attribute2": "66",
+    "Attribute3": "59",
+    "Attribute4": "62",
+    "Attribute5": "62",
+    "Attribute6": "67",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

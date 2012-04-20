@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ilson",
+    "LastName": "Pereira Junior",
+    "CommonName": "Ilsinho",
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "10",
+      "Day": "12"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1048",
+    "LeagueId": "7",
+    "NationId": "54",
+    "Rating": "75",
+    "Attribute1": "81",
+    "Attribute2": "71",
+    "Attribute3": "74",
+    "Attribute4": "74",
+    "Attribute5": "72",
+    "Attribute6": "70",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

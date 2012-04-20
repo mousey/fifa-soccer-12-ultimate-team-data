@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Daniel",
+    "LastName": "Giménez Hernández",
+    "CommonName": "Dani Giménez",
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "7",
+      "Day": "30"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "480",
+    "LeagueId": "53",
+    "NationId": "45",
+    "Rating": "68",
+    "Attribute1": "68",
+    "Attribute2": "61",
+    "Attribute3": "60",
+    "Attribute4": "78",
+    "Attribute5": "61",
+    "Attribute6": "68",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

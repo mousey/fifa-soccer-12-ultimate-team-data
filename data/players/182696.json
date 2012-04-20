@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Michael",
+    "LastName": "Johnson",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "2",
+      "Day": "24"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "95",
+    "LeagueId": "14",
+    "NationId": "14",
+    "Rating": "74",
+    "Attribute1": "70",
+    "Attribute2": "67",
+    "Attribute3": "70",
+    "Attribute4": "67",
+    "Attribute5": "73",
+    "Attribute6": "75",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

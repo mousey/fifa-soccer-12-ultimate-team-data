@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Nelson",
+    "LastName": "Ferreira",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "5",
+      "Day": "26"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "897",
+    "LeagueId": "189",
+    "NationId": "38",
+    "Rating": "68",
+    "Attribute1": "72",
+    "Attribute2": "68",
+    "Attribute3": "65",
+    "Attribute4": "68",
+    "Attribute5": "56",
+    "Attribute6": "58",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

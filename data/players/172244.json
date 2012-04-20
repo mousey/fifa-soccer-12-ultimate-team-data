@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Kristof",
+    "LastName": "Maes",
+    "CommonName": null,
+    "Height": "190",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "4",
+      "Day": "19"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "675",
+    "LeagueId": "4",
+    "NationId": "7",
+    "Rating": "53",
+    "Attribute1": "55",
+    "Attribute2": "50",
+    "Attribute3": "55",
+    "Attribute4": "54",
+    "Attribute5": "52",
+    "Attribute6": "53",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

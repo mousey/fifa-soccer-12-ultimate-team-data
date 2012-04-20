@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Edouard",
+    "LastName": "Cissé",
+    "CommonName": null,
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1978",
+      "Month": "3",
+      "Day": "30"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "57",
+    "LeagueId": "16",
+    "NationId": "18",
+    "Rating": "73",
+    "Attribute1": "57",
+    "Attribute2": "63",
+    "Attribute3": "69",
+    "Attribute4": "64",
+    "Attribute5": "74",
+    "Attribute6": "75",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

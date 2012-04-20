@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Leon",
+    "LastName": "Legge",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "7",
+      "Day": "1"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1925",
+    "LeagueId": "60",
+    "NationId": "14",
+    "Rating": "62",
+    "Attribute1": "52",
+    "Attribute2": "21",
+    "Attribute3": "31",
+    "Attribute4": "27",
+    "Attribute5": "69",
+    "Attribute6": "66",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

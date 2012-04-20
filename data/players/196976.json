@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Nathan",
+    "LastName": "Cameron",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "11",
+      "Day": "21"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1800",
+    "LeagueId": "14",
+    "NationId": "14",
+    "Rating": "58",
+    "Attribute1": "72",
+    "Attribute2": "29",
+    "Attribute3": "44",
+    "Attribute4": "34",
+    "Attribute5": "62",
+    "Attribute6": "75",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

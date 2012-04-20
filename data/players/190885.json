@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Adam",
+    "LastName": "Smith",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "4",
+      "Day": "29"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1798",
+    "LeagueId": "60",
+    "NationId": "14",
+    "Rating": "63",
+    "Attribute1": "72",
+    "Attribute2": "34",
+    "Attribute3": "59",
+    "Attribute4": "56",
+    "Attribute5": "62",
+    "Attribute6": "51",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

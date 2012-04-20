@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Marco",
+    "LastName": "Sansovini",
+    "CommonName": null,
+    "Height": "170",
+    "DateOfBirth": {
+      "Year": "1980",
+      "Month": "6",
+      "Day": "17"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "200",
+    "LeagueId": "32",
+    "NationId": "27",
+    "Rating": "64",
+    "Attribute1": "82",
+    "Attribute2": "65",
+    "Attribute3": "50",
+    "Attribute4": "66",
+    "Attribute5": "47",
+    "Attribute6": "67",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

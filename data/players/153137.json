@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Łukasz",
+    "LastName": "Sapela",
+    "CommonName": null,
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "9",
+      "Day": "21"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "110744",
+    "LeagueId": "66",
+    "NationId": "37",
+    "Rating": "63",
+    "Attribute1": "65",
+    "Attribute2": "73",
+    "Attribute3": "54",
+    "Attribute4": "59",
+    "Attribute5": "62",
+    "Attribute6": "66",
+    "Rare": "1",
+    "ItemType": "PlayerGk"
+  }
+}

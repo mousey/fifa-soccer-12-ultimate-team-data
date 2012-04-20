@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Mamadou",
+    "LastName": "Sakho",
+    "CommonName": null,
+    "Height": "187",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "2",
+      "Day": "13"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "73",
+    "LeagueId": "16",
+    "NationId": "18",
+    "Rating": "81",
+    "Attribute1": "74",
+    "Attribute2": "37",
+    "Attribute3": "65",
+    "Attribute4": "56",
+    "Attribute5": "80",
+    "Attribute6": "84",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

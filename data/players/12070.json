@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Christoph",
+    "LastName": "Dabrowski",
+    "CommonName": null,
+    "Height": "195",
+    "DateOfBirth": {
+      "Year": "1978",
+      "Month": "7",
+      "Day": "1"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "160",
+    "LeagueId": "20",
+    "NationId": "21",
+    "Rating": "73",
+    "Attribute1": "58",
+    "Attribute2": "62",
+    "Attribute3": "67",
+    "Attribute4": "54",
+    "Attribute5": "79",
+    "Attribute6": "74",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

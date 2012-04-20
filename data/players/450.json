@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Darius",
+    "LastName": "Vassell",
+    "CommonName": null,
+    "Height": "170",
+    "DateOfBirth": {
+      "Year": "1980",
+      "Month": "6",
+      "Day": "30"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "95",
+    "LeagueId": "14",
+    "NationId": "14",
+    "Rating": "69",
+    "Attribute1": "83",
+    "Attribute2": "68",
+    "Attribute3": "58",
+    "Attribute4": "72",
+    "Attribute5": "49",
+    "Attribute6": "67",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

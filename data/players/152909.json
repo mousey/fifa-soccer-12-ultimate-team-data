@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Hameur",
+    "LastName": "Bouazza",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "2",
+      "Day": "22"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "97",
+    "LeagueId": "14",
+    "NationId": "97",
+    "Rating": "68",
+    "Attribute1": "78",
+    "Attribute2": "63",
+    "Attribute3": "58",
+    "Attribute4": "71",
+    "Attribute5": "52",
+    "Attribute6": "61",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

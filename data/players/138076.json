@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Shavar",
+    "LastName": "Thomas",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "1",
+      "Day": "29"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "696",
+    "LeagueId": "39",
+    "NationId": "82",
+    "Rating": "62",
+    "Attribute1": "37",
+    "Attribute2": "37",
+    "Attribute3": "38",
+    "Attribute4": "47",
+    "Attribute5": "66",
+    "Attribute6": "68",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

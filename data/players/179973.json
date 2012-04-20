@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Michel",
+    "LastName": "Morganella",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "5",
+      "Day": "17"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "112225",
+    "LeagueId": "31",
+    "NationId": "47",
+    "Rating": "64",
+    "Attribute1": "65",
+    "Attribute2": "41",
+    "Attribute3": "60",
+    "Attribute4": "57",
+    "Attribute5": "68",
+    "Attribute6": "60",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

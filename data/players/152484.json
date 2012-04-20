@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Brian",
+    "LastName": "Saah",
+    "CommonName": null,
+    "Height": "191",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "12",
+      "Day": "16"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1946",
+    "LeagueId": "61",
+    "NationId": "14",
+    "Rating": "58",
+    "Attribute1": "66",
+    "Attribute2": "21",
+    "Attribute3": "33",
+    "Attribute4": "31",
+    "Attribute5": "66",
+    "Attribute6": "65",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

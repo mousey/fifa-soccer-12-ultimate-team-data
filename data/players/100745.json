@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Paul",
+    "LastName": "Smith",
+    "CommonName": null,
+    "Height": "193",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "12",
+      "Day": "17"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "14",
+    "LeagueId": "14",
+    "NationId": "14",
+    "Rating": "64",
+    "Attribute1": "65",
+    "Attribute2": "62",
+    "Attribute3": "55",
+    "Attribute4": "67",
+    "Attribute5": "41",
+    "Attribute6": "62",
+    "Rare": "1",
+    "ItemType": "PlayerGk"
+  }
+}

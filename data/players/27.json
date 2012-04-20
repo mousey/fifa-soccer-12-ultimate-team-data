@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Joe",
+    "LastName": "Cole",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "11",
+      "Day": "8"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "65",
+    "LeagueId": "16",
+    "NationId": "14",
+    "Rating": "80",
+    "Attribute1": "68",
+    "Attribute2": "75",
+    "Attribute3": "76",
+    "Attribute4": "83",
+    "Attribute5": "54",
+    "Attribute6": "57",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

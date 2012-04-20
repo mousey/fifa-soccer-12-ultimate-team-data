@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Bobby",
+    "LastName": "Warshaw",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "11",
+      "Day": "21"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "695",
+    "LeagueId": "39",
+    "NationId": "95",
+    "Rating": "60",
+    "Attribute1": "48",
+    "Attribute2": "47",
+    "Attribute3": "49",
+    "Attribute4": "55",
+    "Attribute5": "64",
+    "Attribute6": "66",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

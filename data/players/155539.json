@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Gunnar",
+    "LastName": "Nielsen",
+    "CommonName": null,
+    "Height": "193",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "10",
+      "Day": "7"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "10",
+    "LeagueId": "13",
+    "NationId": "16",
+    "Rating": "65",
+    "Attribute1": "67",
+    "Attribute2": "69",
+    "Attribute3": "60",
+    "Attribute4": "66",
+    "Attribute5": "65",
+    "Attribute6": "67",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

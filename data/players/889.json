@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jody",
+    "LastName": "Morris",
+    "CommonName": null,
+    "Height": "165",
+    "DateOfBirth": {
+      "Year": "1978",
+      "Month": "12",
+      "Day": "22"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "100804",
+    "LeagueId": "50",
+    "NationId": "14",
+    "Rating": "66",
+    "Attribute1": "64",
+    "Attribute2": "50",
+    "Attribute3": "62",
+    "Attribute4": "73",
+    "Attribute5": "60",
+    "Attribute6": "58",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

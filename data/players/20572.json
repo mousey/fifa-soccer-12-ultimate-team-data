@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Rui Orlando",
+    "LastName": "Ribeiro Santos Neto",
+    "CommonName": "Orlando",
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "10",
+      "Day": "24"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1901",
+    "LeagueId": "308",
+    "NationId": "38",
+    "Rating": "67",
+    "Attribute1": "51",
+    "Attribute2": "52",
+    "Attribute3": "52",
+    "Attribute4": "43",
+    "Attribute5": "72",
+    "Attribute6": "73",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

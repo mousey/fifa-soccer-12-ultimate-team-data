@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Hugo",
+    "LastName": "Rodallega",
+    "CommonName": null,
+    "Height": "181",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "7",
+      "Day": "25"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1917",
+    "LeagueId": "13",
+    "NationId": "56",
+    "Rating": "75",
+    "Attribute1": "77",
+    "Attribute2": "74",
+    "Attribute3": "66",
+    "Attribute4": "77",
+    "Attribute5": "57",
+    "Attribute6": "79",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

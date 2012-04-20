@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Kevin",
+    "LastName": "Taelemans",
+    "CommonName": null,
+    "Height": "190",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "5",
+      "Day": "27"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "680",
+    "LeagueId": "4",
+    "NationId": "7",
+    "Rating": "57",
+    "Attribute1": "42",
+    "Attribute2": "30",
+    "Attribute3": "32",
+    "Attribute4": "26",
+    "Attribute5": "64",
+    "Attribute6": "59",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

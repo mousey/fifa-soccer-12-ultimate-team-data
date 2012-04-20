@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Michel Macedo",
+    "LastName": "Rocha Machado",
+    "CommonName": "Michel Macedo",
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "2",
+      "Day": "15"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1861",
+    "LeagueId": "54",
+    "NationId": "54",
+    "Rating": "70",
+    "Attribute1": "81",
+    "Attribute2": "38",
+    "Attribute3": "62",
+    "Attribute4": "67",
+    "Attribute5": "69",
+    "Attribute6": "71",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

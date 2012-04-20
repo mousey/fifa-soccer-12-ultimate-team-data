@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Hector",
+    "LastName": "Jimenez",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "11",
+      "Day": "3"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "697",
+    "LeagueId": "39",
+    "NationId": "95",
+    "Rating": "58",
+    "Attribute1": "72",
+    "Attribute2": "59",
+    "Attribute3": "54",
+    "Attribute4": "59",
+    "Attribute5": "41",
+    "Attribute6": "44",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

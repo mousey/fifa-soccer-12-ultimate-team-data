@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Johan",
+    "LastName": "Audel",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "12",
+      "Day": "12"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "36",
+    "LeagueId": "19",
+    "NationId": "18",
+    "Rating": "73",
+    "Attribute1": "76",
+    "Attribute2": "67",
+    "Attribute3": "68",
+    "Attribute4": "76",
+    "Attribute5": "55",
+    "Attribute6": "61",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

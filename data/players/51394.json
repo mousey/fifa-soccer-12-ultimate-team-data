@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Kevin",
+    "LastName": "Nolan",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "6",
+      "Day": "24"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "19",
+    "LeagueId": "14",
+    "NationId": "14",
+    "Rating": "77",
+    "Attribute1": "67",
+    "Attribute2": "77",
+    "Attribute3": "77",
+    "Attribute4": "71",
+    "Attribute5": "72",
+    "Attribute6": "80",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

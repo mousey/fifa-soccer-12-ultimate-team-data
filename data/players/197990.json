@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "George",
+    "LastName": "Francomb",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "9",
+      "Day": "8"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1792",
+    "LeagueId": "13",
+    "NationId": "14",
+    "Rating": "58",
+    "Attribute1": "65",
+    "Attribute2": "34",
+    "Attribute3": "55",
+    "Attribute4": "53",
+    "Attribute5": "57",
+    "Attribute6": "50",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

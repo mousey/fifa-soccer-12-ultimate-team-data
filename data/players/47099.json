@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Kristofer",
+    "LastName": "Hæstad",
+    "CommonName": null,
+    "Height": "172",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "12",
+      "Day": "9"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "920",
+    "LeagueId": "41",
+    "NationId": "36",
+    "Rating": "66",
+    "Attribute1": "73",
+    "Attribute2": "57",
+    "Attribute3": "56",
+    "Attribute4": "62",
+    "Attribute5": "69",
+    "Attribute6": "67",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

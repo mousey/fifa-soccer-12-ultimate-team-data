@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ronald",
+    "LastName": "Vargas",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "12",
+      "Day": "2"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "229",
+    "LeagueId": "4",
+    "NationId": "61",
+    "Rating": "75",
+    "Attribute1": "83",
+    "Attribute2": "70",
+    "Attribute3": "71",
+    "Attribute4": "80",
+    "Attribute5": "46",
+    "Attribute6": "58",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Álvaro",
+    "LastName": "Arbeloa Coca",
+    "CommonName": "Arbeloa",
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "1",
+      "Day": "17"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "243",
+    "LeagueId": "53",
+    "NationId": "45",
+    "Rating": "80",
+    "Attribute1": "73",
+    "Attribute2": "62",
+    "Attribute3": "73",
+    "Attribute4": "69",
+    "Attribute5": "81",
+    "Attribute6": "69",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

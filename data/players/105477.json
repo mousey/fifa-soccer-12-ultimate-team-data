@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "David",
+    "LastName": "Suazo",
+    "CommonName": null,
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "11",
+      "Day": "5"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110364",
+    "LeagueId": "31",
+    "NationId": "81",
+    "Rating": "76",
+    "Attribute1": "91",
+    "Attribute2": "76",
+    "Attribute3": "56",
+    "Attribute4": "65",
+    "Attribute5": "58",
+    "Attribute6": "71",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Joseba",
+    "LastName": "del Olmo García",
+    "CommonName": "Del Olmo",
+    "Height": "172",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "6",
+      "Day": "20"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "100879",
+    "LeagueId": "54",
+    "NationId": "45",
+    "Rating": "62",
+    "Attribute1": "73",
+    "Attribute2": "55",
+    "Attribute3": "58",
+    "Attribute4": "64",
+    "Attribute5": "59",
+    "Attribute6": "61",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

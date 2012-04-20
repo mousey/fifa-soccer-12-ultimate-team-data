@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Adil",
+    "LastName": "Chihi",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "2",
+      "Day": "21"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "31",
+    "LeagueId": "19",
+    "NationId": "129",
+    "Rating": "72",
+    "Attribute1": "81",
+    "Attribute2": "64",
+    "Attribute3": "68",
+    "Attribute4": "76",
+    "Attribute5": "51",
+    "Attribute6": "58",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

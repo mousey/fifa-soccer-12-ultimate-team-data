@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Robbie",
+    "LastName": "Kruse",
+    "CommonName": null,
+    "Height": "181",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "10",
+      "Day": "5"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110636",
+    "LeagueId": "20",
+    "NationId": "195",
+    "Rating": "66",
+    "Attribute1": "83",
+    "Attribute2": "65",
+    "Attribute3": "47",
+    "Attribute4": "69",
+    "Attribute5": "42",
+    "Attribute6": "61",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

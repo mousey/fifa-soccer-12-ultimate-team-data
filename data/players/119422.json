@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Leon",
+    "LastName": "Johnson",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "5",
+      "Day": "10"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1933",
+    "LeagueId": "60",
+    "NationId": "77",
+    "Rating": "61",
+    "Attribute1": "72",
+    "Attribute2": "20",
+    "Attribute3": "31",
+    "Attribute4": "24",
+    "Attribute5": "69",
+    "Attribute6": "63",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

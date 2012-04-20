@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "David",
+    "LastName": "Mendes da Silva",
+    "CommonName": null,
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "8",
+      "Day": "4"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "191",
+    "LeagueId": "80",
+    "NationId": "34",
+    "Rating": "71",
+    "Attribute1": "70",
+    "Attribute2": "60",
+    "Attribute3": "68",
+    "Attribute4": "70",
+    "Attribute5": "74",
+    "Attribute6": "72",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

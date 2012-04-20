@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Mike",
+    "LastName": "Edwards",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1980",
+      "Month": "4",
+      "Day": "25"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1937",
+    "LeagueId": "60",
+    "NationId": "14",
+    "Rating": "60",
+    "Attribute1": "49",
+    "Attribute2": "28",
+    "Attribute3": "43",
+    "Attribute4": "30",
+    "Attribute5": "63",
+    "Attribute6": "65",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

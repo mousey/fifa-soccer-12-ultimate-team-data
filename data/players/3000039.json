@@ -1,0 +1,12 @@
+{
+  "FitnessCoach": {
+    "FirstName": "R",
+    "LastName": "Lehman",
+    "Rating": "80",
+    "Rare": "1",
+    "Pos": "1",
+    "PosBonus": "1",
+    "Amount": "5",
+    "ItemType": "FitnessCoach"
+  }
+}

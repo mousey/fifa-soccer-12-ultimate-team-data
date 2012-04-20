@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Francesco",
+    "LastName": "Scardina",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "12",
+      "Day": "11"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "111993",
+    "LeagueId": "32",
+    "NationId": "27",
+    "Rating": "63",
+    "Attribute1": "65",
+    "Attribute2": "29",
+    "Attribute3": "43",
+    "Attribute4": "35",
+    "Attribute5": "68",
+    "Attribute6": "64",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

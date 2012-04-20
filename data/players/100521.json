@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "David",
+    "LastName": "Noble",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "2",
+      "Day": "2"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "143",
+    "LeagueId": "60",
+    "NationId": "42",
+    "Rating": "64",
+    "Attribute1": "62",
+    "Attribute2": "52",
+    "Attribute3": "66",
+    "Attribute4": "65",
+    "Attribute5": "56",
+    "Attribute6": "53",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

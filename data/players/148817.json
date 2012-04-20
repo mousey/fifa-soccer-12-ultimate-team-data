@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Mark",
+    "LastName": "Looms",
+    "CommonName": null,
+    "Height": "192",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "3",
+      "Day": "24"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "100634",
+    "LeagueId": "10",
+    "NationId": "34",
+    "Rating": "66",
+    "Attribute1": "58",
+    "Attribute2": "25",
+    "Attribute3": "49",
+    "Attribute4": "58",
+    "Attribute5": "70",
+    "Attribute6": "62",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

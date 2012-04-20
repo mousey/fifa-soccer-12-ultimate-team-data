@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Fabian",
+    "LastName": "Boll",
+    "CommonName": null,
+    "Height": "193",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "6",
+      "Day": "16"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110329",
+    "LeagueId": "20",
+    "NationId": "21",
+    "Rating": "69",
+    "Attribute1": "53",
+    "Attribute2": "64",
+    "Attribute3": "67",
+    "Attribute4": "64",
+    "Attribute5": "72",
+    "Attribute6": "73",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Matías",
+    "LastName": "Silvestre",
+    "CommonName": null,
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "9",
+      "Day": "25"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1843",
+    "LeagueId": "31",
+    "NationId": "52",
+    "Rating": "77",
+    "Attribute1": "65",
+    "Attribute2": "49",
+    "Attribute3": "53",
+    "Attribute4": "53",
+    "Attribute5": "78",
+    "Attribute6": "80",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

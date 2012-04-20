@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Raffaele",
+    "LastName": "Cretaro",
+    "CommonName": null,
+    "Height": "165",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "10",
+      "Day": "15"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "563",
+    "LeagueId": "65",
+    "NationId": "25",
+    "Rating": "61",
+    "Attribute1": "74",
+    "Attribute2": "53",
+    "Attribute3": "56",
+    "Attribute4": "63",
+    "Attribute5": "36",
+    "Attribute6": "43",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

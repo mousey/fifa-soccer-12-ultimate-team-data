@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Tim",
+    "LastName": "Breukers",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "11",
+      "Day": "4"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "100634",
+    "LeagueId": "10",
+    "NationId": "34",
+    "Rating": "67",
+    "Attribute1": "65",
+    "Attribute2": "44",
+    "Attribute3": "64",
+    "Attribute4": "62",
+    "Attribute5": "67",
+    "Attribute6": "64",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

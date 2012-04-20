@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Dries",
+    "LastName": "Mertens",
+    "CommonName": null,
+    "Height": "169",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "5",
+      "Day": "6"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "247",
+    "LeagueId": "10",
+    "NationId": "7",
+    "Rating": "79",
+    "Attribute1": "86",
+    "Attribute2": "73",
+    "Attribute3": "72",
+    "Attribute4": "80",
+    "Attribute5": "47",
+    "Attribute6": "55",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

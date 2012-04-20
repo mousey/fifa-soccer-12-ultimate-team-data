@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "John",
+    "LastName": "Kelly",
+    "CommonName": null,
+    "Height": "193",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "12",
+      "Day": "24"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111132",
+    "LeagueId": "65",
+    "NationId": "25",
+    "Rating": "50",
+    "Attribute1": "54",
+    "Attribute2": "49",
+    "Attribute3": "50",
+    "Attribute4": "51",
+    "Attribute5": "38",
+    "Attribute6": "50",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

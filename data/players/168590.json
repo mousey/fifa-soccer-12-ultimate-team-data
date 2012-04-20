@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Markus",
+    "LastName": "Karl",
+    "CommonName": null,
+    "Height": "193",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "2",
+      "Day": "14"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1831",
+    "LeagueId": "20",
+    "NationId": "21",
+    "Rating": "65",
+    "Attribute1": "53",
+    "Attribute2": "62",
+    "Attribute3": "61",
+    "Attribute4": "59",
+    "Attribute5": "71",
+    "Attribute6": "73",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

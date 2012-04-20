@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "José Antonio",
+    "LastName": "Reyes Calderón",
+    "CommonName": "Reyes",
+    "Height": "176",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "9",
+      "Day": "1"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "240",
+    "LeagueId": "53",
+    "NationId": "45",
+    "Rating": "85",
+    "Attribute1": "88",
+    "Attribute2": "79",
+    "Attribute3": "78",
+    "Attribute4": "87",
+    "Attribute5": "47",
+    "Attribute6": "52",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

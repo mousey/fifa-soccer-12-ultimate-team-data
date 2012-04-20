@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jack",
+    "LastName": "Cork",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "6",
+      "Day": "25"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "17",
+    "LeagueId": "14",
+    "NationId": "14",
+    "Rating": "70",
+    "Attribute1": "63",
+    "Attribute2": "53",
+    "Attribute3": "67",
+    "Attribute4": "66",
+    "Attribute5": "68",
+    "Attribute6": "71",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

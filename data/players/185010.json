@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Michał",
+    "LastName": "Pazdan",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "9",
+      "Day": "21"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "420",
+    "LeagueId": "66",
+    "NationId": "37",
+    "Rating": "63",
+    "Attribute1": "38",
+    "Attribute2": "38",
+    "Attribute3": "49",
+    "Attribute4": "52",
+    "Attribute5": "59",
+    "Attribute6": "69",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

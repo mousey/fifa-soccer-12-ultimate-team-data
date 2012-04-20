@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Carlos Javier",
+    "LastName": "Cuéllar Jiménez",
+    "CommonName": "Carlos Cuéllar",
+    "Height": "190",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "8",
+      "Day": "23"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "2",
+    "LeagueId": "13",
+    "NationId": "45",
+    "Rating": "75",
+    "Attribute1": "53",
+    "Attribute2": "35",
+    "Attribute3": "41",
+    "Attribute4": "40",
+    "Attribute5": "78",
+    "Attribute6": "76",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

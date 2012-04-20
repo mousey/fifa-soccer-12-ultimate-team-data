@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Victor",
+    "LastName": "Moses",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "12",
+      "Day": "12"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1917",
+    "LeagueId": "13",
+    "NationId": "14",
+    "Rating": "72",
+    "Attribute1": "80",
+    "Attribute2": "67",
+    "Attribute3": "60",
+    "Attribute4": "81",
+    "Attribute5": "54",
+    "Attribute6": "61",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

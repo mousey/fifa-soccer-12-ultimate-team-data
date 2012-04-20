@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Marcell",
+    "LastName": "Jansen",
+    "CommonName": null,
+    "Height": "191",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "11",
+      "Day": "4"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "28",
+    "LeagueId": "19",
+    "NationId": "21",
+    "Rating": "76",
+    "Attribute1": "79",
+    "Attribute2": "75",
+    "Attribute3": "78",
+    "Attribute4": "73",
+    "Attribute5": "74",
+    "Attribute6": "69",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

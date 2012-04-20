@@ -1,0 +1,12 @@
+{
+  "FitnessCoach": {
+    "FirstName": "J",
+    "LastName": "Baerg",
+    "Rating": "80",
+    "Rare": "1",
+    "Pos": "3",
+    "PosBonus": "5",
+    "Amount": "5",
+    "ItemType": "FitnessCoach"
+  }
+}

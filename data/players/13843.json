@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Chris",
+    "LastName": "Kirkland",
+    "CommonName": null,
+    "Height": "191",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "5",
+      "Day": "2"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1917",
+    "LeagueId": "13",
+    "NationId": "14",
+    "Rating": "73",
+    "Attribute1": "77",
+    "Attribute2": "73",
+    "Attribute3": "73",
+    "Attribute4": "76",
+    "Attribute5": "50",
+    "Attribute6": "70",
+    "Rare": "1",
+    "ItemType": "PlayerGk"
+  }
+}

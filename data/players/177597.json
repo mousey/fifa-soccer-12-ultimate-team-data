@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ryan",
+    "LastName": "Taylor",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "5",
+      "Day": "4"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1919",
+    "LeagueId": "14",
+    "NationId": "14",
+    "Rating": "63",
+    "Attribute1": "70",
+    "Attribute2": "60",
+    "Attribute3": "43",
+    "Attribute4": "59",
+    "Attribute5": "51",
+    "Attribute6": "69",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

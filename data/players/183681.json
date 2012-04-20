@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Robbie",
+    "LastName": "Weir",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "12",
+      "Day": "9"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "15048",
+    "LeagueId": "60",
+    "NationId": "35",
+    "Rating": "58",
+    "Attribute1": "65",
+    "Attribute2": "55",
+    "Attribute3": "61",
+    "Attribute4": "57",
+    "Attribute5": "51",
+    "Attribute6": "60",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

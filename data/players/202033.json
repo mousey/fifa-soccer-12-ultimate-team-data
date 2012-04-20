@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Stephen",
+    "LastName": "McLaughlin",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "6",
+      "Day": "14"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "445",
+    "LeagueId": "65",
+    "NationId": "25",
+    "Rating": "57",
+    "Attribute1": "63",
+    "Attribute2": "48",
+    "Attribute3": "57",
+    "Attribute4": "61",
+    "Attribute5": "36",
+    "Attribute6": "51",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

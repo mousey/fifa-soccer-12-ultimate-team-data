@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Danny",
+    "LastName": "Green",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "7",
+      "Day": "9"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "89",
+    "LeagueId": "60",
+    "NationId": "14",
+    "Rating": "64",
+    "Attribute1": "80",
+    "Attribute2": "63",
+    "Attribute3": "60",
+    "Attribute4": "68",
+    "Attribute5": "43",
+    "Attribute6": "44",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

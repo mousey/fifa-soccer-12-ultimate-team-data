@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jan",
+    "LastName": "Schlaudraff",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "7",
+      "Day": "18"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "485",
+    "LeagueId": "19",
+    "NationId": "21",
+    "Rating": "77",
+    "Attribute1": "82",
+    "Attribute2": "72",
+    "Attribute3": "71",
+    "Attribute4": "83",
+    "Attribute5": "45",
+    "Attribute6": "57",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

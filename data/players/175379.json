@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Pedro León",
+    "LastName": "Sánchez Gil",
+    "CommonName": "Pedro León",
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "11",
+      "Day": "24"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1860",
+    "LeagueId": "53",
+    "NationId": "45",
+    "Rating": "77",
+    "Attribute1": "68",
+    "Attribute2": "74",
+    "Attribute3": "84",
+    "Attribute4": "76",
+    "Attribute5": "53",
+    "Attribute6": "51",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

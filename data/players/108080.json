@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Stephan",
+    "LastName": "Lichtsteiner",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "1",
+      "Day": "16"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "45",
+    "LeagueId": "31",
+    "NationId": "47",
+    "Rating": "79",
+    "Attribute1": "79",
+    "Attribute2": "58",
+    "Attribute3": "74",
+    "Attribute4": "71",
+    "Attribute5": "79",
+    "Attribute6": "73",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

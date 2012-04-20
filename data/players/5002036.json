@@ -1,0 +1,9 @@
+{
+  "Healing": {
+    "Desc": "Morale Team Gold",
+    "Rating": "85",
+    "Rare": "1",
+    "Amount": "30",
+    "ItemType": "MoraleTeam"
+  }
+}

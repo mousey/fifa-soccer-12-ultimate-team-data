@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ivan",
+    "LastName": "Franjić",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "9",
+      "Day": "10"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111395",
+    "LeagueId": "351",
+    "NationId": "195",
+    "Rating": "64",
+    "Attribute1": "69",
+    "Attribute2": "61",
+    "Attribute3": "64",
+    "Attribute4": "51",
+    "Attribute5": "65",
+    "Attribute6": "64",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

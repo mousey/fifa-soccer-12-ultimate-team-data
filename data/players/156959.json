@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Marcos Venancio",
+    "LastName": "de Albuquerque",
+    "CommonName": "Ceará",
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1980",
+      "Month": "6",
+      "Day": "18"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "73",
+    "LeagueId": "16",
+    "NationId": "54",
+    "Rating": "71",
+    "Attribute1": "65",
+    "Attribute2": "64",
+    "Attribute3": "75",
+    "Attribute4": "69",
+    "Attribute5": "68",
+    "Attribute6": "65",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

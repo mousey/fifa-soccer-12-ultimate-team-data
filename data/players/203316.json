@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Adam",
+    "LastName": "Smith",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1992",
+      "Month": "11",
+      "Day": "23"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "95",
+    "LeagueId": "14",
+    "NationId": "14",
+    "Rating": "44",
+    "Attribute1": "41",
+    "Attribute2": "44",
+    "Attribute3": "43",
+    "Attribute4": "55",
+    "Attribute5": "24",
+    "Attribute6": "42",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

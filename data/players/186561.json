@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Aaron",
+    "LastName": "Ramsey",
+    "CommonName": null,
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "12",
+      "Day": "26"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1",
+    "LeagueId": "13",
+    "NationId": "50",
+    "Rating": "77",
+    "Attribute1": "75",
+    "Attribute2": "70",
+    "Attribute3": "80",
+    "Attribute4": "77",
+    "Attribute5": "66",
+    "Attribute6": "60",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

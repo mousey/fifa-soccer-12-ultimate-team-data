@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Krzysztof",
+    "LastName": "Bąk",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "6",
+      "Day": "22"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111091",
+    "LeagueId": "66",
+    "NationId": "37",
+    "Rating": "60",
+    "Attribute1": "69",
+    "Attribute2": "50",
+    "Attribute3": "51",
+    "Attribute4": "51",
+    "Attribute5": "65",
+    "Attribute6": "67",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

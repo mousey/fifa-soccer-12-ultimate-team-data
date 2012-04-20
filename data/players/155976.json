@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Charlie",
+    "LastName": "Adam",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "12",
+      "Day": "10"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "9",
+    "LeagueId": "13",
+    "NationId": "42",
+    "Rating": "80",
+    "Attribute1": "67",
+    "Attribute2": "76",
+    "Attribute3": "86",
+    "Attribute4": "75",
+    "Attribute5": "73",
+    "Attribute6": "71",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

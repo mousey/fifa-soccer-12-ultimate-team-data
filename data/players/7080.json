@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Filipe Alex",
+    "LastName": "Dias Anunciação",
+    "CommonName": "Filipe Anunciação",
+    "Height": "179",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "5",
+      "Day": "27"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1892",
+    "LeagueId": "308",
+    "NationId": "38",
+    "Rating": "68",
+    "Attribute1": "53",
+    "Attribute2": "52",
+    "Attribute3": "66",
+    "Attribute4": "58",
+    "Attribute5": "67",
+    "Attribute6": "69",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

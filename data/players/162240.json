@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Moussa",
+    "LastName": "Dembélé",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "7",
+      "Day": "17"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "144",
+    "LeagueId": "13",
+    "NationId": "7",
+    "Rating": "76",
+    "Attribute1": "79",
+    "Attribute2": "73",
+    "Attribute3": "63",
+    "Attribute4": "85",
+    "Attribute5": "64",
+    "Attribute6": "71",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

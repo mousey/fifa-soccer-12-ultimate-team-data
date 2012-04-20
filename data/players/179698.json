@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Leandro",
+    "LastName": "Grimi",
+    "CommonName": null,
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "2",
+      "Day": "9"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "673",
+    "LeagueId": "4",
+    "NationId": "52",
+    "Rating": "70",
+    "Attribute1": "65",
+    "Attribute2": "60",
+    "Attribute3": "69",
+    "Attribute4": "69",
+    "Attribute5": "69",
+    "Attribute6": "70",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

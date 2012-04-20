@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Eren",
+    "LastName": "Derdiyok",
+    "CommonName": null,
+    "Height": "191",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "6",
+      "Day": "12"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "32",
+    "LeagueId": "19",
+    "NationId": "47",
+    "Rating": "79",
+    "Attribute1": "74",
+    "Attribute2": "74",
+    "Attribute3": "69",
+    "Attribute4": "75",
+    "Attribute5": "55",
+    "Attribute6": "77",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

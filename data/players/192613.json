@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Costel",
+    "LastName": "Pantilimon",
+    "CommonName": null,
+    "Height": "203",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "2",
+      "Day": "1"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "10",
+    "LeagueId": "13",
+    "NationId": "39",
+    "Rating": "71",
+    "Attribute1": "68",
+    "Attribute2": "68",
+    "Attribute3": "70",
+    "Attribute4": "74",
+    "Attribute5": "48",
+    "Attribute6": "75",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

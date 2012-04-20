@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Adrián",
+    "LastName": "Gunino",
+    "CommonName": null,
+    "Height": "172",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "2",
+      "Day": "3"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1877",
+    "LeagueId": "353",
+    "NationId": "60",
+    "Rating": "70",
+    "Attribute1": "74",
+    "Attribute2": "54",
+    "Attribute3": "71",
+    "Attribute4": "71",
+    "Attribute5": "69",
+    "Attribute6": "65",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

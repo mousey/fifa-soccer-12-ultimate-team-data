@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Mark",
+    "LastName": "González",
+    "CommonName": null,
+    "Height": "176",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "7",
+      "Day": "10"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "315",
+    "LeagueId": "67",
+    "NationId": "55",
+    "Rating": "76",
+    "Attribute1": "91",
+    "Attribute2": "80",
+    "Attribute3": "72",
+    "Attribute4": "77",
+    "Attribute5": "48",
+    "Attribute6": "72",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

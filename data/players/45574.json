@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Rafael",
+    "LastName": "van der Vaart",
+    "CommonName": null,
+    "Height": "176",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "2",
+      "Day": "11"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "18",
+    "LeagueId": "13",
+    "NationId": "34",
+    "Rating": "87",
+    "Attribute1": "67",
+    "Attribute2": "84",
+    "Attribute3": "86",
+    "Attribute4": "83",
+    "Attribute5": "57",
+    "Attribute6": "59",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

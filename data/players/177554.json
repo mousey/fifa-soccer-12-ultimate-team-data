@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Andrea",
+    "LastName": "Milani",
+    "CommonName": null,
+    "Height": "174",
+    "DateOfBirth": {
+      "Year": "1980",
+      "Month": "12",
+      "Day": "9"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1744",
+    "LeagueId": "32",
+    "NationId": "27",
+    "Rating": "62",
+    "Attribute1": "73",
+    "Attribute2": "43",
+    "Attribute3": "58",
+    "Attribute4": "55",
+    "Attribute5": "63",
+    "Attribute6": "64",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

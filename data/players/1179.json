@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Gianluigi",
+    "LastName": "Buffon",
+    "CommonName": null,
+    "Height": "191",
+    "DateOfBirth": {
+      "Year": "1978",
+      "Month": "1",
+      "Day": "28"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "45",
+    "LeagueId": "31",
+    "NationId": "27",
+    "Rating": "85",
+    "Attribute1": "85",
+    "Attribute2": "86",
+    "Attribute3": "65",
+    "Attribute4": "82",
+    "Attribute5": "54",
+    "Attribute6": "86",
+    "Rare": "1",
+    "ItemType": "PlayerGk"
+  }
+}

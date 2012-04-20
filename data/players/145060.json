@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Isaac",
+    "LastName": "Jové Rubí",
+    "CommonName": "Isaac Jové",
+    "Height": "174",
+    "DateOfBirth": {
+      "Year": "1980",
+      "Month": "2",
+      "Day": "21"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1855",
+    "LeagueId": "54",
+    "NationId": "45",
+    "Rating": "63",
+    "Attribute1": "79",
+    "Attribute2": "55",
+    "Attribute3": "51",
+    "Attribute4": "70",
+    "Attribute5": "44",
+    "Attribute6": "54",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

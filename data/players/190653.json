@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Isaac",
+    "LastName": "Brizuela",
+    "CommonName": null,
+    "Height": "171",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "8",
+      "Day": "28"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1882",
+    "LeagueId": "341",
+    "NationId": "83",
+    "Rating": "65",
+    "Attribute1": "84",
+    "Attribute2": "59",
+    "Attribute3": "57",
+    "Attribute4": "69",
+    "Attribute5": "47",
+    "Attribute6": "54",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

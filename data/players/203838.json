@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Gianluca",
+    "LastName": "Korte",
+    "CommonName": null,
+    "Height": "177",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "8",
+      "Day": "29"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "110500",
+    "LeagueId": "20",
+    "NationId": "21",
+    "Rating": "51",
+    "Attribute1": "73",
+    "Attribute2": "51",
+    "Attribute3": "42",
+    "Attribute4": "54",
+    "Attribute5": "33",
+    "Attribute6": "56",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Arouna",
+    "LastName": "Koné",
+    "CommonName": null,
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "11",
+      "Day": "11"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1853",
+    "LeagueId": "53",
+    "NationId": "108",
+    "Rating": "73",
+    "Attribute1": "83",
+    "Attribute2": "71",
+    "Attribute3": "52",
+    "Attribute4": "77",
+    "Attribute5": "49",
+    "Attribute6": "68",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

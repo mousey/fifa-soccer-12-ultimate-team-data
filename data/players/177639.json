@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Christian",
+    "LastName": "Pouga",
+    "CommonName": null,
+    "Height": "193",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "6",
+      "Day": "19"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1893",
+    "LeagueId": "308",
+    "NationId": "103",
+    "Rating": "67",
+    "Attribute1": "57",
+    "Attribute2": "64",
+    "Attribute3": "58",
+    "Attribute4": "64",
+    "Attribute5": "59",
+    "Attribute6": "57",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

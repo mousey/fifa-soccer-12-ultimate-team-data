@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "John-Joe",
+    "LastName": "O'Toole",
+    "CommonName": null,
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "9",
+      "Day": "30"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1935",
+    "LeagueId": "60",
+    "NationId": "25",
+    "Rating": "65",
+    "Attribute1": "66",
+    "Attribute2": "56",
+    "Attribute3": "58",
+    "Attribute4": "60",
+    "Attribute5": "65",
+    "Attribute6": "69",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

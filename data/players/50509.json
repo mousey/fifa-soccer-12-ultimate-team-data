@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jonathan",
+    "LastName": "Greening",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "1",
+      "Day": "2"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "14",
+    "LeagueId": "14",
+    "NationId": "14",
+    "Rating": "72",
+    "Attribute1": "56",
+    "Attribute2": "67",
+    "Attribute3": "74",
+    "Attribute4": "70",
+    "Attribute5": "70",
+    "Attribute6": "59",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

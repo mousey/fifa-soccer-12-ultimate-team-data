@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Aleandro",
+    "LastName": "Rosi",
+    "CommonName": null,
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "5",
+      "Day": "17"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "52",
+    "LeagueId": "31",
+    "NationId": "27",
+    "Rating": "72",
+    "Attribute1": "77",
+    "Attribute2": "62",
+    "Attribute3": "70",
+    "Attribute4": "69",
+    "Attribute5": "70",
+    "Attribute6": "68",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

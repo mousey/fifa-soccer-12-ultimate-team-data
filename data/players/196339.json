@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Marcel",
+    "LastName": "Titsch-Rivero",
+    "CommonName": null,
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "11",
+      "Day": "2"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1824",
+    "LeagueId": "20",
+    "NationId": "21",
+    "Rating": "56",
+    "Attribute1": "64",
+    "Attribute2": "45",
+    "Attribute3": "58",
+    "Attribute4": "56",
+    "Attribute5": "56",
+    "Attribute6": "62",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}
