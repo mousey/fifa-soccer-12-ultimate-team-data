@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jalil",
+    "LastName": "Anibaba",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "10",
+      "Day": "19"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "693",
+    "LeagueId": "39",
+    "NationId": "95",
+    "Rating": "64",
+    "Attribute1": "72",
+    "Attribute2": "46",
+    "Attribute3": "52",
+    "Attribute4": "54",
+    "Attribute5": "67",
+    "Attribute6": "64",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

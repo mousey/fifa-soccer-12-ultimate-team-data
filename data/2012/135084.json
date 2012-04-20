@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Carlos Renato",
+    "LastName": "de Abreu",
+    "CommonName": "Renato Abreu",
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1978",
+      "Month": "6",
+      "Day": "9"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1043",
+    "LeagueId": "7",
+    "NationId": "54",
+    "Rating": "74",
+    "Attribute1": "63",
+    "Attribute2": "77",
+    "Attribute3": "76",
+    "Attribute4": "76",
+    "Attribute5": "68",
+    "Attribute6": "69",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

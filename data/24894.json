@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Fábio Aurélio",
+    "LastName": "Rodrígues",
+    "CommonName": "Fábio Aurélio",
+    "Height": "173",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "9",
+      "Day": "24"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "9",
+    "LeagueId": "13",
+    "NationId": "54",
+    "Rating": "74",
+    "Attribute1": "65",
+    "Attribute2": "65",
+    "Attribute3": "80",
+    "Attribute4": "68",
+    "Attribute5": "73",
+    "Attribute6": "66",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

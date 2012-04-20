@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Marcos",
+    "LastName": "dos Santos Assunçao",
+    "CommonName": "Marcos Assunção",
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1976",
+      "Month": "7",
+      "Day": "25"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "383",
+    "LeagueId": "7",
+    "NationId": "54",
+    "Rating": "73",
+    "Attribute1": "53",
+    "Attribute2": "77",
+    "Attribute3": "81",
+    "Attribute4": "69",
+    "Attribute5": "71",
+    "Attribute6": "68",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Wes",
+    "LastName": "Morgan",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "1",
+      "Day": "21"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "14",
+    "LeagueId": "14",
+    "NationId": "14",
+    "Rating": "69",
+    "Attribute1": "69",
+    "Attribute2": "29",
+    "Attribute3": "36",
+    "Attribute4": "51",
+    "Attribute5": "77",
+    "Attribute6": "76",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

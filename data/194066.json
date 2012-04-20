@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ryan",
+    "LastName": "Blake",
+    "CommonName": null,
+    "Height": "179",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "12",
+      "Day": "8"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1925",
+    "LeagueId": "60",
+    "NationId": "35",
+    "Rating": "48",
+    "Attribute1": "73",
+    "Attribute2": "19",
+    "Attribute3": "34",
+    "Attribute4": "27",
+    "Attribute5": "52",
+    "Attribute6": "55",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

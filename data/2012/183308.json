@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "William Artur",
+    "LastName": "C. dos Santos",
+    "CommonName": "William",
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "7",
+      "Day": "27"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1892",
+    "LeagueId": "308",
+    "NationId": "54",
+    "Rating": "70",
+    "Attribute1": "65",
+    "Attribute2": "65",
+    "Attribute3": "51",
+    "Attribute4": "64",
+    "Attribute5": "52",
+    "Attribute6": "78",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

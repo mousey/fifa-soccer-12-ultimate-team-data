@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Federico",
+    "LastName": "Fazio",
+    "CommonName": null,
+    "Height": "195",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "3",
+      "Day": "17"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "481",
+    "LeagueId": "53",
+    "NationId": "52",
+    "Rating": "78",
+    "Attribute1": "52",
+    "Attribute2": "42",
+    "Attribute3": "59",
+    "Attribute4": "62",
+    "Attribute5": "83",
+    "Attribute6": "69",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

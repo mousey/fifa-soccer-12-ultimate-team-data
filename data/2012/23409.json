@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "José Kléberson",
+    "LastName": "Pereira",
+    "CommonName": "Kléberson",
+    "Height": "176",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "6",
+      "Day": "19"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1039",
+    "LeagueId": "7",
+    "NationId": "54",
+    "Rating": "72",
+    "Attribute1": "74",
+    "Attribute2": "68",
+    "Attribute3": "77",
+    "Attribute4": "69",
+    "Attribute5": "66",
+    "Attribute6": "68",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

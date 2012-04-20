@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Zoltán",
+    "LastName": "Gera",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "4",
+      "Day": "22"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "109",
+    "LeagueId": "13",
+    "NationId": "23",
+    "Rating": "76",
+    "Attribute1": "68",
+    "Attribute2": "77",
+    "Attribute3": "75",
+    "Attribute4": "79",
+    "Attribute5": "57",
+    "Attribute6": "66",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Lassad",
+    "LastName": "Nouioui",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "3",
+      "Day": "8"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "242",
+    "LeagueId": "54",
+    "NationId": "145",
+    "Rating": "71",
+    "Attribute1": "74",
+    "Attribute2": "70",
+    "Attribute3": "54",
+    "Attribute4": "75",
+    "Attribute5": "53",
+    "Attribute6": "66",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

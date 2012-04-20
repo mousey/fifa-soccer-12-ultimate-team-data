@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Thomas",
+    "LastName": "Oar",
+    "CommonName": null,
+    "Height": "169",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "12",
+      "Day": "10"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1903",
+    "LeagueId": "10",
+    "NationId": "195",
+    "Rating": "68",
+    "Attribute1": "89",
+    "Attribute2": "66",
+    "Attribute3": "60",
+    "Attribute4": "65",
+    "Attribute5": "39",
+    "Attribute6": "62",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

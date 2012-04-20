@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Andres",
+    "LastName": "Vasquez",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "7",
+      "Day": "16"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "711",
+    "LeagueId": "56",
+    "NationId": "59",
+    "Rating": "63",
+    "Attribute1": "66",
+    "Attribute2": "56",
+    "Attribute3": "61",
+    "Attribute4": "68",
+    "Attribute5": "45",
+    "Attribute6": "44",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

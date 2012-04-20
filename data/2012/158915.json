@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Stefano",
+    "LastName": "Botta",
+    "CommonName": null,
+    "Height": "173",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "11",
+      "Day": "3"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1847",
+    "LeagueId": "32",
+    "NationId": "47",
+    "Rating": "64",
+    "Attribute1": "69",
+    "Attribute2": "54",
+    "Attribute3": "68",
+    "Attribute4": "62",
+    "Attribute5": "56",
+    "Attribute6": "61",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

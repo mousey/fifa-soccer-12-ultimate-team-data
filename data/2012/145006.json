@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "David",
+    "LastName": "Valle Millán",
+    "CommonName": "David Valle",
+    "Height": "190",
+    "DateOfBirth": {
+      "Year": "1978",
+      "Month": "5",
+      "Day": "27"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "15019",
+    "LeagueId": "54",
+    "NationId": "45",
+    "Rating": "62",
+    "Attribute1": "56",
+    "Attribute2": "70",
+    "Attribute3": "54",
+    "Attribute4": "57",
+    "Attribute5": "45",
+    "Attribute6": "68",
+    "Rare": "1",
+    "ItemType": "PlayerGk"
+  }
+}

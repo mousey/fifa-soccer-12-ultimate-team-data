@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Thomas",
+    "LastName": "Mangani",
+    "CommonName": null,
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "4",
+      "Day": "29"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1823",
+    "LeagueId": "16",
+    "NationId": "18",
+    "Rating": "66",
+    "Attribute1": "66",
+    "Attribute2": "51",
+    "Attribute3": "62",
+    "Attribute4": "56",
+    "Attribute5": "68",
+    "Attribute6": "63",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Zahari",
+    "LastName": "Sirakov",
+    "CommonName": null,
+    "Height": "181",
+    "DateOfBirth": {
+      "Year": "1977",
+      "Month": "10",
+      "Day": "8"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110234",
+    "LeagueId": "67",
+    "NationId": "9",
+    "Rating": "66",
+    "Attribute1": "60",
+    "Attribute2": "42",
+    "Attribute3": "64",
+    "Attribute4": "50",
+    "Attribute5": "66",
+    "Attribute6": "61",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

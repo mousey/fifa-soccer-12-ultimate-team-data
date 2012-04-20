@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Simon",
+    "LastName": "Lappin",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "1",
+      "Day": "25"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1792",
+    "LeagueId": "13",
+    "NationId": "42",
+    "Rating": "66",
+    "Attribute1": "53",
+    "Attribute2": "57",
+    "Attribute3": "69",
+    "Attribute4": "67",
+    "Attribute5": "58",
+    "Attribute6": "58",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

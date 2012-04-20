@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Marek",
+    "LastName": "Gancarczyk",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "2",
+      "Day": "19"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111092",
+    "LeagueId": "66",
+    "NationId": "37",
+    "Rating": "61",
+    "Attribute1": "89",
+    "Attribute2": "56",
+    "Attribute3": "60",
+    "Attribute4": "72",
+    "Attribute5": "49",
+    "Attribute6": "61",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Michal",
+    "LastName": "Papadopulos",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "4",
+      "Day": "14"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110231",
+    "LeagueId": "67",
+    "NationId": "12",
+    "Rating": "68",
+    "Attribute1": "72",
+    "Attribute2": "64",
+    "Attribute3": "57",
+    "Attribute4": "61",
+    "Attribute5": "56",
+    "Attribute6": "75",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Tony",
+    "LastName": "Sergeant",
+    "CommonName": null,
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1977",
+      "Month": "6",
+      "Day": "6"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1750",
+    "LeagueId": "4",
+    "NationId": "7",
+    "Rating": "65",
+    "Attribute1": "43",
+    "Attribute2": "63",
+    "Attribute3": "63",
+    "Attribute4": "58",
+    "Attribute5": "56",
+    "Attribute6": "61",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

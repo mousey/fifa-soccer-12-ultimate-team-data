@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Michaël",
+    "LastName": "Essien",
+    "CommonName": null,
+    "Height": "177",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "12",
+      "Day": "3"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "5",
+    "LeagueId": "13",
+    "NationId": "117",
+    "Rating": "84",
+    "Attribute1": "75",
+    "Attribute2": "78",
+    "Attribute3": "82",
+    "Attribute4": "79",
+    "Attribute5": "85",
+    "Attribute6": "80",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

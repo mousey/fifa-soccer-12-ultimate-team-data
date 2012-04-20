@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Luka",
+    "LastName": "Vučko",
+    "CommonName": null,
+    "Height": "197",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "4",
+      "Day": "11"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111091",
+    "LeagueId": "66",
+    "NationId": "10",
+    "Rating": "63",
+    "Attribute1": "70",
+    "Attribute2": "26",
+    "Attribute3": "51",
+    "Attribute4": "36",
+    "Attribute5": "71",
+    "Attribute6": "69",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "José Antonio",
+    "LastName": "García Rabasco",
+    "CommonName": "Verza",
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "9",
+      "Day": "29"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1861",
+    "LeagueId": "54",
+    "NationId": "45",
+    "Rating": "64",
+    "Attribute1": "57",
+    "Attribute2": "61",
+    "Attribute3": "72",
+    "Attribute4": "53",
+    "Attribute5": "58",
+    "Attribute6": "50",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

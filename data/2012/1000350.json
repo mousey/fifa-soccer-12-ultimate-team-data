@@ -1,0 +1,15 @@
+{
+  "Manager": {
+    "FirstName": "John",
+    "LastName": "Karelse",
+    "NationId": "34",
+    "Value": "67",
+    "Rare": "0",
+    "Weight": "15",
+    "FormationId": "27",
+    "TalkRating": "2",
+    "Negotiation": "0",
+    "AssetId": "1000350",
+    "ItemType": "Manager"
+  }
+}

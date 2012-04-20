@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Erton",
+    "LastName": "Fejzullahu",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "4",
+      "Day": "9"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "112072",
+    "LeagueId": "56",
+    "NationId": "46",
+    "Rating": "64",
+    "Attribute1": "65",
+    "Attribute2": "58",
+    "Attribute3": "56",
+    "Attribute4": "67",
+    "Attribute5": "52",
+    "Attribute6": "63",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Scott",
+    "LastName": "Chipperfield",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1975",
+      "Month": "12",
+      "Day": "30"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "896",
+    "LeagueId": "189",
+    "NationId": "195",
+    "Rating": "68",
+    "Attribute1": "55",
+    "Attribute2": "67",
+    "Attribute3": "70",
+    "Attribute4": "67",
+    "Attribute5": "68",
+    "Attribute6": "54",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

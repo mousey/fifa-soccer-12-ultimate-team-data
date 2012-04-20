@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Sergio",
+    "LastName": "Floccari",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "11",
+      "Day": "12"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "50",
+    "LeagueId": "31",
+    "NationId": "27",
+    "Rating": "77",
+    "Attribute1": "76",
+    "Attribute2": "73",
+    "Attribute3": "64",
+    "Attribute4": "81",
+    "Attribute5": "57",
+    "Attribute6": "77",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

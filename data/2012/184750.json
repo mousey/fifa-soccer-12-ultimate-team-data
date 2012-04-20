@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ryan",
+    "LastName": "Dickson",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "12",
+      "Day": "14"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "17",
+    "LeagueId": "14",
+    "NationId": "14",
+    "Rating": "62",
+    "Attribute1": "71",
+    "Attribute2": "38",
+    "Attribute3": "57",
+    "Attribute4": "60",
+    "Attribute5": "64",
+    "Attribute6": "60",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

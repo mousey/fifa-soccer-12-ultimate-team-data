@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Carmelo",
+    "LastName": "González Jiménez",
+    "CommonName": "Carmelo",
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "7",
+      "Day": "9"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "459",
+    "LeagueId": "53",
+    "NationId": "45",
+    "Rating": "70",
+    "Attribute1": "68",
+    "Attribute2": "59",
+    "Attribute3": "67",
+    "Attribute4": "77",
+    "Attribute5": "52",
+    "Attribute6": "54",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Billy",
+    "LastName": "Celeski",
+    "CommonName": null,
+    "Height": "176",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "7",
+      "Day": "14"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111397",
+    "LeagueId": "351",
+    "NationId": "195",
+    "Rating": "62",
+    "Attribute1": "70",
+    "Attribute2": "51",
+    "Attribute3": "58",
+    "Attribute4": "71",
+    "Attribute5": "58",
+    "Attribute6": "38",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Nicolas",
+    "LastName": "Gillet",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1976",
+      "Month": "11",
+      "Day": "8"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1530",
+    "LeagueId": "17",
+    "NationId": "18",
+    "Rating": "67",
+    "Attribute1": "29",
+    "Attribute2": "55",
+    "Attribute3": "59",
+    "Attribute4": "42",
+    "Attribute5": "71",
+    "Attribute6": "78",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

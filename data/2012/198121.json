@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Amara",
+    "LastName": "Kallé",
+    "CommonName": null,
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "9",
+      "Day": "19"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "57",
+    "LeagueId": "16",
+    "NationId": "126",
+    "Rating": "60",
+    "Attribute1": "60",
+    "Attribute2": "34",
+    "Attribute3": "40",
+    "Attribute4": "32",
+    "Attribute5": "65",
+    "Attribute6": "65",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

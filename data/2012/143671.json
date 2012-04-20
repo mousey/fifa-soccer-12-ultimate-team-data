@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Stipe",
+    "LastName": "Pletikosa",
+    "CommonName": null,
+    "Height": "193",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "1",
+      "Day": "8"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "110231",
+    "LeagueId": "67",
+    "NationId": "10",
+    "Rating": "74",
+    "Attribute1": "74",
+    "Attribute2": "72",
+    "Attribute3": "73",
+    "Attribute4": "73",
+    "Attribute5": "64",
+    "Attribute6": "78",
+    "Rare": "1",
+    "ItemType": "PlayerGk"
+  }
+}

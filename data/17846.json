@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Zach",
+    "LastName": "Thornton",
+    "CommonName": null,
+    "Height": "191",
+    "DateOfBirth": {
+      "Year": "1973",
+      "Month": "10",
+      "Day": "10"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111070",
+    "LeagueId": "39",
+    "NationId": "95",
+    "Rating": "59",
+    "Attribute1": "60",
+    "Attribute2": "58",
+    "Attribute3": "77",
+    "Attribute4": "55",
+    "Attribute5": "44",
+    "Attribute6": "59",
+    "Rare": "1",
+    "ItemType": "PlayerGk"
+  }
+}

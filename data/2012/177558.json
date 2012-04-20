@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Dan",
+    "LastName": "Paladini",
+    "CommonName": null,
+    "Height": "173",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "11",
+      "Day": "11"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "693",
+    "LeagueId": "39",
+    "NationId": "95",
+    "Rating": "58",
+    "Attribute1": "65",
+    "Attribute2": "62",
+    "Attribute3": "59",
+    "Attribute4": "65",
+    "Attribute5": "54",
+    "Attribute6": "68",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

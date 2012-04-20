@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Marcin",
+    "LastName": "Kikut",
+    "CommonName": null,
+    "Height": "179",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "6",
+      "Day": "25"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "873",
+    "LeagueId": "66",
+    "NationId": "37",
+    "Rating": "67",
+    "Attribute1": "80",
+    "Attribute2": "58",
+    "Attribute3": "73",
+    "Attribute4": "72",
+    "Attribute5": "65",
+    "Attribute6": "68",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

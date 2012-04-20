@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Arne",
+    "LastName": "Naudts",
+    "CommonName": null,
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1993",
+      "Month": "11",
+      "Day": "27"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1750",
+    "LeagueId": "4",
+    "NationId": "7",
+    "Rating": "52",
+    "Attribute1": "60",
+    "Attribute2": "52",
+    "Attribute3": "47",
+    "Attribute4": "53",
+    "Attribute5": "43",
+    "Attribute6": "56",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Rick",
+    "LastName": "ten Voorde",
+    "CommonName": null,
+    "Height": "187",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "6",
+      "Day": "20"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1905",
+    "LeagueId": "10",
+    "NationId": "34",
+    "Rating": "65",
+    "Attribute1": "66",
+    "Attribute2": "62",
+    "Attribute3": "33",
+    "Attribute4": "70",
+    "Attribute5": "51",
+    "Attribute6": "60",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

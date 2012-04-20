@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "A. Hernanes",
+    "LastName": "de Carvalho A. Lima",
+    "CommonName": "Hernanes",
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "5",
+      "Day": "29"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "46",
+    "LeagueId": "31",
+    "NationId": "54",
+    "Rating": "84",
+    "Attribute1": "69",
+    "Attribute2": "81",
+    "Attribute3": "82",
+    "Attribute4": "84",
+    "Attribute5": "70",
+    "Attribute6": "65",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

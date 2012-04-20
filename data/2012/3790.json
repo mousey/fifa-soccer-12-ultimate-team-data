@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "José Carlos",
+    "LastName": "Araújo Nunes",
+    "CommonName": "Nunes",
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1977",
+      "Month": "3",
+      "Day": "7"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "453",
+    "LeagueId": "53",
+    "NationId": "38",
+    "Rating": "77",
+    "Attribute1": "52",
+    "Attribute2": "49",
+    "Attribute3": "55",
+    "Attribute4": "51",
+    "Attribute5": "78",
+    "Attribute6": "75",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

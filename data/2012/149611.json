@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Sasa",
+    "LastName": "Bjelanovic",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "6",
+      "Day": "11"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "206",
+    "LeagueId": "32",
+    "NationId": "10",
+    "Rating": "67",
+    "Attribute1": "37",
+    "Attribute2": "64",
+    "Attribute3": "48",
+    "Attribute4": "59",
+    "Attribute5": "58",
+    "Attribute6": "78",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

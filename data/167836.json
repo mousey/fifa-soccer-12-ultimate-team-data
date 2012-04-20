@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Rory",
+    "LastName": "Loy",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "3",
+      "Day": "19"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1480",
+    "LeagueId": "60",
+    "NationId": "42",
+    "Rating": "57",
+    "Attribute1": "73",
+    "Attribute2": "47",
+    "Attribute3": "49",
+    "Attribute4": "59",
+    "Attribute5": "43",
+    "Attribute6": "72",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

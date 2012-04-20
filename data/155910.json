@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Shaun",
+    "LastName": "Cooper",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "10",
+      "Day": "5"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1943",
+    "LeagueId": "60",
+    "NationId": "14",
+    "Rating": "62",
+    "Attribute1": "72",
+    "Attribute2": "31",
+    "Attribute3": "62",
+    "Attribute4": "51",
+    "Attribute5": "64",
+    "Attribute6": "63",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

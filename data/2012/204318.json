@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Aleksandar",
+    "LastName": "Stevanović",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1992",
+      "Month": "2",
+      "Day": "16"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "38",
+    "LeagueId": "19",
+    "NationId": "51",
+    "Rating": "63",
+    "Attribute1": "66",
+    "Attribute2": "64",
+    "Attribute3": "63",
+    "Attribute4": "61",
+    "Attribute5": "56",
+    "Attribute6": "63",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

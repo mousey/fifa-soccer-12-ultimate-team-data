@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Kevin",
+    "LastName": "Hartman",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1974",
+      "Month": "5",
+      "Day": "25"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "695",
+    "LeagueId": "39",
+    "NationId": "95",
+    "Rating": "69",
+    "Attribute1": "74",
+    "Attribute2": "68",
+    "Attribute3": "68",
+    "Attribute4": "69",
+    "Attribute5": "54",
+    "Attribute6": "68",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

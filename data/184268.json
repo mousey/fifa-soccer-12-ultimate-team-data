@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jean-Yves",
+    "LastName": "M'voto",
+    "CommonName": null,
+    "Height": "193",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "9",
+      "Day": "6"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1920",
+    "LeagueId": "60",
+    "NationId": "18",
+    "Rating": "64",
+    "Attribute1": "74",
+    "Attribute2": "28",
+    "Attribute3": "34",
+    "Attribute4": "27",
+    "Attribute5": "69",
+    "Attribute6": "72",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

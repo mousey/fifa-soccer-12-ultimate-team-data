@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "William Salles",
+    "LastName": "de Lima Souza",
+    "CommonName": "William",
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "5",
+      "Day": "14"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111976",
+    "LeagueId": "7",
+    "NationId": "54",
+    "Rating": "71",
+    "Attribute1": "54",
+    "Attribute2": "70",
+    "Attribute3": "54",
+    "Attribute4": "65",
+    "Attribute5": "56",
+    "Attribute6": "79",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

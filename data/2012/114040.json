@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Victoriano",
+    "LastName": "Rivas Álvaro",
+    "CommonName": "Nano",
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1980",
+      "Month": "7",
+      "Day": "7"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1853",
+    "LeagueId": "53",
+    "NationId": "45",
+    "Rating": "73",
+    "Attribute1": "53",
+    "Attribute2": "43",
+    "Attribute3": "56",
+    "Attribute4": "51",
+    "Attribute5": "75",
+    "Attribute6": "74",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

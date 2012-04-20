@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Federico",
+    "LastName": "Nieto",
+    "CommonName": null,
+    "Height": "190",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "8",
+      "Day": "25"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1039",
+    "LeagueId": "7",
+    "NationId": "52",
+    "Rating": "70",
+    "Attribute1": "63",
+    "Attribute2": "67",
+    "Attribute3": "44",
+    "Attribute4": "63",
+    "Attribute5": "55",
+    "Attribute6": "72",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Clemerson",
+    "LastName": "De Araújo Soares",
+    "CommonName": "Araújo",
+    "Height": "172",
+    "DateOfBirth": {
+      "Year": "1977",
+      "Month": "8",
+      "Day": "8"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "567",
+    "LeagueId": "7",
+    "NationId": "54",
+    "Rating": "72",
+    "Attribute1": "74",
+    "Attribute2": "68",
+    "Attribute3": "75",
+    "Attribute4": "78",
+    "Attribute5": "54",
+    "Attribute6": "66",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

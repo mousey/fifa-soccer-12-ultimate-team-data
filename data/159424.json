@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Pedro",
+    "LastName": "Alves da Silva",
+    "CommonName": "Pedro Silva",
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "4",
+      "Day": "25"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "237",
+    "LeagueId": "308",
+    "NationId": "54",
+    "Rating": "70",
+    "Attribute1": "61",
+    "Attribute2": "62",
+    "Attribute3": "72",
+    "Attribute4": "66",
+    "Attribute5": "72",
+    "Attribute6": "70",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Diego",
+    "LastName": "Milito",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "6",
+      "Day": "12"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "44",
+    "LeagueId": "31",
+    "NationId": "52",
+    "Rating": "81",
+    "Attribute1": "79",
+    "Attribute2": "75",
+    "Attribute3": "66",
+    "Attribute4": "81",
+    "Attribute5": "57",
+    "Attribute6": "78",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

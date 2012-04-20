@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Chris",
+    "LastName": "Weale",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "2",
+      "Day": "9"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "95",
+    "LeagueId": "14",
+    "NationId": "14",
+    "Rating": "64",
+    "Attribute1": "65",
+    "Attribute2": "60",
+    "Attribute3": "61",
+    "Attribute4": "70",
+    "Attribute5": "56",
+    "Attribute6": "68",
+    "Rare": "1",
+    "ItemType": "PlayerGk"
+  }
+}

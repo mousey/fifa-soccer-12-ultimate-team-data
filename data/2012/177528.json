@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Alessandro",
+    "LastName": "Matri",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "8",
+      "Day": "19"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "45",
+    "LeagueId": "31",
+    "NationId": "27",
+    "Rating": "81",
+    "Attribute1": "81",
+    "Attribute2": "75",
+    "Attribute3": "69",
+    "Attribute4": "79",
+    "Attribute5": "58",
+    "Attribute6": "80",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Richard",
+    "LastName": "Chaplow",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "2",
+      "Day": "2"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "17",
+    "LeagueId": "14",
+    "NationId": "14",
+    "Rating": "66",
+    "Attribute1": "69",
+    "Attribute2": "57",
+    "Attribute3": "63",
+    "Attribute4": "67",
+    "Attribute5": "48",
+    "Attribute6": "53",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

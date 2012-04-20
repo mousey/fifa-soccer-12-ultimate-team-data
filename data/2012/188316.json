@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Manuel",
+    "LastName": "Seidl",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "10",
+      "Day": "26"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1785",
+    "LeagueId": "80",
+    "NationId": "4",
+    "Rating": "61",
+    "Attribute1": "64",
+    "Attribute2": "55",
+    "Attribute3": "53",
+    "Attribute4": "54",
+    "Attribute5": "64",
+    "Attribute6": "60",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

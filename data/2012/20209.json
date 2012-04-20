@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ricardo Miguel",
+    "LastName": "Moreira Costa",
+    "CommonName": "Ricardo Costa",
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "5",
+      "Day": "16"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "461",
+    "LeagueId": "53",
+    "NationId": "38",
+    "Rating": "77",
+    "Attribute1": "63",
+    "Attribute2": "39",
+    "Attribute3": "49",
+    "Attribute4": "51",
+    "Attribute5": "79",
+    "Attribute6": "84",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

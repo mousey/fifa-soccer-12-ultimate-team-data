@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Francisco",
+    "LastName": "Jimenez Tejada",
+    "CommonName": "Xisco",
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "6",
+      "Day": "26"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "242",
+    "LeagueId": "54",
+    "NationId": "45",
+    "Rating": "72",
+    "Attribute1": "71",
+    "Attribute2": "72",
+    "Attribute3": "48",
+    "Attribute4": "67",
+    "Attribute5": "51",
+    "Attribute6": "78",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

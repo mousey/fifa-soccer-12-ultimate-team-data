@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ariclenes",
+    "LastName": "Da Silva Ferreira",
+    "CommonName": "Ari",
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "12",
+      "Day": "11"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "100767",
+    "LeagueId": "67",
+    "NationId": "54",
+    "Rating": "79",
+    "Attribute1": "81",
+    "Attribute2": "76",
+    "Attribute3": "66",
+    "Attribute4": "79",
+    "Attribute5": "58",
+    "Attribute6": "81",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

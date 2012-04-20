@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Paul",
+    "LastName": "Black",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "5",
+      "Day": "18"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1920",
+    "LeagueId": "60",
+    "NationId": "14",
+    "Rating": "59",
+    "Attribute1": "75",
+    "Attribute2": "33",
+    "Attribute3": "50",
+    "Attribute4": "51",
+    "Attribute5": "64",
+    "Attribute6": "56",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

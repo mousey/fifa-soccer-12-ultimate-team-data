@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Martin",
+    "LastName": "Bernburg",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "12",
+      "Day": "26"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "269",
+    "LeagueId": "1",
+    "NationId": "13",
+    "Rating": "65",
+    "Attribute1": "60",
+    "Attribute2": "57",
+    "Attribute3": "45",
+    "Attribute4": "64",
+    "Attribute5": "57",
+    "Attribute6": "71",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

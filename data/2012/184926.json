@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Fabiano",
+    "LastName": "Ribeiro de Freitas",
+    "CommonName": "Fabiano",
+    "Height": "197",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "2",
+      "Day": "29"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111540",
+    "LeagueId": "308",
+    "NationId": "54",
+    "Rating": "66",
+    "Attribute1": "69",
+    "Attribute2": "62",
+    "Attribute3": "64",
+    "Attribute4": "68",
+    "Attribute5": "29",
+    "Attribute6": "69",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

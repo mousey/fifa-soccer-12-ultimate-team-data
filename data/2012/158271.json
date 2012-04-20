@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Julien",
+    "LastName": "Gorius",
+    "CommonName": null,
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "3",
+      "Day": "17"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110724",
+    "LeagueId": "4",
+    "NationId": "18",
+    "Rating": "71",
+    "Attribute1": "65",
+    "Attribute2": "74",
+    "Attribute3": "69",
+    "Attribute4": "70",
+    "Attribute5": "62",
+    "Attribute6": "63",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

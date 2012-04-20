@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ryan",
+    "LastName": "Thomas",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "4",
+      "Day": "23"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "697",
+    "LeagueId": "39",
+    "NationId": "95",
+    "Rating": "54",
+    "Attribute1": "76",
+    "Attribute2": "48",
+    "Attribute3": "47",
+    "Attribute4": "54",
+    "Attribute5": "52",
+    "Attribute6": "48",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

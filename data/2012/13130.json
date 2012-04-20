@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Wes",
+    "LastName": "Brown",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "10",
+      "Day": "13"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "106",
+    "LeagueId": "13",
+    "NationId": "14",
+    "Rating": "76",
+    "Attribute1": "65",
+    "Attribute2": "31",
+    "Attribute3": "62",
+    "Attribute4": "57",
+    "Attribute5": "77",
+    "Attribute6": "77",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Willi",
+    "LastName": "Evseev",
+    "CommonName": null,
+    "Height": "176",
+    "DateOfBirth": {
+      "Year": "1992",
+      "Month": "2",
+      "Day": "14"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "111373",
+    "LeagueId": "80",
+    "NationId": "21",
+    "Rating": "58",
+    "Attribute1": "67",
+    "Attribute2": "51",
+    "Attribute3": "61",
+    "Attribute4": "57",
+    "Attribute5": "38",
+    "Attribute6": "60",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

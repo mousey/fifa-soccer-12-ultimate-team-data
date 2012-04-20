@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Guillaume",
+    "LastName": "Rippert",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "4",
+      "Day": "30"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "111271",
+    "LeagueId": "16",
+    "NationId": "18",
+    "Rating": "63",
+    "Attribute1": "62",
+    "Attribute2": "43",
+    "Attribute3": "55",
+    "Attribute4": "50",
+    "Attribute5": "64",
+    "Attribute6": "59",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

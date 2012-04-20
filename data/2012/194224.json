@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Pedro",
+    "LastName": "Orfila Artime",
+    "CommonName": "Pedro Orfila",
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "3",
+      "Day": "6"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "459",
+    "LeagueId": "53",
+    "NationId": "45",
+    "Rating": "58",
+    "Attribute1": "68",
+    "Attribute2": "32",
+    "Attribute3": "53",
+    "Attribute4": "56",
+    "Attribute5": "59",
+    "Attribute6": "48",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

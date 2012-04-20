@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Didier",
+    "LastName": "Crettenand",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "2",
+      "Day": "24"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110770",
+    "LeagueId": "189",
+    "NationId": "47",
+    "Rating": "62",
+    "Attribute1": "69",
+    "Attribute2": "44",
+    "Attribute3": "67",
+    "Attribute4": "63",
+    "Attribute5": "61",
+    "Attribute6": "43",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

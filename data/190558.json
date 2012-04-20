@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ike",
+    "LastName": "Opara",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "2",
+      "Day": "21"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111928",
+    "LeagueId": "39",
+    "NationId": "95",
+    "Rating": "66",
+    "Attribute1": "81",
+    "Attribute2": "39",
+    "Attribute3": "36",
+    "Attribute4": "56",
+    "Attribute5": "66",
+    "Attribute6": "78",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

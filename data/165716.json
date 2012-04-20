@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ebrahima",
+    "LastName": "Sawaneh",
+    "CommonName": "Ibou",
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "9",
+      "Day": "7"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1747",
+    "LeagueId": "4",
+    "NationId": "116",
+    "Rating": "66",
+    "Attribute1": "83",
+    "Attribute2": "64",
+    "Attribute3": "60",
+    "Attribute4": "68",
+    "Attribute5": "49",
+    "Attribute6": "65",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

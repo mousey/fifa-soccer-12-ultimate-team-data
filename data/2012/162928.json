@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Francisco",
+    "LastName": "Farinós Zapata",
+    "CommonName": "Farinós",
+    "Height": "172",
+    "DateOfBirth": {
+      "Year": "1978",
+      "Month": "3",
+      "Day": "29"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1853",
+    "LeagueId": "53",
+    "NationId": "45",
+    "Rating": "75",
+    "Attribute1": "55",
+    "Attribute2": "71",
+    "Attribute3": "78",
+    "Attribute4": "68",
+    "Attribute5": "69",
+    "Attribute6": "53",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

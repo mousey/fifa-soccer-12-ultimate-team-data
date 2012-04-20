@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Kieran",
+    "LastName": "Gibbs",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "9",
+      "Day": "26"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1",
+    "LeagueId": "13",
+    "NationId": "14",
+    "Rating": "75",
+    "Attribute1": "84",
+    "Attribute2": "60",
+    "Attribute3": "73",
+    "Attribute4": "71",
+    "Attribute5": "73",
+    "Attribute6": "66",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

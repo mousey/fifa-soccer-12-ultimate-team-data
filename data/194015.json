@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Julian",
+    "LastName": "Börner",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "1",
+      "Day": "21"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "162",
+    "LeagueId": "20",
+    "NationId": "21",
+    "Rating": "57",
+    "Attribute1": "68",
+    "Attribute2": "56",
+    "Attribute3": "55",
+    "Attribute4": "58",
+    "Attribute5": "61",
+    "Attribute6": "55",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

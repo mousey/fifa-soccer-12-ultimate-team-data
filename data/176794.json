@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ola",
+    "LastName": "Toivonen",
+    "CommonName": null,
+    "Height": "191",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "7",
+      "Day": "3"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "247",
+    "LeagueId": "10",
+    "NationId": "46",
+    "Rating": "77",
+    "Attribute1": "72",
+    "Attribute2": "76",
+    "Attribute3": "68",
+    "Attribute4": "76",
+    "Attribute5": "62",
+    "Attribute6": "75",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

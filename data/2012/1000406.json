@@ -1,0 +1,15 @@
+{
+  "Manager": {
+    "FirstName": "Ian",
+    "LastName": "Ferguson",
+    "NationId": "42",
+    "Value": "62",
+    "Rare": "0",
+    "Weight": "15",
+    "FormationId": "3",
+    "TalkRating": "1",
+    "Negotiation": "0",
+    "AssetId": "1000406",
+    "ItemType": "Manager"
+  }
+}

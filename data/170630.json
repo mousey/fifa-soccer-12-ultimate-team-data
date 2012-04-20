@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Marc",
+    "LastName": "Twaddle",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "8",
+      "Day": "27"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1955",
+    "LeagueId": "60",
+    "NationId": "42",
+    "Rating": "57",
+    "Attribute1": "68",
+    "Attribute2": "27",
+    "Attribute3": "55",
+    "Attribute4": "45",
+    "Attribute5": "60",
+    "Attribute6": "60",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

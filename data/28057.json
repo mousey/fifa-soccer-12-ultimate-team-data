@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Antoine",
+    "LastName": "van der Linden",
+    "CommonName": null,
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1976",
+      "Month": "3",
+      "Day": "17"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "100634",
+    "LeagueId": "10",
+    "NationId": "34",
+    "Rating": "68",
+    "Attribute1": "38",
+    "Attribute2": "50",
+    "Attribute3": "56",
+    "Attribute4": "56",
+    "Attribute5": "72",
+    "Attribute6": "63",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Callum",
+    "LastName": "Kennedy",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "1",
+      "Day": "6"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1934",
+    "LeagueId": "61",
+    "NationId": "14",
+    "Rating": "55",
+    "Attribute1": "69",
+    "Attribute2": "17",
+    "Attribute3": "55",
+    "Attribute4": "51",
+    "Attribute5": "59",
+    "Attribute6": "56",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

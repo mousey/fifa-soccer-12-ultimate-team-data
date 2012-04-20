@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Antonio",
+    "LastName": "López Guerrero",
+    "CommonName": "Antonio López",
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "9",
+      "Day": "13"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "240",
+    "LeagueId": "53",
+    "NationId": "45",
+    "Rating": "74",
+    "Attribute1": "72",
+    "Attribute2": "59",
+    "Attribute3": "68",
+    "Attribute4": "62",
+    "Attribute5": "76",
+    "Attribute6": "70",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

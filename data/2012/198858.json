@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Andrea",
+    "LastName": "De Vito",
+    "CommonName": null,
+    "Height": "179",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "11",
+      "Day": "27"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "111993",
+    "LeagueId": "32",
+    "NationId": "27",
+    "Rating": "60",
+    "Attribute1": "68",
+    "Attribute2": "41",
+    "Attribute3": "36",
+    "Attribute4": "54",
+    "Attribute5": "61",
+    "Attribute6": "51",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

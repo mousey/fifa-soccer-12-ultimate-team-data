@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Nico",
+    "LastName": "Klotz",
+    "CommonName": null,
+    "Height": "173",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "9",
+      "Day": "20"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "10030",
+    "LeagueId": "20",
+    "NationId": "21",
+    "Rating": "62",
+    "Attribute1": "80",
+    "Attribute2": "54",
+    "Attribute3": "57",
+    "Attribute4": "69",
+    "Attribute5": "36",
+    "Attribute6": "55",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

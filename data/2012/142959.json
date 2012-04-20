@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Mariano",
+    "LastName": "Barbosa",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "7",
+      "Day": "27"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "472",
+    "LeagueId": "54",
+    "NationId": "52",
+    "Rating": "65",
+    "Attribute1": "68",
+    "Attribute2": "61",
+    "Attribute3": "68",
+    "Attribute4": "69",
+    "Attribute5": "67",
+    "Attribute6": "60",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

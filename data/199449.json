@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Diogo",
+    "LastName": "Ferreira",
+    "CommonName": null,
+    "Height": "179",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "10",
+      "Day": "5"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111397",
+    "LeagueId": "351",
+    "NationId": "195",
+    "Rating": "56",
+    "Attribute1": "63",
+    "Attribute2": "58",
+    "Attribute3": "46",
+    "Attribute4": "63",
+    "Attribute5": "54",
+    "Attribute6": "55",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

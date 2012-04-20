@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Evan",
+    "LastName": "Horwood",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "3",
+      "Day": "10"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1941",
+    "LeagueId": "60",
+    "NationId": "14",
+    "Rating": "62",
+    "Attribute1": "74",
+    "Attribute2": "51",
+    "Attribute3": "62",
+    "Attribute4": "52",
+    "Attribute5": "58",
+    "Attribute6": "59",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

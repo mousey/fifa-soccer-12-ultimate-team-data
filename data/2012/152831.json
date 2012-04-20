@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Roger",
+    "LastName": "Guerreiro",
+    "CommonName": "Roger",
+    "Height": "189",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "5",
+      "Day": "25"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "278",
+    "LeagueId": "63",
+    "NationId": "37",
+    "Rating": "71",
+    "Attribute1": "49",
+    "Attribute2": "66",
+    "Attribute3": "71",
+    "Attribute4": "75",
+    "Attribute5": "60",
+    "Attribute6": "68",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

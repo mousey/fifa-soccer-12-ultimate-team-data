@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Conor",
+    "LastName": "Laerenbergh",
+    "CommonName": null,
+    "Height": "179",
+    "DateOfBirth": {
+      "Year": "1993",
+      "Month": "3",
+      "Day": "18"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "675",
+    "LeagueId": "4",
+    "NationId": "7",
+    "Rating": "54",
+    "Attribute1": "68",
+    "Attribute2": "52",
+    "Attribute3": "44",
+    "Attribute4": "58",
+    "Attribute5": "42",
+    "Attribute6": "62",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

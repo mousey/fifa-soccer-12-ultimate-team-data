@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Tae Uk",
+    "LastName": "Choi",
+    "CommonName": "Choi Tae Uk",
+    "Height": "173",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "3",
+      "Day": "13"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "982",
+    "LeagueId": "83",
+    "NationId": "167",
+    "Rating": "67",
+    "Attribute1": "81",
+    "Attribute2": "59",
+    "Attribute3": "63",
+    "Attribute4": "66",
+    "Attribute5": "54",
+    "Attribute6": "56",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

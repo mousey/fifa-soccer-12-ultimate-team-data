@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Alexis",
+    "LastName": "Theodosiadis",
+    "CommonName": null,
+    "Height": "179",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "12",
+      "Day": "19"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "110596",
+    "LeagueId": "20",
+    "NationId": "22",
+    "Rating": "56",
+    "Attribute1": "75",
+    "Attribute2": "54",
+    "Attribute3": "56",
+    "Attribute4": "59",
+    "Attribute5": "55",
+    "Attribute6": "62",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

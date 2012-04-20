@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Benoît",
+    "LastName": "Lesoimier",
+    "CommonName": null,
+    "Height": "171",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "2",
+      "Day": "21"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "378",
+    "LeagueId": "16",
+    "NationId": "18",
+    "Rating": "71",
+    "Attribute1": "78",
+    "Attribute2": "61",
+    "Attribute3": "70",
+    "Attribute4": "72",
+    "Attribute5": "50",
+    "Attribute6": "46",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

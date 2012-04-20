@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Tae Hwan",
+    "LastName": "Kim",
+    "CommonName": "Kim Tae Hwan",
+    "Height": "177",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "7",
+      "Day": "24"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "982",
+    "LeagueId": "83",
+    "NationId": "167",
+    "Rating": "62",
+    "Attribute1": "78",
+    "Attribute2": "51",
+    "Attribute3": "57",
+    "Attribute4": "65",
+    "Attribute5": "47",
+    "Attribute6": "57",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

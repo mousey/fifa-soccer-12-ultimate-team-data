@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ben",
+    "LastName": "McKenna",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1993",
+      "Month": "1",
+      "Day": "16"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1480",
+    "LeagueId": "60",
+    "NationId": "35",
+    "Rating": "51",
+    "Attribute1": "64",
+    "Attribute2": "37",
+    "Attribute3": "47",
+    "Attribute4": "53",
+    "Attribute5": "39",
+    "Attribute6": "42",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

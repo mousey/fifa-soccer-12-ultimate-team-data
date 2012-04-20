@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Max",
+    "LastName": "Kruse",
+    "CommonName": null,
+    "Height": "181",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "3",
+      "Day": "19"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "110329",
+    "LeagueId": "20",
+    "NationId": "21",
+    "Rating": "71",
+    "Attribute1": "70",
+    "Attribute2": "66",
+    "Attribute3": "70",
+    "Attribute4": "71",
+    "Attribute5": "60",
+    "Attribute6": "63",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

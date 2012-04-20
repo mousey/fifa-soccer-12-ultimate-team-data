@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Julian",
+    "LastName": "Bennett",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "12",
+      "Day": "17"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1807",
+    "LeagueId": "60",
+    "NationId": "14",
+    "Rating": "65",
+    "Attribute1": "75",
+    "Attribute2": "40",
+    "Attribute3": "63",
+    "Attribute4": "56",
+    "Attribute5": "67",
+    "Attribute6": "66",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

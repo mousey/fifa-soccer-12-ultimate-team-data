@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Bořek",
+    "LastName": "Dočkal",
+    "CommonName": null,
+    "Height": "181",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "9",
+      "Day": "30"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "298",
+    "LeagueId": "41",
+    "NationId": "12",
+    "Rating": "72",
+    "Attribute1": "70",
+    "Attribute2": "70",
+    "Attribute3": "75",
+    "Attribute4": "72",
+    "Attribute5": "60",
+    "Attribute6": "68",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

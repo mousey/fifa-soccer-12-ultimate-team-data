@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "David",
+    "LastName": "Wheater",
+    "CommonName": null,
+    "Height": "196",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "2",
+      "Day": "14"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "4",
+    "LeagueId": "13",
+    "NationId": "14",
+    "Rating": "73",
+    "Attribute1": "64",
+    "Attribute2": "44",
+    "Attribute3": "53",
+    "Attribute4": "47",
+    "Attribute5": "78",
+    "Attribute6": "65",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

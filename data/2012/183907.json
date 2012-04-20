@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jérôme",
+    "LastName": "Boateng",
+    "CommonName": null,
+    "Height": "191",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "9",
+      "Day": "3"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "21",
+    "LeagueId": "19",
+    "NationId": "21",
+    "Rating": "78",
+    "Attribute1": "69",
+    "Attribute2": "54",
+    "Attribute3": "74",
+    "Attribute4": "65",
+    "Attribute5": "80",
+    "Attribute6": "78",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

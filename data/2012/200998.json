@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Giannis",
+    "LastName": "Potouridis",
+    "CommonName": null,
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1992",
+      "Month": "2",
+      "Day": "27"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "280",
+    "LeagueId": "63",
+    "NationId": "22",
+    "Rating": "63",
+    "Attribute1": "64",
+    "Attribute2": "29",
+    "Attribute3": "47",
+    "Attribute4": "52",
+    "Attribute5": "62",
+    "Attribute6": "64",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

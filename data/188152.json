@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Oscar",
+    "LastName": "dos Santos Emboaba",
+    "CommonName": "Oscar",
+    "Height": "179",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "9",
+      "Day": "9"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1048",
+    "LeagueId": "7",
+    "NationId": "54",
+    "Rating": "77",
+    "Attribute1": "80",
+    "Attribute2": "66",
+    "Attribute3": "68",
+    "Attribute4": "85",
+    "Attribute5": "43",
+    "Attribute6": "56",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

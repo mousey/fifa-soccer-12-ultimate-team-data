@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Petar",
+    "LastName": "Slišković",
+    "CommonName": null,
+    "Height": "193",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "2",
+      "Day": "21"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110329",
+    "LeagueId": "20",
+    "NationId": "10",
+    "Rating": "68",
+    "Attribute1": "74",
+    "Attribute2": "65",
+    "Attribute3": "53",
+    "Attribute4": "68",
+    "Attribute5": "52",
+    "Attribute6": "63",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

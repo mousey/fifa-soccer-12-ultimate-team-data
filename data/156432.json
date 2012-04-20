@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Guillaume",
+    "LastName": "Hoarau",
+    "CommonName": null,
+    "Height": "192",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "3",
+      "Day": "5"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "73",
+    "LeagueId": "16",
+    "NationId": "18",
+    "Rating": "78",
+    "Attribute1": "61",
+    "Attribute2": "73",
+    "Attribute3": "64",
+    "Attribute4": "73",
+    "Attribute5": "64",
+    "Attribute6": "78",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Lee",
+    "LastName": "Cook",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "8",
+      "Day": "3"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "15",
+    "LeagueId": "13",
+    "NationId": "14",
+    "Rating": "67",
+    "Attribute1": "60",
+    "Attribute2": "61",
+    "Attribute3": "69",
+    "Attribute4": "68",
+    "Attribute5": "57",
+    "Attribute6": "61",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

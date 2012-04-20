@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Artur",
+    "LastName": "Sobiech",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "6",
+      "Day": "12"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "485",
+    "LeagueId": "19",
+    "NationId": "37",
+    "Rating": "71",
+    "Attribute1": "70",
+    "Attribute2": "65",
+    "Attribute3": "53",
+    "Attribute4": "68",
+    "Attribute5": "51",
+    "Attribute6": "76",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

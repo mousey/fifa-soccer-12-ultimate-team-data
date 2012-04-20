@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Cristian",
+    "LastName": "Bustos Costa",
+    "CommonName": "Bustos",
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "5",
+      "Day": "29"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "450",
+    "LeagueId": "54",
+    "NationId": "45",
+    "Rating": "67",
+    "Attribute1": "68",
+    "Attribute2": "51",
+    "Attribute3": "53",
+    "Attribute4": "57",
+    "Attribute5": "72",
+    "Attribute6": "61",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "François Pantxi",
+    "LastName": "Sirieix",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1980",
+      "Month": "10",
+      "Day": "7"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1809",
+    "LeagueId": "16",
+    "NationId": "18",
+    "Rating": "64",
+    "Attribute1": "64",
+    "Attribute2": "59",
+    "Attribute3": "61",
+    "Attribute4": "60",
+    "Attribute5": "67",
+    "Attribute6": "64",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

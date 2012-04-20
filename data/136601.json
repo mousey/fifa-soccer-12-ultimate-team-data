@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Yong Dae",
+    "LastName": "Kim",
+    "CommonName": "Kim Yong Dae",
+    "Height": "189",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "10",
+      "Day": "11"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "982",
+    "LeagueId": "83",
+    "NationId": "167",
+    "Rating": "70",
+    "Attribute1": "69",
+    "Attribute2": "69",
+    "Attribute3": "69",
+    "Attribute4": "71",
+    "Attribute5": "35",
+    "Attribute6": "70",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

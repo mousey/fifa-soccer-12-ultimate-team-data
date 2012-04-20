@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jon-Paul",
+    "LastName": "McGovern",
+    "CommonName": null,
+    "Height": "173",
+    "DateOfBirth": {
+      "Year": "1980",
+      "Month": "10",
+      "Day": "3"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1480",
+    "LeagueId": "60",
+    "NationId": "42",
+    "Rating": "62",
+    "Attribute1": "52",
+    "Attribute2": "48",
+    "Attribute3": "63",
+    "Attribute4": "67",
+    "Attribute5": "51",
+    "Attribute6": "59",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

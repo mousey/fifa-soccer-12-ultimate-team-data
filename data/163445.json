@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Lee",
+    "LastName": "Frecklington",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "9",
+      "Day": "8"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1938",
+    "LeagueId": "14",
+    "NationId": "14",
+    "Rating": "62",
+    "Attribute1": "64",
+    "Attribute2": "55",
+    "Attribute3": "66",
+    "Attribute4": "59",
+    "Attribute5": "60",
+    "Attribute6": "56",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

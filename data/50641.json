@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jonathan",
+    "LastName": "Woodgate",
+    "CommonName": null,
+    "Height": "189",
+    "DateOfBirth": {
+      "Year": "1980",
+      "Month": "1",
+      "Day": "22"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1806",
+    "LeagueId": "13",
+    "NationId": "14",
+    "Rating": "80",
+    "Attribute1": "67",
+    "Attribute2": "40",
+    "Attribute3": "52",
+    "Attribute4": "38",
+    "Attribute5": "78",
+    "Attribute6": "84",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

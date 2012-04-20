@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Walter",
+    "LastName": "Samuel",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1978",
+      "Month": "3",
+      "Day": "23"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "44",
+    "LeagueId": "31",
+    "NationId": "52",
+    "Rating": "85",
+    "Attribute1": "65",
+    "Attribute2": "49",
+    "Attribute3": "58",
+    "Attribute4": "42",
+    "Attribute5": "87",
+    "Attribute6": "83",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

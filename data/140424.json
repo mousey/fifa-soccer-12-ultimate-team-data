@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Chris",
+    "LastName": "Beardsley",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "2",
+      "Day": "28"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "361",
+    "LeagueId": "60",
+    "NationId": "14",
+    "Rating": "55",
+    "Attribute1": "64",
+    "Attribute2": "49",
+    "Attribute3": "46",
+    "Attribute4": "54",
+    "Attribute5": "54",
+    "Attribute6": "60",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

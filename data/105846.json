@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Artur",
+    "LastName": "Boruc",
+    "CommonName": null,
+    "Height": "193",
+    "DateOfBirth": {
+      "Year": "1980",
+      "Month": "2",
+      "Day": "20"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110374",
+    "LeagueId": "31",
+    "NationId": "37",
+    "Rating": "78",
+    "Attribute1": "77",
+    "Attribute2": "77",
+    "Attribute3": "69",
+    "Attribute4": "79",
+    "Attribute5": "41",
+    "Attribute6": "77",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

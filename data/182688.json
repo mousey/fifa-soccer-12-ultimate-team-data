@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Chris",
+    "LastName": "Whelpdale",
+    "CommonName": null,
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "1",
+      "Day": "27"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1802",
+    "LeagueId": "61",
+    "NationId": "14",
+    "Rating": "63",
+    "Attribute1": "72",
+    "Attribute2": "48",
+    "Attribute3": "59",
+    "Attribute4": "60",
+    "Attribute5": "64",
+    "Attribute6": "59",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

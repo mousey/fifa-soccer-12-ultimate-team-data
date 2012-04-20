@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Elinton",
+    "LastName": "Sanchotene Andrade",
+    "CommonName": "Elinton Andrade",
+    "Height": "190",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "3",
+      "Day": "30"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "219",
+    "LeagueId": "16",
+    "NationId": "54",
+    "Rating": "69",
+    "Attribute1": "69",
+    "Attribute2": "70",
+    "Attribute3": "68",
+    "Attribute4": "69",
+    "Attribute5": "52",
+    "Attribute6": "75",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

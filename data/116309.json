@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Eric",
+    "LastName": "Chelle",
+    "CommonName": null,
+    "Height": "179",
+    "DateOfBirth": {
+      "Year": "1977",
+      "Month": "11",
+      "Day": "11"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1820",
+    "LeagueId": "17",
+    "NationId": "126",
+    "Rating": "69",
+    "Attribute1": "37",
+    "Attribute2": "39",
+    "Attribute3": "60",
+    "Attribute4": "40",
+    "Attribute5": "70",
+    "Attribute6": "80",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

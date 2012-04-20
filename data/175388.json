@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ayoze",
+    "LastName": "García Pérez",
+    "CommonName": "Ayoze",
+    "Height": "172",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "11",
+      "Day": "22"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "459",
+    "LeagueId": "53",
+    "NationId": "45",
+    "Rating": "70",
+    "Attribute1": "78",
+    "Attribute2": "61",
+    "Attribute3": "61",
+    "Attribute4": "73",
+    "Attribute5": "49",
+    "Attribute6": "50",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Craig",
+    "LastName": "Cathcart",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "2",
+      "Day": "6"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1926",
+    "LeagueId": "14",
+    "NationId": "35",
+    "Rating": "71",
+    "Attribute1": "68",
+    "Attribute2": "32",
+    "Attribute3": "54",
+    "Attribute4": "50",
+    "Attribute5": "72",
+    "Attribute6": "80",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

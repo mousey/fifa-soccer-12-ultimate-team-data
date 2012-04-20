@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Nigel",
+    "LastName": "Hasselbaink",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "11",
+      "Day": "21"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "100805",
+    "LeagueId": "50",
+    "NationId": "34",
+    "Rating": "65",
+    "Attribute1": "78",
+    "Attribute2": "63",
+    "Attribute3": "54",
+    "Attribute4": "73",
+    "Attribute5": "54",
+    "Attribute6": "62",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

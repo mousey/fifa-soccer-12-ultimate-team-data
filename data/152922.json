@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Edgar",
+    "LastName": "Barreto",
+    "CommonName": null,
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "7",
+      "Day": "15"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1843",
+    "LeagueId": "31",
+    "NationId": "58",
+    "Rating": "73",
+    "Attribute1": "70",
+    "Attribute2": "69",
+    "Attribute3": "74",
+    "Attribute4": "68",
+    "Attribute5": "68",
+    "Attribute6": "56",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

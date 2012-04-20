@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Carl",
+    "LastName": "Finnigan",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "10",
+      "Day": "1"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "100804",
+    "LeagueId": "50",
+    "NationId": "14",
+    "Rating": "62",
+    "Attribute1": "72",
+    "Attribute2": "60",
+    "Attribute3": "46",
+    "Attribute4": "60",
+    "Attribute5": "49",
+    "Attribute6": "62",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

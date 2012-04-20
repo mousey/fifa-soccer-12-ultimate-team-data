@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Brian",
+    "LastName": "Carroll",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "7",
+      "Day": "20"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "112134",
+    "LeagueId": "39",
+    "NationId": "95",
+    "Rating": "64",
+    "Attribute1": "57",
+    "Attribute2": "48",
+    "Attribute3": "49",
+    "Attribute4": "60",
+    "Attribute5": "64",
+    "Attribute6": "62",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

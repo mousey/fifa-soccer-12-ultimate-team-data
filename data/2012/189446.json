@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Junior",
+    "LastName": "Stanislas",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "11",
+      "Day": "26"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1796",
+    "LeagueId": "14",
+    "NationId": "14",
+    "Rating": "68",
+    "Attribute1": "83",
+    "Attribute2": "66",
+    "Attribute3": "60",
+    "Attribute4": "73",
+    "Attribute5": "46",
+    "Attribute6": "46",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Juan Manuel",
+    "LastName": "Mata García",
+    "CommonName": "Mata",
+    "Height": "170",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "4",
+      "Day": "28"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "5",
+    "LeagueId": "13",
+    "NationId": "45",
+    "Rating": "85",
+    "Attribute1": "85",
+    "Attribute2": "76",
+    "Attribute3": "78",
+    "Attribute4": "87",
+    "Attribute5": "48",
+    "Attribute6": "67",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

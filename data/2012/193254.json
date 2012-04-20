@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Christopher",
+    "LastName": "Trimmel",
+    "CommonName": null,
+    "Height": "189",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "2",
+      "Day": "24"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "254",
+    "LeagueId": "80",
+    "NationId": "4",
+    "Rating": "65",
+    "Attribute1": "84",
+    "Attribute2": "60",
+    "Attribute3": "62",
+    "Attribute4": "65",
+    "Attribute5": "49",
+    "Attribute6": "60",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

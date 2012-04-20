@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Leo",
+    "LastName": "Franco",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1977",
+      "Month": "5",
+      "Day": "20"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "244",
+    "LeagueId": "53",
+    "NationId": "52",
+    "Rating": "72",
+    "Attribute1": "72",
+    "Attribute2": "72",
+    "Attribute3": "79",
+    "Attribute4": "71",
+    "Attribute5": "44",
+    "Attribute6": "72",
+    "Rare": "1",
+    "ItemType": "PlayerGk"
+  }
+}

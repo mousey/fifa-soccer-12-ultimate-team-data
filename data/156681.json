@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Lasse",
+    "LastName": "Nilsson",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "1",
+      "Day": "3"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "700",
+    "LeagueId": "56",
+    "NationId": "46",
+    "Rating": "67",
+    "Attribute1": "83",
+    "Attribute2": "63",
+    "Attribute3": "56",
+    "Attribute4": "68",
+    "Attribute5": "49",
+    "Attribute6": "54",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

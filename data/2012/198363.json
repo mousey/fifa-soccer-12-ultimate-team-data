@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Johannes",
+    "LastName": "Focher",
+    "CommonName": null,
+    "Height": "197",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "1",
+      "Day": "20"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "22",
+    "LeagueId": "19",
+    "NationId": "21",
+    "Rating": "62",
+    "Attribute1": "66",
+    "Attribute2": "57",
+    "Attribute3": "58",
+    "Attribute4": "59",
+    "Attribute5": "44",
+    "Attribute6": "63",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

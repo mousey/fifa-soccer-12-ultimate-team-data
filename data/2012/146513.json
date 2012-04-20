@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ángel",
+    "LastName": "Lafita Castillo",
+    "CommonName": "Lafita",
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "8",
+      "Day": "7"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "244",
+    "LeagueId": "53",
+    "NationId": "45",
+    "Rating": "76",
+    "Attribute1": "73",
+    "Attribute2": "69",
+    "Attribute3": "72",
+    "Attribute4": "78",
+    "Attribute5": "52",
+    "Attribute6": "59",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

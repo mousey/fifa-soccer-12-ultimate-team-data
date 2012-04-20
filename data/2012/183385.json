@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Adlène",
+    "LastName": "Guédioura",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "11",
+      "Day": "12"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110",
+    "LeagueId": "13",
+    "NationId": "97",
+    "Rating": "70",
+    "Attribute1": "74",
+    "Attribute2": "60",
+    "Attribute3": "62",
+    "Attribute4": "71",
+    "Attribute5": "74",
+    "Attribute6": "72",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

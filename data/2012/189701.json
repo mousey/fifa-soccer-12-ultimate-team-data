@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "David",
+    "LastName": "Rodriguez Lombán",
+    "CommonName": "Lombán",
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "6",
+      "Day": "5"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1742",
+    "LeagueId": "54",
+    "NationId": "45",
+    "Rating": "66",
+    "Attribute1": "50",
+    "Attribute2": "55",
+    "Attribute3": "53",
+    "Attribute4": "47",
+    "Attribute5": "71",
+    "Attribute6": "65",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

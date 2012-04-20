@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Chris",
+    "LastName": "Barker",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1980",
+      "Month": "3",
+      "Day": "2"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1954",
+    "LeagueId": "61",
+    "NationId": "14",
+    "Rating": "59",
+    "Attribute1": "47",
+    "Attribute2": "40",
+    "Attribute3": "58",
+    "Attribute4": "49",
+    "Attribute5": "70",
+    "Attribute6": "51",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

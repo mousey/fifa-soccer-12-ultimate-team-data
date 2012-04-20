@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Suk Won",
+    "LastName": "Jang",
+    "CommonName": "Jang Suk Won",
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "8",
+      "Day": "11"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "981",
+    "LeagueId": "83",
+    "NationId": "167",
+    "Rating": "55",
+    "Attribute1": "58",
+    "Attribute2": "41",
+    "Attribute3": "60",
+    "Attribute4": "50",
+    "Attribute5": "59",
+    "Attribute6": "55",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

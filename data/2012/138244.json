@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Kevin",
+    "LastName": "Rutkiewicz",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1980",
+      "Month": "5",
+      "Day": "10"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "182",
+    "LeagueId": "50",
+    "NationId": "42",
+    "Rating": "60",
+    "Attribute1": "54",
+    "Attribute2": "23",
+    "Attribute3": "39",
+    "Attribute4": "48",
+    "Attribute5": "65",
+    "Attribute6": "54",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

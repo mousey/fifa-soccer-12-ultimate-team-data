@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Dale",
+    "LastName": "Bennett",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "1",
+      "Day": "6"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1795",
+    "LeagueId": "14",
+    "NationId": "14",
+    "Rating": "60",
+    "Attribute1": "72",
+    "Attribute2": "19",
+    "Attribute3": "31",
+    "Attribute4": "24",
+    "Attribute5": "66",
+    "Attribute6": "69",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

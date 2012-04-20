@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "David",
+    "LastName": "Weir",
+    "CommonName": null,
+    "Height": "191",
+    "DateOfBirth": {
+      "Year": "1970",
+      "Month": "5",
+      "Day": "10"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "86",
+    "LeagueId": "50",
+    "NationId": "42",
+    "Rating": "69",
+    "Attribute1": "37",
+    "Attribute2": "36",
+    "Attribute3": "48",
+    "Attribute4": "58",
+    "Attribute5": "75",
+    "Attribute6": "68",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

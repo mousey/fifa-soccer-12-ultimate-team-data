@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jasmin",
+    "LastName": "Kurtić",
+    "CommonName": null,
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "1",
+      "Day": "10"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "112237",
+    "LeagueId": "32",
+    "NationId": "44",
+    "Rating": "70",
+    "Attribute1": "75",
+    "Attribute2": "58",
+    "Attribute3": "73",
+    "Attribute4": "61",
+    "Attribute5": "70",
+    "Attribute6": "72",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

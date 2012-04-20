@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Anthony",
+    "LastName": "Weber",
+    "CommonName": null,
+    "Height": "190",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "6",
+      "Day": "11"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "379",
+    "LeagueId": "17",
+    "NationId": "18",
+    "Rating": "66",
+    "Attribute1": "49",
+    "Attribute2": "24",
+    "Attribute3": "56",
+    "Attribute4": "26",
+    "Attribute5": "70",
+    "Attribute6": "76",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

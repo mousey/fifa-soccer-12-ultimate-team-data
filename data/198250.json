@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Zsolt",
+    "LastName": "Korcsmár",
+    "CommonName": null,
+    "Height": "190",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "1",
+      "Day": "9"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "919",
+    "LeagueId": "41",
+    "NationId": "23",
+    "Rating": "63",
+    "Attribute1": "64",
+    "Attribute2": "39",
+    "Attribute3": "55",
+    "Attribute4": "39",
+    "Attribute5": "65",
+    "Attribute6": "75",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

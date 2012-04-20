@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jesús",
+    "LastName": "Gámez Duarte",
+    "CommonName": "Jesús Gámez",
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "4",
+      "Day": "10"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "573",
+    "LeagueId": "53",
+    "NationId": "45",
+    "Rating": "76",
+    "Attribute1": "76",
+    "Attribute2": "48",
+    "Attribute3": "66",
+    "Attribute4": "64",
+    "Attribute5": "80",
+    "Attribute6": "72",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

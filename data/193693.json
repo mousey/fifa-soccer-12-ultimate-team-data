@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Cauê Cecilio",
+    "LastName": "da Silva",
+    "CommonName": "Cauê",
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "5",
+      "Day": "24"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111540",
+    "LeagueId": "308",
+    "NationId": "54",
+    "Rating": "65",
+    "Attribute1": "73",
+    "Attribute2": "57",
+    "Attribute3": "60",
+    "Attribute4": "66",
+    "Attribute5": "67",
+    "Attribute6": "73",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

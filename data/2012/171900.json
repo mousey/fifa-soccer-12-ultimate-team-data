@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Fabian",
+    "LastName": "Schönheim",
+    "CommonName": null,
+    "Height": "191",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "2",
+      "Day": "14"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "169",
+    "LeagueId": "19",
+    "NationId": "21",
+    "Rating": "67",
+    "Attribute1": "69",
+    "Attribute2": "52",
+    "Attribute3": "59",
+    "Attribute4": "62",
+    "Attribute5": "70",
+    "Attribute6": "61",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jimmy",
+    "LastName": "Kébé",
+    "CommonName": null,
+    "Height": "187",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "1",
+      "Day": "19"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1793",
+    "LeagueId": "14",
+    "NationId": "126",
+    "Rating": "71",
+    "Attribute1": "93",
+    "Attribute2": "58",
+    "Attribute3": "62",
+    "Attribute4": "75",
+    "Attribute5": "45",
+    "Attribute6": "57",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

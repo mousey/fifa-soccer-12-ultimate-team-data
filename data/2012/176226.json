@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jacob",
+    "LastName": "Peterson",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "1",
+      "Day": "27"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111928",
+    "LeagueId": "39",
+    "NationId": "95",
+    "Rating": "63",
+    "Attribute1": "75",
+    "Attribute2": "64",
+    "Attribute3": "60",
+    "Attribute4": "61",
+    "Attribute5": "61",
+    "Attribute6": "50",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

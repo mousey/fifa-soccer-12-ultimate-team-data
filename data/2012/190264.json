@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Iago",
+    "LastName": "Falqué Silva",
+    "CommonName": "Iago Falqué",
+    "Height": "174",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "1",
+      "Day": "4"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "18",
+    "LeagueId": "13",
+    "NationId": "45",
+    "Rating": "74",
+    "Attribute1": "79",
+    "Attribute2": "67",
+    "Attribute3": "70",
+    "Attribute4": "81",
+    "Attribute5": "43",
+    "Attribute6": "42",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

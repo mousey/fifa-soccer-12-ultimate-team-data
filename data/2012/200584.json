@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Hyoung Pil",
+    "LastName": "Kim",
+    "CommonName": "Kim Hyoung Pil",
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "1",
+      "Day": "13"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1475",
+    "LeagueId": "83",
+    "NationId": "167",
+    "Rating": "59",
+    "Attribute1": "66",
+    "Attribute2": "60",
+    "Attribute3": "42",
+    "Attribute4": "60",
+    "Attribute5": "45",
+    "Attribute6": "67",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

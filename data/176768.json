@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Cleber",
+    "LastName": "Santana Loureiro",
+    "CommonName": "Cleber Santana",
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "6",
+      "Day": "27"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1039",
+    "LeagueId": "7",
+    "NationId": "54",
+    "Rating": "73",
+    "Attribute1": "72",
+    "Attribute2": "72",
+    "Attribute3": "76",
+    "Attribute4": "75",
+    "Attribute5": "68",
+    "Attribute6": "72",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

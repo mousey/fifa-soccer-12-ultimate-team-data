@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Kevin",
+    "LastName": "Stephan",
+    "CommonName": null,
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "7",
+      "Day": "23"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "506",
+    "LeagueId": "20",
+    "NationId": "21",
+    "Rating": "58",
+    "Attribute1": "76",
+    "Attribute2": "58",
+    "Attribute3": "41",
+    "Attribute4": "64",
+    "Attribute5": "41",
+    "Attribute6": "61",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

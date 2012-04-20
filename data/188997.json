@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Haris",
+    "LastName": "Bukva",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "3",
+      "Day": "15"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "209",
+    "LeagueId": "80",
+    "NationId": "4",
+    "Rating": "65",
+    "Attribute1": "71",
+    "Attribute2": "61",
+    "Attribute3": "64",
+    "Attribute4": "70",
+    "Attribute5": "46",
+    "Attribute6": "60",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

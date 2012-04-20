@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jae Cheol",
+    "LastName": "Jo",
+    "CommonName": "Jo Jae Cheol",
+    "Height": "176",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "5",
+      "Day": "18"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "981",
+    "LeagueId": "83",
+    "NationId": "167",
+    "Rating": "60",
+    "Attribute1": "65",
+    "Attribute2": "60",
+    "Attribute3": "62",
+    "Attribute4": "63",
+    "Attribute5": "47",
+    "Attribute6": "55",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

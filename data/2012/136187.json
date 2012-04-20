@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Julio César",
+    "LastName": "Baptista",
+    "CommonName": "Julio Baptista",
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "10",
+      "Day": "1"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "573",
+    "LeagueId": "53",
+    "NationId": "54",
+    "Rating": "79",
+    "Attribute1": "73",
+    "Attribute2": "79",
+    "Attribute3": "70",
+    "Attribute4": "77",
+    "Attribute5": "72",
+    "Attribute6": "77",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

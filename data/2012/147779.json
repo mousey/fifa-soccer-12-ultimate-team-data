@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Vladimir",
+    "LastName": "Bystrov",
+    "CommonName": null,
+    "Height": "177",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "1",
+      "Day": "31"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "100769",
+    "LeagueId": "67",
+    "NationId": "40",
+    "Rating": "78",
+    "Attribute1": "94",
+    "Attribute2": "68",
+    "Attribute3": "78",
+    "Attribute4": "77",
+    "Attribute5": "58",
+    "Attribute6": "59",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

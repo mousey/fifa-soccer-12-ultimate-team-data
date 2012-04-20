@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Daniele",
+    "LastName": "Federici",
+    "CommonName": null,
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "2",
+      "Day": "11"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "111491",
+    "LeagueId": "32",
+    "NationId": "27",
+    "Rating": "59",
+    "Attribute1": "60",
+    "Attribute2": "36",
+    "Attribute3": "41",
+    "Attribute4": "33",
+    "Attribute5": "67",
+    "Attribute6": "65",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

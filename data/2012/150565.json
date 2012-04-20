@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Henri",
+    "LastName": "Bedimo Nsamé",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "6",
+      "Day": "4"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "70",
+    "LeagueId": "16",
+    "NationId": "103",
+    "Rating": "73",
+    "Attribute1": "82",
+    "Attribute2": "61",
+    "Attribute3": "71",
+    "Attribute4": "66",
+    "Attribute5": "77",
+    "Attribute6": "74",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

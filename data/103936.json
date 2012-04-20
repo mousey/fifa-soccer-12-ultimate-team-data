@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Simone",
+    "LastName": "Pepe",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "8",
+      "Day": "30"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "45",
+    "LeagueId": "31",
+    "NationId": "27",
+    "Rating": "78",
+    "Attribute1": "84",
+    "Attribute2": "75",
+    "Attribute3": "76",
+    "Attribute4": "76",
+    "Attribute5": "66",
+    "Attribute6": "64",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

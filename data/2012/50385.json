@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Richard",
+    "LastName": "Garcia",
+    "CommonName": null,
+    "Height": "181",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "9",
+      "Day": "4"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1952",
+    "LeagueId": "14",
+    "NationId": "195",
+    "Rating": "66",
+    "Attribute1": "65",
+    "Attribute2": "65",
+    "Attribute3": "62",
+    "Attribute4": "71",
+    "Attribute5": "60",
+    "Attribute6": "66",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

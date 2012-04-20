@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Joel",
+    "LastName": "Porter",
+    "CommonName": null,
+    "Height": "174",
+    "DateOfBirth": {
+      "Year": "1978",
+      "Month": "12",
+      "Day": "25"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "112078",
+    "LeagueId": "351",
+    "NationId": "195",
+    "Rating": "61",
+    "Attribute1": "56",
+    "Attribute2": "62",
+    "Attribute3": "60",
+    "Attribute4": "59",
+    "Attribute5": "50",
+    "Attribute6": "68",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

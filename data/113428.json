@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Alejandro",
+    "LastName": "García Torre",
+    "CommonName": "Alejandro",
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "1",
+      "Day": "13"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "571",
+    "LeagueId": "54",
+    "NationId": "45",
+    "Rating": "60",
+    "Attribute1": "59",
+    "Attribute2": "65",
+    "Attribute3": "55",
+    "Attribute4": "61",
+    "Attribute5": "56",
+    "Attribute6": "62",
+    "Rare": "1",
+    "ItemType": "PlayerGk"
+  }
+}

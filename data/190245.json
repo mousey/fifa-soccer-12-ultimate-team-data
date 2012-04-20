@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Miro",
+    "LastName": "Varvodić",
+    "CommonName": null,
+    "Height": "191",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "5",
+      "Day": "15"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "31",
+    "LeagueId": "19",
+    "NationId": "10",
+    "Rating": "67",
+    "Attribute1": "74",
+    "Attribute2": "59",
+    "Attribute3": "55",
+    "Attribute4": "76",
+    "Attribute5": "55",
+    "Attribute6": "62",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

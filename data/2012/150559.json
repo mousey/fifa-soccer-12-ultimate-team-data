@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Fabrice",
+    "LastName": "Do Marcolino",
+    "CommonName": null,
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "3",
+      "Day": "14"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1814",
+    "LeagueId": "17",
+    "NationId": "115",
+    "Rating": "63",
+    "Attribute1": "66",
+    "Attribute2": "57",
+    "Attribute3": "47",
+    "Attribute4": "62",
+    "Attribute5": "54",
+    "Attribute6": "66",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

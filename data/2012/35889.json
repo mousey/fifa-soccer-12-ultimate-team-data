@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Sean",
+    "LastName": "Davis",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "9",
+      "Day": "20"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "4",
+    "LeagueId": "13",
+    "NationId": "14",
+    "Rating": "69",
+    "Attribute1": "53",
+    "Attribute2": "61",
+    "Attribute3": "71",
+    "Attribute4": "69",
+    "Attribute5": "72",
+    "Attribute6": "67",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

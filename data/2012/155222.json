@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Luca",
+    "LastName": "Ariatti",
+    "CommonName": null,
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1978",
+      "Month": "12",
+      "Day": "27"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "200",
+    "LeagueId": "32",
+    "NationId": "27",
+    "Rating": "63",
+    "Attribute1": "64",
+    "Attribute2": "57",
+    "Attribute3": "59",
+    "Attribute4": "60",
+    "Attribute5": "60",
+    "Attribute6": "64",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

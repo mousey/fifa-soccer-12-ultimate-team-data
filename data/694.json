@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Cyril",
+    "LastName": "Jeunechamp",
+    "CommonName": null,
+    "Height": "177",
+    "DateOfBirth": {
+      "Year": "1975",
+      "Month": "12",
+      "Day": "18"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "70",
+    "LeagueId": "16",
+    "NationId": "18",
+    "Rating": "71",
+    "Attribute1": "53",
+    "Attribute2": "58",
+    "Attribute3": "67",
+    "Attribute4": "62",
+    "Attribute5": "69",
+    "Attribute6": "71",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

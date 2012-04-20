@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "José-Alex",
+    "LastName": "Ikeng",
+    "CommonName": null,
+    "Height": "187",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "1",
+      "Day": "30"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111239",
+    "LeagueId": "20",
+    "NationId": "21",
+    "Rating": "61",
+    "Attribute1": "68",
+    "Attribute2": "43",
+    "Attribute3": "54",
+    "Attribute4": "62",
+    "Attribute5": "67",
+    "Attribute6": "64",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

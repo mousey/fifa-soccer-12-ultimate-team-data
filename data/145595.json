@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Sergio",
+    "LastName": "Martínez Mantecón",
+    "CommonName": "Mantecón",
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1980",
+      "Month": "6",
+      "Day": "8"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "468",
+    "LeagueId": "54",
+    "NationId": "45",
+    "Rating": "67",
+    "Attribute1": "62",
+    "Attribute2": "61",
+    "Attribute3": "60",
+    "Attribute4": "56",
+    "Attribute5": "66",
+    "Attribute6": "63",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

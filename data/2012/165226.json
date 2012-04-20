@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Owen",
+    "LastName": "Garvan",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "1",
+      "Day": "29"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1799",
+    "LeagueId": "14",
+    "NationId": "25",
+    "Rating": "65",
+    "Attribute1": "68",
+    "Attribute2": "64",
+    "Attribute3": "66",
+    "Attribute4": "59",
+    "Attribute5": "57",
+    "Attribute6": "54",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

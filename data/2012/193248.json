@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Michael",
+    "LastName": "Fucito",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "3",
+      "Day": "29"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111144",
+    "LeagueId": "39",
+    "NationId": "95",
+    "Rating": "62",
+    "Attribute1": "88",
+    "Attribute2": "60",
+    "Attribute3": "54",
+    "Attribute4": "59",
+    "Attribute5": "57",
+    "Attribute6": "62",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

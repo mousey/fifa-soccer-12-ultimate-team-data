@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Andy",
+    "LastName": "Griffin",
+    "CommonName": null,
+    "Height": "173",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "3",
+      "Day": "7"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1793",
+    "LeagueId": "14",
+    "NationId": "14",
+    "Rating": "64",
+    "Attribute1": "55",
+    "Attribute2": "33",
+    "Attribute3": "56",
+    "Attribute4": "54",
+    "Attribute5": "71",
+    "Attribute6": "70",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

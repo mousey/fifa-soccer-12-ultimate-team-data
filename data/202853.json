@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jeb",
+    "LastName": "Brovsky",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "12",
+      "Day": "3"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "101112",
+    "LeagueId": "39",
+    "NationId": "95",
+    "Rating": "57",
+    "Attribute1": "67",
+    "Attribute2": "55",
+    "Attribute3": "55",
+    "Attribute4": "61",
+    "Attribute5": "59",
+    "Attribute6": "58",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

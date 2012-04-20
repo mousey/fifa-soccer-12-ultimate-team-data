@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Iriome",
+    "LastName": "González González",
+    "CommonName": "Iriome",
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "6",
+      "Day": "22"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110902",
+    "LeagueId": "54",
+    "NationId": "45",
+    "Rating": "62",
+    "Attribute1": "74",
+    "Attribute2": "52",
+    "Attribute3": "56",
+    "Attribute4": "69",
+    "Attribute5": "47",
+    "Attribute6": "63",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

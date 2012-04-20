@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Urby",
+    "LastName": "Emanuelson",
+    "CommonName": null,
+    "Height": "176",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "6",
+      "Day": "16"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "47",
+    "LeagueId": "31",
+    "NationId": "34",
+    "Rating": "76",
+    "Attribute1": "84",
+    "Attribute2": "71",
+    "Attribute3": "72",
+    "Attribute4": "82",
+    "Attribute5": "62",
+    "Attribute6": "55",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

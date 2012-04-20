@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Papa Waigo",
+    "LastName": "N'Diaye",
+    "CommonName": "Papa Waigo",
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "1",
+      "Day": "20"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1846",
+    "LeagueId": "32",
+    "NationId": "136",
+    "Rating": "66",
+    "Attribute1": "82",
+    "Attribute2": "61",
+    "Attribute3": "58",
+    "Attribute4": "64",
+    "Attribute5": "49",
+    "Attribute6": "56",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

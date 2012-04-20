@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Phil",
+    "LastName": "Jones",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1992",
+      "Month": "2",
+      "Day": "21"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "11",
+    "LeagueId": "13",
+    "NationId": "14",
+    "Rating": "76",
+    "Attribute1": "67",
+    "Attribute2": "46",
+    "Attribute3": "66",
+    "Attribute4": "52",
+    "Attribute5": "76",
+    "Attribute6": "77",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

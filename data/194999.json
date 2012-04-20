@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Gregg",
+    "LastName": "Wylde",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "3",
+      "Day": "23"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "86",
+    "LeagueId": "50",
+    "NationId": "42",
+    "Rating": "69",
+    "Attribute1": "89",
+    "Attribute2": "38",
+    "Attribute3": "67",
+    "Attribute4": "72",
+    "Attribute5": "60",
+    "Attribute6": "56",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

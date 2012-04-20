@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Gary",
+    "LastName": "Medel",
+    "CommonName": null,
+    "Height": "172",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "8",
+      "Day": "3"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "481",
+    "LeagueId": "53",
+    "NationId": "55",
+    "Rating": "78",
+    "Attribute1": "78",
+    "Attribute2": "61",
+    "Attribute3": "69",
+    "Attribute4": "64",
+    "Attribute5": "81",
+    "Attribute6": "76",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

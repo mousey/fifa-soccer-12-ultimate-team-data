@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Kenny",
+    "LastName": "Thompson",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "4",
+      "Day": "26"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "239",
+    "LeagueId": "4",
+    "NationId": "7",
+    "Rating": "66",
+    "Attribute1": "76",
+    "Attribute2": "56",
+    "Attribute3": "57",
+    "Attribute4": "46",
+    "Attribute5": "65",
+    "Attribute6": "72",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

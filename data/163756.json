@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "John",
+    "LastName": "McCombe",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "5",
+      "Day": "7"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1928",
+    "LeagueId": "61",
+    "NationId": "14",
+    "Rating": "63",
+    "Attribute1": "56",
+    "Attribute2": "32",
+    "Attribute3": "45",
+    "Attribute4": "33",
+    "Attribute5": "67",
+    "Attribute6": "71",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

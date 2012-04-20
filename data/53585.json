@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Garry",
+    "LastName": "Monk",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "3",
+      "Day": "6"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1960",
+    "LeagueId": "13",
+    "NationId": "14",
+    "Rating": "68",
+    "Attribute1": "50",
+    "Attribute2": "21",
+    "Attribute3": "47",
+    "Attribute4": "35",
+    "Attribute5": "71",
+    "Attribute6": "80",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

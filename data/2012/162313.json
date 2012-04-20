@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Luke",
+    "LastName": "Moore",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "2",
+      "Day": "13"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1960",
+    "LeagueId": "13",
+    "NationId": "14",
+    "Rating": "68",
+    "Attribute1": "79",
+    "Attribute2": "64",
+    "Attribute3": "53",
+    "Attribute4": "68",
+    "Attribute5": "52",
+    "Attribute6": "68",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

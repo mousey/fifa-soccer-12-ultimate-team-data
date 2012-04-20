@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Tiago Filipe",
+    "LastName": "Figueiras Gomes",
+    "CommonName": "Tiago Gomes",
+    "Height": "181",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "8",
+      "Day": "19"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "100879",
+    "LeagueId": "54",
+    "NationId": "38",
+    "Rating": "70",
+    "Attribute1": "64",
+    "Attribute2": "67",
+    "Attribute3": "71",
+    "Attribute4": "65",
+    "Attribute5": "66",
+    "Attribute6": "60",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

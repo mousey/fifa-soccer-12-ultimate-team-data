@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jason",
+    "LastName": "Morrison",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "6",
+      "Day": "7"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1755",
+    "LeagueId": "41",
+    "NationId": "82",
+    "Rating": "73",
+    "Attribute1": "74",
+    "Attribute2": "51",
+    "Attribute3": "64",
+    "Attribute4": "70",
+    "Attribute5": "73",
+    "Attribute6": "67",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

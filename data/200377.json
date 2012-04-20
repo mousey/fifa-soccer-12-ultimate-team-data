@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Dimitri",
+    "LastName": "Hairemans",
+    "CommonName": null,
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "10",
+      "Day": "21"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "635",
+    "LeagueId": "10",
+    "NationId": "7",
+    "Rating": "58",
+    "Attribute1": "70",
+    "Attribute2": "46",
+    "Attribute3": "58",
+    "Attribute4": "58",
+    "Attribute5": "60",
+    "Attribute6": "54",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Aaron",
+    "LastName": "Greene",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "3",
+      "Day": "21"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "563",
+    "LeagueId": "65",
+    "NationId": "25",
+    "Rating": "58",
+    "Attribute1": "81",
+    "Attribute2": "55",
+    "Attribute3": "50",
+    "Attribute4": "58",
+    "Attribute5": "45",
+    "Attribute6": "54",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

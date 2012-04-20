@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Danny",
+    "LastName": "Racchi",
+    "CommonName": null,
+    "Height": "173",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "11",
+      "Day": "22"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "82",
+    "LeagueId": "50",
+    "NationId": "14",
+    "Rating": "58",
+    "Attribute1": "73",
+    "Attribute2": "51",
+    "Attribute3": "54",
+    "Attribute4": "56",
+    "Attribute5": "50",
+    "Attribute6": "61",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

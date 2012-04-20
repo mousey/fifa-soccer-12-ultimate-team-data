@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Luis",
+    "LastName": "Gil",
+    "CommonName": null,
+    "Height": "173",
+    "DateOfBirth": {
+      "Year": "1993",
+      "Month": "11",
+      "Day": "14"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111065",
+    "LeagueId": "39",
+    "NationId": "95",
+    "Rating": "65",
+    "Attribute1": "76",
+    "Attribute2": "56",
+    "Attribute3": "61",
+    "Attribute4": "65",
+    "Attribute5": "48",
+    "Attribute6": "50",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

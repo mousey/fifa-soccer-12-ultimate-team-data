@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Leandro Damião",
+    "LastName": "da Silva dos Santos",
+    "CommonName": "Leandro Damião",
+    "Height": "187",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "7",
+      "Day": "22"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1048",
+    "LeagueId": "7",
+    "NationId": "54",
+    "Rating": "80",
+    "Attribute1": "76",
+    "Attribute2": "76",
+    "Attribute3": "52",
+    "Attribute4": "70",
+    "Attribute5": "60",
+    "Attribute6": "85",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Josué Filipe",
+    "LastName": "Soares Pesqueira",
+    "CommonName": "Josué",
+    "Height": "172",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "9",
+      "Day": "17"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1892",
+    "LeagueId": "308",
+    "NationId": "38",
+    "Rating": "69",
+    "Attribute1": "82",
+    "Attribute2": "64",
+    "Attribute3": "68",
+    "Attribute4": "74",
+    "Attribute5": "45",
+    "Attribute6": "54",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

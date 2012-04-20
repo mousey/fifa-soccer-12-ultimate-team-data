@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Kepa",
+    "LastName": "Blanco González",
+    "CommonName": "Kepa",
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "1",
+      "Day": "13"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "571",
+    "LeagueId": "54",
+    "NationId": "45",
+    "Rating": "63",
+    "Attribute1": "51",
+    "Attribute2": "59",
+    "Attribute3": "46",
+    "Attribute4": "53",
+    "Attribute5": "51",
+    "Attribute6": "66",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

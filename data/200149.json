@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Matthieu",
+    "LastName": "Debisschop",
+    "CommonName": null,
+    "Height": "179",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "2",
+      "Day": "29"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1747",
+    "LeagueId": "4",
+    "NationId": "18",
+    "Rating": "59",
+    "Attribute1": "60",
+    "Attribute2": "43",
+    "Attribute3": "48",
+    "Attribute4": "44",
+    "Attribute5": "64",
+    "Attribute6": "60",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

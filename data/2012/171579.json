@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Raúl",
+    "LastName": "García Escudero",
+    "CommonName": "Raúl García",
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "7",
+      "Day": "11"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "479",
+    "LeagueId": "53",
+    "NationId": "45",
+    "Rating": "76",
+    "Attribute1": "61",
+    "Attribute2": "67",
+    "Attribute3": "74",
+    "Attribute4": "69",
+    "Attribute5": "74",
+    "Attribute6": "65",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

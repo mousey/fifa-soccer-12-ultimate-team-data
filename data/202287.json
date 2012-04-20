@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ha Ram",
+    "LastName": "Lim",
+    "CommonName": "Lim Ha Ram",
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "11",
+      "Day": "18"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "112258",
+    "LeagueId": "83",
+    "NationId": "167",
+    "Rating": "58",
+    "Attribute1": "72",
+    "Attribute2": "42",
+    "Attribute3": "54",
+    "Attribute4": "43",
+    "Attribute5": "68",
+    "Attribute6": "45",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

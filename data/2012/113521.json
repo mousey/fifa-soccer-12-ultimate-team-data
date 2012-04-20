@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Mohammed",
+    "LastName": "El Yaagoubi",
+    "CommonName": "Moha",
+    "Height": "170",
+    "DateOfBirth": {
+      "Year": "1977",
+      "Month": "9",
+      "Day": "12"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "110062",
+    "LeagueId": "54",
+    "NationId": "129",
+    "Rating": "64",
+    "Attribute1": "68",
+    "Attribute2": "58",
+    "Attribute3": "63",
+    "Attribute4": "65",
+    "Attribute5": "59",
+    "Attribute6": "56",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

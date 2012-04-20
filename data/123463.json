@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jermaine",
+    "LastName": "Pennant",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "1",
+      "Day": "15"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1806",
+    "LeagueId": "13",
+    "NationId": "14",
+    "Rating": "77",
+    "Attribute1": "90",
+    "Attribute2": "64",
+    "Attribute3": "75",
+    "Attribute4": "82",
+    "Attribute5": "53",
+    "Attribute6": "57",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

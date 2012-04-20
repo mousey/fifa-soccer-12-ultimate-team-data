@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ferdinand",
+    "LastName": "Feldhofer",
+    "CommonName": null,
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "10",
+      "Day": "23"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "209",
+    "LeagueId": "80",
+    "NationId": "4",
+    "Rating": "65",
+    "Attribute1": "59",
+    "Attribute2": "40",
+    "Attribute3": "50",
+    "Attribute4": "42",
+    "Attribute5": "68",
+    "Attribute6": "70",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

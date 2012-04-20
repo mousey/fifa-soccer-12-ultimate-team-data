@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Chi Woo",
+    "LastName": "Kim",
+    "CommonName": "Kim Chi Woo",
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "11",
+      "Day": "11"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "2055",
+    "LeagueId": "83",
+    "NationId": "167",
+    "Rating": "67",
+    "Attribute1": "82",
+    "Attribute2": "63",
+    "Attribute3": "70",
+    "Attribute4": "59",
+    "Attribute5": "58",
+    "Attribute6": "65",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

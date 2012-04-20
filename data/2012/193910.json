@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Adam",
+    "LastName": "Forshaw",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "10",
+      "Day": "8"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "7",
+    "LeagueId": "13",
+    "NationId": "14",
+    "Rating": "62",
+    "Attribute1": "65",
+    "Attribute2": "54",
+    "Attribute3": "63",
+    "Attribute4": "56",
+    "Attribute5": "46",
+    "Attribute6": "41",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

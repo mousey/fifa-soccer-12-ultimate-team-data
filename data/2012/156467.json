@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Chris",
+    "LastName": "Birchall",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "5",
+      "Day": "5"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "697",
+    "LeagueId": "39",
+    "NationId": "93",
+    "Rating": "66",
+    "Attribute1": "71",
+    "Attribute2": "61",
+    "Attribute3": "64",
+    "Attribute4": "64",
+    "Attribute5": "64",
+    "Attribute6": "63",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

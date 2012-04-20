@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Massimo",
+    "LastName": "Volta",
+    "CommonName": null,
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "5",
+      "Day": "14"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1837",
+    "LeagueId": "32",
+    "NationId": "27",
+    "Rating": "71",
+    "Attribute1": "65",
+    "Attribute2": "38",
+    "Attribute3": "50",
+    "Attribute4": "50",
+    "Attribute5": "73",
+    "Attribute6": "78",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

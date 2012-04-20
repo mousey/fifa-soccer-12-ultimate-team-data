@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Neill",
+    "LastName": "Collins",
+    "CommonName": null,
+    "Height": "191",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "9",
+      "Day": "2"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1794",
+    "LeagueId": "60",
+    "NationId": "42",
+    "Rating": "64",
+    "Attribute1": "47",
+    "Attribute2": "36",
+    "Attribute3": "44",
+    "Attribute4": "48",
+    "Attribute5": "65",
+    "Attribute6": "64",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

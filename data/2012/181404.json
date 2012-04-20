@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Larrys",
+    "LastName": "Mabiala",
+    "CommonName": null,
+    "Height": "189",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "10",
+      "Day": "8"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "72",
+    "LeagueId": "16",
+    "NationId": "110",
+    "Rating": "65",
+    "Attribute1": "58",
+    "Attribute2": "45",
+    "Attribute3": "58",
+    "Attribute4": "51",
+    "Attribute5": "65",
+    "Attribute6": "65",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

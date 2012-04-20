@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Frazer",
+    "LastName": "Richardson",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "10",
+      "Day": "29"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "17",
+    "LeagueId": "14",
+    "NationId": "14",
+    "Rating": "64",
+    "Attribute1": "66",
+    "Attribute2": "50",
+    "Attribute3": "58",
+    "Attribute4": "59",
+    "Attribute5": "67",
+    "Attribute6": "64",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

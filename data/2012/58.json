@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Guy",
+    "LastName": "Demel",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "6",
+      "Day": "13"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "19",
+    "LeagueId": "14",
+    "NationId": "108",
+    "Rating": "72",
+    "Attribute1": "68",
+    "Attribute2": "50",
+    "Attribute3": "66",
+    "Attribute4": "68",
+    "Attribute5": "78",
+    "Attribute6": "66",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

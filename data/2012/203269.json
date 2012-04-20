@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Oscar",
+    "LastName": "Cordon",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1993",
+      "Month": "1",
+      "Day": "18"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111651",
+    "LeagueId": "39",
+    "NationId": "70",
+    "Rating": "56",
+    "Attribute1": "64",
+    "Attribute2": "49",
+    "Attribute3": "52",
+    "Attribute4": "63",
+    "Attribute5": "56",
+    "Attribute6": "55",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

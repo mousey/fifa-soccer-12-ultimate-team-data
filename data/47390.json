@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Gilberto",
+    "LastName": "Aparecido da Silva",
+    "CommonName": "Gilberto Silva",
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1976",
+      "Month": "10",
+      "Day": "7"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1629",
+    "LeagueId": "7",
+    "NationId": "54",
+    "Rating": "76",
+    "Attribute1": "52",
+    "Attribute2": "52",
+    "Attribute3": "65",
+    "Attribute4": "59",
+    "Attribute5": "78",
+    "Attribute6": "66",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

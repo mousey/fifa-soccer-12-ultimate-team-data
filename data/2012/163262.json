@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Bojan",
+    "LastName": "Djordjic",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "2",
+      "Day": "6"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1926",
+    "LeagueId": "14",
+    "NationId": "51",
+    "Rating": "61",
+    "Attribute1": "58",
+    "Attribute2": "58",
+    "Attribute3": "61",
+    "Attribute4": "60",
+    "Attribute5": "56",
+    "Attribute6": "52",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

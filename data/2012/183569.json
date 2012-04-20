@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Eric Maxim",
+    "LastName": "Choupo-Moting",
+    "CommonName": null,
+    "Height": "189",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "3",
+      "Day": "23"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "169",
+    "LeagueId": "19",
+    "NationId": "103",
+    "Rating": "70",
+    "Attribute1": "67",
+    "Attribute2": "67",
+    "Attribute3": "54",
+    "Attribute4": "71",
+    "Attribute5": "52",
+    "Attribute6": "70",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

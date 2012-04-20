@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Roy",
+    "LastName": "O'Donovan",
+    "CommonName": null,
+    "Height": "169",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "8",
+      "Day": "10"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1800",
+    "LeagueId": "14",
+    "NationId": "25",
+    "Rating": "61",
+    "Attribute1": "78",
+    "Attribute2": "59",
+    "Attribute3": "52",
+    "Attribute4": "62",
+    "Attribute5": "35",
+    "Attribute6": "61",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

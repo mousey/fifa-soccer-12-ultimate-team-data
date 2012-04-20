@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Andreas",
+    "LastName": "Rauscher",
+    "CommonName": null,
+    "Height": "179",
+    "DateOfBirth": {
+      "Year": "1978",
+      "Month": "1",
+      "Day": "25"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "15011",
+    "LeagueId": "80",
+    "NationId": "4",
+    "Rating": "53",
+    "Attribute1": "48",
+    "Attribute2": "32",
+    "Attribute3": "40",
+    "Attribute4": "39",
+    "Attribute5": "58",
+    "Attribute6": "61",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

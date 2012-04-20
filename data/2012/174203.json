@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Shane",
+    "LastName": "Smeltz",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "9",
+      "Day": "29"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111399",
+    "LeagueId": "351",
+    "NationId": "198",
+    "Rating": "72",
+    "Attribute1": "68",
+    "Attribute2": "70",
+    "Attribute3": "40",
+    "Attribute4": "64",
+    "Attribute5": "52",
+    "Attribute6": "79",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

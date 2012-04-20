@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Hans",
+    "LastName": "Sarpei",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1976",
+      "Month": "6",
+      "Day": "28"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "34",
+    "LeagueId": "19",
+    "NationId": "117",
+    "Rating": "68",
+    "Attribute1": "54",
+    "Attribute2": "33",
+    "Attribute3": "61",
+    "Attribute4": "54",
+    "Attribute5": "71",
+    "Attribute6": "70",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

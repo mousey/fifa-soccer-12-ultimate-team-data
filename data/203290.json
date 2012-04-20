@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Dmitriy",
+    "LastName": "Kostyaev",
+    "CommonName": null,
+    "Height": "176",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "12",
+      "Day": "13"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "100764",
+    "LeagueId": "67",
+    "NationId": "40",
+    "Rating": "59",
+    "Attribute1": "40",
+    "Attribute2": "61",
+    "Attribute3": "65",
+    "Attribute4": "66",
+    "Attribute5": "51",
+    "Attribute6": "64",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

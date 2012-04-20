@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jordy",
+    "LastName": "Buijs",
+    "CommonName": null,
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "12",
+      "Day": "28"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1904",
+    "LeagueId": "10",
+    "NationId": "34",
+    "Rating": "66",
+    "Attribute1": "55",
+    "Attribute2": "61",
+    "Attribute3": "60",
+    "Attribute4": "58",
+    "Attribute5": "68",
+    "Attribute6": "65",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Sebastian",
+    "LastName": "Mielitz",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "7",
+      "Day": "18"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "38",
+    "LeagueId": "19",
+    "NationId": "21",
+    "Rating": "72",
+    "Attribute1": "75",
+    "Attribute2": "71",
+    "Attribute3": "65",
+    "Attribute4": "75",
+    "Attribute5": "39",
+    "Attribute6": "67",
+    "Rare": "1",
+    "ItemType": "PlayerGk"
+  }
+}

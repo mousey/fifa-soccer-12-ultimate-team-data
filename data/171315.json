@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Alejandro",
+    "LastName": "Alfaro Ligero",
+    "CommonName": "Alfaro",
+    "Height": "173",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "11",
+      "Day": "23"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "453",
+    "LeagueId": "53",
+    "NationId": "45",
+    "Rating": "72",
+    "Attribute1": "70",
+    "Attribute2": "72",
+    "Attribute3": "72",
+    "Attribute4": "71",
+    "Attribute5": "54",
+    "Attribute6": "63",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

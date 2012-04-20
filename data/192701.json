@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Danny",
+    "LastName": "Stevens",
+    "CommonName": null,
+    "Height": "163",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "11",
+      "Day": "26"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1946",
+    "LeagueId": "61",
+    "NationId": "14",
+    "Rating": "60",
+    "Attribute1": "80",
+    "Attribute2": "43",
+    "Attribute3": "56",
+    "Attribute4": "65",
+    "Attribute5": "40",
+    "Attribute6": "50",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

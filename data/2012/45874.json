@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Alexander",
+    "LastName": "Farnerud",
+    "CommonName": null,
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "5",
+      "Day": "1"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "900",
+    "LeagueId": "189",
+    "NationId": "46",
+    "Rating": "70",
+    "Attribute1": "74",
+    "Attribute2": "65",
+    "Attribute3": "70",
+    "Attribute4": "69",
+    "Attribute5": "54",
+    "Attribute6": "60",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

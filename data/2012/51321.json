@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Nicky",
+    "LastName": "Weaver",
+    "CommonName": null,
+    "Height": "191",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "3",
+      "Day": "2"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1807",
+    "LeagueId": "60",
+    "NationId": "14",
+    "Rating": "66",
+    "Attribute1": "65",
+    "Attribute2": "67",
+    "Attribute3": "68",
+    "Attribute4": "68",
+    "Attribute5": "52",
+    "Attribute6": "64",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Johan",
+    "LastName": "Wiland",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "1",
+      "Day": "24"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "819",
+    "LeagueId": "1",
+    "NationId": "46",
+    "Rating": "74",
+    "Attribute1": "75",
+    "Attribute2": "73",
+    "Attribute3": "69",
+    "Attribute4": "81",
+    "Attribute5": "46",
+    "Attribute6": "75",
+    "Rare": "1",
+    "ItemType": "PlayerGk"
+  }
+}

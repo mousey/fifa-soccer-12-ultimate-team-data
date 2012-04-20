@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Alessandro",
+    "LastName": "Budel",
+    "CommonName": null,
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "2",
+      "Day": "25"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "190",
+    "LeagueId": "32",
+    "NationId": "27",
+    "Rating": "66",
+    "Attribute1": "62",
+    "Attribute2": "61",
+    "Attribute3": "72",
+    "Attribute4": "62",
+    "Attribute5": "66",
+    "Attribute6": "62",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

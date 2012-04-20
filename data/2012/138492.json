@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "João Paulo",
+    "LastName": "Andrade",
+    "CommonName": "João Paulo",
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "6",
+      "Day": "6"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1887",
+    "LeagueId": "308",
+    "NationId": "38",
+    "Rating": "74",
+    "Attribute1": "55",
+    "Attribute2": "59",
+    "Attribute3": "56",
+    "Attribute4": "60",
+    "Attribute5": "75",
+    "Attribute6": "77",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

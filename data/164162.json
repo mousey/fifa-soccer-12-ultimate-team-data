@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Édson",
+    "LastName": "Bastos Barreto",
+    "CommonName": "Édson Bastos",
+    "Height": "187",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "11",
+      "Day": "3"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111044",
+    "LeagueId": "7",
+    "NationId": "54",
+    "Rating": "70",
+    "Attribute1": "66",
+    "Attribute2": "75",
+    "Attribute3": "72",
+    "Attribute4": "68",
+    "Attribute5": "62",
+    "Attribute6": "71",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

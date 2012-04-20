@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Nico",
+    "LastName": "Zimmermann",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "9",
+      "Day": "2"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110500",
+    "LeagueId": "20",
+    "NationId": "21",
+    "Rating": "65",
+    "Attribute1": "74",
+    "Attribute2": "65",
+    "Attribute3": "63",
+    "Attribute4": "67",
+    "Attribute5": "49",
+    "Attribute6": "55",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

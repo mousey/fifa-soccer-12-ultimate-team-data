@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Giannis",
+    "LastName": "Fetfatzidis",
+    "CommonName": null,
+    "Height": "167",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "12",
+      "Day": "21"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "280",
+    "LeagueId": "63",
+    "NationId": "22",
+    "Rating": "72",
+    "Attribute1": "88",
+    "Attribute2": "66",
+    "Attribute3": "69",
+    "Attribute4": "79",
+    "Attribute5": "43",
+    "Attribute6": "38",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

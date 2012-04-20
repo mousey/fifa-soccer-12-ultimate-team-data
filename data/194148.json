@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Mark",
+    "LastName": "O'Brien",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1992",
+      "Month": "11",
+      "Day": "20"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "91",
+    "LeagueId": "14",
+    "NationId": "25",
+    "Rating": "63",
+    "Attribute1": "56",
+    "Attribute2": "37",
+    "Attribute3": "49",
+    "Attribute4": "48",
+    "Attribute5": "64",
+    "Attribute6": "64",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

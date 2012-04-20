@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ryan",
+    "LastName": "Donaldson",
+    "CommonName": null,
+    "Height": "181",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "5",
+      "Day": "1"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "13",
+    "LeagueId": "13",
+    "NationId": "14",
+    "Rating": "60",
+    "Attribute1": "72",
+    "Attribute2": "61",
+    "Attribute3": "36",
+    "Attribute4": "61",
+    "Attribute5": "38",
+    "Attribute6": "64",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

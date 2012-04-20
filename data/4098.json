@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Tiago",
+    "LastName": "Cardoso Mendes",
+    "CommonName": "Tiago",
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "5",
+      "Day": "2"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "240",
+    "LeagueId": "53",
+    "NationId": "38",
+    "Rating": "79",
+    "Attribute1": "63",
+    "Attribute2": "70",
+    "Attribute3": "76",
+    "Attribute4": "74",
+    "Attribute5": "72",
+    "Attribute6": "75",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

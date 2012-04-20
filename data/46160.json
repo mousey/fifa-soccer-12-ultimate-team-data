@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Renato",
+    "LastName": "Dirnei Florêncio",
+    "CommonName": "Renato",
+    "Height": "177",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "5",
+      "Day": "15"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "517",
+    "LeagueId": "7",
+    "NationId": "54",
+    "Rating": "76",
+    "Attribute1": "72",
+    "Attribute2": "74",
+    "Attribute3": "76",
+    "Attribute4": "75",
+    "Attribute5": "71",
+    "Attribute6": "78",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

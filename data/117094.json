@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Mathieu",
+    "LastName": "Béda",
+    "CommonName": null,
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "7",
+      "Day": "28"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "894",
+    "LeagueId": "189",
+    "NationId": "18",
+    "Rating": "65",
+    "Attribute1": "50",
+    "Attribute2": "42",
+    "Attribute3": "47",
+    "Attribute4": "48",
+    "Attribute5": "70",
+    "Attribute6": "71",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Mergim",
+    "LastName": "Mavraj",
+    "CommonName": null,
+    "Height": "189",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "6",
+      "Day": "9"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "165",
+    "LeagueId": "20",
+    "NationId": "21",
+    "Rating": "69",
+    "Attribute1": "67",
+    "Attribute2": "35",
+    "Attribute3": "50",
+    "Attribute4": "40",
+    "Attribute5": "71",
+    "Attribute6": "72",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

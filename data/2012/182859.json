@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Walter",
+    "LastName": "Gargano",
+    "CommonName": null,
+    "Height": "168",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "7",
+      "Day": "23"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "48",
+    "LeagueId": "31",
+    "NationId": "60",
+    "Rating": "78",
+    "Attribute1": "81",
+    "Attribute2": "62",
+    "Attribute3": "72",
+    "Attribute4": "74",
+    "Attribute5": "72",
+    "Attribute6": "63",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

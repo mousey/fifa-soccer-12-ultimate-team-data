@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Dimitri",
+    "LastName": "Foulquier",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1993",
+      "Month": "3",
+      "Day": "23"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "74",
+    "LeagueId": "16",
+    "NationId": "18",
+    "Rating": "60",
+    "Attribute1": "62",
+    "Attribute2": "49",
+    "Attribute3": "61",
+    "Attribute4": "55",
+    "Attribute5": "62",
+    "Attribute6": "56",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

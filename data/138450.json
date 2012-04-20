@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ricardo",
+    "LastName": "Pozzi Rodrigues",
+    "CommonName": "Ricardinho",
+    "Height": "176",
+    "DateOfBirth": {
+      "Year": "1976",
+      "Month": "5",
+      "Day": "23"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1598",
+    "LeagueId": "7",
+    "NationId": "54",
+    "Rating": "72",
+    "Attribute1": "42",
+    "Attribute2": "71",
+    "Attribute3": "80",
+    "Attribute4": "73",
+    "Attribute5": "58",
+    "Attribute6": "48",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

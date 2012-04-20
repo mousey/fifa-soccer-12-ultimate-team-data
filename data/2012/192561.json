@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Lennart",
+    "LastName": "Thy",
+    "CommonName": null,
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1992",
+      "Month": "2",
+      "Day": "25"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "38",
+    "LeagueId": "19",
+    "NationId": "21",
+    "Rating": "68",
+    "Attribute1": "74",
+    "Attribute2": "66",
+    "Attribute3": "56",
+    "Attribute4": "73",
+    "Attribute5": "48",
+    "Attribute6": "64",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

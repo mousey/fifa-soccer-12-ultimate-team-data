@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Michael",
+    "LastName": "Langer",
+    "CommonName": null,
+    "Height": "193",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "1",
+      "Day": "6"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110596",
+    "LeagueId": "20",
+    "NationId": "4",
+    "Rating": "65",
+    "Attribute1": "64",
+    "Attribute2": "65",
+    "Attribute3": "58",
+    "Attribute4": "69",
+    "Attribute5": "51",
+    "Attribute6": "65",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

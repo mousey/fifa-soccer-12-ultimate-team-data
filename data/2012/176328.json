@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Adilson",
+    "LastName": "dos Santos",
+    "CommonName": "Adi",
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1976",
+      "Month": "5",
+      "Day": "12"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "982",
+    "LeagueId": "83",
+    "NationId": "54",
+    "Rating": "69",
+    "Attribute1": "78",
+    "Attribute2": "62",
+    "Attribute3": "70",
+    "Attribute4": "67",
+    "Attribute5": "76",
+    "Attribute6": "80",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

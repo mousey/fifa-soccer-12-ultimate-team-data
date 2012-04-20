@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Xabier",
+    "LastName": "Prieto Argarate",
+    "CommonName": "Xabi Prieto",
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "8",
+      "Day": "29"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "457",
+    "LeagueId": "53",
+    "NationId": "45",
+    "Rating": "78",
+    "Attribute1": "67",
+    "Attribute2": "71",
+    "Attribute3": "82",
+    "Attribute4": "81",
+    "Attribute5": "52",
+    "Attribute6": "57",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

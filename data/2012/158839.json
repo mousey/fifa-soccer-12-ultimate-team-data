@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Guadalupe",
+    "LastName": "Martínez",
+    "CommonName": null,
+    "Height": "189",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "1",
+      "Day": "12"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110780",
+    "LeagueId": "341",
+    "NationId": "83",
+    "Rating": "55",
+    "Attribute1": "60",
+    "Attribute2": "55",
+    "Attribute3": "47",
+    "Attribute4": "56",
+    "Attribute5": "20",
+    "Attribute6": "48",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

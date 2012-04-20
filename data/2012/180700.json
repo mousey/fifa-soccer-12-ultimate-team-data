@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Kosuke",
+    "LastName": "Kimura",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "5",
+      "Day": "14"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "694",
+    "LeagueId": "39",
+    "NationId": "163",
+    "Rating": "65",
+    "Attribute1": "76",
+    "Attribute2": "53",
+    "Attribute3": "60",
+    "Attribute4": "66",
+    "Attribute5": "63",
+    "Attribute6": "53",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

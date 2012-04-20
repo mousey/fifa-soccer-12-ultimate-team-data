@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Anthony",
+    "LastName": "McNamee",
+    "CommonName": null,
+    "Height": "168",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "7",
+      "Day": "13"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1798",
+    "LeagueId": "60",
+    "NationId": "14",
+    "Rating": "65",
+    "Attribute1": "84",
+    "Attribute2": "37",
+    "Attribute3": "58",
+    "Attribute4": "72",
+    "Attribute5": "31",
+    "Attribute6": "40",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

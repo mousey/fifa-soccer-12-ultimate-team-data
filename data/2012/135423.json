@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Cícero João",
+    "LastName": "De Cezare",
+    "CommonName": "Cicinho",
+    "Height": "172",
+    "DateOfBirth": {
+      "Year": "1980",
+      "Month": "6",
+      "Day": "24"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "52",
+    "LeagueId": "31",
+    "NationId": "54",
+    "Rating": "73",
+    "Attribute1": "81",
+    "Attribute2": "63",
+    "Attribute3": "72",
+    "Attribute4": "74",
+    "Attribute5": "69",
+    "Attribute6": "63",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

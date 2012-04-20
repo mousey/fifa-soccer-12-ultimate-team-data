@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Hiram",
+    "LastName": "Mier",
+    "CommonName": null,
+    "Height": "179",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "8",
+      "Day": "25"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1032",
+    "LeagueId": "341",
+    "NationId": "83",
+    "Rating": "69",
+    "Attribute1": "67",
+    "Attribute2": "56",
+    "Attribute3": "63",
+    "Attribute4": "69",
+    "Attribute5": "71",
+    "Attribute6": "74",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

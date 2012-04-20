@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Georgiy",
+    "LastName": "Iluridze",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1992",
+      "Month": "2",
+      "Day": "20"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "100766",
+    "LeagueId": "67",
+    "NationId": "20",
+    "Rating": "60",
+    "Attribute1": "66",
+    "Attribute2": "58",
+    "Attribute3": "39",
+    "Attribute4": "47",
+    "Attribute5": "45",
+    "Attribute6": "66",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

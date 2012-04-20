@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Tiago João",
+    "LastName": "Targino da Silva",
+    "CommonName": "Targino",
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "6",
+      "Day": "6"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1887",
+    "LeagueId": "308",
+    "NationId": "38",
+    "Rating": "72",
+    "Attribute1": "89",
+    "Attribute2": "65",
+    "Attribute3": "65",
+    "Attribute4": "74",
+    "Attribute5": "54",
+    "Attribute6": "65",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

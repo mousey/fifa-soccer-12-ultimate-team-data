@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Paolo",
+    "LastName": "Castellini",
+    "CommonName": null,
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "3",
+      "Day": "25"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1837",
+    "LeagueId": "32",
+    "NationId": "27",
+    "Rating": "68",
+    "Attribute1": "70",
+    "Attribute2": "47",
+    "Attribute3": "65",
+    "Attribute4": "64",
+    "Attribute5": "70",
+    "Attribute6": "62",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

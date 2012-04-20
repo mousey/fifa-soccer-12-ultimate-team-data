@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Thomas",
+    "LastName": "Monconduit",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "2",
+      "Day": "10"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "57",
+    "LeagueId": "16",
+    "NationId": "18",
+    "Rating": "61",
+    "Attribute1": "58",
+    "Attribute2": "32",
+    "Attribute3": "56",
+    "Attribute4": "31",
+    "Attribute5": "61",
+    "Attribute6": "68",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

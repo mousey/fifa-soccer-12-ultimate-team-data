@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Chris",
+    "LastName": "Mitchell",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "7",
+      "Day": "21"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1804",
+    "LeagueId": "61",
+    "NationId": "42",
+    "Rating": "56",
+    "Attribute1": "68",
+    "Attribute2": "38",
+    "Attribute3": "64",
+    "Attribute4": "39",
+    "Attribute5": "55",
+    "Attribute6": "69",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

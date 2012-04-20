@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Lee",
+    "LastName": "Beevers",
+    "CommonName": null,
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "12",
+      "Day": "4"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1803",
+    "LeagueId": "60",
+    "NationId": "50",
+    "Rating": "57",
+    "Attribute1": "60",
+    "Attribute2": "43",
+    "Attribute3": "60",
+    "Attribute4": "37",
+    "Attribute5": "62",
+    "Attribute6": "64",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

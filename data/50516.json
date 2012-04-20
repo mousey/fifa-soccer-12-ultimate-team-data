@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Michael",
+    "LastName": "Duberry",
+    "CommonName": null,
+    "Height": "191",
+    "DateOfBirth": {
+      "Year": "1975",
+      "Month": "10",
+      "Day": "14"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1951",
+    "LeagueId": "61",
+    "NationId": "14",
+    "Rating": "61",
+    "Attribute1": "51",
+    "Attribute2": "33",
+    "Attribute3": "32",
+    "Attribute4": "33",
+    "Attribute5": "69",
+    "Attribute6": "69",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

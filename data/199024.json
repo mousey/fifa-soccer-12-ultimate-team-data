@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Danny",
+    "LastName": "Fallon",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "4",
+      "Day": "8"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111132",
+    "LeagueId": "65",
+    "NationId": "25",
+    "Rating": "50",
+    "Attribute1": "55",
+    "Attribute2": "46",
+    "Attribute3": "53",
+    "Attribute4": "46",
+    "Attribute5": "45",
+    "Attribute6": "52",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

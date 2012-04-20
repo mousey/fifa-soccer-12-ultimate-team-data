@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Matt",
+    "LastName": "Ritchie",
+    "CommonName": null,
+    "Height": "173",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "9",
+      "Day": "10"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1934",
+    "LeagueId": "61",
+    "NationId": "14",
+    "Rating": "64",
+    "Attribute1": "76",
+    "Attribute2": "53",
+    "Attribute3": "48",
+    "Attribute4": "69",
+    "Attribute5": "51",
+    "Attribute6": "52",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Roberto",
+    "LastName": "Soldado Rillo",
+    "CommonName": "Soldado",
+    "Height": "179",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "5",
+      "Day": "27"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "461",
+    "LeagueId": "53",
+    "NationId": "45",
+    "Rating": "82",
+    "Attribute1": "75",
+    "Attribute2": "81",
+    "Attribute3": "60",
+    "Attribute4": "77",
+    "Attribute5": "62",
+    "Attribute6": "80",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

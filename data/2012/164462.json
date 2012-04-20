@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Nedum",
+    "LastName": "Onuoha",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "11",
+      "Day": "12"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "10",
+    "LeagueId": "13",
+    "NationId": "14",
+    "Rating": "74",
+    "Attribute1": "77",
+    "Attribute2": "38",
+    "Attribute3": "60",
+    "Attribute4": "69",
+    "Attribute5": "79",
+    "Attribute6": "76",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

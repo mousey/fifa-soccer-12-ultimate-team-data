@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Kofi",
+    "LastName": "Danning",
+    "CommonName": null,
+    "Height": "171",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "3",
+      "Day": "2"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111395",
+    "LeagueId": "351",
+    "NationId": "195",
+    "Rating": "59",
+    "Attribute1": "91",
+    "Attribute2": "58",
+    "Attribute3": "43",
+    "Attribute4": "68",
+    "Attribute5": "36",
+    "Attribute6": "45",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

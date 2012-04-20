@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Daniele",
+    "LastName": "Padelli",
+    "CommonName": null,
+    "Height": "191",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "10",
+      "Day": "25"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "55",
+    "LeagueId": "31",
+    "NationId": "27",
+    "Rating": "67",
+    "Attribute1": "68",
+    "Attribute2": "67",
+    "Attribute3": "65",
+    "Attribute4": "69",
+    "Attribute5": "45",
+    "Attribute6": "67",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

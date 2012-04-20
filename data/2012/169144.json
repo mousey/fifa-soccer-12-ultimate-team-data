@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Elimane",
+    "LastName": "Coulibaly",
+    "CommonName": null,
+    "Height": "190",
+    "DateOfBirth": {
+      "Year": "1980",
+      "Month": "3",
+      "Day": "15"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "674",
+    "LeagueId": "4",
+    "NationId": "136",
+    "Rating": "69",
+    "Attribute1": "67",
+    "Attribute2": "62",
+    "Attribute3": "50",
+    "Attribute4": "59",
+    "Attribute5": "67",
+    "Attribute6": "75",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

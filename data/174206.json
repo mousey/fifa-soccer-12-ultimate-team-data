@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Glen",
+    "LastName": "Moss",
+    "CommonName": null,
+    "Height": "187",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "1",
+      "Day": "19"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "112078",
+    "LeagueId": "351",
+    "NationId": "198",
+    "Rating": "65",
+    "Attribute1": "70",
+    "Attribute2": "60",
+    "Attribute3": "57",
+    "Attribute4": "68",
+    "Attribute5": "59",
+    "Attribute6": "60",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

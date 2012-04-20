@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Kenneth",
+    "LastName": "Fabricius",
+    "CommonName": null,
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "11",
+      "Day": "3"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1447",
+    "LeagueId": "1",
+    "NationId": "13",
+    "Rating": "63",
+    "Attribute1": "75",
+    "Attribute2": "62",
+    "Attribute3": "49",
+    "Attribute4": "60",
+    "Attribute5": "52",
+    "Attribute6": "63",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

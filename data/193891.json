@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Borja",
+    "LastName": "Viguera Manzanares",
+    "CommonName": "Borja Viguera",
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "3",
+      "Day": "26"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "15019",
+    "LeagueId": "54",
+    "NationId": "45",
+    "Rating": "63",
+    "Attribute1": "63",
+    "Attribute2": "63",
+    "Attribute3": "51",
+    "Attribute4": "64",
+    "Attribute5": "45",
+    "Attribute6": "60",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

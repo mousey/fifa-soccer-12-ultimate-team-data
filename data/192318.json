@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Mario",
+    "LastName": "Götze",
+    "CommonName": null,
+    "Height": "176",
+    "DateOfBirth": {
+      "Year": "1992",
+      "Month": "7",
+      "Day": "3"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "22",
+    "LeagueId": "19",
+    "NationId": "21",
+    "Rating": "84",
+    "Attribute1": "83",
+    "Attribute2": "70",
+    "Attribute3": "78",
+    "Attribute4": "86",
+    "Attribute5": "56",
+    "Attribute6": "57",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

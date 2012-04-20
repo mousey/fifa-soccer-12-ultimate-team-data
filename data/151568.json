@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jonas",
+    "LastName": "Troest",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "3",
+      "Day": "4"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1447",
+    "LeagueId": "1",
+    "NationId": "13",
+    "Rating": "66",
+    "Attribute1": "66",
+    "Attribute2": "26",
+    "Attribute3": "48",
+    "Attribute4": "29",
+    "Attribute5": "69",
+    "Attribute6": "64",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

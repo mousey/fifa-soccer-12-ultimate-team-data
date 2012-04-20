@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Aleksandar",
+    "LastName": "Stankov",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "2",
+      "Day": "19"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1902",
+    "LeagueId": "10",
+    "NationId": "19",
+    "Rating": "57",
+    "Attribute1": "67",
+    "Attribute2": "54",
+    "Attribute3": "31",
+    "Attribute4": "54",
+    "Attribute5": "48",
+    "Attribute6": "57",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

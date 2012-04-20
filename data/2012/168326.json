@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Salvatore",
+    "LastName": "Bocchetti",
+    "CommonName": null,
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "11",
+      "Day": "30"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "110227",
+    "LeagueId": "67",
+    "NationId": "27",
+    "Rating": "77",
+    "Attribute1": "76",
+    "Attribute2": "51",
+    "Attribute3": "62",
+    "Attribute4": "50",
+    "Attribute5": "77",
+    "Attribute6": "77",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

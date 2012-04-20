@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Alexander",
+    "LastName": "Bittroff",
+    "CommonName": null,
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "9",
+      "Day": "19"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "162",
+    "LeagueId": "20",
+    "NationId": "21",
+    "Rating": "64",
+    "Attribute1": "81",
+    "Attribute2": "44",
+    "Attribute3": "56",
+    "Attribute4": "62",
+    "Attribute5": "66",
+    "Attribute6": "58",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Johannes",
+    "LastName": "Brinkies",
+    "CommonName": null,
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1993",
+      "Month": "6",
+      "Day": "20"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "27",
+    "LeagueId": "20",
+    "NationId": "21",
+    "Rating": "55",
+    "Attribute1": "60",
+    "Attribute2": "50",
+    "Attribute3": "67",
+    "Attribute4": "68",
+    "Attribute5": "64",
+    "Attribute6": "44",
+    "Rare": "1",
+    "ItemType": "PlayerGk"
+  }
+}

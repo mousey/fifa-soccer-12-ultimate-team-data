@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ryan",
+    "LastName": "Babel",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "12",
+      "Day": "19"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "10029",
+    "LeagueId": "19",
+    "NationId": "34",
+    "Rating": "77",
+    "Attribute1": "84",
+    "Attribute2": "72",
+    "Attribute3": "68",
+    "Attribute4": "82",
+    "Attribute5": "52",
+    "Attribute6": "68",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

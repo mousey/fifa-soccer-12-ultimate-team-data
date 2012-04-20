@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Alex Rodrigo",
+    "LastName": "Dias da Costa",
+    "CommonName": "Alex",
+    "Height": "189",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "6",
+      "Day": "17"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "5",
+    "LeagueId": "13",
+    "NationId": "54",
+    "Rating": "83",
+    "Attribute1": "66",
+    "Attribute2": "69",
+    "Attribute3": "56",
+    "Attribute4": "58",
+    "Attribute5": "84",
+    "Attribute6": "83",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

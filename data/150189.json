@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Theofanis",
+    "LastName": "Gekas",
+    "CommonName": null,
+    "Height": "179",
+    "DateOfBirth": {
+      "Year": "1980",
+      "Month": "5",
+      "Day": "23"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1824",
+    "LeagueId": "20",
+    "NationId": "22",
+    "Rating": "77",
+    "Attribute1": "81",
+    "Attribute2": "73",
+    "Attribute3": "56",
+    "Attribute4": "74",
+    "Attribute5": "51",
+    "Attribute6": "70",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

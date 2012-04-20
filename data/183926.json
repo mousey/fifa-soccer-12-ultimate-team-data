@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Damien",
+    "LastName": "Plessis",
+    "CommonName": null,
+    "Height": "193",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "3",
+      "Day": "5"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1884",
+    "LeagueId": "63",
+    "NationId": "18",
+    "Rating": "67",
+    "Attribute1": "59",
+    "Attribute2": "57",
+    "Attribute3": "66",
+    "Attribute4": "64",
+    "Attribute5": "67",
+    "Attribute6": "71",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

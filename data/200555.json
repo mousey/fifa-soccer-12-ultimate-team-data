@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Soo Il",
+    "LastName": "Kang",
+    "CommonName": "Kang Soo Il",
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "7",
+      "Day": "15"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1478",
+    "LeagueId": "83",
+    "NationId": "167",
+    "Rating": "61",
+    "Attribute1": "84",
+    "Attribute2": "52",
+    "Attribute3": "54",
+    "Attribute4": "67",
+    "Attribute5": "54",
+    "Attribute6": "70",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

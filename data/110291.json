@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Manuel",
+    "LastName": "Gaspar Haro",
+    "CommonName": "Manolo",
+    "Height": "173",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "2",
+      "Day": "3"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "100851",
+    "LeagueId": "54",
+    "NationId": "45",
+    "Rating": "68",
+    "Attribute1": "75",
+    "Attribute2": "50",
+    "Attribute3": "65",
+    "Attribute4": "59",
+    "Attribute5": "73",
+    "Attribute6": "66",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

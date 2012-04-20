@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Seth",
+    "LastName": "Sinovic",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "1",
+      "Day": "28"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "696",
+    "LeagueId": "39",
+    "NationId": "95",
+    "Rating": "62",
+    "Attribute1": "66",
+    "Attribute2": "48",
+    "Attribute3": "59",
+    "Attribute4": "57",
+    "Attribute5": "64",
+    "Attribute6": "60",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

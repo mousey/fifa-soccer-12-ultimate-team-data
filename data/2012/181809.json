@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Mark",
+    "LastName": "Langtry",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "12",
+      "Day": "9"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "111132",
+    "LeagueId": "65",
+    "NationId": "25",
+    "Rating": "51",
+    "Attribute1": "59",
+    "Attribute2": "41",
+    "Attribute3": "47",
+    "Attribute4": "52",
+    "Attribute5": "57",
+    "Attribute6": "55",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

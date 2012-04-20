@@ -1,0 +1,15 @@
+{
+  "Manager": {
+    "FirstName": "Arsène",
+    "LastName": "Wenger",
+    "NationId": "18",
+    "Value": "81",
+    "Rare": "1",
+    "Weight": "15",
+    "FormationId": "29",
+    "TalkRating": "0",
+    "Negotiation": "3",
+    "AssetId": "1000320",
+    "ItemType": "Manager"
+  }
+}

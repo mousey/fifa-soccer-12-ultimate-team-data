@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Mevlüt",
+    "LastName": "Erdinç",
+    "CommonName": null,
+    "Height": "181",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "2",
+      "Day": "25"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "73",
+    "LeagueId": "16",
+    "NationId": "48",
+    "Rating": "77",
+    "Attribute1": "79",
+    "Attribute2": "73",
+    "Attribute3": "68",
+    "Attribute4": "74",
+    "Attribute5": "62",
+    "Attribute6": "78",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

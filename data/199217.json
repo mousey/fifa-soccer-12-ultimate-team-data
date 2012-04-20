@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jens",
+    "LastName": "Wissing",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "1",
+      "Day": "2"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "10030",
+    "LeagueId": "20",
+    "NationId": "21",
+    "Rating": "62",
+    "Attribute1": "71",
+    "Attribute2": "42",
+    "Attribute3": "62",
+    "Attribute4": "50",
+    "Attribute5": "66",
+    "Attribute6": "62",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

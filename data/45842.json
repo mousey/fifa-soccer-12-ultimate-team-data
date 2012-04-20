@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jonas",
+    "LastName": "Olsson",
+    "CommonName": null,
+    "Height": "193",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "3",
+      "Day": "10"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "109",
+    "LeagueId": "13",
+    "NationId": "46",
+    "Rating": "74",
+    "Attribute1": "55",
+    "Attribute2": "56",
+    "Attribute3": "66",
+    "Attribute4": "50",
+    "Attribute5": "76",
+    "Attribute6": "72",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

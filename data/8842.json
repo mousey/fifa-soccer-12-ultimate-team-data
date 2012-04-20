@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Lionel",
+    "LastName": "Scaloni",
+    "CommonName": null,
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1978",
+      "Month": "5",
+      "Day": "16"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "46",
+    "LeagueId": "31",
+    "NationId": "52",
+    "Rating": "68",
+    "Attribute1": "52",
+    "Attribute2": "65",
+    "Attribute3": "71",
+    "Attribute4": "68",
+    "Attribute5": "70",
+    "Attribute6": "60",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

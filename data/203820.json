@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Karim",
+    "LastName": "Aouadhi",
+    "CommonName": null,
+    "Height": "194",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "5",
+      "Day": "2"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110636",
+    "LeagueId": "20",
+    "NationId": "145",
+    "Rating": "65",
+    "Attribute1": "63",
+    "Attribute2": "56",
+    "Attribute3": "64",
+    "Attribute4": "63",
+    "Attribute5": "70",
+    "Attribute6": "61",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

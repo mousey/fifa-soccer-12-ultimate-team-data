@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Marc",
+    "LastName": "Planus",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "3",
+      "Day": "7"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "59",
+    "LeagueId": "16",
+    "NationId": "18",
+    "Rating": "77",
+    "Attribute1": "65",
+    "Attribute2": "51",
+    "Attribute3": "62",
+    "Attribute4": "49",
+    "Attribute5": "77",
+    "Attribute6": "80",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

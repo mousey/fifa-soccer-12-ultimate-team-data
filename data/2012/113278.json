@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Francesco",
+    "LastName": "Modesto",
+    "CommonName": null,
+    "Height": "177",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "2",
+      "Day": "16"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "50",
+    "LeagueId": "31",
+    "NationId": "27",
+    "Rating": "72",
+    "Attribute1": "77",
+    "Attribute2": "59",
+    "Attribute3": "72",
+    "Attribute4": "68",
+    "Attribute5": "71",
+    "Attribute6": "64",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

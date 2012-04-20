@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Gareth",
+    "LastName": "Ainsworth",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1973",
+      "Month": "5",
+      "Day": "10"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1933",
+    "LeagueId": "60",
+    "NationId": "14",
+    "Rating": "63",
+    "Attribute1": "63",
+    "Attribute2": "62",
+    "Attribute3": "59",
+    "Attribute4": "64",
+    "Attribute5": "51",
+    "Attribute6": "51",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Joris",
+    "LastName": "Van Hout",
+    "CommonName": null,
+    "Height": "187",
+    "DateOfBirth": {
+      "Year": "1977",
+      "Month": "1",
+      "Day": "10"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "681",
+    "LeagueId": "4",
+    "NationId": "7",
+    "Rating": "62",
+    "Attribute1": "36",
+    "Attribute2": "55",
+    "Attribute3": "53",
+    "Attribute4": "52",
+    "Attribute5": "64",
+    "Attribute6": "68",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

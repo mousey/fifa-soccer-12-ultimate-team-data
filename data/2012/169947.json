@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Luke",
+    "LastName": "Summerfield",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "12",
+      "Day": "6"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1936",
+    "LeagueId": "61",
+    "NationId": "14",
+    "Rating": "59",
+    "Attribute1": "66",
+    "Attribute2": "51",
+    "Attribute3": "63",
+    "Attribute4": "58",
+    "Attribute5": "58",
+    "Attribute6": "54",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

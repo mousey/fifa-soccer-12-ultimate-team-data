@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Sebastián",
+    "LastName": "Coates",
+    "CommonName": null,
+    "Height": "196",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "10",
+      "Day": "7"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "9",
+    "LeagueId": "13",
+    "NationId": "60",
+    "Rating": "72",
+    "Attribute1": "68",
+    "Attribute2": "30",
+    "Attribute3": "28",
+    "Attribute4": "25",
+    "Attribute5": "77",
+    "Attribute6": "76",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

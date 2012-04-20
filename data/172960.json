@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Lewis",
+    "LastName": "Grabban",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "1",
+      "Day": "12"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1797",
+    "LeagueId": "61",
+    "NationId": "14",
+    "Rating": "61",
+    "Attribute1": "83",
+    "Attribute2": "60",
+    "Attribute3": "38",
+    "Attribute4": "64",
+    "Attribute5": "48",
+    "Attribute6": "59",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

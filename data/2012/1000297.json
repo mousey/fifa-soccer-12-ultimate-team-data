@@ -1,0 +1,15 @@
+{
+  "Manager": {
+    "FirstName": "Marc",
+    "LastName": "Brys",
+    "NationId": "7",
+    "Value": "65",
+    "Rare": "0",
+    "Weight": "15",
+    "FormationId": "15",
+    "TalkRating": "2",
+    "Negotiation": "0",
+    "AssetId": "1000297",
+    "ItemType": "Manager"
+  }
+}

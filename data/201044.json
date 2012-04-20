@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Steve Leo",
+    "LastName": "Beleck",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1993",
+      "Month": "2",
+      "Day": "10"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "278",
+    "LeagueId": "63",
+    "NationId": "103",
+    "Rating": "63",
+    "Attribute1": "70",
+    "Attribute2": "59",
+    "Attribute3": "49",
+    "Attribute4": "53",
+    "Attribute5": "55",
+    "Attribute6": "71",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

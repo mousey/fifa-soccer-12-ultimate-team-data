@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ho",
+    "LastName": "Lee",
+    "CommonName": "Lee Ho",
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "10",
+      "Day": "22"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1473",
+    "LeagueId": "83",
+    "NationId": "167",
+    "Rating": "65",
+    "Attribute1": "69",
+    "Attribute2": "55",
+    "Attribute3": "61",
+    "Attribute4": "65",
+    "Attribute5": "71",
+    "Attribute6": "66",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

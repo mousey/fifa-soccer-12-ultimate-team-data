@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Chris",
+    "LastName": "Jones",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1993",
+      "Month": "1",
+      "Day": "1"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "91",
+    "LeagueId": "14",
+    "NationId": "14",
+    "Rating": "50",
+    "Attribute1": "53",
+    "Attribute2": "37",
+    "Attribute3": "40",
+    "Attribute4": "39",
+    "Attribute5": "54",
+    "Attribute6": "56",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

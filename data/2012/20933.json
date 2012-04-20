@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Olivier",
+    "LastName": "Sorlin",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "4",
+      "Day": "9"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111271",
+    "LeagueId": "16",
+    "NationId": "18",
+    "Rating": "73",
+    "Attribute1": "57",
+    "Attribute2": "72",
+    "Attribute3": "77",
+    "Attribute4": "78",
+    "Attribute5": "71",
+    "Attribute6": "70",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

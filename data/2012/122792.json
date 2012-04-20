@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Benjamin",
+    "LastName": "De Ceulaer",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "12",
+      "Day": "19"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "2007",
+    "LeagueId": "4",
+    "NationId": "7",
+    "Rating": "71",
+    "Attribute1": "78",
+    "Attribute2": "68",
+    "Attribute3": "65",
+    "Attribute4": "75",
+    "Attribute5": "45",
+    "Attribute6": "48",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

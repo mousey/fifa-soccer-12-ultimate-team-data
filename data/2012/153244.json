@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "André-Pierre",
+    "LastName": "Gignac",
+    "CommonName": null,
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "12",
+      "Day": "5"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "219",
+    "LeagueId": "16",
+    "NationId": "18",
+    "Rating": "78",
+    "Attribute1": "76",
+    "Attribute2": "79",
+    "Attribute3": "73",
+    "Attribute4": "71",
+    "Attribute5": "58",
+    "Attribute6": "76",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Dragan",
+    "LastName": "Djukic",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "7",
+      "Day": "15"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1715",
+    "LeagueId": "189",
+    "NationId": "47",
+    "Rating": "58",
+    "Attribute1": "58",
+    "Attribute2": "54",
+    "Attribute3": "52",
+    "Attribute4": "64",
+    "Attribute5": "43",
+    "Attribute6": "53",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

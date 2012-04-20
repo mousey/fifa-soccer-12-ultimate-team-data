@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Mauro",
+    "LastName": "Cejas",
+    "CommonName": null,
+    "Height": "172",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "8",
+      "Day": "24"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110147",
+    "LeagueId": "341",
+    "NationId": "52",
+    "Rating": "69",
+    "Attribute1": "76",
+    "Attribute2": "65",
+    "Attribute3": "69",
+    "Attribute4": "74",
+    "Attribute5": "50",
+    "Attribute6": "73",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

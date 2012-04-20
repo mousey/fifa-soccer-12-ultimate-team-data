@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Tal",
+    "LastName": "Ben-Haim",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "3",
+      "Day": "31"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1790",
+    "LeagueId": "14",
+    "NationId": "26",
+    "Rating": "70",
+    "Attribute1": "52",
+    "Attribute2": "38",
+    "Attribute3": "48",
+    "Attribute4": "48",
+    "Attribute5": "72",
+    "Attribute6": "75",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

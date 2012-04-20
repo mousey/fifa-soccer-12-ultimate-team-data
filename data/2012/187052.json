@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Yann",
+    "LastName": "M'Vila",
+    "CommonName": null,
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "6",
+      "Day": "29"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "74",
+    "LeagueId": "16",
+    "NationId": "18",
+    "Rating": "81",
+    "Attribute1": "79",
+    "Attribute2": "65",
+    "Attribute3": "72",
+    "Attribute4": "77",
+    "Attribute5": "81",
+    "Attribute6": "65",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Darren",
+    "LastName": "Barr",
+    "CommonName": null,
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "3",
+      "Day": "17"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "80",
+    "LeagueId": "50",
+    "NationId": "42",
+    "Rating": "64",
+    "Attribute1": "63",
+    "Attribute2": "41",
+    "Attribute3": "59",
+    "Attribute4": "57",
+    "Attribute5": "67",
+    "Attribute6": "64",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

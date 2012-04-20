@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Yoann",
+    "LastName": "Lachor",
+    "CommonName": null,
+    "Height": "187",
+    "DateOfBirth": {
+      "Year": "1976",
+      "Month": "1",
+      "Day": "17"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "111376",
+    "LeagueId": "17",
+    "NationId": "18",
+    "Rating": "66",
+    "Attribute1": "31",
+    "Attribute2": "51",
+    "Attribute3": "65",
+    "Attribute4": "56",
+    "Attribute5": "66",
+    "Attribute6": "69",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

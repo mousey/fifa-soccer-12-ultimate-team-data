@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Lee",
+    "LastName": "Nicholls",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1992",
+      "Month": "10",
+      "Day": "5"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1917",
+    "LeagueId": "13",
+    "NationId": "14",
+    "Rating": "57",
+    "Attribute1": "59",
+    "Attribute2": "56",
+    "Attribute3": "52",
+    "Attribute4": "59",
+    "Attribute5": "50",
+    "Attribute6": "58",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Anderson",
+    "LastName": "Cléber Beraldo",
+    "CommonName": "Anderson",
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1980",
+      "Month": "4",
+      "Day": "27"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "112001",
+    "LeagueId": "7",
+    "NationId": "54",
+    "Rating": "68",
+    "Attribute1": "41",
+    "Attribute2": "54",
+    "Attribute3": "53",
+    "Attribute4": "39",
+    "Attribute5": "69",
+    "Attribute6": "77",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

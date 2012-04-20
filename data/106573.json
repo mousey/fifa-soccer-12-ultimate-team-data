@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Victor",
+    "LastName": "Valdés Arribas",
+    "CommonName": "Valdés",
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "1",
+      "Day": "14"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "241",
+    "LeagueId": "53",
+    "NationId": "45",
+    "Rating": "85",
+    "Attribute1": "83",
+    "Attribute2": "81",
+    "Attribute3": "78",
+    "Attribute4": "84",
+    "Attribute5": "60",
+    "Attribute6": "91",
+    "Rare": "1",
+    "ItemType": "PlayerGk"
+  }
+}

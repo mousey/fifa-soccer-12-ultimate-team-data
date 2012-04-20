@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Emilio",
+    "LastName": "Izaguirre",
+    "CommonName": null,
+    "Height": "177",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "5",
+      "Day": "10"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "78",
+    "LeagueId": "50",
+    "NationId": "81",
+    "Rating": "76",
+    "Attribute1": "82",
+    "Attribute2": "52",
+    "Attribute3": "74",
+    "Attribute4": "76",
+    "Attribute5": "74",
+    "Attribute6": "71",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

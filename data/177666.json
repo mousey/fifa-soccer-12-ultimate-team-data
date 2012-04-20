@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Martin",
+    "LastName": "Harnik",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "6",
+      "Day": "10"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "36",
+    "LeagueId": "19",
+    "NationId": "4",
+    "Rating": "76",
+    "Attribute1": "83",
+    "Attribute2": "70",
+    "Attribute3": "69",
+    "Attribute4": "74",
+    "Attribute5": "60",
+    "Attribute6": "71",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

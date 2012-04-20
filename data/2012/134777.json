@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Grégory",
+    "LastName": "Bourillon",
+    "CommonName": null,
+    "Height": "187",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "7",
+      "Day": "1"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "217",
+    "LeagueId": "16",
+    "NationId": "18",
+    "Rating": "71",
+    "Attribute1": "40",
+    "Attribute2": "51",
+    "Attribute3": "66",
+    "Attribute4": "48",
+    "Attribute5": "68",
+    "Attribute6": "74",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

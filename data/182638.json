@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Hugo Eduardo",
+    "LastName": "dos Santos Morais",
+    "CommonName": "Hugo Morais",
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1978",
+      "Month": "2",
+      "Day": "12"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1901",
+    "LeagueId": "308",
+    "NationId": "38",
+    "Rating": "66",
+    "Attribute1": "54",
+    "Attribute2": "69",
+    "Attribute3": "72",
+    "Attribute4": "68",
+    "Attribute5": "62",
+    "Attribute6": "63",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

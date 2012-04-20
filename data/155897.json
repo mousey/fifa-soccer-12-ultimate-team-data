@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Clint",
+    "LastName": "Dempsey",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "3",
+      "Day": "9"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "144",
+    "LeagueId": "13",
+    "NationId": "95",
+    "Rating": "80",
+    "Attribute1": "78",
+    "Attribute2": "78",
+    "Attribute3": "75",
+    "Attribute4": "82",
+    "Attribute5": "59",
+    "Attribute6": "82",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

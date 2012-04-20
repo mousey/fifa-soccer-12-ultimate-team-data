@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Toni",
+    "LastName": "Kroos",
+    "CommonName": null,
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "1",
+      "Day": "4"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "21",
+    "LeagueId": "19",
+    "NationId": "21",
+    "Rating": "81",
+    "Attribute1": "59",
+    "Attribute2": "79",
+    "Attribute3": "84",
+    "Attribute4": "78",
+    "Attribute5": "62",
+    "Attribute6": "54",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

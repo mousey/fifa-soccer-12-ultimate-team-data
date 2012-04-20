@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Marcel",
+    "LastName": "Lenz",
+    "CommonName": null,
+    "Height": "187",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "5",
+      "Day": "3"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1825",
+    "LeagueId": "20",
+    "NationId": "21",
+    "Rating": "60",
+    "Attribute1": "61",
+    "Attribute2": "58",
+    "Attribute3": "56",
+    "Attribute4": "64",
+    "Attribute5": "51",
+    "Attribute6": "61",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

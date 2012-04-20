@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Peter",
+    "LastName": "Odemwingie",
+    "CommonName": null,
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "7",
+      "Day": "15"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "109",
+    "LeagueId": "13",
+    "NationId": "133",
+    "Rating": "78",
+    "Attribute1": "82",
+    "Attribute2": "76",
+    "Attribute3": "65",
+    "Attribute4": "76",
+    "Attribute5": "55",
+    "Attribute6": "74",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

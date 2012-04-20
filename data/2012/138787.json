@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Fernando",
+    "LastName": "Cavenaghi",
+    "CommonName": null,
+    "Height": "181",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "9",
+      "Day": "21"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1876",
+    "LeagueId": "353",
+    "NationId": "52",
+    "Rating": "73",
+    "Attribute1": "70",
+    "Attribute2": "73",
+    "Attribute3": "59",
+    "Attribute4": "68",
+    "Attribute5": "51",
+    "Attribute6": "69",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

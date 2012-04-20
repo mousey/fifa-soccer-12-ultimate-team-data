@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Santiago",
+    "LastName": "Cazorla González",
+    "CommonName": "Santi Cazorla",
+    "Height": "168",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "12",
+      "Day": "13"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "573",
+    "LeagueId": "53",
+    "NationId": "45",
+    "Rating": "84",
+    "Attribute1": "81",
+    "Attribute2": "75",
+    "Attribute3": "81",
+    "Attribute4": "87",
+    "Attribute5": "55",
+    "Attribute6": "63",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Tommy",
+    "LastName": "Elphick",
+    "CommonName": null,
+    "Height": "187",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "9",
+      "Day": "7"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1808",
+    "LeagueId": "14",
+    "NationId": "14",
+    "Rating": "65",
+    "Attribute1": "62",
+    "Attribute2": "38",
+    "Attribute3": "49",
+    "Attribute4": "46",
+    "Attribute5": "67",
+    "Attribute6": "71",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

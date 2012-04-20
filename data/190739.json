@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Alberto Rafael",
+    "LastName": "da Silva",
+    "CommonName": "Rafael",
+    "Height": "192",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "3",
+      "Day": "24"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "112119",
+    "LeagueId": "7",
+    "NationId": "54",
+    "Rating": "70",
+    "Attribute1": "73",
+    "Attribute2": "68",
+    "Attribute3": "64",
+    "Attribute4": "74",
+    "Attribute5": "32",
+    "Attribute6": "68",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

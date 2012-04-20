@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Antonio",
+    "LastName": "Longás Ferrer",
+    "CommonName": "Longás",
+    "Height": "174",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "8",
+      "Day": "24"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "15019",
+    "LeagueId": "54",
+    "NationId": "45",
+    "Rating": "68",
+    "Attribute1": "65",
+    "Attribute2": "52",
+    "Attribute3": "70",
+    "Attribute4": "70",
+    "Attribute5": "53",
+    "Attribute6": "50",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

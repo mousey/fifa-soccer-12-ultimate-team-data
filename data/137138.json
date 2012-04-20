@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Riccardo",
+    "LastName": "Colombo",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "12",
+      "Day": "1"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "203",
+    "LeagueId": "32",
+    "NationId": "27",
+    "Rating": "64",
+    "Attribute1": "75",
+    "Attribute2": "54",
+    "Attribute3": "60",
+    "Attribute4": "60",
+    "Attribute5": "68",
+    "Attribute6": "64",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

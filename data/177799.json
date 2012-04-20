@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Stefan",
+    "LastName": "Glarner",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "11",
+      "Day": "21"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110770",
+    "LeagueId": "189",
+    "NationId": "47",
+    "Rating": "58",
+    "Attribute1": "67",
+    "Attribute2": "50",
+    "Attribute3": "55",
+    "Attribute4": "57",
+    "Attribute5": "57",
+    "Attribute6": "50",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

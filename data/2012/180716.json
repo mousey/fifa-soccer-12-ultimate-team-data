@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Luiz Rhodolfo",
+    "LastName": "Dini Gaioto",
+    "CommonName": "Rhodolfo",
+    "Height": "193",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "8",
+      "Day": "11"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "598",
+    "LeagueId": "7",
+    "NationId": "54",
+    "Rating": "74",
+    "Attribute1": "61",
+    "Attribute2": "55",
+    "Attribute3": "59",
+    "Attribute4": "55",
+    "Attribute5": "77",
+    "Attribute6": "67",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

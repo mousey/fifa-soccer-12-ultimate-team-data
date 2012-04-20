@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Welliton",
+    "LastName": "Soares de Morais",
+    "CommonName": "Welliton",
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "10",
+      "Day": "22"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "100767",
+    "LeagueId": "67",
+    "NationId": "54",
+    "Rating": "83",
+    "Attribute1": "92",
+    "Attribute2": "81",
+    "Attribute3": "68",
+    "Attribute4": "75",
+    "Attribute5": "56",
+    "Attribute6": "82",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

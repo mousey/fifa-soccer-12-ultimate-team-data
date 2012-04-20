@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Stewart",
+    "LastName": "Downing",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "7",
+      "Day": "22"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "9",
+    "LeagueId": "13",
+    "NationId": "14",
+    "Rating": "82",
+    "Attribute1": "82",
+    "Attribute2": "78",
+    "Attribute3": "82",
+    "Attribute4": "82",
+    "Attribute5": "56",
+    "Attribute6": "60",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

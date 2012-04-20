@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Nick",
+    "LastName": "van der Velden",
+    "CommonName": null,
+    "Height": "187",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "12",
+      "Day": "16"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1910",
+    "LeagueId": "10",
+    "NationId": "34",
+    "Rating": "65",
+    "Attribute1": "57",
+    "Attribute2": "60",
+    "Attribute3": "67",
+    "Attribute4": "65",
+    "Attribute5": "67",
+    "Attribute6": "61",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

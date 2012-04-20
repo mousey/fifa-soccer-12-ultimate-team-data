@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Kishō",
+    "LastName": "Yano",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "4",
+      "Day": "5"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "25",
+    "LeagueId": "19",
+    "NationId": "163",
+    "Rating": "67",
+    "Attribute1": "59",
+    "Attribute2": "63",
+    "Attribute3": "53",
+    "Attribute4": "70",
+    "Attribute5": "49",
+    "Attribute6": "72",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

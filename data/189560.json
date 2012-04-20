@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Vicente",
+    "LastName": "Iborra de la Fuente",
+    "CommonName": "Iborra",
+    "Height": "190",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "1",
+      "Day": "16"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1853",
+    "LeagueId": "53",
+    "NationId": "45",
+    "Rating": "72",
+    "Attribute1": "51",
+    "Attribute2": "55",
+    "Attribute3": "63",
+    "Attribute4": "59",
+    "Attribute5": "76",
+    "Attribute6": "58",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

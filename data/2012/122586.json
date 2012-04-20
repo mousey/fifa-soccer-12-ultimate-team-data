@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ryan",
+    "LastName": "Stevenson",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "8",
+      "Day": "24"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "80",
+    "LeagueId": "50",
+    "NationId": "42",
+    "Rating": "67",
+    "Attribute1": "67",
+    "Attribute2": "65",
+    "Attribute3": "63",
+    "Attribute4": "67",
+    "Attribute5": "64",
+    "Attribute6": "68",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

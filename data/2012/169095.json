@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "David",
+    "LastName": "Obua",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "4",
+      "Day": "10"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "80",
+    "LeagueId": "50",
+    "NationId": "146",
+    "Rating": "64",
+    "Attribute1": "74",
+    "Attribute2": "60",
+    "Attribute3": "60",
+    "Attribute4": "66",
+    "Attribute5": "61",
+    "Attribute6": "75",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

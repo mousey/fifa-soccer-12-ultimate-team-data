@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Javier",
+    "LastName": "Peral Perianes",
+    "CommonName": "Javito",
+    "Height": "173",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "11",
+      "Day": "4"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "280",
+    "LeagueId": "63",
+    "NationId": "45",
+    "Rating": "72",
+    "Attribute1": "89",
+    "Attribute2": "68",
+    "Attribute3": "65",
+    "Attribute4": "71",
+    "Attribute5": "52",
+    "Attribute6": "56",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

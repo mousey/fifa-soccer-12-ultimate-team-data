@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Dong Min",
+    "LastName": "Yoo",
+    "CommonName": "Yoo Dong Min",
+    "Height": "191",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "3",
+      "Day": "27"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "112258",
+    "LeagueId": "83",
+    "NationId": "167",
+    "Rating": "60",
+    "Attribute1": "71",
+    "Attribute2": "55",
+    "Attribute3": "55",
+    "Attribute4": "61",
+    "Attribute5": "61",
+    "Attribute6": "56",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

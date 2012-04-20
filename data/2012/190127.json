@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Juan Estiven",
+    "LastName": "Vélez",
+    "CommonName": null,
+    "Height": "172",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "2",
+      "Day": "9"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1473",
+    "LeagueId": "83",
+    "NationId": "56",
+    "Rating": "66",
+    "Attribute1": "73",
+    "Attribute2": "26",
+    "Attribute3": "66",
+    "Attribute4": "66",
+    "Attribute5": "59",
+    "Attribute6": "57",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

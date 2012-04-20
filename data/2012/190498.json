@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Luca",
+    "LastName": "Moscatiello",
+    "CommonName": null,
+    "Height": "177",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "5",
+      "Day": "25"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "110915",
+    "LeagueId": "31",
+    "NationId": "27",
+    "Rating": "63",
+    "Attribute1": "65",
+    "Attribute2": "59",
+    "Attribute3": "67",
+    "Attribute4": "63",
+    "Attribute5": "47",
+    "Attribute6": "40",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

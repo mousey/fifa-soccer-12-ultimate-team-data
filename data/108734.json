@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Frankie",
+    "LastName": "Hejduk",
+    "CommonName": null,
+    "Height": "173",
+    "DateOfBirth": {
+      "Year": "1974",
+      "Month": "8",
+      "Day": "5"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "697",
+    "LeagueId": "39",
+    "NationId": "95",
+    "Rating": "62",
+    "Attribute1": "70",
+    "Attribute2": "53",
+    "Attribute3": "51",
+    "Attribute4": "55",
+    "Attribute5": "63",
+    "Attribute6": "64",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

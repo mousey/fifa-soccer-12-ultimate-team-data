@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Lex",
+    "LastName": "Immers",
+    "CommonName": null,
+    "Height": "187",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "6",
+      "Day": "8"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "650",
+    "LeagueId": "10",
+    "NationId": "34",
+    "Rating": "69",
+    "Attribute1": "61",
+    "Attribute2": "64",
+    "Attribute3": "68",
+    "Attribute4": "65",
+    "Attribute5": "69",
+    "Attribute6": "69",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

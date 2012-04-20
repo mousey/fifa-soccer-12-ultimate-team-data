@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Benny",
+    "LastName": "Feilhaber",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "1",
+      "Day": "19"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "691",
+    "LeagueId": "39",
+    "NationId": "95",
+    "Rating": "74",
+    "Attribute1": "70",
+    "Attribute2": "66",
+    "Attribute3": "70",
+    "Attribute4": "74",
+    "Attribute5": "66",
+    "Attribute6": "65",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ezequiel",
+    "LastName": "Schelotto",
+    "CommonName": null,
+    "Height": "187",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "5",
+      "Day": "23"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "39",
+    "LeagueId": "31",
+    "NationId": "27",
+    "Rating": "73",
+    "Attribute1": "81",
+    "Attribute2": "61",
+    "Attribute3": "71",
+    "Attribute4": "73",
+    "Attribute5": "72",
+    "Attribute6": "70",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

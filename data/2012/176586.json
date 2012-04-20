@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Juan Ángel",
+    "LastName": "Albín",
+    "CommonName": null,
+    "Height": "179",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "7",
+      "Day": "17"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "452",
+    "LeagueId": "53",
+    "NationId": "60",
+    "Rating": "75",
+    "Attribute1": "76",
+    "Attribute2": "69",
+    "Attribute3": "68",
+    "Attribute4": "79",
+    "Attribute5": "57",
+    "Attribute6": "63",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

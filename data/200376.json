@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Leon",
+    "LastName": "Broekhof",
+    "CommonName": null,
+    "Height": "189",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "5",
+      "Day": "14"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1902",
+    "LeagueId": "10",
+    "NationId": "34",
+    "Rating": "63",
+    "Attribute1": "49",
+    "Attribute2": "39",
+    "Attribute3": "55",
+    "Attribute4": "55",
+    "Attribute5": "68",
+    "Attribute6": "63",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

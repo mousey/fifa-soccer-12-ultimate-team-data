@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Chris",
+    "LastName": "Greenacre",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1977",
+      "Month": "12",
+      "Day": "23"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111766",
+    "LeagueId": "351",
+    "NationId": "14",
+    "Rating": "62",
+    "Attribute1": "63",
+    "Attribute2": "60",
+    "Attribute3": "42",
+    "Attribute4": "56",
+    "Attribute5": "52",
+    "Attribute6": "69",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

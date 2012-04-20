@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Marko",
+    "LastName": "Vejinović",
+    "CommonName": null,
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "2",
+      "Day": "3"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "100634",
+    "LeagueId": "10",
+    "NationId": "34",
+    "Rating": "69",
+    "Attribute1": "66",
+    "Attribute2": "65",
+    "Attribute3": "66",
+    "Attribute4": "70",
+    "Attribute5": "61",
+    "Attribute6": "61",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

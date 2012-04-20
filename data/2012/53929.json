@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Richard",
+    "LastName": "Naylor",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1977",
+      "Month": "2",
+      "Day": "28"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "142",
+    "LeagueId": "14",
+    "NationId": "14",
+    "Rating": "66",
+    "Attribute1": "51",
+    "Attribute2": "49",
+    "Attribute3": "50",
+    "Attribute4": "56",
+    "Attribute5": "68",
+    "Attribute6": "71",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

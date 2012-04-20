@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Andrej",
+    "LastName": "Komac",
+    "CommonName": null,
+    "Height": "176",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "12",
+      "Day": "4"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "874",
+    "LeagueId": "66",
+    "NationId": "44",
+    "Rating": "61",
+    "Attribute1": "78",
+    "Attribute2": "60",
+    "Attribute3": "61",
+    "Attribute4": "62",
+    "Attribute5": "65",
+    "Attribute6": "69",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

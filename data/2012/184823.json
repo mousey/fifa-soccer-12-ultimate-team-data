@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Djalma Braume",
+    "LastName": "Manuel Abel Campos",
+    "CommonName": "Djalma",
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "5",
+      "Day": "30"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "236",
+    "LeagueId": "308",
+    "NationId": "98",
+    "Rating": "75",
+    "Attribute1": "86",
+    "Attribute2": "69",
+    "Attribute3": "66",
+    "Attribute4": "77",
+    "Attribute5": "54",
+    "Attribute6": "60",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

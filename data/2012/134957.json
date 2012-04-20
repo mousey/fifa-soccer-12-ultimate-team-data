@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Benni",
+    "LastName": "McCarthy",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1977",
+      "Month": "11",
+      "Day": "12"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110930",
+    "LeagueId": "347",
+    "NationId": "140",
+    "Rating": "72",
+    "Attribute1": "70",
+    "Attribute2": "74",
+    "Attribute3": "60",
+    "Attribute4": "71",
+    "Attribute5": "53",
+    "Attribute6": "73",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

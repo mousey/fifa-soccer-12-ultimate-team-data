@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jude",
+    "LastName": "Stirling",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "6",
+      "Day": "29"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1937",
+    "LeagueId": "60",
+    "NationId": "14",
+    "Rating": "56",
+    "Attribute1": "65",
+    "Attribute2": "38",
+    "Attribute3": "56",
+    "Attribute4": "51",
+    "Attribute5": "67",
+    "Attribute6": "67",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

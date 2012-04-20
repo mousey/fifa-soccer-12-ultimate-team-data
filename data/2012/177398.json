@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ivo",
+    "LastName": "Iličević",
+    "CommonName": null,
+    "Height": "174",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "11",
+      "Day": "14"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "28",
+    "LeagueId": "19",
+    "NationId": "10",
+    "Rating": "77",
+    "Attribute1": "80",
+    "Attribute2": "76",
+    "Attribute3": "74",
+    "Attribute4": "82",
+    "Attribute5": "49",
+    "Attribute6": "62",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

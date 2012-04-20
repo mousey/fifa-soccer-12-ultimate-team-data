@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "James",
+    "LastName": "Tavernier",
+    "CommonName": null,
+    "Height": "181",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "10",
+      "Day": "31"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1480",
+    "LeagueId": "60",
+    "NationId": "14",
+    "Rating": "58",
+    "Attribute1": "69",
+    "Attribute2": "33",
+    "Attribute3": "51",
+    "Attribute4": "54",
+    "Attribute5": "57",
+    "Attribute6": "59",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

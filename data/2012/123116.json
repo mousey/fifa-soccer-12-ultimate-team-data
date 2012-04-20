@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Sanharib",
+    "LastName": "Malki",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "3",
+      "Day": "1"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1902",
+    "LeagueId": "10",
+    "NationId": "186",
+    "Rating": "64",
+    "Attribute1": "75",
+    "Attribute2": "61",
+    "Attribute3": "49",
+    "Attribute4": "60",
+    "Attribute5": "49",
+    "Attribute6": "71",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

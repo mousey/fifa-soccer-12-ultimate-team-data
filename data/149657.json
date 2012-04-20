@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ken",
+    "LastName": "Oman",
+    "CommonName": null,
+    "Height": "191",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "7",
+      "Day": "29"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "306",
+    "LeagueId": "65",
+    "NationId": "25",
+    "Rating": "63",
+    "Attribute1": "54",
+    "Attribute2": "36",
+    "Attribute3": "43",
+    "Attribute4": "28",
+    "Attribute5": "68",
+    "Attribute6": "71",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

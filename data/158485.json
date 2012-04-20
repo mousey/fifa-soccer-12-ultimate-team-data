@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "João Carlos",
+    "LastName": "Pinto Chaves",
+    "CommonName": "João Carlos",
+    "Height": "189",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "1",
+      "Day": "1"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "100766",
+    "LeagueId": "67",
+    "NationId": "54",
+    "Rating": "73",
+    "Attribute1": "68",
+    "Attribute2": "56",
+    "Attribute3": "65",
+    "Attribute4": "63",
+    "Attribute5": "75",
+    "Attribute6": "71",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

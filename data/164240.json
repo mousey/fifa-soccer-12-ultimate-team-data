@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Thiago Emiliano",
+    "LastName": "da Silva",
+    "CommonName": "Thiago Silva",
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "9",
+      "Day": "22"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "47",
+    "LeagueId": "31",
+    "NationId": "54",
+    "Rating": "87",
+    "Attribute1": "83",
+    "Attribute2": "68",
+    "Attribute3": "74",
+    "Attribute4": "68",
+    "Attribute5": "86",
+    "Attribute6": "86",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

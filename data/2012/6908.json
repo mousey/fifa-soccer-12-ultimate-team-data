@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Dejan",
+    "LastName": "Stanković",
+    "CommonName": null,
+    "Height": "181",
+    "DateOfBirth": {
+      "Year": "1978",
+      "Month": "9",
+      "Day": "11"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "44",
+    "LeagueId": "31",
+    "NationId": "51",
+    "Rating": "80",
+    "Attribute1": "53",
+    "Attribute2": "78",
+    "Attribute3": "82",
+    "Attribute4": "75",
+    "Attribute5": "74",
+    "Attribute6": "60",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

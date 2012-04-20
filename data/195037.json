@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Danny",
+    "LastName": "Batth",
+    "CommonName": null,
+    "Height": "191",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "9",
+      "Day": "21"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1807",
+    "LeagueId": "60",
+    "NationId": "14",
+    "Rating": "62",
+    "Attribute1": "49",
+    "Attribute2": "22",
+    "Attribute3": "46",
+    "Attribute4": "35",
+    "Attribute5": "65",
+    "Attribute6": "71",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

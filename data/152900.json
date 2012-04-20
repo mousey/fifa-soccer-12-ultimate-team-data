@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ned",
+    "LastName": "Grabavoy",
+    "CommonName": null,
+    "Height": "170",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "7",
+      "Day": "1"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "111065",
+    "LeagueId": "39",
+    "NationId": "95",
+    "Rating": "65",
+    "Attribute1": "65",
+    "Attribute2": "57",
+    "Attribute3": "63",
+    "Attribute4": "66",
+    "Attribute5": "62",
+    "Attribute6": "60",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

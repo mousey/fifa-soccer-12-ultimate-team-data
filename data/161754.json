@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Fran. Javier",
+    "LastName": "García Fernández",
+    "CommonName": "Javi García",
+    "Height": "187",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "2",
+      "Day": "8"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "234",
+    "LeagueId": "308",
+    "NationId": "45",
+    "Rating": "80",
+    "Attribute1": "64",
+    "Attribute2": "69",
+    "Attribute3": "74",
+    "Attribute4": "66",
+    "Attribute5": "83",
+    "Attribute6": "80",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

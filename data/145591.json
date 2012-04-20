@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Miguel Angel",
+    "LastName": "Llera Garzón",
+    "CommonName": "Miguel Llera",
+    "Height": "193",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "8",
+      "Day": "7"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1926",
+    "LeagueId": "14",
+    "NationId": "45",
+    "Rating": "63",
+    "Attribute1": "53",
+    "Attribute2": "55",
+    "Attribute3": "57",
+    "Attribute4": "45",
+    "Attribute5": "67",
+    "Attribute6": "72",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jean-Sylvain",
+    "LastName": "Babin",
+    "CommonName": null,
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "10",
+      "Day": "14"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "100831",
+    "LeagueId": "54",
+    "NationId": "18",
+    "Rating": "66",
+    "Attribute1": "51",
+    "Attribute2": "36",
+    "Attribute3": "45",
+    "Attribute4": "34",
+    "Attribute5": "72",
+    "Attribute6": "79",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

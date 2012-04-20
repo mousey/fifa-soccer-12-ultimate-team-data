@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Bailey",
+    "LastName": "Wright",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1992",
+      "Month": "7",
+      "Day": "28"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1801",
+    "LeagueId": "60",
+    "NationId": "195",
+    "Rating": "58",
+    "Attribute1": "56",
+    "Attribute2": "38",
+    "Attribute3": "34",
+    "Attribute4": "40",
+    "Attribute5": "60",
+    "Attribute6": "65",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Marcin",
+    "LastName": "Baszczyński",
+    "CommonName": null,
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1977",
+      "Month": "6",
+      "Day": "7"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1570",
+    "LeagueId": "66",
+    "NationId": "37",
+    "Rating": "64",
+    "Attribute1": "75",
+    "Attribute2": "52",
+    "Attribute3": "62",
+    "Attribute4": "65",
+    "Attribute5": "65",
+    "Attribute6": "60",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

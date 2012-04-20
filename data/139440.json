@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Sang Sik",
+    "LastName": "Kim",
+    "CommonName": "Kim Sang Sik",
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1976",
+      "Month": "12",
+      "Day": "17"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1477",
+    "LeagueId": "83",
+    "NationId": "167",
+    "Rating": "67",
+    "Attribute1": "71",
+    "Attribute2": "54",
+    "Attribute3": "64",
+    "Attribute4": "65",
+    "Attribute5": "70",
+    "Attribute6": "75",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Christopher",
+    "LastName": "Wernitznig",
+    "CommonName": null,
+    "Height": "179",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "2",
+      "Day": "24"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "2045",
+    "LeagueId": "80",
+    "NationId": "4",
+    "Rating": "50",
+    "Attribute1": "67",
+    "Attribute2": "39",
+    "Attribute3": "40",
+    "Attribute4": "55",
+    "Attribute5": "53",
+    "Attribute6": "42",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

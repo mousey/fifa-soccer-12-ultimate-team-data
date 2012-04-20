@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jürgen",
+    "LastName": "Patocka",
+    "CommonName": null,
+    "Height": "192",
+    "DateOfBirth": {
+      "Year": "1977",
+      "Month": "7",
+      "Day": "30"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "254",
+    "LeagueId": "80",
+    "NationId": "4",
+    "Rating": "62",
+    "Attribute1": "31",
+    "Attribute2": "38",
+    "Attribute3": "40",
+    "Attribute4": "33",
+    "Attribute5": "68",
+    "Attribute6": "72",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

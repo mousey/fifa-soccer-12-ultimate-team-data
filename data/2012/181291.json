@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Georginio",
+    "LastName": "Wijnaldum",
+    "CommonName": null,
+    "Height": "172",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "11",
+      "Day": "11"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "247",
+    "LeagueId": "10",
+    "NationId": "34",
+    "Rating": "75",
+    "Attribute1": "86",
+    "Attribute2": "71",
+    "Attribute3": "63",
+    "Attribute4": "86",
+    "Attribute5": "53",
+    "Attribute6": "73",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Reto",
+    "LastName": "Ziegler",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "1",
+      "Day": "16"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "45",
+    "LeagueId": "31",
+    "NationId": "47",
+    "Rating": "78",
+    "Attribute1": "76",
+    "Attribute2": "70",
+    "Attribute3": "76",
+    "Attribute4": "75",
+    "Attribute5": "73",
+    "Attribute6": "69",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

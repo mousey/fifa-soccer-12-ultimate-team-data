@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jesús",
+    "LastName": "Mendoza Aguirre",
+    "CommonName": "Mendoza",
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1977",
+      "Month": "2",
+      "Day": "23"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1742",
+    "LeagueId": "54",
+    "NationId": "45",
+    "Rating": "63",
+    "Attribute1": "68",
+    "Attribute2": "44",
+    "Attribute3": "63",
+    "Attribute4": "56",
+    "Attribute5": "65",
+    "Attribute6": "55",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

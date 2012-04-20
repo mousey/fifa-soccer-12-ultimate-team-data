@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Tom",
+    "LastName": "Clarke",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "12",
+      "Day": "21"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1939",
+    "LeagueId": "60",
+    "NationId": "14",
+    "Rating": "59",
+    "Attribute1": "64",
+    "Attribute2": "31",
+    "Attribute3": "46",
+    "Attribute4": "26",
+    "Attribute5": "64",
+    "Attribute6": "62",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

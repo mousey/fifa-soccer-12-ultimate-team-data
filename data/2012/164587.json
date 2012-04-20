@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Dan",
+    "LastName": "Gargan",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "12",
+      "Day": "14"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "693",
+    "LeagueId": "39",
+    "NationId": "95",
+    "Rating": "61",
+    "Attribute1": "66",
+    "Attribute2": "49",
+    "Attribute3": "54",
+    "Attribute4": "53",
+    "Attribute5": "63",
+    "Attribute6": "61",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Sébastien",
+    "LastName": "Bassong",
+    "CommonName": null,
+    "Height": "187",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "7",
+      "Day": "9"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "18",
+    "LeagueId": "13",
+    "NationId": "103",
+    "Rating": "75",
+    "Attribute1": "77",
+    "Attribute2": "42",
+    "Attribute3": "55",
+    "Attribute4": "34",
+    "Attribute5": "76",
+    "Attribute6": "79",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

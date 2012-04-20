@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Lucas",
+    "LastName": "Barrios",
+    "CommonName": null,
+    "Height": "187",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "11",
+      "Day": "13"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "22",
+    "LeagueId": "19",
+    "NationId": "58",
+    "Rating": "83",
+    "Attribute1": "79",
+    "Attribute2": "77",
+    "Attribute3": "58",
+    "Attribute4": "77",
+    "Attribute5": "60",
+    "Attribute6": "80",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

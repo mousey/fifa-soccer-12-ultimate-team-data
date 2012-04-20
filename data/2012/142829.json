@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Leandro",
+    "LastName": "Somoza",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "1",
+      "Day": "26"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1877",
+    "LeagueId": "353",
+    "NationId": "52",
+    "Rating": "71",
+    "Attribute1": "70",
+    "Attribute2": "53",
+    "Attribute3": "65",
+    "Attribute4": "64",
+    "Attribute5": "71",
+    "Attribute6": "74",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

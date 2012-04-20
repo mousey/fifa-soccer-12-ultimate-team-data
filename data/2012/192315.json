@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Henrique",
+    "LastName": "de Andrade Silva",
+    "CommonName": "Henrique",
+    "Height": "165",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "5",
+      "Day": "9"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111395",
+    "LeagueId": "351",
+    "NationId": "54",
+    "Rating": "67",
+    "Attribute1": "86",
+    "Attribute2": "54",
+    "Attribute3": "49",
+    "Attribute4": "77",
+    "Attribute5": "36",
+    "Attribute6": "22",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

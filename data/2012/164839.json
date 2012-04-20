@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Michael",
+    "LastName": "Parkhurst",
+    "CommonName": null,
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "1",
+      "Day": "24"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1788",
+    "LeagueId": "1",
+    "NationId": "95",
+    "Rating": "67",
+    "Attribute1": "64",
+    "Attribute2": "39",
+    "Attribute3": "51",
+    "Attribute4": "48",
+    "Attribute5": "67",
+    "Attribute6": "71",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

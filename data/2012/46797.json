@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Eddie",
+    "LastName": "Robinson",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1978",
+      "Month": "6",
+      "Day": "19"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "698",
+    "LeagueId": "39",
+    "NationId": "95",
+    "Rating": "64",
+    "Attribute1": "33",
+    "Attribute2": "35",
+    "Attribute3": "48",
+    "Attribute4": "43",
+    "Attribute5": "68",
+    "Attribute6": "66",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

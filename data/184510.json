@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Daniele",
+    "LastName": "Magliocchetti",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "5",
+      "Day": "11"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1842",
+    "LeagueId": "31",
+    "NationId": "27",
+    "Rating": "66",
+    "Attribute1": "64",
+    "Attribute2": "32",
+    "Attribute3": "59",
+    "Attribute4": "41",
+    "Attribute5": "70",
+    "Attribute6": "63",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

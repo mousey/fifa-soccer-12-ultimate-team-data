@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Bram",
+    "LastName": "Castro",
+    "CommonName": null,
+    "Height": "191",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "9",
+      "Day": "30"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "680",
+    "LeagueId": "4",
+    "NationId": "7",
+    "Rating": "65",
+    "Attribute1": "65",
+    "Attribute2": "65",
+    "Attribute3": "67",
+    "Attribute4": "66",
+    "Attribute5": "54",
+    "Attribute6": "64",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

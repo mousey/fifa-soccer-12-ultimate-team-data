@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Guillaume",
+    "LastName": "Ducatel",
+    "CommonName": null,
+    "Height": "174",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "1",
+      "Day": "21"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "111376",
+    "LeagueId": "17",
+    "NationId": "18",
+    "Rating": "57",
+    "Attribute1": "57",
+    "Attribute2": "49",
+    "Attribute3": "57",
+    "Attribute4": "54",
+    "Attribute5": "59",
+    "Attribute6": "57",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

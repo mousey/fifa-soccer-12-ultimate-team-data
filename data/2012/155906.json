@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Márton",
+    "LastName": "Fülöp",
+    "CommonName": null,
+    "Height": "198",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "5",
+      "Day": "3"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "109",
+    "LeagueId": "13",
+    "NationId": "23",
+    "Rating": "71",
+    "Attribute1": "75",
+    "Attribute2": "63",
+    "Attribute3": "65",
+    "Attribute4": "76",
+    "Attribute5": "53",
+    "Attribute6": "68",
+    "Rare": "1",
+    "ItemType": "PlayerGk"
+  }
+}

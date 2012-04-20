@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Pape Abdou",
+    "LastName": "Camara",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "9",
+      "Day": "21"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "232",
+    "LeagueId": "4",
+    "NationId": "136",
+    "Rating": "66",
+    "Attribute1": "81",
+    "Attribute2": "54",
+    "Attribute3": "58",
+    "Attribute4": "59",
+    "Attribute5": "72",
+    "Attribute6": "75",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

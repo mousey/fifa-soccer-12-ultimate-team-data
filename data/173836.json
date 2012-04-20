@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Lewis",
+    "LastName": "Alessandra",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "2",
+      "Day": "8"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "357",
+    "LeagueId": "61",
+    "NationId": "14",
+    "Rating": "59",
+    "Attribute1": "75",
+    "Attribute2": "52",
+    "Attribute3": "45",
+    "Attribute4": "68",
+    "Attribute5": "48",
+    "Attribute6": "47",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

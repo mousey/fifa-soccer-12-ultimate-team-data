@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Brad",
+    "LastName": "Friedel",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1971",
+      "Month": "5",
+      "Day": "18"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "18",
+    "LeagueId": "13",
+    "NationId": "95",
+    "Rating": "81",
+    "Attribute1": "77",
+    "Attribute2": "83",
+    "Attribute3": "80",
+    "Attribute4": "82",
+    "Attribute5": "45",
+    "Attribute6": "84",
+    "Rare": "1",
+    "ItemType": "PlayerGk"
+  }
+}

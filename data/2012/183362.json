@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Mamadou",
+    "LastName": "Bah",
+    "CommonName": null,
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "4",
+      "Day": "25"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "36",
+    "LeagueId": "19",
+    "NationId": "118",
+    "Rating": "69",
+    "Attribute1": "73",
+    "Attribute2": "59",
+    "Attribute3": "63",
+    "Attribute4": "64",
+    "Attribute5": "70",
+    "Attribute6": "69",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

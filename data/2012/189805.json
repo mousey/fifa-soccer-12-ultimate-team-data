@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Luuk",
+    "LastName": "de Jong",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "8",
+      "Day": "27"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1908",
+    "LeagueId": "10",
+    "NationId": "34",
+    "Rating": "76",
+    "Attribute1": "71",
+    "Attribute2": "74",
+    "Attribute3": "67",
+    "Attribute4": "78",
+    "Attribute5": "56",
+    "Attribute6": "70",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

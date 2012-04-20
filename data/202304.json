@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Sun Young",
+    "LastName": "Lim",
+    "CommonName": "Lim Sun Young",
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "3",
+      "Day": "21"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "112258",
+    "LeagueId": "83",
+    "NationId": "167",
+    "Rating": "62",
+    "Attribute1": "75",
+    "Attribute2": "55",
+    "Attribute3": "60",
+    "Attribute4": "62",
+    "Attribute5": "53",
+    "Attribute6": "58",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

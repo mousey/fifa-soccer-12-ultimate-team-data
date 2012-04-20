@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Dean",
+    "LastName": "Bowditch",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "6",
+      "Day": "15"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1798",
+    "LeagueId": "60",
+    "NationId": "14",
+    "Rating": "63",
+    "Attribute1": "77",
+    "Attribute2": "60",
+    "Attribute3": "42",
+    "Attribute4": "61",
+    "Attribute5": "52",
+    "Attribute6": "64",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

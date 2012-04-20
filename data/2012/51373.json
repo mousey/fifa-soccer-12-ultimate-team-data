@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "David",
+    "LastName": "Dunn",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "12",
+      "Day": "27"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "3",
+    "LeagueId": "13",
+    "NationId": "14",
+    "Rating": "76",
+    "Attribute1": "54",
+    "Attribute2": "75",
+    "Attribute3": "70",
+    "Attribute4": "75",
+    "Attribute5": "66",
+    "Attribute6": "69",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ross",
+    "LastName": "McCormack",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "8",
+      "Day": "18"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "8",
+    "LeagueId": "14",
+    "NationId": "42",
+    "Rating": "69",
+    "Attribute1": "75",
+    "Attribute2": "71",
+    "Attribute3": "62",
+    "Attribute4": "69",
+    "Attribute5": "49",
+    "Attribute6": "60",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

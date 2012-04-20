@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Herculez",
+    "LastName": "Gomez",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "4",
+      "Day": "6"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110780",
+    "LeagueId": "341",
+    "NationId": "95",
+    "Rating": "68",
+    "Attribute1": "74",
+    "Attribute2": "67",
+    "Attribute3": "62",
+    "Attribute4": "66",
+    "Attribute5": "58",
+    "Attribute6": "73",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

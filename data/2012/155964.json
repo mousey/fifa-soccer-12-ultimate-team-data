@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Scott",
+    "LastName": "McDonald",
+    "CommonName": null,
+    "Height": "173",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "8",
+      "Day": "21"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "12",
+    "LeagueId": "14",
+    "NationId": "195",
+    "Rating": "70",
+    "Attribute1": "78",
+    "Attribute2": "66",
+    "Attribute3": "54",
+    "Attribute4": "69",
+    "Attribute5": "56",
+    "Attribute6": "70",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

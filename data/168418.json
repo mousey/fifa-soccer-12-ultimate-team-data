@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ronaldo",
+    "LastName": "Simões Angelim",
+    "CommonName": "Ronaldo Angelim",
+    "Height": "179",
+    "DateOfBirth": {
+      "Year": "1975",
+      "Month": "11",
+      "Day": "29"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1043",
+    "LeagueId": "7",
+    "NationId": "54",
+    "Rating": "73",
+    "Attribute1": "56",
+    "Attribute2": "44",
+    "Attribute3": "52",
+    "Attribute4": "42",
+    "Attribute5": "74",
+    "Attribute6": "85",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

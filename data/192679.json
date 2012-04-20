@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Sergio",
+    "LastName": "Escudero Palomo",
+    "CommonName": "Escudero",
+    "Height": "176",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "9",
+      "Day": "2"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "34",
+    "LeagueId": "19",
+    "NationId": "45",
+    "Rating": "71",
+    "Attribute1": "77",
+    "Attribute2": "57",
+    "Attribute3": "70",
+    "Attribute4": "72",
+    "Attribute5": "64",
+    "Attribute6": "64",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

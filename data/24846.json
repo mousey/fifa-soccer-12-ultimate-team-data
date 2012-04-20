@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Mile",
+    "LastName": "Sterjovski",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "5",
+      "Day": "27"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111399",
+    "LeagueId": "351",
+    "NationId": "195",
+    "Rating": "63",
+    "Attribute1": "65",
+    "Attribute2": "63",
+    "Attribute3": "57",
+    "Attribute4": "66",
+    "Attribute5": "62",
+    "Attribute6": "69",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Kerrea",
+    "LastName": "Gilbert",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "2",
+      "Day": "28"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "346",
+    "LeagueId": "60",
+    "NationId": "14",
+    "Rating": "62",
+    "Attribute1": "80",
+    "Attribute2": "48",
+    "Attribute3": "52",
+    "Attribute4": "63",
+    "Attribute5": "64",
+    "Attribute6": "60",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Roger",
+    "LastName": "Torres",
+    "CommonName": null,
+    "Height": "167",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "7",
+      "Day": "13"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "112134",
+    "LeagueId": "39",
+    "NationId": "56",
+    "Rating": "66",
+    "Attribute1": "65",
+    "Attribute2": "64",
+    "Attribute3": "58",
+    "Attribute4": "74",
+    "Attribute5": "41",
+    "Attribute6": "42",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

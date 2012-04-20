@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Xavier",
+    "LastName": "Hochstrasser",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "7",
+      "Day": "1"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "897",
+    "LeagueId": "189",
+    "NationId": "47",
+    "Rating": "64",
+    "Attribute1": "65",
+    "Attribute2": "58",
+    "Attribute3": "58",
+    "Attribute4": "66",
+    "Attribute5": "67",
+    "Attribute6": "69",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

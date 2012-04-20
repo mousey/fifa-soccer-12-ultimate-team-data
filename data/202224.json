@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Cole",
+    "LastName": "Grossman",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "4",
+      "Day": "10"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "687",
+    "LeagueId": "39",
+    "NationId": "95",
+    "Rating": "59",
+    "Attribute1": "54",
+    "Attribute2": "58",
+    "Attribute3": "54",
+    "Attribute4": "59",
+    "Attribute5": "63",
+    "Attribute6": "66",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

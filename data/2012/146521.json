@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Adrián",
+    "LastName": "Ripa Cruz",
+    "CommonName": "Ripa",
+    "Height": "177",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "7",
+      "Day": "12"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "477",
+    "LeagueId": "54",
+    "NationId": "45",
+    "Rating": "64",
+    "Attribute1": "75",
+    "Attribute2": "41",
+    "Attribute3": "64",
+    "Attribute4": "60",
+    "Attribute5": "61",
+    "Attribute6": "63",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

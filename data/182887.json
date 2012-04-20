@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jamel",
+    "LastName": "Saihi",
+    "CommonName": null,
+    "Height": "181",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "1",
+      "Day": "27"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "70",
+    "LeagueId": "16",
+    "NationId": "145",
+    "Rating": "70",
+    "Attribute1": "58",
+    "Attribute2": "50",
+    "Attribute3": "59",
+    "Attribute4": "50",
+    "Attribute5": "69",
+    "Attribute6": "64",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

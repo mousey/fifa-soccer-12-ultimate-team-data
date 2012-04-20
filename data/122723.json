@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Maximillian",
+    "LastName": "Nicu",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "11",
+      "Day": "25"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "25",
+    "LeagueId": "19",
+    "NationId": "39",
+    "Rating": "69",
+    "Attribute1": "74",
+    "Attribute2": "69",
+    "Attribute3": "68",
+    "Attribute4": "72",
+    "Attribute5": "52",
+    "Attribute6": "59",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

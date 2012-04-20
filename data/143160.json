@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Damián",
+    "LastName": "Manso",
+    "CommonName": null,
+    "Height": "169",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "6",
+      "Day": "6"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1028",
+    "LeagueId": "341",
+    "NationId": "52",
+    "Rating": "72",
+    "Attribute1": "73",
+    "Attribute2": "68",
+    "Attribute3": "73",
+    "Attribute4": "73",
+    "Attribute5": "58",
+    "Attribute6": "61",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

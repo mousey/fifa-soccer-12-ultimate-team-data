@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ryan",
+    "LastName": "Bennett",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "3",
+      "Day": "6"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1938",
+    "LeagueId": "14",
+    "NationId": "14",
+    "Rating": "65",
+    "Attribute1": "66",
+    "Attribute2": "21",
+    "Attribute3": "43",
+    "Attribute4": "38",
+    "Attribute5": "66",
+    "Attribute6": "78",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

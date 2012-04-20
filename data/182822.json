@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Aldo",
+    "LastName": "Angoula",
+    "CommonName": null,
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "5",
+      "Day": "4"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "111271",
+    "LeagueId": "16",
+    "NationId": "18",
+    "Rating": "64",
+    "Attribute1": "52",
+    "Attribute2": "29",
+    "Attribute3": "49",
+    "Attribute4": "46",
+    "Attribute5": "67",
+    "Attribute6": "66",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

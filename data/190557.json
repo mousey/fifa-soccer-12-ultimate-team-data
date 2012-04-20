@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Graham",
+    "LastName": "Zusi",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "8",
+      "Day": "8"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "696",
+    "LeagueId": "39",
+    "NationId": "95",
+    "Rating": "64",
+    "Attribute1": "70",
+    "Attribute2": "71",
+    "Attribute3": "66",
+    "Attribute4": "62",
+    "Attribute5": "58",
+    "Attribute6": "61",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

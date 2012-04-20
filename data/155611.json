@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Yo Han",
+    "LastName": "Lee",
+    "CommonName": "Lee Yo Han",
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "12",
+      "Day": "18"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1476",
+    "LeagueId": "83",
+    "NationId": "167",
+    "Rating": "63",
+    "Attribute1": "66",
+    "Attribute2": "40",
+    "Attribute3": "55",
+    "Attribute4": "50",
+    "Attribute5": "65",
+    "Attribute6": "66",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

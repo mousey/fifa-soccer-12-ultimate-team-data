@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Mitchell",
+    "LastName": "Donald",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "12",
+      "Day": "10"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1902",
+    "LeagueId": "10",
+    "NationId": "34",
+    "Rating": "66",
+    "Attribute1": "62",
+    "Attribute2": "60",
+    "Attribute3": "64",
+    "Attribute4": "66",
+    "Attribute5": "70",
+    "Attribute6": "59",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

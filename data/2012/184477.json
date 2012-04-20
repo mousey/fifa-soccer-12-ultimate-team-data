@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Kyriakos",
+    "LastName": "Papadopoulos",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1992",
+      "Month": "2",
+      "Day": "23"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "34",
+    "LeagueId": "19",
+    "NationId": "22",
+    "Rating": "75",
+    "Attribute1": "67",
+    "Attribute2": "39",
+    "Attribute3": "58",
+    "Attribute4": "58",
+    "Attribute5": "77",
+    "Attribute6": "78",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

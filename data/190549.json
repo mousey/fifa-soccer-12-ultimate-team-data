@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Markus",
+    "LastName": "Henriksen",
+    "CommonName": null,
+    "Height": "187",
+    "DateOfBirth": {
+      "Year": "1992",
+      "Month": "7",
+      "Day": "25"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "298",
+    "LeagueId": "41",
+    "NationId": "36",
+    "Rating": "75",
+    "Attribute1": "73",
+    "Attribute2": "68",
+    "Attribute3": "71",
+    "Attribute4": "73",
+    "Attribute5": "74",
+    "Attribute6": "68",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

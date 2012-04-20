@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Miguel",
+    "LastName": "Dachelet",
+    "CommonName": null,
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "1",
+      "Day": "16"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "15005",
+    "LeagueId": "4",
+    "NationId": "7",
+    "Rating": "62",
+    "Attribute1": "64",
+    "Attribute2": "34",
+    "Attribute3": "51",
+    "Attribute4": "44",
+    "Attribute5": "63",
+    "Attribute6": "67",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Konstantin",
+    "LastName": "Engel",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "7",
+      "Day": "27"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "162",
+    "LeagueId": "20",
+    "NationId": "21",
+    "Rating": "61",
+    "Attribute1": "62",
+    "Attribute2": "44",
+    "Attribute3": "57",
+    "Attribute4": "64",
+    "Attribute5": "61",
+    "Attribute6": "65",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

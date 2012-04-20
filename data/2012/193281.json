@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Boris",
+    "LastName": "Vukcevic",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "3",
+      "Day": "16"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "10029",
+    "LeagueId": "19",
+    "NationId": "21",
+    "Rating": "72",
+    "Attribute1": "80",
+    "Attribute2": "63",
+    "Attribute3": "69",
+    "Attribute4": "76",
+    "Attribute5": "53",
+    "Attribute6": "60",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

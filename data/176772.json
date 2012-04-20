@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Alexandre",
+    "LastName": "Oukidja",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "7",
+      "Day": "19"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "65",
+    "LeagueId": "16",
+    "NationId": "18",
+    "Rating": "55",
+    "Attribute1": "57",
+    "Attribute2": "55",
+    "Attribute3": "56",
+    "Attribute4": "52",
+    "Attribute5": "48",
+    "Attribute6": "60",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

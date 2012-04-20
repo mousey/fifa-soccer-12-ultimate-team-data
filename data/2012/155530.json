@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Sammy",
+    "LastName": "Clingan",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "1",
+      "Day": "13"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1800",
+    "LeagueId": "14",
+    "NationId": "35",
+    "Rating": "69",
+    "Attribute1": "73",
+    "Attribute2": "66",
+    "Attribute3": "74",
+    "Attribute4": "65",
+    "Attribute5": "62",
+    "Attribute6": "58",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

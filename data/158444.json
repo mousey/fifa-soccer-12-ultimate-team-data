@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Mišo",
+    "LastName": "Brečko",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "5",
+      "Day": "1"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "31",
+    "LeagueId": "19",
+    "NationId": "44",
+    "Rating": "69",
+    "Attribute1": "73",
+    "Attribute2": "45",
+    "Attribute3": "63",
+    "Attribute4": "65",
+    "Attribute5": "68",
+    "Attribute6": "68",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

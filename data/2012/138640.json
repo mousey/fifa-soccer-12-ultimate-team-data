@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Pedro José",
+    "LastName": "Pinazo Arias",
+    "CommonName": "Perico",
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "1",
+      "Day": "18"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "468",
+    "LeagueId": "54",
+    "NationId": "45",
+    "Rating": "64",
+    "Attribute1": "78",
+    "Attribute2": "59",
+    "Attribute3": "55",
+    "Attribute4": "80",
+    "Attribute5": "47",
+    "Attribute6": "49",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

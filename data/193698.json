@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Oliver",
+    "LastName": "Baumann",
+    "CommonName": null,
+    "Height": "187",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "6",
+      "Day": "2"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "25",
+    "LeagueId": "19",
+    "NationId": "21",
+    "Rating": "77",
+    "Attribute1": "79",
+    "Attribute2": "75",
+    "Attribute3": "74",
+    "Attribute4": "82",
+    "Attribute5": "52",
+    "Attribute6": "73",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Joe",
+    "LastName": "Ledley",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "1",
+      "Day": "21"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "78",
+    "LeagueId": "50",
+    "NationId": "50",
+    "Rating": "74",
+    "Attribute1": "81",
+    "Attribute2": "63",
+    "Attribute3": "75",
+    "Attribute4": "74",
+    "Attribute5": "71",
+    "Attribute6": "75",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

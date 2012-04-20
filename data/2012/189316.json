@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Robert",
+    "LastName": "Taylor",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "1",
+      "Day": "16"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1928",
+    "LeagueId": "61",
+    "NationId": "14",
+    "Rating": "62",
+    "Attribute1": "82",
+    "Attribute2": "54",
+    "Attribute3": "60",
+    "Attribute4": "60",
+    "Attribute5": "58",
+    "Attribute6": "66",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

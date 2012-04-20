@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Vullnet",
+    "LastName": "Basha",
+    "CommonName": null,
+    "Height": "174",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "7",
+      "Day": "11"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "435",
+    "LeagueId": "189",
+    "NationId": "47",
+    "Rating": "52",
+    "Attribute1": "69",
+    "Attribute2": "39",
+    "Attribute3": "54",
+    "Attribute4": "50",
+    "Attribute5": "52",
+    "Attribute6": "53",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

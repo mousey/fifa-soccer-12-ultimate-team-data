@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Felipe",
+    "LastName": "Ayala",
+    "CommonName": null,
+    "Height": "177",
+    "DateOfBirth": {
+      "Year": "1977",
+      "Month": "12",
+      "Day": "16"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1028",
+    "LeagueId": "341",
+    "NationId": "83",
+    "Rating": "66",
+    "Attribute1": "49",
+    "Attribute2": "62",
+    "Attribute3": "65",
+    "Attribute4": "60",
+    "Attribute5": "70",
+    "Attribute6": "65",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

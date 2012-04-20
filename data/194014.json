@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Fernando",
+    "LastName": "Guerrero",
+    "CommonName": null,
+    "Height": "171",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "9",
+      "Day": "30"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "110902",
+    "LeagueId": "54",
+    "NationId": "57",
+    "Rating": "67",
+    "Attribute1": "78",
+    "Attribute2": "54",
+    "Attribute3": "51",
+    "Attribute4": "74",
+    "Attribute5": "33",
+    "Attribute6": "54",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

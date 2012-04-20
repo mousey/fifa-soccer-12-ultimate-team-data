@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Miguel",
+    "LastName": "Albiol Tortajada",
+    "CommonName": "Albiol",
+    "Height": "177",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "9",
+      "Day": "2"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1855",
+    "LeagueId": "54",
+    "NationId": "45",
+    "Rating": "60",
+    "Attribute1": "68",
+    "Attribute2": "45",
+    "Attribute3": "60",
+    "Attribute4": "60",
+    "Attribute5": "62",
+    "Attribute6": "54",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

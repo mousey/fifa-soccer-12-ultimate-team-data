@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Wellington",
+    "LastName": "Pereira Nascimento",
+    "CommonName": "Wellington Paulista",
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "4",
+      "Day": "22"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "568",
+    "LeagueId": "7",
+    "NationId": "54",
+    "Rating": "73",
+    "Attribute1": "72",
+    "Attribute2": "72",
+    "Attribute3": "58",
+    "Attribute4": "63",
+    "Attribute5": "56",
+    "Attribute6": "86",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

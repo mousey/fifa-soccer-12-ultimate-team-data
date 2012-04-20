@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Marcel",
+    "LastName": "Schmelzer",
+    "CommonName": null,
+    "Height": "181",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "1",
+      "Day": "22"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "22",
+    "LeagueId": "19",
+    "NationId": "21",
+    "Rating": "77",
+    "Attribute1": "77",
+    "Attribute2": "60",
+    "Attribute3": "73",
+    "Attribute4": "69",
+    "Attribute5": "74",
+    "Attribute6": "71",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

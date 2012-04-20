@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Yuri",
+    "LastName": "Rose",
+    "CommonName": null,
+    "Height": "187",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "5",
+      "Day": "8"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "635",
+    "LeagueId": "10",
+    "NationId": "34",
+    "Rating": "63",
+    "Attribute1": "37",
+    "Attribute2": "61",
+    "Attribute3": "61",
+    "Attribute4": "58",
+    "Attribute5": "68",
+    "Attribute6": "64",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

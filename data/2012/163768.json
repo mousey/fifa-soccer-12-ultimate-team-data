@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Michael",
+    "LastName": "Rose",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "7",
+      "Day": "28"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1935",
+    "LeagueId": "60",
+    "NationId": "14",
+    "Rating": "60",
+    "Attribute1": "63",
+    "Attribute2": "54",
+    "Attribute3": "62",
+    "Attribute4": "56",
+    "Attribute5": "65",
+    "Attribute6": "62",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

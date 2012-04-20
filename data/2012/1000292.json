@@ -1,0 +1,15 @@
+{
+  "Manager": {
+    "FirstName": "Hein",
+    "LastName": "Vanhaezebrouck",
+    "NationId": "7",
+    "Value": "65",
+    "Rare": "0",
+    "Weight": "15",
+    "FormationId": "1",
+    "TalkRating": "2",
+    "Negotiation": "0",
+    "AssetId": "1000292",
+    "ItemType": "Manager"
+  }
+}

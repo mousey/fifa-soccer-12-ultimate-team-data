@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Scott",
+    "LastName": "Rendell",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "10",
+      "Day": "21"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1933",
+    "LeagueId": "60",
+    "NationId": "14",
+    "Rating": "60",
+    "Attribute1": "68",
+    "Attribute2": "64",
+    "Attribute3": "37",
+    "Attribute4": "56",
+    "Attribute5": "45",
+    "Attribute6": "62",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

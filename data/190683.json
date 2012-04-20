@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ryan",
+    "LastName": "Mason",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "6",
+      "Day": "13"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "142",
+    "LeagueId": "14",
+    "NationId": "14",
+    "Rating": "62",
+    "Attribute1": "71",
+    "Attribute2": "64",
+    "Attribute3": "64",
+    "Attribute4": "66",
+    "Attribute5": "44",
+    "Attribute6": "53",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Christofer",
+    "LastName": "Heimeroth",
+    "CommonName": null,
+    "Height": "194",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "8",
+      "Day": "1"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "23",
+    "LeagueId": "19",
+    "NationId": "21",
+    "Rating": "70",
+    "Attribute1": "71",
+    "Attribute2": "70",
+    "Attribute3": "64",
+    "Attribute4": "74",
+    "Attribute5": "44",
+    "Attribute6": "69",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

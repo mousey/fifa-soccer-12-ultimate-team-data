@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Marco",
+    "LastName": "Piccioni",
+    "CommonName": null,
+    "Height": "181",
+    "DateOfBirth": {
+      "Year": "1976",
+      "Month": "1",
+      "Day": "25"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111974",
+    "LeagueId": "32",
+    "NationId": "27",
+    "Rating": "62",
+    "Attribute1": "44",
+    "Attribute2": "30",
+    "Attribute3": "41",
+    "Attribute4": "45",
+    "Attribute5": "65",
+    "Attribute6": "67",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

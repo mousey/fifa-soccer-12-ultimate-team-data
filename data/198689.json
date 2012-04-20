@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Keanu",
+    "LastName": "Marsh-Brown",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1992",
+      "Month": "8",
+      "Day": "10"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "181",
+    "LeagueId": "50",
+    "NationId": "14",
+    "Rating": "61",
+    "Attribute1": "74",
+    "Attribute2": "51",
+    "Attribute3": "57",
+    "Attribute4": "65",
+    "Attribute5": "52",
+    "Attribute6": "42",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

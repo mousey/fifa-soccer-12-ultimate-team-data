@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Alexei",
+    "LastName": "Eremenko",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "3",
+      "Day": "24"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110227",
+    "LeagueId": "67",
+    "NationId": "17",
+    "Rating": "74",
+    "Attribute1": "69",
+    "Attribute2": "71",
+    "Attribute3": "72",
+    "Attribute4": "74",
+    "Attribute5": "53",
+    "Attribute6": "60",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

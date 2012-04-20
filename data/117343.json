@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Eric",
+    "LastName": "Hassli",
+    "CommonName": null,
+    "Height": "193",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "5",
+      "Day": "3"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "101112",
+    "LeagueId": "39",
+    "NationId": "18",
+    "Rating": "70",
+    "Attribute1": "56",
+    "Attribute2": "71",
+    "Attribute3": "52",
+    "Attribute4": "68",
+    "Attribute5": "62",
+    "Attribute6": "73",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

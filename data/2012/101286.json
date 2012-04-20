@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Rolf-Christel",
+    "LastName": "Guié-Mien",
+    "CommonName": null,
+    "Height": "177",
+    "DateOfBirth": {
+      "Year": "1977",
+      "Month": "10",
+      "Day": "28"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "10030",
+    "LeagueId": "20",
+    "NationId": "107",
+    "Rating": "64",
+    "Attribute1": "65",
+    "Attribute2": "52",
+    "Attribute3": "58",
+    "Attribute4": "71",
+    "Attribute5": "45",
+    "Attribute6": "55",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

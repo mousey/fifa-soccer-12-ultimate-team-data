@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Rodrigo",
+    "LastName": "Oliveira Alvim",
+    "CommonName": "Rodrigo Alvim",
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "11",
+      "Day": "25"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1043",
+    "LeagueId": "7",
+    "NationId": "54",
+    "Rating": "68",
+    "Attribute1": "62",
+    "Attribute2": "59",
+    "Attribute3": "68",
+    "Attribute4": "64",
+    "Attribute5": "69",
+    "Attribute6": "71",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Sung Min",
+    "LastName": "Jung",
+    "CommonName": "Jung Sung Min",
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "5",
+      "Day": "2"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "112115",
+    "LeagueId": "83",
+    "NationId": "167",
+    "Rating": "41",
+    "Attribute1": "31",
+    "Attribute2": "42",
+    "Attribute3": "36",
+    "Attribute4": "43",
+    "Attribute5": "33",
+    "Attribute6": "48",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

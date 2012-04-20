@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Kevin",
+    "LastName": "Volland",
+    "CommonName": null,
+    "Height": "179",
+    "DateOfBirth": {
+      "Year": "1992",
+      "Month": "7",
+      "Day": "30"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "33",
+    "LeagueId": "20",
+    "NationId": "21",
+    "Rating": "65",
+    "Attribute1": "76",
+    "Attribute2": "62",
+    "Attribute3": "51",
+    "Attribute4": "68",
+    "Attribute5": "44",
+    "Attribute6": "64",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

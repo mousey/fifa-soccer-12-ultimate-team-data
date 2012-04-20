@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Albin",
+    "LastName": "Ekdal",
+    "CommonName": null,
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "7",
+      "Day": "28"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1842",
+    "LeagueId": "31",
+    "NationId": "46",
+    "Rating": "73",
+    "Attribute1": "68",
+    "Attribute2": "67",
+    "Attribute3": "70",
+    "Attribute4": "73",
+    "Attribute5": "66",
+    "Attribute6": "63",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

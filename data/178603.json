@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Mats",
+    "LastName": "Hummels",
+    "CommonName": null,
+    "Height": "192",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "12",
+      "Day": "16"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "22",
+    "LeagueId": "19",
+    "NationId": "21",
+    "Rating": "84",
+    "Attribute1": "65",
+    "Attribute2": "59",
+    "Attribute3": "69",
+    "Attribute4": "62",
+    "Attribute5": "85",
+    "Attribute6": "79",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

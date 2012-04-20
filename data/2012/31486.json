@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Bruno",
+    "LastName": "Cheyrou",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1978",
+      "Month": "5",
+      "Day": "10"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "71",
+    "LeagueId": "17",
+    "NationId": "18",
+    "Rating": "66",
+    "Attribute1": "46",
+    "Attribute2": "65",
+    "Attribute3": "65",
+    "Attribute4": "62",
+    "Attribute5": "66",
+    "Attribute6": "65",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

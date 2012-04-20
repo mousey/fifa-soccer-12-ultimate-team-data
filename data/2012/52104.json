@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Florian",
+    "LastName": "Kringe",
+    "CommonName": null,
+    "Height": "187",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "8",
+      "Day": "18"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "22",
+    "LeagueId": "19",
+    "NationId": "21",
+    "Rating": "71",
+    "Attribute1": "54",
+    "Attribute2": "69",
+    "Attribute3": "75",
+    "Attribute4": "67",
+    "Attribute5": "75",
+    "Attribute6": "77",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

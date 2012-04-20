@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jaime",
+    "LastName": "Valdés",
+    "CommonName": null,
+    "Height": "176",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "1",
+      "Day": "11"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "50",
+    "LeagueId": "31",
+    "NationId": "55",
+    "Rating": "76",
+    "Attribute1": "76",
+    "Attribute2": "75",
+    "Attribute3": "73",
+    "Attribute4": "77",
+    "Attribute5": "54",
+    "Attribute6": "46",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

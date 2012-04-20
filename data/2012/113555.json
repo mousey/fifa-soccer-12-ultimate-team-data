@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Emilio",
+    "LastName": "Rentería",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "10",
+      "Day": "9"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "687",
+    "LeagueId": "39",
+    "NationId": "61",
+    "Rating": "66",
+    "Attribute1": "71",
+    "Attribute2": "68",
+    "Attribute3": "49",
+    "Attribute4": "62",
+    "Attribute5": "57",
+    "Attribute6": "60",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Quincy",
+    "LastName": "Antipas",
+    "CommonName": null,
+    "Height": "168",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "4",
+      "Day": "20"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1447",
+    "LeagueId": "1",
+    "NationId": "148",
+    "Rating": "64",
+    "Attribute1": "85",
+    "Attribute2": "53",
+    "Attribute3": "43",
+    "Attribute4": "57",
+    "Attribute5": "48",
+    "Attribute6": "70",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

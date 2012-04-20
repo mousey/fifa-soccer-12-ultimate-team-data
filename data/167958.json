@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Cássio",
+    "LastName": "Ramos",
+    "CommonName": "Cássio",
+    "Height": "195",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "6",
+      "Day": "6"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "247",
+    "LeagueId": "10",
+    "NationId": "54",
+    "Rating": "67",
+    "Attribute1": "71",
+    "Attribute2": "60",
+    "Attribute3": "68",
+    "Attribute4": "73",
+    "Attribute5": "43",
+    "Attribute6": "64",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

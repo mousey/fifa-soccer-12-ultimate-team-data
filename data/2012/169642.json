@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Stuart",
+    "LastName": "Lewis",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "10",
+      "Day": "15"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1933",
+    "LeagueId": "60",
+    "NationId": "14",
+    "Rating": "58",
+    "Attribute1": "58",
+    "Attribute2": "45",
+    "Attribute3": "57",
+    "Attribute4": "58",
+    "Attribute5": "56",
+    "Attribute6": "57",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

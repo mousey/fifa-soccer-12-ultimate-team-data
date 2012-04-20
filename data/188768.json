@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Serey",
+    "LastName": "Die",
+    "CommonName": null,
+    "Height": "179",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "11",
+      "Day": "7"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110770",
+    "LeagueId": "189",
+    "NationId": "108",
+    "Rating": "67",
+    "Attribute1": "72",
+    "Attribute2": "55",
+    "Attribute3": "67",
+    "Attribute4": "68",
+    "Attribute5": "68",
+    "Attribute6": "72",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

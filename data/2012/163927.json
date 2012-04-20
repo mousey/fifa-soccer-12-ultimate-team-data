@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Fabio",
+    "LastName": "Caserta",
+    "CommonName": null,
+    "Height": "179",
+    "DateOfBirth": {
+      "Year": "1978",
+      "Month": "9",
+      "Day": "24"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "39",
+    "LeagueId": "31",
+    "NationId": "27",
+    "Rating": "71",
+    "Attribute1": "57",
+    "Attribute2": "63",
+    "Attribute3": "73",
+    "Attribute4": "65",
+    "Attribute5": "66",
+    "Attribute6": "59",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

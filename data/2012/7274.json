@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Andrew",
+    "LastName": "Sinkala",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "6",
+      "Day": "18"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "100409",
+    "LeagueId": "19",
+    "NationId": "147",
+    "Rating": "65",
+    "Attribute1": "64",
+    "Attribute2": "48",
+    "Attribute3": "61",
+    "Attribute4": "60",
+    "Attribute5": "65",
+    "Attribute6": "73",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

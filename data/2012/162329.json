@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Karim",
+    "LastName": "El Ahmadi",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "1",
+      "Day": "27"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "246",
+    "LeagueId": "10",
+    "NationId": "129",
+    "Rating": "72",
+    "Attribute1": "67",
+    "Attribute2": "57",
+    "Attribute3": "68",
+    "Attribute4": "78",
+    "Attribute5": "68",
+    "Attribute6": "54",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

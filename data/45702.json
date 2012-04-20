@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ivan",
+    "LastName": "Pelizzoli",
+    "CommonName": null,
+    "Height": "193",
+    "DateOfBirth": {
+      "Year": "1980",
+      "Month": "11",
+      "Day": "18"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110912",
+    "LeagueId": "32",
+    "NationId": "27",
+    "Rating": "69",
+    "Attribute1": "68",
+    "Attribute2": "66",
+    "Attribute3": "66",
+    "Attribute4": "72",
+    "Attribute5": "47",
+    "Attribute6": "70",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

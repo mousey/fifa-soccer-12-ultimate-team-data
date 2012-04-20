@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Massimiliano",
+    "LastName": "Scaglia",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1977",
+      "Month": "5",
+      "Day": "21"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "206",
+    "LeagueId": "32",
+    "NationId": "27",
+    "Rating": "60",
+    "Attribute1": "60",
+    "Attribute2": "44",
+    "Attribute3": "55",
+    "Attribute4": "54",
+    "Attribute5": "65",
+    "Attribute6": "53",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

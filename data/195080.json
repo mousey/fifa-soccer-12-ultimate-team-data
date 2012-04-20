@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Kirk",
+    "LastName": "Millar",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1992",
+      "Month": "7",
+      "Day": "7"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1920",
+    "LeagueId": "60",
+    "NationId": "35",
+    "Rating": "54",
+    "Attribute1": "67",
+    "Attribute2": "38",
+    "Attribute3": "47",
+    "Attribute4": "62",
+    "Attribute5": "40",
+    "Attribute6": "51",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

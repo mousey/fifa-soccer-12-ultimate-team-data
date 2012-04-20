@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Romain",
+    "LastName": "Pitau",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1977",
+      "Month": "8",
+      "Day": "8"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "70",
+    "LeagueId": "16",
+    "NationId": "18",
+    "Rating": "73",
+    "Attribute1": "37",
+    "Attribute2": "56",
+    "Attribute3": "71",
+    "Attribute4": "59",
+    "Attribute5": "75",
+    "Attribute6": "63",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

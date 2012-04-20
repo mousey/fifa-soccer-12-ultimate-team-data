@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Clifford",
+    "LastName": "Ngobeni",
+    "CommonName": null,
+    "Height": "165",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "6",
+      "Day": "27"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110930",
+    "LeagueId": "347",
+    "NationId": "140",
+    "Rating": "70",
+    "Attribute1": "71",
+    "Attribute2": "59",
+    "Attribute3": "70",
+    "Attribute4": "71",
+    "Attribute5": "65",
+    "Attribute6": "52",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

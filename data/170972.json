@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "François",
+    "LastName": "Marque",
+    "CommonName": null,
+    "Height": "187",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "7",
+      "Day": "31"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "58",
+    "LeagueId": "17",
+    "NationId": "18",
+    "Rating": "64",
+    "Attribute1": "59",
+    "Attribute2": "40",
+    "Attribute3": "44",
+    "Attribute4": "45",
+    "Attribute5": "71",
+    "Attribute6": "73",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

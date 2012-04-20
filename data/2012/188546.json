@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Semir",
+    "LastName": "Štilić",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "10",
+      "Day": "8"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "873",
+    "LeagueId": "66",
+    "NationId": "8",
+    "Rating": "75",
+    "Attribute1": "53",
+    "Attribute2": "69",
+    "Attribute3": "80",
+    "Attribute4": "75",
+    "Attribute5": "48",
+    "Attribute6": "62",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

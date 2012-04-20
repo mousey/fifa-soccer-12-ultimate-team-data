@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Atiba",
+    "LastName": "Hutchinson",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "2",
+      "Day": "8"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "247",
+    "LeagueId": "10",
+    "NationId": "70",
+    "Rating": "74",
+    "Attribute1": "75",
+    "Attribute2": "64",
+    "Attribute3": "70",
+    "Attribute4": "73",
+    "Attribute5": "67",
+    "Attribute6": "68",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

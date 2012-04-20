@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "John",
+    "LastName": "Bostock",
+    "CommonName": null,
+    "Height": "179",
+    "DateOfBirth": {
+      "Year": "1992",
+      "Month": "1",
+      "Day": "15"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "18",
+    "LeagueId": "13",
+    "NationId": "14",
+    "Rating": "65",
+    "Attribute1": "77",
+    "Attribute2": "72",
+    "Attribute3": "63",
+    "Attribute4": "70",
+    "Attribute5": "54",
+    "Attribute6": "58",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

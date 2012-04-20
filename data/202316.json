@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Timothy",
+    "LastName": "Chandler",
+    "CommonName": null,
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "3",
+      "Day": "29"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "171",
+    "LeagueId": "19",
+    "NationId": "95",
+    "Rating": "69",
+    "Attribute1": "77",
+    "Attribute2": "58",
+    "Attribute3": "70",
+    "Attribute4": "68",
+    "Attribute5": "71",
+    "Attribute6": "67",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

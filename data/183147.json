@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Seb",
+    "LastName": "Hines",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "5",
+      "Day": "29"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "12",
+    "LeagueId": "14",
+    "NationId": "14",
+    "Rating": "64",
+    "Attribute1": "72",
+    "Attribute2": "24",
+    "Attribute3": "49",
+    "Attribute4": "49",
+    "Attribute5": "65",
+    "Attribute6": "73",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

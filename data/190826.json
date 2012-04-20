@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Marc",
+    "LastName": "Hornschuh",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "3",
+      "Day": "2"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "22",
+    "LeagueId": "19",
+    "NationId": "21",
+    "Rating": "64",
+    "Attribute1": "65",
+    "Attribute2": "46",
+    "Attribute3": "58",
+    "Attribute4": "43",
+    "Attribute5": "64",
+    "Attribute6": "62",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

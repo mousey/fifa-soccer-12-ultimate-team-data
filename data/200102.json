@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Paulo Cesar",
+    "LastName": "Elias",
+    "CommonName": "Paulinho",
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "10",
+      "Day": "15"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1039",
+    "LeagueId": "7",
+    "NationId": "54",
+    "Rating": "70",
+    "Attribute1": "80",
+    "Attribute2": "64",
+    "Attribute3": "67",
+    "Attribute4": "70",
+    "Attribute5": "73",
+    "Attribute6": "66",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

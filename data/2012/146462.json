@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jorge",
+    "LastName": "García Torre",
+    "CommonName": "Jorge",
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "1",
+      "Day": "13"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1855",
+    "LeagueId": "54",
+    "NationId": "45",
+    "Rating": "64",
+    "Attribute1": "29",
+    "Attribute2": "44",
+    "Attribute3": "52",
+    "Attribute4": "37",
+    "Attribute5": "68",
+    "Attribute6": "63",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

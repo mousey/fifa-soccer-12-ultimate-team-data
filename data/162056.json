@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Steve",
+    "LastName": "Morison",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "8",
+      "Day": "29"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1792",
+    "LeagueId": "13",
+    "NationId": "50",
+    "Rating": "73",
+    "Attribute1": "74",
+    "Attribute2": "71",
+    "Attribute3": "38",
+    "Attribute4": "66",
+    "Attribute5": "57",
+    "Attribute6": "73",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

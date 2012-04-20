@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Gonzalo",
+    "LastName": "Castro",
+    "CommonName": null,
+    "Height": "176",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "9",
+      "Day": "14"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "453",
+    "LeagueId": "53",
+    "NationId": "60",
+    "Rating": "79",
+    "Attribute1": "84",
+    "Attribute2": "71",
+    "Attribute3": "69",
+    "Attribute4": "84",
+    "Attribute5": "52",
+    "Attribute6": "66",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Hamit",
+    "LastName": "Altintop",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "12",
+      "Day": "8"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "243",
+    "LeagueId": "53",
+    "NationId": "48",
+    "Rating": "76",
+    "Attribute1": "74",
+    "Attribute2": "78",
+    "Attribute3": "77",
+    "Attribute4": "74",
+    "Attribute5": "73",
+    "Attribute6": "67",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

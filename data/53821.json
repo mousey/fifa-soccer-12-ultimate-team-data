@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Martin",
+    "LastName": "Petras",
+    "CommonName": null,
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "11",
+      "Day": "2"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111491",
+    "LeagueId": "32",
+    "NationId": "43",
+    "Rating": "63",
+    "Attribute1": "55",
+    "Attribute2": "39",
+    "Attribute3": "44",
+    "Attribute4": "43",
+    "Attribute5": "69",
+    "Attribute6": "67",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Reza",
+    "LastName": "Ghoochannejhad",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "9",
+      "Day": "20"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "680",
+    "LeagueId": "4",
+    "NationId": "34",
+    "Rating": "63",
+    "Attribute1": "72",
+    "Attribute2": "60",
+    "Attribute3": "57",
+    "Attribute4": "70",
+    "Attribute5": "56",
+    "Attribute6": "46",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

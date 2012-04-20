@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jong Soo",
+    "LastName": "Kim",
+    "CommonName": "Kim Jong Soo",
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "7",
+      "Day": "25"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111588",
+    "LeagueId": "83",
+    "NationId": "167",
+    "Rating": "59",
+    "Attribute1": "61",
+    "Attribute2": "44",
+    "Attribute3": "49",
+    "Attribute4": "40",
+    "Attribute5": "61",
+    "Attribute6": "60",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

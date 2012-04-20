@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jehu",
+    "LastName": "Chiapas",
+    "CommonName": null,
+    "Height": "174",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "10",
+      "Day": "3"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "110149",
+    "LeagueId": "341",
+    "NationId": "83",
+    "Rating": "68",
+    "Attribute1": "68",
+    "Attribute2": "54",
+    "Attribute3": "70",
+    "Attribute4": "61",
+    "Attribute5": "70",
+    "Attribute6": "66",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

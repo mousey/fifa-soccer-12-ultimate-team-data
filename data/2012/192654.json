@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ibrahima",
+    "LastName": "Gueye",
+    "CommonName": null,
+    "Height": "190",
+    "DateOfBirth": {
+      "Year": "1978",
+      "Month": "2",
+      "Day": "19"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "2007",
+    "LeagueId": "4",
+    "NationId": "136",
+    "Rating": "64",
+    "Attribute1": "39",
+    "Attribute2": "37",
+    "Attribute3": "49",
+    "Attribute4": "36",
+    "Attribute5": "69",
+    "Attribute6": "65",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

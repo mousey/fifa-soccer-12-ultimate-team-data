@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ian",
+    "LastName": "Daly",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "3",
+      "Day": "20"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "423",
+    "LeagueId": "65",
+    "NationId": "25",
+    "Rating": "56",
+    "Attribute1": "71",
+    "Attribute2": "56",
+    "Attribute3": "36",
+    "Attribute4": "50",
+    "Attribute5": "34",
+    "Attribute6": "61",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

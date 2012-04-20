@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Justin",
+    "LastName": "Morrow",
+    "CommonName": null,
+    "Height": "173",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "10",
+      "Day": "4"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "111928",
+    "LeagueId": "39",
+    "NationId": "95",
+    "Rating": "61",
+    "Attribute1": "70",
+    "Attribute2": "52",
+    "Attribute3": "55",
+    "Attribute4": "58",
+    "Attribute5": "62",
+    "Attribute6": "64",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

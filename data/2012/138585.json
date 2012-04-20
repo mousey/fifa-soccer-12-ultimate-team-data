@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Niels",
+    "LastName": "Wellenberg",
+    "CommonName": null,
+    "Height": "179",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "8",
+      "Day": "9"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1910",
+    "LeagueId": "10",
+    "NationId": "34",
+    "Rating": "64",
+    "Attribute1": "63",
+    "Attribute2": "53",
+    "Attribute3": "58",
+    "Attribute4": "62",
+    "Attribute5": "65",
+    "Attribute6": "64",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

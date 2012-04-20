@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Koikili",
+    "LastName": "Lertxundi del Campo",
+    "CommonName": "Koikili",
+    "Height": "168",
+    "DateOfBirth": {
+      "Year": "1980",
+      "Month": "12",
+      "Day": "23"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "448",
+    "LeagueId": "53",
+    "NationId": "45",
+    "Rating": "71",
+    "Attribute1": "73",
+    "Attribute2": "58",
+    "Attribute3": "65",
+    "Attribute4": "60",
+    "Attribute5": "70",
+    "Attribute6": "72",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

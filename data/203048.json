@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Joe",
+    "LastName": "Riley",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "10",
+      "Day": "13"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "4",
+    "LeagueId": "13",
+    "NationId": "14",
+    "Rating": "64",
+    "Attribute1": "68",
+    "Attribute2": "54",
+    "Attribute3": "66",
+    "Attribute4": "65",
+    "Attribute5": "62",
+    "Attribute6": "53",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

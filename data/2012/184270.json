@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Granddi",
+    "LastName": "Ngoyi",
+    "CommonName": null,
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "5",
+      "Day": "17"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "73",
+    "LeagueId": "16",
+    "NationId": "110",
+    "Rating": "66",
+    "Attribute1": "70",
+    "Attribute2": "43",
+    "Attribute3": "58",
+    "Attribute4": "59",
+    "Attribute5": "69",
+    "Attribute6": "59",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

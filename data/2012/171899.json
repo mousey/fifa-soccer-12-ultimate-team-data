@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Boubacar",
+    "LastName": "Sanogo",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "12",
+      "Day": "17"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1819",
+    "LeagueId": "16",
+    "NationId": "108",
+    "Rating": "73",
+    "Attribute1": "76",
+    "Attribute2": "71",
+    "Attribute3": "56",
+    "Attribute4": "70",
+    "Attribute5": "55",
+    "Attribute6": "75",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

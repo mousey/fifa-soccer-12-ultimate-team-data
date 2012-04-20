@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Damian",
+    "LastName": "Escudero",
+    "CommonName": null,
+    "Height": "176",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "5",
+      "Day": "20"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1629",
+    "LeagueId": "7",
+    "NationId": "52",
+    "Rating": "73",
+    "Attribute1": "82",
+    "Attribute2": "61",
+    "Attribute3": "70",
+    "Attribute4": "75",
+    "Attribute5": "54",
+    "Attribute6": "56",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jacob",
+    "LastName": "Mellis",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "1",
+      "Day": "8"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "5",
+    "LeagueId": "13",
+    "NationId": "14",
+    "Rating": "61",
+    "Attribute1": "62",
+    "Attribute2": "61",
+    "Attribute3": "65",
+    "Attribute4": "57",
+    "Attribute5": "54",
+    "Attribute6": "60",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

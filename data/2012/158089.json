@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Pablo",
+    "LastName": "Ledesma",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "2",
+      "Day": "4"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110364",
+    "LeagueId": "31",
+    "NationId": "52",
+    "Rating": "72",
+    "Attribute1": "68",
+    "Attribute2": "62",
+    "Attribute3": "72",
+    "Attribute4": "73",
+    "Attribute5": "68",
+    "Attribute6": "63",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

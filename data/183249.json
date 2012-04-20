@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Raúl",
+    "LastName": "Bobadilla",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "6",
+      "Day": "18"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "23",
+    "LeagueId": "19",
+    "NationId": "52",
+    "Rating": "74",
+    "Attribute1": "71",
+    "Attribute2": "71",
+    "Attribute3": "61",
+    "Attribute4": "74",
+    "Attribute5": "54",
+    "Attribute6": "76",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

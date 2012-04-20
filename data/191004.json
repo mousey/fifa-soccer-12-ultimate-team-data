@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jordi",
+    "LastName": "Pablo Ripollés",
+    "CommonName": "Jordi Pablo",
+    "Height": "173",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "1",
+      "Day": "1"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110902",
+    "LeagueId": "54",
+    "NationId": "45",
+    "Rating": "65",
+    "Attribute1": "70",
+    "Attribute2": "59",
+    "Attribute3": "63",
+    "Attribute4": "67",
+    "Attribute5": "46",
+    "Attribute6": "53",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

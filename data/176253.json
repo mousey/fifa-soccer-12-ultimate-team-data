@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Rafał",
+    "LastName": "Grodzicki",
+    "CommonName": null,
+    "Height": "192",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "10",
+      "Day": "23"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "874",
+    "LeagueId": "66",
+    "NationId": "37",
+    "Rating": "62",
+    "Attribute1": "48",
+    "Attribute2": "40",
+    "Attribute3": "46",
+    "Attribute4": "31",
+    "Attribute5": "74",
+    "Attribute6": "50",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

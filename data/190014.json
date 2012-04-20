@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Yannis",
+    "LastName": "Salibur",
+    "CommonName": null,
+    "Height": "176",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "1",
+      "Day": "24"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "111376",
+    "LeagueId": "17",
+    "NationId": "18",
+    "Rating": "65",
+    "Attribute1": "80",
+    "Attribute2": "54",
+    "Attribute3": "55",
+    "Attribute4": "72",
+    "Attribute5": "47",
+    "Attribute6": "60",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

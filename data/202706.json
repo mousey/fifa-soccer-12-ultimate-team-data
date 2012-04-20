@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Gastón",
+    "LastName": "Puerari",
+    "CommonName": null,
+    "Height": "173",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "1",
+      "Day": "23"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "101114",
+    "LeagueId": "341",
+    "NationId": "60",
+    "Rating": "63",
+    "Attribute1": "69",
+    "Attribute2": "61",
+    "Attribute3": "53",
+    "Attribute4": "68",
+    "Attribute5": "49",
+    "Attribute6": "65",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

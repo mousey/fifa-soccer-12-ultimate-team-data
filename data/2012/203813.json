@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jens",
+    "LastName": "Möckel",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "2",
+      "Day": "21"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "503",
+    "LeagueId": "20",
+    "NationId": "21",
+    "Rating": "61",
+    "Attribute1": "54",
+    "Attribute2": "36",
+    "Attribute3": "48",
+    "Attribute4": "40",
+    "Attribute5": "63",
+    "Attribute6": "63",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Kemy",
+    "LastName": "Agustien",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "8",
+      "Day": "20"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1960",
+    "LeagueId": "13",
+    "NationId": "34",
+    "Rating": "66",
+    "Attribute1": "68",
+    "Attribute2": "54",
+    "Attribute3": "69",
+    "Attribute4": "64",
+    "Attribute5": "66",
+    "Attribute6": "60",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

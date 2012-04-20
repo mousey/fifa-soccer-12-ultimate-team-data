@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Victor",
+    "LastName": "Ramos Ferreira",
+    "CommonName": "Victor Ramos",
+    "Height": "190",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "5",
+      "Day": "5"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "569",
+    "LeagueId": "7",
+    "NationId": "54",
+    "Rating": "67",
+    "Attribute1": "72",
+    "Attribute2": "35",
+    "Attribute3": "47",
+    "Attribute4": "40",
+    "Attribute5": "70",
+    "Attribute6": "72",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

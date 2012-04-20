@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Maurizio",
+    "LastName": "Lanzaro",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "3",
+      "Day": "14"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "244",
+    "LeagueId": "53",
+    "NationId": "27",
+    "Rating": "71",
+    "Attribute1": "56",
+    "Attribute2": "46",
+    "Attribute3": "51",
+    "Attribute4": "46",
+    "Attribute5": "76",
+    "Attribute6": "70",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Nicolas",
+    "LastName": "Fauvergue",
+    "CommonName": null,
+    "Height": "193",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "10",
+      "Day": "13"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "613",
+    "LeagueId": "17",
+    "NationId": "18",
+    "Rating": "66",
+    "Attribute1": "57",
+    "Attribute2": "67",
+    "Attribute3": "56",
+    "Attribute4": "63",
+    "Attribute5": "56",
+    "Attribute6": "81",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

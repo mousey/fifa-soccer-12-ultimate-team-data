@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Alexandre",
+    "LastName": "Pasche",
+    "CommonName": null,
+    "Height": "174",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "5",
+      "Day": "31"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1862",
+    "LeagueId": "189",
+    "NationId": "47",
+    "Rating": "58",
+    "Attribute1": "68",
+    "Attribute2": "48",
+    "Attribute3": "58",
+    "Attribute4": "60",
+    "Attribute5": "52",
+    "Attribute6": "52",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

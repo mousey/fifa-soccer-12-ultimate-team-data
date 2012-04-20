@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Lubomír",
+    "LastName": "Michalík",
+    "CommonName": null,
+    "Height": "193",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "8",
+      "Day": "13"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1480",
+    "LeagueId": "60",
+    "NationId": "43",
+    "Rating": "64",
+    "Attribute1": "49",
+    "Attribute2": "54",
+    "Attribute3": "47",
+    "Attribute4": "40",
+    "Attribute5": "69",
+    "Attribute6": "65",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

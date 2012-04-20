@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Mikaël",
+    "LastName": "Silvestre",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1977",
+      "Month": "8",
+      "Day": "9"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "38",
+    "LeagueId": "19",
+    "NationId": "18",
+    "Rating": "72",
+    "Attribute1": "49",
+    "Attribute2": "48",
+    "Attribute3": "71",
+    "Attribute4": "59",
+    "Attribute5": "73",
+    "Attribute6": "75",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jürgen",
+    "LastName": "Gjasula",
+    "CommonName": null,
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "12",
+      "Day": "5"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1825",
+    "LeagueId": "20",
+    "NationId": "21",
+    "Rating": "69",
+    "Attribute1": "70",
+    "Attribute2": "67",
+    "Attribute3": "63",
+    "Attribute4": "70",
+    "Attribute5": "55",
+    "Attribute6": "59",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

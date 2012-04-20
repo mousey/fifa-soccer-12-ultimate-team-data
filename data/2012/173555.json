@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Andreas",
+    "LastName": "Arestidou",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "2",
+      "Day": "29"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1801",
+    "LeagueId": "60",
+    "NationId": "14",
+    "Rating": "58",
+    "Attribute1": "60",
+    "Attribute2": "58",
+    "Attribute3": "54",
+    "Attribute4": "62",
+    "Attribute5": "35",
+    "Attribute6": "58",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

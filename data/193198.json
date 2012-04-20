@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Nemanja",
+    "LastName": "Gudelj",
+    "CommonName": null,
+    "Height": "177",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "11",
+      "Day": "16"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1904",
+    "LeagueId": "10",
+    "NationId": "51",
+    "Rating": "67",
+    "Attribute1": "66",
+    "Attribute2": "52",
+    "Attribute3": "65",
+    "Attribute4": "62",
+    "Attribute5": "68",
+    "Attribute6": "67",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

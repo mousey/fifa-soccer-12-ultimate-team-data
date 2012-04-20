@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Zlatko",
+    "LastName": "Junuzović",
+    "CommonName": null,
+    "Height": "172",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "9",
+      "Day": "26"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "256",
+    "LeagueId": "80",
+    "NationId": "4",
+    "Rating": "74",
+    "Attribute1": "76",
+    "Attribute2": "70",
+    "Attribute3": "71",
+    "Attribute4": "78",
+    "Attribute5": "41",
+    "Attribute6": "56",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

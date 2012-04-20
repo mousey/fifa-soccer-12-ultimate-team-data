@@ -1,0 +1,9 @@
+{
+  "Healing": {
+    "Desc": "Health Leg Gold",
+    "Rating": "80",
+    "Rare": "0",
+    "Amount": "5",
+    "ItemType": "HealthLeg"
+  }
+}

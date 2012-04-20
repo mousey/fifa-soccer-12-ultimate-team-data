@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jan-Ingwer",
+    "LastName": "Callsen-Bracker",
+    "CommonName": null,
+    "Height": "187",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "9",
+      "Day": "23"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "100409",
+    "LeagueId": "19",
+    "NationId": "21",
+    "Rating": "67",
+    "Attribute1": "60",
+    "Attribute2": "34",
+    "Attribute3": "60",
+    "Attribute4": "46",
+    "Attribute5": "72",
+    "Attribute6": "65",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

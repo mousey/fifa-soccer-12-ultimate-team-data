@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Mohammed",
+    "LastName": "Lartey",
+    "CommonName": null,
+    "Height": "176",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "12",
+      "Day": "4"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "27",
+    "LeagueId": "20",
+    "NationId": "21",
+    "Rating": "66",
+    "Attribute1": "87",
+    "Attribute2": "67",
+    "Attribute3": "61",
+    "Attribute4": "68",
+    "Attribute5": "45",
+    "Attribute6": "53",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Dean",
+    "LastName": "Hammond",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "3",
+      "Day": "7"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "17",
+    "LeagueId": "14",
+    "NationId": "14",
+    "Rating": "66",
+    "Attribute1": "65",
+    "Attribute2": "58",
+    "Attribute3": "62",
+    "Attribute4": "63",
+    "Attribute5": "67",
+    "Attribute6": "63",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

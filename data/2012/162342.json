@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Frank",
+    "LastName": "van Mosselveld",
+    "CommonName": null,
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "1",
+      "Day": "2"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1905",
+    "LeagueId": "10",
+    "NationId": "34",
+    "Rating": "62",
+    "Attribute1": "48",
+    "Attribute2": "45",
+    "Attribute3": "56",
+    "Attribute4": "37",
+    "Attribute5": "68",
+    "Attribute6": "65",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

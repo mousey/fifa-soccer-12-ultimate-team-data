@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Chris",
+    "LastName": "Humphrey",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "3",
+      "Day": "4"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "83",
+    "LeagueId": "50",
+    "NationId": "82",
+    "Rating": "69",
+    "Attribute1": "92",
+    "Attribute2": "51",
+    "Attribute3": "57",
+    "Attribute4": "67",
+    "Attribute5": "45",
+    "Attribute6": "52",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

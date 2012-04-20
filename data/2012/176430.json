@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "John Jairo",
+    "LastName": "Mosquera",
+    "CommonName": null,
+    "Height": "192",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "1",
+      "Day": "15"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1831",
+    "LeagueId": "20",
+    "NationId": "56",
+    "Rating": "65",
+    "Attribute1": "73",
+    "Attribute2": "64",
+    "Attribute3": "52",
+    "Attribute4": "65",
+    "Attribute5": "48",
+    "Attribute6": "64",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

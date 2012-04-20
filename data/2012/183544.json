@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Graham",
+    "LastName": "Burke",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1993",
+      "Month": "9",
+      "Day": "21"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "2",
+    "LeagueId": "13",
+    "NationId": "25",
+    "Rating": "62",
+    "Attribute1": "55",
+    "Attribute2": "62",
+    "Attribute3": "42",
+    "Attribute4": "59",
+    "Attribute5": "37",
+    "Attribute6": "50",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Joey",
+    "LastName": "O'Brien",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "2",
+      "Day": "17"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "19",
+    "LeagueId": "14",
+    "NationId": "25",
+    "Rating": "69",
+    "Attribute1": "71",
+    "Attribute2": "47",
+    "Attribute3": "62",
+    "Attribute4": "65",
+    "Attribute5": "70",
+    "Attribute6": "69",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

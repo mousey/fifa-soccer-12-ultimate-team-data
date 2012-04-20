@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Edouard",
+    "LastName": "Butin",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "6",
+      "Day": "13"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "226",
+    "LeagueId": "16",
+    "NationId": "18",
+    "Rating": "62",
+    "Attribute1": "68",
+    "Attribute2": "58",
+    "Attribute3": "44",
+    "Attribute4": "60",
+    "Attribute5": "39",
+    "Attribute6": "58",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

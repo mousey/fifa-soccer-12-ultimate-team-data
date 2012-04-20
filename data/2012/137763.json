@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Kossi",
+    "LastName": "Agassa",
+    "CommonName": null,
+    "Height": "190",
+    "DateOfBirth": {
+      "Year": "1978",
+      "Month": "7",
+      "Day": "2"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "379",
+    "LeagueId": "17",
+    "NationId": "144",
+    "Rating": "68",
+    "Attribute1": "70",
+    "Attribute2": "66",
+    "Attribute3": "58",
+    "Attribute4": "71",
+    "Attribute5": "67",
+    "Attribute6": "64",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

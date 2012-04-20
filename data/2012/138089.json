@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jesper",
+    "LastName": "Jørgensen",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "5",
+      "Day": "9"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "674",
+    "LeagueId": "4",
+    "NationId": "13",
+    "Rating": "67",
+    "Attribute1": "68",
+    "Attribute2": "66",
+    "Attribute3": "56",
+    "Attribute4": "67",
+    "Attribute5": "62",
+    "Attribute6": "51",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Teemu",
+    "LastName": "Pukki",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "3",
+      "Day": "29"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "34",
+    "LeagueId": "19",
+    "NationId": "17",
+    "Rating": "70",
+    "Attribute1": "74",
+    "Attribute2": "64",
+    "Attribute3": "39",
+    "Attribute4": "73",
+    "Attribute5": "43",
+    "Attribute6": "65",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

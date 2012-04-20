@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Kévin",
+    "LastName": "Dupuis",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "1",
+      "Day": "14"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "212",
+    "LeagueId": "17",
+    "NationId": "18",
+    "Rating": "67",
+    "Attribute1": "66",
+    "Attribute2": "63",
+    "Attribute3": "46",
+    "Attribute4": "64",
+    "Attribute5": "51",
+    "Attribute6": "63",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

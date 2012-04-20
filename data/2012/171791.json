@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "José Miguel",
+    "LastName": "da Rocha Fonte",
+    "CommonName": "José Fonte",
+    "Height": "187",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "12",
+      "Day": "22"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "17",
+    "LeagueId": "14",
+    "NationId": "38",
+    "Rating": "69",
+    "Attribute1": "65",
+    "Attribute2": "34",
+    "Attribute3": "48",
+    "Attribute4": "49",
+    "Attribute5": "71",
+    "Attribute6": "75",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

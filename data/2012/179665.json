@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Anthony",
+    "LastName": "Pilkington",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "6",
+      "Day": "6"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1792",
+    "LeagueId": "13",
+    "NationId": "14",
+    "Rating": "66",
+    "Attribute1": "73",
+    "Attribute2": "64",
+    "Attribute3": "59",
+    "Attribute4": "71",
+    "Attribute5": "53",
+    "Attribute6": "58",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

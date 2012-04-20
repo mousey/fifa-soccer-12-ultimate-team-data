@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Michael",
+    "LastName": "Thwaite",
+    "CommonName": null,
+    "Height": "190",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "5",
+      "Day": "2"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "112078",
+    "LeagueId": "351",
+    "NationId": "195",
+    "Rating": "63",
+    "Attribute1": "61",
+    "Attribute2": "47",
+    "Attribute3": "57",
+    "Attribute4": "38",
+    "Attribute5": "66",
+    "Attribute6": "65",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

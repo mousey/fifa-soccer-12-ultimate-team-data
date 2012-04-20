@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Dariusz",
+    "LastName": "Dudka",
+    "CommonName": null,
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "12",
+      "Day": "9"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "57",
+    "LeagueId": "16",
+    "NationId": "37",
+    "Rating": "72",
+    "Attribute1": "67",
+    "Attribute2": "60",
+    "Attribute3": "73",
+    "Attribute4": "66",
+    "Attribute5": "75",
+    "Attribute6": "73",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Luis Alberto",
+    "LastName": "Ramírez",
+    "CommonName": null,
+    "Height": "181",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "11",
+      "Day": "10"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1041",
+    "LeagueId": "7",
+    "NationId": "59",
+    "Rating": "72",
+    "Attribute1": "69",
+    "Attribute2": "70",
+    "Attribute3": "71",
+    "Attribute4": "79",
+    "Attribute5": "56",
+    "Attribute6": "65",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

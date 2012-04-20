@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Martial",
+    "LastName": "Robin",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1977",
+      "Month": "8",
+      "Day": "27"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1820",
+    "LeagueId": "17",
+    "NationId": "18",
+    "Rating": "59",
+    "Attribute1": "51",
+    "Attribute2": "39",
+    "Attribute3": "57",
+    "Attribute4": "42",
+    "Attribute5": "63",
+    "Attribute6": "60",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

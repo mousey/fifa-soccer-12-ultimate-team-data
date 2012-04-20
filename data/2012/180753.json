@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Mark",
+    "LastName": "Bridge",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "11",
+      "Day": "7"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111400",
+    "LeagueId": "351",
+    "NationId": "195",
+    "Rating": "59",
+    "Attribute1": "68",
+    "Attribute2": "63",
+    "Attribute3": "38",
+    "Attribute4": "57",
+    "Attribute5": "50",
+    "Attribute6": "50",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

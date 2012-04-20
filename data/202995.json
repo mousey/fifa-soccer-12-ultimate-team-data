@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Joon Soo",
+    "LastName": "Yoo",
+    "CommonName": "Yoo Joon Soo",
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "5",
+      "Day": "8"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110765",
+    "LeagueId": "83",
+    "NationId": "167",
+    "Rating": "60",
+    "Attribute1": "65",
+    "Attribute2": "57",
+    "Attribute3": "51",
+    "Attribute4": "60",
+    "Attribute5": "51",
+    "Attribute6": "58",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

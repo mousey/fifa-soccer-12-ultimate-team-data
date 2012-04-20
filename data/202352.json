@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Josue",
+    "LastName": "Soto",
+    "CommonName": null,
+    "Height": "174",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "1",
+      "Day": "3"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "698",
+    "LeagueId": "39",
+    "NationId": "95",
+    "Rating": "56",
+    "Attribute1": "70",
+    "Attribute2": "54",
+    "Attribute3": "51",
+    "Attribute4": "57",
+    "Attribute5": "50",
+    "Attribute6": "58",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

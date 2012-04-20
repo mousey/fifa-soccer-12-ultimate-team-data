@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Albert",
+    "LastName": "Adomah",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "12",
+      "Day": "13"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1919",
+    "LeagueId": "14",
+    "NationId": "117",
+    "Rating": "70",
+    "Attribute1": "81",
+    "Attribute2": "62",
+    "Attribute3": "65",
+    "Attribute4": "73",
+    "Attribute5": "52",
+    "Attribute6": "58",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

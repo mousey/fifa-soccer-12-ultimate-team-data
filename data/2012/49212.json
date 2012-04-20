@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Julián",
+    "LastName": "Speroni",
+    "CommonName": null,
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "5",
+      "Day": "18"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1799",
+    "LeagueId": "14",
+    "NationId": "52",
+    "Rating": "73",
+    "Attribute1": "76",
+    "Attribute2": "71",
+    "Attribute3": "71",
+    "Attribute4": "77",
+    "Attribute5": "58",
+    "Attribute6": "69",
+    "Rare": "1",
+    "ItemType": "PlayerGk"
+  }
+}

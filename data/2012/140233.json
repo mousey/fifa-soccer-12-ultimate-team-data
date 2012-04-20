@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Guillermo",
+    "LastName": "Ochoa",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "7",
+      "Day": "13"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "614",
+    "LeagueId": "16",
+    "NationId": "83",
+    "Rating": "76",
+    "Attribute1": "82",
+    "Attribute2": "68",
+    "Attribute3": "75",
+    "Attribute4": "81",
+    "Attribute5": "47",
+    "Attribute6": "72",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

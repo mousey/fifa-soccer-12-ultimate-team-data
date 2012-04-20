@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Thomas",
+    "LastName": "Heurtaux",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "7",
+      "Day": "3"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "210",
+    "LeagueId": "16",
+    "NationId": "18",
+    "Rating": "70",
+    "Attribute1": "55",
+    "Attribute2": "29",
+    "Attribute3": "58",
+    "Attribute4": "32",
+    "Attribute5": "70",
+    "Attribute6": "67",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

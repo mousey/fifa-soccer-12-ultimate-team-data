@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Neil",
+    "LastName": "Mellor",
+    "CommonName": null,
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "11",
+      "Day": "4"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1801",
+    "LeagueId": "60",
+    "NationId": "14",
+    "Rating": "65",
+    "Attribute1": "66",
+    "Attribute2": "64",
+    "Attribute3": "52",
+    "Attribute4": "63",
+    "Attribute5": "56",
+    "Attribute6": "68",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

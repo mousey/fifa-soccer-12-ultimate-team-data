@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Cristian",
+    "LastName": "Chivu",
+    "CommonName": null,
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1980",
+      "Month": "10",
+      "Day": "26"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "44",
+    "LeagueId": "31",
+    "NationId": "39",
+    "Rating": "79",
+    "Attribute1": "61",
+    "Attribute2": "62",
+    "Attribute3": "68",
+    "Attribute4": "64",
+    "Attribute5": "78",
+    "Attribute6": "76",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

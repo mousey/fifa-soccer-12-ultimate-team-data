@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Maximiliano",
+    "LastName": "Rodríguez",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "1",
+      "Day": "2"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "9",
+    "LeagueId": "13",
+    "NationId": "52",
+    "Rating": "78",
+    "Attribute1": "70",
+    "Attribute2": "76",
+    "Attribute3": "76",
+    "Attribute4": "80",
+    "Attribute5": "60",
+    "Attribute6": "63",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

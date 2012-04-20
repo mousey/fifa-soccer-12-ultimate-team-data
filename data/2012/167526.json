@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jorge",
+    "LastName": "Hernández",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "2",
+      "Day": "22"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "101116",
+    "LeagueId": "341",
+    "NationId": "83",
+    "Rating": "66",
+    "Attribute1": "70",
+    "Attribute2": "50",
+    "Attribute3": "66",
+    "Attribute4": "62",
+    "Attribute5": "68",
+    "Attribute6": "52",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

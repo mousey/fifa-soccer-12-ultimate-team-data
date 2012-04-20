@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Andrew",
+    "LastName": "Tutte",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "9",
+      "Day": "21"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1955",
+    "LeagueId": "60",
+    "NationId": "14",
+    "Rating": "62",
+    "Attribute1": "69",
+    "Attribute2": "56",
+    "Attribute3": "72",
+    "Attribute4": "60",
+    "Attribute5": "56",
+    "Attribute6": "54",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

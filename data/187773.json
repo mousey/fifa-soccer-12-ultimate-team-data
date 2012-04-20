@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Andreas",
+    "LastName": "Buchner",
+    "CommonName": null,
+    "Height": "168",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "5",
+      "Day": "15"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111239",
+    "LeagueId": "20",
+    "NationId": "21",
+    "Rating": "64",
+    "Attribute1": "75",
+    "Attribute2": "57",
+    "Attribute3": "60",
+    "Attribute4": "67",
+    "Attribute5": "34",
+    "Attribute6": "52",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

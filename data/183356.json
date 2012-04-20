@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Thomas",
+    "LastName": "Ayasse",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "2",
+      "Day": "17"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111989",
+    "LeagueId": "17",
+    "NationId": "18",
+    "Rating": "63",
+    "Attribute1": "70",
+    "Attribute2": "44",
+    "Attribute3": "60",
+    "Attribute4": "54",
+    "Attribute5": "65",
+    "Attribute6": "64",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

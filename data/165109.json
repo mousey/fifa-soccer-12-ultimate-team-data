@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Stefan",
+    "LastName": "Radu",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "10",
+      "Day": "22"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "46",
+    "LeagueId": "31",
+    "NationId": "39",
+    "Rating": "76",
+    "Attribute1": "76",
+    "Attribute2": "45",
+    "Attribute3": "65",
+    "Attribute4": "48",
+    "Attribute5": "79",
+    "Attribute6": "76",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

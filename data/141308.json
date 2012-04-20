@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Giourkas",
+    "LastName": "Seitaridis",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "6",
+      "Day": "4"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1884",
+    "LeagueId": "63",
+    "NationId": "22",
+    "Rating": "68",
+    "Attribute1": "63",
+    "Attribute2": "47",
+    "Attribute3": "68",
+    "Attribute4": "67",
+    "Attribute5": "71",
+    "Attribute6": "64",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

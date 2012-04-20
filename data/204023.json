@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "David",
+    "LastName": "Vázquez Bardera",
+    "CommonName": "Vázquez",
+    "Height": "179",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "3",
+      "Day": "21"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110839",
+    "LeagueId": "54",
+    "NationId": "45",
+    "Rating": "61",
+    "Attribute1": "69",
+    "Attribute2": "55",
+    "Attribute3": "56",
+    "Attribute4": "62",
+    "Attribute5": "44",
+    "Attribute6": "53",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

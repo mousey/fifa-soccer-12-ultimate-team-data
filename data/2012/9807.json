@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Michel",
+    "LastName": "Breuer",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1980",
+      "Month": "5",
+      "Day": "25"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1913",
+    "LeagueId": "10",
+    "NationId": "34",
+    "Rating": "68",
+    "Attribute1": "61",
+    "Attribute2": "40",
+    "Attribute3": "56",
+    "Attribute4": "51",
+    "Attribute5": "70",
+    "Attribute6": "74",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

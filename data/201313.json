@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Camillo",
+    "LastName": "Ciano",
+    "CommonName": null,
+    "Height": "181",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "2",
+      "Day": "22"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110734",
+    "LeagueId": "32",
+    "NationId": "27",
+    "Rating": "54",
+    "Attribute1": "72",
+    "Attribute2": "61",
+    "Attribute3": "36",
+    "Attribute4": "59",
+    "Attribute5": "45",
+    "Attribute6": "47",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

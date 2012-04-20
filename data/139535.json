@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jason",
+    "LastName": "Scotland",
+    "CommonName": null,
+    "Height": "173",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "2",
+      "Day": "18"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "94",
+    "LeagueId": "14",
+    "NationId": "93",
+    "Rating": "68",
+    "Attribute1": "66",
+    "Attribute2": "65",
+    "Attribute3": "42",
+    "Attribute4": "65",
+    "Attribute5": "57",
+    "Attribute6": "64",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

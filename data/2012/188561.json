@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Valery",
+    "LastName": "Nahayo",
+    "CommonName": null,
+    "Height": "190",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "4",
+      "Day": "15"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "674",
+    "LeagueId": "4",
+    "NationId": "102",
+    "Rating": "68",
+    "Attribute1": "74",
+    "Attribute2": "48",
+    "Attribute3": "51",
+    "Attribute4": "49",
+    "Attribute5": "72",
+    "Attribute6": "73",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

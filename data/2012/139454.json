@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ho Jin",
+    "LastName": "Park",
+    "CommonName": "Park Ho Jin",
+    "Height": "190",
+    "DateOfBirth": {
+      "Year": "1976",
+      "Month": "10",
+      "Day": "22"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "112258",
+    "LeagueId": "83",
+    "NationId": "167",
+    "Rating": "61",
+    "Attribute1": "62",
+    "Attribute2": "56",
+    "Attribute3": "62",
+    "Attribute4": "62",
+    "Attribute5": "36",
+    "Attribute6": "65",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

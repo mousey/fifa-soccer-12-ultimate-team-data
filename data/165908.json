@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Beom Seok",
+    "LastName": "Oh",
+    "CommonName": "Oh Beom Seok",
+    "Height": "181",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "7",
+      "Day": "29"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "983",
+    "LeagueId": "83",
+    "NationId": "167",
+    "Rating": "68",
+    "Attribute1": "80",
+    "Attribute2": "61",
+    "Attribute3": "66",
+    "Attribute4": "64",
+    "Attribute5": "70",
+    "Attribute6": "61",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

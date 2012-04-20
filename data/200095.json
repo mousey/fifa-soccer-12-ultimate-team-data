@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Murad",
+    "LastName": "Kurbanov",
+    "CommonName": null,
+    "Height": "174",
+    "DateOfBirth": {
+      "Year": "1992",
+      "Month": "3",
+      "Day": "22"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "100766",
+    "LeagueId": "67",
+    "NationId": "40",
+    "Rating": "51",
+    "Attribute1": "68",
+    "Attribute2": "21",
+    "Attribute3": "45",
+    "Attribute4": "32",
+    "Attribute5": "48",
+    "Attribute6": "53",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

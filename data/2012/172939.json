@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Keiren",
+    "LastName": "Westwood",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "10",
+      "Day": "23"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "106",
+    "LeagueId": "13",
+    "NationId": "25",
+    "Rating": "74",
+    "Attribute1": "79",
+    "Attribute2": "73",
+    "Attribute3": "71",
+    "Attribute4": "80",
+    "Attribute5": "50",
+    "Attribute6": "68",
+    "Rare": "1",
+    "ItemType": "PlayerGk"
+  }
+}

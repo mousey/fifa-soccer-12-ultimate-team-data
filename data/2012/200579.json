@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Dae Sun",
+    "LastName": "Jung",
+    "CommonName": "Jung Dae Sun",
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "6",
+      "Day": "27"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111588",
+    "LeagueId": "83",
+    "NationId": "167",
+    "Rating": "61",
+    "Attribute1": "61",
+    "Attribute2": "56",
+    "Attribute3": "48",
+    "Attribute4": "59",
+    "Attribute5": "53",
+    "Attribute6": "64",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Sékou",
+    "LastName": "Baradji",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "4",
+      "Day": "24"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "110569",
+    "LeagueId": "16",
+    "NationId": "18",
+    "Rating": "57",
+    "Attribute1": "57",
+    "Attribute2": "46",
+    "Attribute3": "49",
+    "Attribute4": "45",
+    "Attribute5": "65",
+    "Attribute6": "65",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

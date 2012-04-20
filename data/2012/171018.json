@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Mario",
+    "LastName": "Suárez Mata",
+    "CommonName": "Mario Suárez",
+    "Height": "189",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "2",
+      "Day": "24"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "240",
+    "LeagueId": "53",
+    "NationId": "45",
+    "Rating": "77",
+    "Attribute1": "59",
+    "Attribute2": "67",
+    "Attribute3": "74",
+    "Attribute4": "72",
+    "Attribute5": "77",
+    "Attribute6": "62",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

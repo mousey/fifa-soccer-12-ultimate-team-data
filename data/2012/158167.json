@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Mario",
+    "LastName": "Sonnleitner",
+    "CommonName": null,
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "10",
+      "Day": "8"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "254",
+    "LeagueId": "80",
+    "NationId": "4",
+    "Rating": "66",
+    "Attribute1": "77",
+    "Attribute2": "37",
+    "Attribute3": "45",
+    "Attribute4": "47",
+    "Attribute5": "68",
+    "Attribute6": "74",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Deividas",
+    "LastName": "Semberas",
+    "CommonName": null,
+    "Height": "187",
+    "DateOfBirth": {
+      "Year": "1978",
+      "Month": "8",
+      "Day": "2"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "315",
+    "LeagueId": "67",
+    "NationId": "30",
+    "Rating": "69",
+    "Attribute1": "67",
+    "Attribute2": "61",
+    "Attribute3": "66",
+    "Attribute4": "64",
+    "Attribute5": "68",
+    "Attribute6": "72",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

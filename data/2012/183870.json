@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Anthony",
+    "LastName": "Mounier",
+    "CommonName": null,
+    "Height": "174",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "9",
+      "Day": "27"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "72",
+    "LeagueId": "16",
+    "NationId": "18",
+    "Rating": "78",
+    "Attribute1": "88",
+    "Attribute2": "71",
+    "Attribute3": "75",
+    "Attribute4": "75",
+    "Attribute5": "52",
+    "Attribute6": "60",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

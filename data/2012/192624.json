@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Shane",
+    "LastName": "Ferguson",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "7",
+      "Day": "12"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "13",
+    "LeagueId": "13",
+    "NationId": "35",
+    "Rating": "56",
+    "Attribute1": "77",
+    "Attribute2": "50",
+    "Attribute3": "54",
+    "Attribute4": "76",
+    "Attribute5": "50",
+    "Attribute6": "48",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

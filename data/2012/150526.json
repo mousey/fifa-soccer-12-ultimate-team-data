@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Leonhard",
+    "LastName": "Haas",
+    "CommonName": null,
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "1",
+      "Day": "9"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "111239",
+    "LeagueId": "20",
+    "NationId": "21",
+    "Rating": "67",
+    "Attribute1": "70",
+    "Attribute2": "63",
+    "Attribute3": "63",
+    "Attribute4": "68",
+    "Attribute5": "56",
+    "Attribute6": "62",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

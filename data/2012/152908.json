@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ashley",
+    "LastName": "Young",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "7",
+      "Day": "9"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "11",
+    "LeagueId": "13",
+    "NationId": "14",
+    "Rating": "85",
+    "Attribute1": "93",
+    "Attribute2": "77",
+    "Attribute3": "76",
+    "Attribute4": "87",
+    "Attribute5": "47",
+    "Attribute6": "48",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

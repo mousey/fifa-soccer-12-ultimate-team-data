@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Liam",
+    "LastName": "Craig",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "12",
+      "Day": "27"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "100804",
+    "LeagueId": "50",
+    "NationId": "42",
+    "Rating": "67",
+    "Attribute1": "73",
+    "Attribute2": "64",
+    "Attribute3": "70",
+    "Attribute4": "69",
+    "Attribute5": "68",
+    "Attribute6": "64",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

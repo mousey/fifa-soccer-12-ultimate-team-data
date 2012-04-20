@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Andrew",
+    "LastName": "Wiedeman",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "8",
+      "Day": "22"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "695",
+    "LeagueId": "39",
+    "NationId": "95",
+    "Rating": "55",
+    "Attribute1": "62",
+    "Attribute2": "57",
+    "Attribute3": "49",
+    "Attribute4": "55",
+    "Attribute5": "62",
+    "Attribute6": "68",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

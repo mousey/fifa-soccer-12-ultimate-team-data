@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Zdeněk",
+    "LastName": "Grygera",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1980",
+      "Month": "5",
+      "Day": "14"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "144",
+    "LeagueId": "13",
+    "NationId": "12",
+    "Rating": "72",
+    "Attribute1": "56",
+    "Attribute2": "57",
+    "Attribute3": "64",
+    "Attribute4": "55",
+    "Attribute5": "74",
+    "Attribute6": "66",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Mateas",
+    "LastName": "Delić",
+    "CommonName": null,
+    "Height": "176",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "6",
+      "Day": "17"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "112115",
+    "LeagueId": "83",
+    "NationId": "10",
+    "Rating": "62",
+    "Attribute1": "65",
+    "Attribute2": "58",
+    "Attribute3": "61",
+    "Attribute4": "63",
+    "Attribute5": "51",
+    "Attribute6": "64",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Marcos",
+    "LastName": "Angeleri",
+    "CommonName": null,
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "4",
+      "Day": "7"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "106",
+    "LeagueId": "13",
+    "NationId": "52",
+    "Rating": "69",
+    "Attribute1": "65",
+    "Attribute2": "48",
+    "Attribute3": "71",
+    "Attribute4": "65",
+    "Attribute5": "69",
+    "Attribute6": "67",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

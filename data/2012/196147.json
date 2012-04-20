@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Giovanni",
+    "LastName": "Moreno",
+    "CommonName": null,
+    "Height": "190",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "7",
+      "Day": "1"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "101085",
+    "LeagueId": "353",
+    "NationId": "56",
+    "Rating": "76",
+    "Attribute1": "74",
+    "Attribute2": "75",
+    "Attribute3": "74",
+    "Attribute4": "82",
+    "Attribute5": "50",
+    "Attribute6": "67",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

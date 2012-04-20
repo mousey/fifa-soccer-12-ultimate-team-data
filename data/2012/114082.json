@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Robbie",
+    "LastName": "Russell",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "7",
+      "Day": "16"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111065",
+    "LeagueId": "39",
+    "NationId": "95",
+    "Rating": "67",
+    "Attribute1": "88",
+    "Attribute2": "51",
+    "Attribute3": "60",
+    "Attribute4": "58",
+    "Attribute5": "70",
+    "Attribute6": "63",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

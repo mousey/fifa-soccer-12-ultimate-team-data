@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Eoghan",
+    "LastName": "Osborne",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1992",
+      "Month": "3",
+      "Day": "25"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "837",
+    "LeagueId": "65",
+    "NationId": "25",
+    "Rating": "54",
+    "Attribute1": "61",
+    "Attribute2": "39",
+    "Attribute3": "52",
+    "Attribute4": "52",
+    "Attribute5": "54",
+    "Attribute6": "55",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Rasmus",
+    "LastName": "Elm",
+    "CommonName": null,
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "3",
+      "Day": "17"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1906",
+    "LeagueId": "10",
+    "NationId": "46",
+    "Rating": "73",
+    "Attribute1": "65",
+    "Attribute2": "76",
+    "Attribute3": "74",
+    "Attribute4": "72",
+    "Attribute5": "65",
+    "Attribute6": "66",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

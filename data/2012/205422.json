@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Javier",
+    "LastName": "Gallardo Pérez",
+    "CommonName": "Gallardo",
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "2",
+      "Day": "1"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "477",
+    "LeagueId": "54",
+    "NationId": "45",
+    "Rating": "57",
+    "Attribute1": "59",
+    "Attribute2": "44",
+    "Attribute3": "61",
+    "Attribute4": "46",
+    "Attribute5": "56",
+    "Attribute6": "59",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Marco",
+    "LastName": "Rojas",
+    "CommonName": null,
+    "Height": "166",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "11",
+      "Day": "5"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "111397",
+    "LeagueId": "351",
+    "NationId": "198",
+    "Rating": "63",
+    "Attribute1": "87",
+    "Attribute2": "43",
+    "Attribute3": "53",
+    "Attribute4": "71",
+    "Attribute5": "28",
+    "Attribute6": "25",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Dieter",
+    "LastName": "Dekelver",
+    "CommonName": null,
+    "Height": "181",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "8",
+      "Day": "17"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "681",
+    "LeagueId": "4",
+    "NationId": "7",
+    "Rating": "64",
+    "Attribute1": "74",
+    "Attribute2": "63",
+    "Attribute3": "56",
+    "Attribute4": "57",
+    "Attribute5": "54",
+    "Attribute6": "64",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

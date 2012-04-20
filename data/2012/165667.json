@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Łukasz",
+    "LastName": "Janoszka",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "3",
+      "Day": "18"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "874",
+    "LeagueId": "66",
+    "NationId": "37",
+    "Rating": "58",
+    "Attribute1": "63",
+    "Attribute2": "54",
+    "Attribute3": "58",
+    "Attribute4": "62",
+    "Attribute5": "46",
+    "Attribute6": "62",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

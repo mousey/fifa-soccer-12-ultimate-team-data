@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jed",
+    "LastName": "Steer",
+    "CommonName": null,
+    "Height": "187",
+    "DateOfBirth": {
+      "Year": "1992",
+      "Month": "9",
+      "Day": "23"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "346",
+    "LeagueId": "60",
+    "NationId": "14",
+    "Rating": "58",
+    "Attribute1": "66",
+    "Attribute2": "53",
+    "Attribute3": "48",
+    "Attribute4": "67",
+    "Attribute5": "47",
+    "Attribute6": "53",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

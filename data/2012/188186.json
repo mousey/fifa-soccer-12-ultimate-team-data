@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Kheli",
+    "LastName": "Dube",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "8",
+      "Day": "6"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "691",
+    "LeagueId": "39",
+    "NationId": "148",
+    "Rating": "61",
+    "Attribute1": "80",
+    "Attribute2": "58",
+    "Attribute3": "46",
+    "Attribute4": "65",
+    "Attribute5": "46",
+    "Attribute6": "56",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

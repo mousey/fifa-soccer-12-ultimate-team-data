@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Martín",
+    "LastName": "Montoya Torralbo",
+    "CommonName": "Montoya",
+    "Height": "170",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "4",
+      "Day": "14"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "241",
+    "LeagueId": "53",
+    "NationId": "45",
+    "Rating": "72",
+    "Attribute1": "81",
+    "Attribute2": "48",
+    "Attribute3": "67",
+    "Attribute4": "69",
+    "Attribute5": "71",
+    "Attribute6": "65",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

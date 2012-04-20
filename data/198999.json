@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Sam",
+    "LastName": "Gallagher",
+    "CommonName": null,
+    "Height": "181",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "5",
+      "Day": "5"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "111396",
+    "LeagueId": "351",
+    "NationId": "195",
+    "Rating": "56",
+    "Attribute1": "60",
+    "Attribute2": "37",
+    "Attribute3": "59",
+    "Attribute4": "55",
+    "Attribute5": "57",
+    "Attribute6": "66",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

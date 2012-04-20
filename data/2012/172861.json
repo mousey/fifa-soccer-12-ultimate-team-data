@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Javier",
+    "LastName": "Martina",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "2",
+      "Day": "1"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111651",
+    "LeagueId": "39",
+    "NationId": "34",
+    "Rating": "64",
+    "Attribute1": "75",
+    "Attribute2": "56",
+    "Attribute3": "58",
+    "Attribute4": "65",
+    "Attribute5": "44",
+    "Attribute6": "55",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

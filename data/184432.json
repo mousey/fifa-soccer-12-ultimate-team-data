@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "César",
+    "LastName": "Azpilicueta Tanco",
+    "CommonName": "Azpilicueta",
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "8",
+      "Day": "28"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "219",
+    "LeagueId": "16",
+    "NationId": "45",
+    "Rating": "75",
+    "Attribute1": "80",
+    "Attribute2": "57",
+    "Attribute3": "73",
+    "Attribute4": "70",
+    "Attribute5": "75",
+    "Attribute6": "68",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

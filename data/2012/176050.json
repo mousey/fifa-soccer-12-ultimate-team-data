@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jason",
+    "LastName": "Garey",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "7",
+      "Day": "19"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "698",
+    "LeagueId": "39",
+    "NationId": "95",
+    "Rating": "62",
+    "Attribute1": "53",
+    "Attribute2": "59",
+    "Attribute3": "52",
+    "Attribute4": "60",
+    "Attribute5": "53",
+    "Attribute6": "70",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

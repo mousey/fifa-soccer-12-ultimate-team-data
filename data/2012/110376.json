@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jonathan",
+    "LastName": "Soriano Casas",
+    "CommonName": "Jonathan Soriano",
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "9",
+      "Day": "24"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "241",
+    "LeagueId": "53",
+    "NationId": "45",
+    "Rating": "74",
+    "Attribute1": "74",
+    "Attribute2": "72",
+    "Attribute3": "59",
+    "Attribute4": "70",
+    "Attribute5": "52",
+    "Attribute6": "74",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Moussa",
+    "LastName": "Traoré",
+    "CommonName": null,
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "3",
+      "Day": "9"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "232",
+    "LeagueId": "4",
+    "NationId": "108",
+    "Rating": "62",
+    "Attribute1": "78",
+    "Attribute2": "58",
+    "Attribute3": "46",
+    "Attribute4": "59",
+    "Attribute5": "56",
+    "Attribute6": "69",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

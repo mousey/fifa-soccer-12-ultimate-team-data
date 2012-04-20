@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Danny",
+    "LastName": "Koevermans",
+    "CommonName": null,
+    "Height": "191",
+    "DateOfBirth": {
+      "Year": "1978",
+      "Month": "11",
+      "Day": "1"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111651",
+    "LeagueId": "39",
+    "NationId": "34",
+    "Rating": "72",
+    "Attribute1": "47",
+    "Attribute2": "72",
+    "Attribute3": "56",
+    "Attribute4": "54",
+    "Attribute5": "61",
+    "Attribute6": "76",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

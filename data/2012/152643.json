@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jonathan",
+    "LastName": "Douglas",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "11",
+      "Day": "22"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1925",
+    "LeagueId": "60",
+    "NationId": "25",
+    "Rating": "64",
+    "Attribute1": "56",
+    "Attribute2": "48",
+    "Attribute3": "67",
+    "Attribute4": "62",
+    "Attribute5": "63",
+    "Attribute6": "56",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

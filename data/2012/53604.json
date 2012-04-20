@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Gordon",
+    "LastName": "Greer",
+    "CommonName": null,
+    "Height": "192",
+    "DateOfBirth": {
+      "Year": "1980",
+      "Month": "12",
+      "Day": "14"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1808",
+    "LeagueId": "14",
+    "NationId": "42",
+    "Rating": "64",
+    "Attribute1": "55",
+    "Attribute2": "23",
+    "Attribute3": "38",
+    "Attribute4": "28",
+    "Attribute5": "69",
+    "Attribute6": "72",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

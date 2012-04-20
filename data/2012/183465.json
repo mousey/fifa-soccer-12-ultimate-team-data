@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jack",
+    "LastName": "Rodwell",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "3",
+      "Day": "11"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "7",
+    "LeagueId": "13",
+    "NationId": "14",
+    "Rating": "76",
+    "Attribute1": "73",
+    "Attribute2": "70",
+    "Attribute3": "74",
+    "Attribute4": "76",
+    "Attribute5": "75",
+    "Attribute6": "78",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

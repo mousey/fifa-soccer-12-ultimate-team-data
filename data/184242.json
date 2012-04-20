@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Funso",
+    "LastName": "Ojo",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "8",
+      "Day": "28"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "247",
+    "LeagueId": "10",
+    "NationId": "7",
+    "Rating": "67",
+    "Attribute1": "72",
+    "Attribute2": "58",
+    "Attribute3": "71",
+    "Attribute4": "71",
+    "Attribute5": "66",
+    "Attribute6": "62",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

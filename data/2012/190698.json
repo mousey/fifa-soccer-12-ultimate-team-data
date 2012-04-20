@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jasmin",
+    "LastName": "Burić",
+    "CommonName": null,
+    "Height": "193",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "2",
+      "Day": "18"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "873",
+    "LeagueId": "66",
+    "NationId": "8",
+    "Rating": "65",
+    "Attribute1": "63",
+    "Attribute2": "63",
+    "Attribute3": "61",
+    "Attribute4": "72",
+    "Attribute5": "47",
+    "Attribute6": "63",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

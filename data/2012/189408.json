@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Lukas",
+    "LastName": "Rath",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1992",
+      "Month": "1",
+      "Day": "18"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1785",
+    "LeagueId": "80",
+    "NationId": "4",
+    "Rating": "57",
+    "Attribute1": "66",
+    "Attribute2": "32",
+    "Attribute3": "49",
+    "Attribute4": "55",
+    "Attribute5": "61",
+    "Attribute6": "62",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

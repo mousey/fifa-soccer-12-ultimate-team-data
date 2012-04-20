@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Younès",
+    "LastName": "Belhanda",
+    "CommonName": null,
+    "Height": "174",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "2",
+      "Day": "25"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "70",
+    "LeagueId": "16",
+    "NationId": "129",
+    "Rating": "78",
+    "Attribute1": "76",
+    "Attribute2": "75",
+    "Attribute3": "76",
+    "Attribute4": "81",
+    "Attribute5": "70",
+    "Attribute6": "69",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

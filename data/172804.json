@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "James",
+    "LastName": "Brown",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "1",
+      "Day": "3"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1941",
+    "LeagueId": "60",
+    "NationId": "14",
+    "Rating": "64",
+    "Attribute1": "70",
+    "Attribute2": "67",
+    "Attribute3": "40",
+    "Attribute4": "64",
+    "Attribute5": "40",
+    "Attribute6": "64",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

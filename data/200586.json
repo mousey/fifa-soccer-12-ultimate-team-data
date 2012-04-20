@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Do Yeon",
+    "LastName": "Hwang",
+    "CommonName": "Hwang Do Yeon",
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "2",
+      "Day": "27"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1475",
+    "LeagueId": "83",
+    "NationId": "167",
+    "Rating": "62",
+    "Attribute1": "66",
+    "Attribute2": "37",
+    "Attribute3": "49",
+    "Attribute4": "51",
+    "Attribute5": "64",
+    "Attribute6": "72",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

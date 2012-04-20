@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ruben Filipe",
+    "LastName": "Marques Amorim",
+    "CommonName": "Ruben Amorim",
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "1",
+      "Day": "27"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "234",
+    "LeagueId": "308",
+    "NationId": "38",
+    "Rating": "76",
+    "Attribute1": "72",
+    "Attribute2": "70",
+    "Attribute3": "76",
+    "Attribute4": "75",
+    "Attribute5": "72",
+    "Attribute6": "69",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

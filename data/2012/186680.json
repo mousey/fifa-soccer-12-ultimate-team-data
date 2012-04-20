@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Raúl",
+    "LastName": "Fdez-Cavada Mateos",
+    "CommonName": "Raúl",
+    "Height": "196",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "3",
+      "Day": "13"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "448",
+    "LeagueId": "53",
+    "NationId": "45",
+    "Rating": "67",
+    "Attribute1": "64",
+    "Attribute2": "74",
+    "Attribute3": "62",
+    "Attribute4": "67",
+    "Attribute5": "53",
+    "Attribute6": "71",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ties",
+    "LastName": "Evers",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "3",
+      "Day": "14"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "635",
+    "LeagueId": "10",
+    "NationId": "34",
+    "Rating": "63",
+    "Attribute1": "66",
+    "Attribute2": "40",
+    "Attribute3": "63",
+    "Attribute4": "61",
+    "Attribute5": "63",
+    "Attribute6": "66",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

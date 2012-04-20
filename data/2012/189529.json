@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Davy Claude",
+    "LastName": "Angan",
+    "CommonName": null,
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "9",
+      "Day": "20"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "417",
+    "LeagueId": "41",
+    "NationId": "108",
+    "Rating": "76",
+    "Attribute1": "83",
+    "Attribute2": "69",
+    "Attribute3": "41",
+    "Attribute4": "82",
+    "Attribute5": "56",
+    "Attribute6": "75",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

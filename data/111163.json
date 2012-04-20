@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Steeve",
+    "LastName": "Elana",
+    "CommonName": null,
+    "Height": "187",
+    "DateOfBirth": {
+      "Year": "1980",
+      "Month": "7",
+      "Day": "11"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "378",
+    "LeagueId": "16",
+    "NationId": "18",
+    "Rating": "76",
+    "Attribute1": "82",
+    "Attribute2": "78",
+    "Attribute3": "65",
+    "Attribute4": "79",
+    "Attribute5": "66",
+    "Attribute6": "70",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

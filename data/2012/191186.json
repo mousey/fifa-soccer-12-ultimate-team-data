@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Marcos Luís",
+    "LastName": "Rocha Aquino",
+    "CommonName": "Marcos Rocha",
+    "Height": "177",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "12",
+      "Day": "11"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "112001",
+    "LeagueId": "7",
+    "NationId": "54",
+    "Rating": "66",
+    "Attribute1": "77",
+    "Attribute2": "49",
+    "Attribute3": "68",
+    "Attribute4": "78",
+    "Attribute5": "64",
+    "Attribute6": "56",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

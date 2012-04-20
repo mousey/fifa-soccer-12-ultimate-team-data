@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Gilberto",
+    "LastName": "Martínez",
+    "CommonName": null,
+    "Height": "174",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "10",
+      "Day": "1"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "190",
+    "LeagueId": "32",
+    "NationId": "72",
+    "Rating": "66",
+    "Attribute1": "64",
+    "Attribute2": "47",
+    "Attribute3": "56",
+    "Attribute4": "44",
+    "Attribute5": "69",
+    "Attribute6": "64",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

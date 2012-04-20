@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Kasey",
+    "LastName": "Keller",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1969",
+      "Month": "11",
+      "Day": "29"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111144",
+    "LeagueId": "39",
+    "NationId": "95",
+    "Rating": "69",
+    "Attribute1": "65",
+    "Attribute2": "73",
+    "Attribute3": "72",
+    "Attribute4": "67",
+    "Attribute5": "50",
+    "Attribute6": "71",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Barry",
+    "LastName": "Molloy",
+    "CommonName": null,
+    "Height": "174",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "11",
+      "Day": "28"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "445",
+    "LeagueId": "65",
+    "NationId": "25",
+    "Rating": "56",
+    "Attribute1": "58",
+    "Attribute2": "48",
+    "Attribute3": "55",
+    "Attribute4": "48",
+    "Attribute5": "56",
+    "Attribute6": "55",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

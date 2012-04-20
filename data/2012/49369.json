@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Fernando José",
+    "LastName": "Torres Sanz",
+    "CommonName": "Fernando Torres",
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "3",
+      "Day": "20"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "5",
+    "LeagueId": "13",
+    "NationId": "45",
+    "Rating": "86",
+    "Attribute1": "86",
+    "Attribute2": "84",
+    "Attribute3": "66",
+    "Attribute4": "83",
+    "Attribute5": "55",
+    "Attribute6": "79",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

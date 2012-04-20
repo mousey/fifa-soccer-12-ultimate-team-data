@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Kevin",
+    "LastName": "Kyle",
+    "CommonName": null,
+    "Height": "191",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "6",
+      "Day": "7"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "80",
+    "LeagueId": "50",
+    "NationId": "42",
+    "Rating": "69",
+    "Attribute1": "68",
+    "Attribute2": "67",
+    "Attribute3": "55",
+    "Attribute4": "61",
+    "Attribute5": "68",
+    "Attribute6": "71",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

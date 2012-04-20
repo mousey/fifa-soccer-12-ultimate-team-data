@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Adrian",
+    "LastName": "Winter",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "7",
+      "Day": "8"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "897",
+    "LeagueId": "189",
+    "NationId": "47",
+    "Rating": "56",
+    "Attribute1": "76",
+    "Attribute2": "50",
+    "Attribute3": "56",
+    "Attribute4": "54",
+    "Attribute5": "56",
+    "Attribute6": "60",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Mahamet",
+    "LastName": "Diagouraga",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "1",
+      "Day": "8"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1744",
+    "LeagueId": "32",
+    "NationId": "18",
+    "Rating": "65",
+    "Attribute1": "71",
+    "Attribute2": "43",
+    "Attribute3": "42",
+    "Attribute4": "35",
+    "Attribute5": "73",
+    "Attribute6": "67",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

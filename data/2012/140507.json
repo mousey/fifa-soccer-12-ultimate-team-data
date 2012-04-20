@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Paul",
+    "LastName": "Quinn",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "7",
+      "Day": "21"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1961",
+    "LeagueId": "14",
+    "NationId": "42",
+    "Rating": "62",
+    "Attribute1": "58",
+    "Attribute2": "31",
+    "Attribute3": "54",
+    "Attribute4": "57",
+    "Attribute5": "66",
+    "Attribute6": "72",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

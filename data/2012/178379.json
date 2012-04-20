@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jordan",
+    "LastName": "Harvey",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "1",
+      "Day": "28"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "101112",
+    "LeagueId": "39",
+    "NationId": "95",
+    "Rating": "63",
+    "Attribute1": "67",
+    "Attribute2": "45",
+    "Attribute3": "58",
+    "Attribute4": "59",
+    "Attribute5": "67",
+    "Attribute6": "61",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

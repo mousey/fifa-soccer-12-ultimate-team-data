@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ebrahim",
+    "LastName": "Seedat",
+    "CommonName": null,
+    "Height": "176",
+    "DateOfBirth": {
+      "Year": "1993",
+      "Month": "6",
+      "Day": "18"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "2007",
+    "LeagueId": "4",
+    "NationId": "140",
+    "Rating": "60",
+    "Attribute1": "73",
+    "Attribute2": "48",
+    "Attribute3": "59",
+    "Attribute4": "68",
+    "Attribute5": "36",
+    "Attribute6": "40",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Kyle",
+    "LastName": "Lafferty",
+    "CommonName": null,
+    "Height": "193",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "9",
+      "Day": "16"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "86",
+    "LeagueId": "50",
+    "NationId": "35",
+    "Rating": "71",
+    "Attribute1": "76",
+    "Attribute2": "64",
+    "Attribute3": "46",
+    "Attribute4": "66",
+    "Attribute5": "56",
+    "Attribute6": "67",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

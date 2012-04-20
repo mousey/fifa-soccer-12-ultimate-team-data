@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Asier",
+    "LastName": "Goiria Etxeberría",
+    "CommonName": "Goiria",
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1980",
+      "Month": "9",
+      "Day": "19"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "100851",
+    "LeagueId": "54",
+    "NationId": "45",
+    "Rating": "63",
+    "Attribute1": "54",
+    "Attribute2": "61",
+    "Attribute3": "45",
+    "Attribute4": "55",
+    "Attribute5": "52",
+    "Attribute6": "82",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

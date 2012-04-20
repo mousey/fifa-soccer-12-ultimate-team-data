@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Aleksander",
+    "LastName": "Ptak",
+    "CommonName": null,
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1977",
+      "Month": "11",
+      "Day": "4"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110749",
+    "LeagueId": "66",
+    "NationId": "37",
+    "Rating": "61",
+    "Attribute1": "69",
+    "Attribute2": "62",
+    "Attribute3": "44",
+    "Attribute4": "55",
+    "Attribute5": "56",
+    "Attribute6": "65",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

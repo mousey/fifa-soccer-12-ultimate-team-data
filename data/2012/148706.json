@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Seyi",
+    "LastName": "Olofinjana",
+    "CommonName": null,
+    "Height": "193",
+    "DateOfBirth": {
+      "Year": "1980",
+      "Month": "6",
+      "Day": "12"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1952",
+    "LeagueId": "14",
+    "NationId": "133",
+    "Rating": "68",
+    "Attribute1": "62",
+    "Attribute2": "53",
+    "Attribute3": "65",
+    "Attribute4": "58",
+    "Attribute5": "71",
+    "Attribute6": "72",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

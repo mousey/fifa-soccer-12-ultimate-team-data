@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Didier",
+    "LastName": "Digard",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "7",
+      "Day": "12"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "72",
+    "LeagueId": "16",
+    "NationId": "18",
+    "Rating": "71",
+    "Attribute1": "69",
+    "Attribute2": "61",
+    "Attribute3": "66",
+    "Attribute4": "71",
+    "Attribute5": "73",
+    "Attribute6": "74",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

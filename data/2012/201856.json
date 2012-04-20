@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Cyril",
+    "LastName": "Hennion",
+    "CommonName": null,
+    "Height": "176",
+    "DateOfBirth": {
+      "Year": "1992",
+      "Month": "1",
+      "Day": "3"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "72",
+    "LeagueId": "16",
+    "NationId": "18",
+    "Rating": "59",
+    "Attribute1": "68",
+    "Attribute2": "55",
+    "Attribute3": "53",
+    "Attribute4": "64",
+    "Attribute5": "40",
+    "Attribute6": "61",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

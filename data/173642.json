@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jordan",
+    "LastName": "McMillan",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "10",
+      "Day": "16"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "86",
+    "LeagueId": "50",
+    "NationId": "42",
+    "Rating": "53",
+    "Attribute1": "53",
+    "Attribute2": "27",
+    "Attribute3": "50",
+    "Attribute4": "39",
+    "Attribute5": "53",
+    "Attribute6": "61",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

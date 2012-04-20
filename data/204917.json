@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ruben",
+    "LastName": "Ketels",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1992",
+      "Month": "8",
+      "Day": "29"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "2007",
+    "LeagueId": "4",
+    "NationId": "7",
+    "Rating": "50",
+    "Attribute1": "58",
+    "Attribute2": "50",
+    "Attribute3": "54",
+    "Attribute4": "53",
+    "Attribute5": "46",
+    "Attribute6": "51",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

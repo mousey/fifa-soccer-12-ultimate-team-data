@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Björn",
+    "LastName": "Ziegenbein",
+    "CommonName": null,
+    "Height": "174",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "4",
+      "Day": "30"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "27",
+    "LeagueId": "20",
+    "NationId": "21",
+    "Rating": "66",
+    "Attribute1": "81",
+    "Attribute2": "68",
+    "Attribute3": "61",
+    "Attribute4": "66",
+    "Attribute5": "49",
+    "Attribute6": "62",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

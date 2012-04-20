@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Adam",
+    "LastName": "Mitchell",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "6",
+      "Day": "23"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "838",
+    "LeagueId": "65",
+    "NationId": "25",
+    "Rating": "54",
+    "Attribute1": "55",
+    "Attribute2": "30",
+    "Attribute3": "36",
+    "Attribute4": "30",
+    "Attribute5": "56",
+    "Attribute6": "58",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Joel",
+    "LastName": "Lindpere",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "10",
+      "Day": "5"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "689",
+    "LeagueId": "39",
+    "NationId": "208",
+    "Rating": "73",
+    "Attribute1": "61",
+    "Attribute2": "71",
+    "Attribute3": "75",
+    "Attribute4": "69",
+    "Attribute5": "66",
+    "Attribute6": "59",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

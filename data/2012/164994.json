@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jakub",
+    "LastName": "Błaszczykowski",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "12",
+      "Day": "14"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "22",
+    "LeagueId": "19",
+    "NationId": "37",
+    "Rating": "77",
+    "Attribute1": "91",
+    "Attribute2": "66",
+    "Attribute3": "70",
+    "Attribute4": "80",
+    "Attribute5": "58",
+    "Attribute6": "56",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

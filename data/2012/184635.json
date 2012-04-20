@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Stefan",
+    "LastName": "Nijland",
+    "CommonName": null,
+    "Height": "187",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "8",
+      "Day": "10"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1910",
+    "LeagueId": "10",
+    "NationId": "34",
+    "Rating": "68",
+    "Attribute1": "76",
+    "Attribute2": "64",
+    "Attribute3": "57",
+    "Attribute4": "70",
+    "Attribute5": "49",
+    "Attribute6": "61",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

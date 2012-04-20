@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Lauro Júnior",
+    "LastName": "Batista da Cruz",
+    "CommonName": "Lauro",
+    "Height": "193",
+    "DateOfBirth": {
+      "Year": "1980",
+      "Month": "9",
+      "Day": "3"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1048",
+    "LeagueId": "7",
+    "NationId": "54",
+    "Rating": "73",
+    "Attribute1": "78",
+    "Attribute2": "69",
+    "Attribute3": "70",
+    "Attribute4": "74",
+    "Attribute5": "53",
+    "Attribute6": "70",
+    "Rare": "1",
+    "ItemType": "PlayerGk"
+  }
+}

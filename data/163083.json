@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Rolando Jorge",
+    "LastName": "Pires da Fonseca",
+    "CommonName": "Rolando",
+    "Height": "190",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "8",
+      "Day": "31"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "236",
+    "LeagueId": "308",
+    "NationId": "38",
+    "Rating": "80",
+    "Attribute1": "64",
+    "Attribute2": "58",
+    "Attribute3": "64",
+    "Attribute4": "59",
+    "Attribute5": "81",
+    "Attribute6": "77",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "John",
+    "LastName": "Mensah",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "11",
+      "Day": "29"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "66",
+    "LeagueId": "16",
+    "NationId": "117",
+    "Rating": "76",
+    "Attribute1": "61",
+    "Attribute2": "43",
+    "Attribute3": "56",
+    "Attribute4": "29",
+    "Attribute5": "78",
+    "Attribute6": "77",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Altin",
+    "LastName": "Lala",
+    "CommonName": null,
+    "Height": "172",
+    "DateOfBirth": {
+      "Year": "1975",
+      "Month": "11",
+      "Day": "18"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "485",
+    "LeagueId": "19",
+    "NationId": "1",
+    "Rating": "67",
+    "Attribute1": "48",
+    "Attribute2": "60",
+    "Attribute3": "69",
+    "Attribute4": "64",
+    "Attribute5": "67",
+    "Attribute6": "69",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

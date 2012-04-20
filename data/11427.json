@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Marcel",
+    "LastName": "Maltritz",
+    "CommonName": null,
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1978",
+      "Month": "10",
+      "Day": "2"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "160",
+    "LeagueId": "20",
+    "NationId": "21",
+    "Rating": "70",
+    "Attribute1": "53",
+    "Attribute2": "47",
+    "Attribute3": "53",
+    "Attribute4": "43",
+    "Attribute5": "72",
+    "Attribute6": "72",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

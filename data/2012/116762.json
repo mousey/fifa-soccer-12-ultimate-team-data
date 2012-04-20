@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Sébastien",
+    "LastName": "Roudet",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "6",
+      "Day": "16"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "226",
+    "LeagueId": "16",
+    "NationId": "18",
+    "Rating": "74",
+    "Attribute1": "71",
+    "Attribute2": "69",
+    "Attribute3": "76",
+    "Attribute4": "75",
+    "Attribute5": "59",
+    "Attribute6": "43",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

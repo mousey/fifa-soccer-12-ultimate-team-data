@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Sam",
+    "LastName": "Slocombe",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "6",
+      "Day": "5"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1949",
+    "LeagueId": "60",
+    "NationId": "14",
+    "Rating": "53",
+    "Attribute1": "56",
+    "Attribute2": "54",
+    "Attribute3": "53",
+    "Attribute4": "60",
+    "Attribute5": "44",
+    "Attribute6": "48",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

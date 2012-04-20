@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Paweł",
+    "LastName": "Sobolewski",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "6",
+      "Day": "20"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "111083",
+    "LeagueId": "66",
+    "NationId": "37",
+    "Rating": "62",
+    "Attribute1": "80",
+    "Attribute2": "54",
+    "Attribute3": "56",
+    "Attribute4": "66",
+    "Attribute5": "48",
+    "Attribute6": "54",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

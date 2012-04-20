@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Iván",
+    "LastName": "Iyanga Travieso",
+    "CommonName": "Randy",
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "6",
+      "Day": "2"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "472",
+    "LeagueId": "54",
+    "NationId": "112",
+    "Rating": "58",
+    "Attribute1": "70",
+    "Attribute2": "54",
+    "Attribute3": "54",
+    "Attribute4": "59",
+    "Attribute5": "48",
+    "Attribute6": "66",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

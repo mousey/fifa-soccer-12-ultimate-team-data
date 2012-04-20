@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Conor",
+    "LastName": "Clifford",
+    "CommonName": null,
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "10",
+      "Day": "1"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "5",
+    "LeagueId": "13",
+    "NationId": "25",
+    "Rating": "55",
+    "Attribute1": "71",
+    "Attribute2": "47",
+    "Attribute3": "57",
+    "Attribute4": "65",
+    "Attribute5": "49",
+    "Attribute6": "60",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

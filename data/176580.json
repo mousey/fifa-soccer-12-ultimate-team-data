@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Luis",
+    "LastName": "Suárez",
+    "CommonName": null,
+    "Height": "181",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "1",
+      "Day": "24"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "9",
+    "LeagueId": "13",
+    "NationId": "60",
+    "Rating": "85",
+    "Attribute1": "80",
+    "Attribute2": "83",
+    "Attribute3": "73",
+    "Attribute4": "85",
+    "Attribute5": "64",
+    "Attribute6": "69",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

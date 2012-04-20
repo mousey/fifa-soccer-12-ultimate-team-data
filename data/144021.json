@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Christian",
+    "LastName": "Schwegler",
+    "CommonName": null,
+    "Height": "177",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "6",
+      "Day": "6"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "191",
+    "LeagueId": "80",
+    "NationId": "47",
+    "Rating": "66",
+    "Attribute1": "72",
+    "Attribute2": "46",
+    "Attribute3": "60",
+    "Attribute4": "62",
+    "Attribute5": "65",
+    "Attribute6": "65",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

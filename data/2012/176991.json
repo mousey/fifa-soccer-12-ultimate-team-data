@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Michael",
+    "LastName": "Beauchamp",
+    "CommonName": null,
+    "Height": "191",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "3",
+      "Day": "8"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111400",
+    "LeagueId": "351",
+    "NationId": "195",
+    "Rating": "65",
+    "Attribute1": "52",
+    "Attribute2": "31",
+    "Attribute3": "42",
+    "Attribute4": "35",
+    "Attribute5": "73",
+    "Attribute6": "71",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

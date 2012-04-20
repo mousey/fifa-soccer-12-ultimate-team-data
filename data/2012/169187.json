@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Stephen",
+    "LastName": "Bradley",
+    "CommonName": null,
+    "Height": "170",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "11",
+      "Day": "19"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "423",
+    "LeagueId": "65",
+    "NationId": "25",
+    "Rating": "59",
+    "Attribute1": "57",
+    "Attribute2": "57",
+    "Attribute3": "61",
+    "Attribute4": "60",
+    "Attribute5": "47",
+    "Attribute6": "44",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Miguel",
+    "LastName": "Palanca Fernández",
+    "CommonName": "Palanca",
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "12",
+      "Day": "18"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "468",
+    "LeagueId": "54",
+    "NationId": "45",
+    "Rating": "67",
+    "Attribute1": "80",
+    "Attribute2": "64",
+    "Attribute3": "55",
+    "Attribute4": "70",
+    "Attribute5": "52",
+    "Attribute6": "60",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

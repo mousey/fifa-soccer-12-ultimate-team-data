@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Yado",
+    "LastName": "Mambo",
+    "CommonName": null,
+    "Height": "191",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "10",
+      "Day": "22"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "89",
+    "LeagueId": "60",
+    "NationId": "14",
+    "Rating": "54",
+    "Attribute1": "71",
+    "Attribute2": "19",
+    "Attribute3": "20",
+    "Attribute4": "27",
+    "Attribute5": "57",
+    "Attribute6": "62",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

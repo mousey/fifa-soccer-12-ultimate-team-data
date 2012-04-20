@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Tomáš",
+    "LastName": "Pekhart",
+    "CommonName": null,
+    "Height": "194",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "5",
+      "Day": "26"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "171",
+    "LeagueId": "19",
+    "NationId": "12",
+    "Rating": "72",
+    "Attribute1": "65",
+    "Attribute2": "66",
+    "Attribute3": "47",
+    "Attribute4": "68",
+    "Attribute5": "58",
+    "Attribute6": "74",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

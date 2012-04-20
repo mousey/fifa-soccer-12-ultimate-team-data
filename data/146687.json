@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Íñigo",
+    "LastName": "Vélez de Mendizábal",
+    "CommonName": "Íñigo Vélez",
+    "Height": "194",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "3",
+      "Day": "15"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1742",
+    "LeagueId": "54",
+    "NationId": "45",
+    "Rating": "63",
+    "Attribute1": "45",
+    "Attribute2": "67",
+    "Attribute3": "49",
+    "Attribute4": "53",
+    "Attribute5": "53",
+    "Attribute6": "70",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

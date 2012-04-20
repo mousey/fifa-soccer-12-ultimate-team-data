@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Guillermo",
+    "LastName": "Fernández Hierro",
+    "CommonName": "Guillermo",
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1993",
+      "Month": "5",
+      "Day": "23"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "448",
+    "LeagueId": "53",
+    "NationId": "45",
+    "Rating": "58",
+    "Attribute1": "82",
+    "Attribute2": "54",
+    "Attribute3": "38",
+    "Attribute4": "62",
+    "Attribute5": "39",
+    "Attribute6": "55",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

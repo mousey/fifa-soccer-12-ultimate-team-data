@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Paul",
+    "LastName": "Hanlon",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "1",
+      "Day": "1"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "81",
+    "LeagueId": "50",
+    "NationId": "42",
+    "Rating": "62",
+    "Attribute1": "69",
+    "Attribute2": "27",
+    "Attribute3": "56",
+    "Attribute4": "49",
+    "Attribute5": "65",
+    "Attribute6": "68",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

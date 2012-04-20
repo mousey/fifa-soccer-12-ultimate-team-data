@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "David",
+    "LastName": "Norris",
+    "CommonName": null,
+    "Height": "170",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "2",
+      "Day": "22"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1790",
+    "LeagueId": "14",
+    "NationId": "14",
+    "Rating": "70",
+    "Attribute1": "59",
+    "Attribute2": "61",
+    "Attribute3": "71",
+    "Attribute4": "66",
+    "Attribute5": "65",
+    "Attribute6": "59",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

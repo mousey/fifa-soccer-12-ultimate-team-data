@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Luke",
+    "LastName": "Williams",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1993",
+      "Month": "6",
+      "Day": "11"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "12",
+    "LeagueId": "14",
+    "NationId": "14",
+    "Rating": "53",
+    "Attribute1": "61",
+    "Attribute2": "53",
+    "Attribute3": "38",
+    "Attribute4": "59",
+    "Attribute5": "45",
+    "Attribute6": "44",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

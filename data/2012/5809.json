@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Nicolas",
+    "LastName": "Anelka",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "3",
+      "Day": "14"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "5",
+    "LeagueId": "13",
+    "NationId": "18",
+    "Rating": "83",
+    "Attribute1": "76",
+    "Attribute2": "81",
+    "Attribute3": "66",
+    "Attribute4": "82",
+    "Attribute5": "55",
+    "Attribute6": "80",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

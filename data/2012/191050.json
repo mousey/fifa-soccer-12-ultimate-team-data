@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "François",
+    "LastName": "Affolter",
+    "CommonName": null,
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "3",
+      "Day": "13"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "900",
+    "LeagueId": "189",
+    "NationId": "47",
+    "Rating": "68",
+    "Attribute1": "73",
+    "Attribute2": "41",
+    "Attribute3": "60",
+    "Attribute4": "59",
+    "Attribute5": "70",
+    "Attribute6": "68",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

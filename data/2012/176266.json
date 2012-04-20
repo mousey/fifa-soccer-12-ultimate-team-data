@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Lucas",
+    "LastName": "Pezzini Leiva",
+    "CommonName": "Lucas Leiva",
+    "Height": "179",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "1",
+      "Day": "9"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "9",
+    "LeagueId": "13",
+    "NationId": "54",
+    "Rating": "78",
+    "Attribute1": "72",
+    "Attribute2": "48",
+    "Attribute3": "76",
+    "Attribute4": "71",
+    "Attribute5": "74",
+    "Attribute6": "75",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

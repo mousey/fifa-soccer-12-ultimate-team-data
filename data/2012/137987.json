@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jordan",
+    "LastName": "Lotiès",
+    "CommonName": null,
+    "Height": "190",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "8",
+      "Day": "5"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1823",
+    "LeagueId": "16",
+    "NationId": "18",
+    "Rating": "74",
+    "Attribute1": "71",
+    "Attribute2": "59",
+    "Attribute3": "64",
+    "Attribute4": "55",
+    "Attribute5": "75",
+    "Attribute6": "76",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

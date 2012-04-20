@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Shaun",
+    "LastName": "Barker",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "9",
+      "Day": "19"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "91",
+    "LeagueId": "14",
+    "NationId": "14",
+    "Rating": "73",
+    "Attribute1": "58",
+    "Attribute2": "44",
+    "Attribute3": "56",
+    "Attribute4": "46",
+    "Attribute5": "74",
+    "Attribute6": "80",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

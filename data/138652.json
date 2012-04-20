@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "José Luis",
+    "LastName": "Acciari",
+    "CommonName": null,
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1978",
+      "Month": "11",
+      "Day": "29"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "468",
+    "LeagueId": "54",
+    "NationId": "52",
+    "Rating": "65",
+    "Attribute1": "54",
+    "Attribute2": "52",
+    "Attribute3": "54",
+    "Attribute4": "49",
+    "Attribute5": "71",
+    "Attribute6": "63",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

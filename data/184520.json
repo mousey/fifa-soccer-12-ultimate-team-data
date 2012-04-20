@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Róbert",
+    "LastName": "Feczesin",
+    "CommonName": null,
+    "Height": "187",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "2",
+      "Day": "22"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "190",
+    "LeagueId": "32",
+    "NationId": "23",
+    "Rating": "66",
+    "Attribute1": "67",
+    "Attribute2": "62",
+    "Attribute3": "46",
+    "Attribute4": "61",
+    "Attribute5": "55",
+    "Attribute6": "76",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

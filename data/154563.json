@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ciro",
+    "LastName": "Capuano",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "7",
+      "Day": "10"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "110364",
+    "LeagueId": "31",
+    "NationId": "27",
+    "Rating": "72",
+    "Attribute1": "76",
+    "Attribute2": "63",
+    "Attribute3": "72",
+    "Attribute4": "70",
+    "Attribute5": "71",
+    "Attribute6": "67",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

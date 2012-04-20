@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jonathas",
+    "LastName": "de Jesus Maurício",
+    "CommonName": "Jonathas",
+    "Height": "190",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "3",
+      "Day": "6"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "190",
+    "LeagueId": "32",
+    "NationId": "54",
+    "Rating": "70",
+    "Attribute1": "72",
+    "Attribute2": "67",
+    "Attribute3": "45",
+    "Attribute4": "59",
+    "Attribute5": "58",
+    "Attribute6": "81",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

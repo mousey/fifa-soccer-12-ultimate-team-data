@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Mikel",
+    "LastName": "San José Domínguez",
+    "CommonName": "Mikel San José",
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "5",
+      "Day": "30"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "448",
+    "LeagueId": "53",
+    "NationId": "45",
+    "Rating": "78",
+    "Attribute1": "59",
+    "Attribute2": "38",
+    "Attribute3": "64",
+    "Attribute4": "56",
+    "Attribute5": "78",
+    "Attribute6": "74",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

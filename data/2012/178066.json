@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Gianvito",
+    "LastName": "Plasmati",
+    "CommonName": null,
+    "Height": "198",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "1",
+      "Day": "20"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "112282",
+    "LeagueId": "32",
+    "NationId": "27",
+    "Rating": "65",
+    "Attribute1": "61",
+    "Attribute2": "59",
+    "Attribute3": "51",
+    "Attribute4": "54",
+    "Attribute5": "62",
+    "Attribute6": "76",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Atdhe",
+    "LastName": "Nuhiu",
+    "CommonName": null,
+    "Height": "196",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "7",
+      "Day": "29"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "254",
+    "LeagueId": "80",
+    "NationId": "4",
+    "Rating": "65",
+    "Attribute1": "48",
+    "Attribute2": "61",
+    "Attribute3": "42",
+    "Attribute4": "59",
+    "Attribute5": "57",
+    "Attribute6": "69",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

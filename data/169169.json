@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Günther",
+    "LastName": "Vanaudenaerde",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "1",
+      "Day": "23"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "681",
+    "LeagueId": "4",
+    "NationId": "7",
+    "Rating": "65",
+    "Attribute1": "65",
+    "Attribute2": "39",
+    "Attribute3": "60",
+    "Attribute4": "44",
+    "Attribute5": "65",
+    "Attribute6": "53",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

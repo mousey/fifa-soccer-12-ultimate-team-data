@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jamie",
+    "LastName": "Smith",
+    "CommonName": null,
+    "Height": "170",
+    "DateOfBirth": {
+      "Year": "1980",
+      "Month": "11",
+      "Day": "20"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "694",
+    "LeagueId": "39",
+    "NationId": "42",
+    "Rating": "69",
+    "Attribute1": "72",
+    "Attribute2": "65",
+    "Attribute3": "68",
+    "Attribute4": "67",
+    "Attribute5": "54",
+    "Attribute6": "48",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

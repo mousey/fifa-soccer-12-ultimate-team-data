@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Alejandro",
+    "LastName": "Gómez",
+    "CommonName": null,
+    "Height": "164",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "2",
+      "Day": "15"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110364",
+    "LeagueId": "31",
+    "NationId": "52",
+    "Rating": "78",
+    "Attribute1": "83",
+    "Attribute2": "72",
+    "Attribute3": "72",
+    "Attribute4": "85",
+    "Attribute5": "57",
+    "Attribute6": "63",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

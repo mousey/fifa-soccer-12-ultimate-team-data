@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Nicola",
+    "LastName": "Leali",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1993",
+      "Month": "2",
+      "Day": "17"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "190",
+    "LeagueId": "32",
+    "NationId": "27",
+    "Rating": "61",
+    "Attribute1": "60",
+    "Attribute2": "60",
+    "Attribute3": "47",
+    "Attribute4": "72",
+    "Attribute5": "55",
+    "Attribute6": "62",
+    "Rare": "1",
+    "ItemType": "PlayerGk"
+  }
+}

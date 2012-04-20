@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Naby-Moussa",
+    "LastName": "Yattara",
+    "CommonName": null,
+    "Height": "179",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "1",
+      "Day": "12"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111989",
+    "LeagueId": "17",
+    "NationId": "118",
+    "Rating": "59",
+    "Attribute1": "58",
+    "Attribute2": "54",
+    "Attribute3": "61",
+    "Attribute4": "69",
+    "Attribute5": "50",
+    "Attribute6": "53",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

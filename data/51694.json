@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Håkon",
+    "LastName": "Opdal",
+    "CommonName": null,
+    "Height": "187",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "6",
+      "Day": "11"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "919",
+    "LeagueId": "41",
+    "NationId": "36",
+    "Rating": "60",
+    "Attribute1": "60",
+    "Attribute2": "51",
+    "Attribute3": "67",
+    "Attribute4": "74",
+    "Attribute5": "54",
+    "Attribute6": "52",
+    "Rare": "1",
+    "ItemType": "PlayerGk"
+  }
+}

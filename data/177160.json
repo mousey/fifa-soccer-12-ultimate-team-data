@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Pape Paté",
+    "LastName": "Diouf",
+    "CommonName": null,
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "4",
+      "Day": "4"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "819",
+    "LeagueId": "1",
+    "NationId": "136",
+    "Rating": "72",
+    "Attribute1": "80",
+    "Attribute2": "71",
+    "Attribute3": "57",
+    "Attribute4": "76",
+    "Attribute5": "57",
+    "Attribute6": "76",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

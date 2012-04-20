@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Milan",
+    "LastName": "Kopic",
+    "CommonName": null,
+    "Height": "189",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "11",
+      "Day": "23"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1913",
+    "LeagueId": "10",
+    "NationId": "12",
+    "Rating": "66",
+    "Attribute1": "49",
+    "Attribute2": "49",
+    "Attribute3": "54",
+    "Attribute4": "52",
+    "Attribute5": "70",
+    "Attribute6": "61",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

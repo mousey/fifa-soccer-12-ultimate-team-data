@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Maurizio",
+    "LastName": "Ciaramitaro",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "1",
+      "Day": "16"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1744",
+    "LeagueId": "32",
+    "NationId": "27",
+    "Rating": "62",
+    "Attribute1": "65",
+    "Attribute2": "56",
+    "Attribute3": "67",
+    "Attribute4": "60",
+    "Attribute5": "60",
+    "Attribute6": "57",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

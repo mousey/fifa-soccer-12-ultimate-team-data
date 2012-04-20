@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Il Lok",
+    "LastName": "Yun",
+    "CommonName": "Yun Il Lok",
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1992",
+      "Month": "3",
+      "Day": "7"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111588",
+    "LeagueId": "83",
+    "NationId": "167",
+    "Rating": "63",
+    "Attribute1": "70",
+    "Attribute2": "63",
+    "Attribute3": "60",
+    "Attribute4": "64",
+    "Attribute5": "52",
+    "Attribute6": "56",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

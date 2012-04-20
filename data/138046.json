@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Thomas",
+    "LastName": "Burgstaller",
+    "CommonName": null,
+    "Height": "192",
+    "DateOfBirth": {
+      "Year": "1980",
+      "Month": "1",
+      "Day": "9"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "209",
+    "LeagueId": "80",
+    "NationId": "4",
+    "Rating": "64",
+    "Attribute1": "47",
+    "Attribute2": "42",
+    "Attribute3": "39",
+    "Attribute4": "36",
+    "Attribute5": "67",
+    "Attribute6": "68",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

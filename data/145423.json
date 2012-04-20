@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jesús",
+    "LastName": "Cabrero Mora",
+    "CommonName": "Cabrero",
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "7",
+      "Day": "28"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110839",
+    "LeagueId": "54",
+    "NationId": "45",
+    "Rating": "61",
+    "Attribute1": "60",
+    "Attribute2": "62",
+    "Attribute3": "58",
+    "Attribute4": "65",
+    "Attribute5": "42",
+    "Attribute6": "59",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Benoit",
+    "LastName": "Assou-Ekotto",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "3",
+      "Day": "24"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "18",
+    "LeagueId": "13",
+    "NationId": "103",
+    "Rating": "78",
+    "Attribute1": "83",
+    "Attribute2": "62",
+    "Attribute3": "78",
+    "Attribute4": "71",
+    "Attribute5": "75",
+    "Attribute6": "66",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

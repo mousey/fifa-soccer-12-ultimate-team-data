@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Dragan",
+    "LastName": "Paljić",
+    "CommonName": null,
+    "Height": "174",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "4",
+      "Day": "8"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1873",
+    "LeagueId": "66",
+    "NationId": "51",
+    "Rating": "64",
+    "Attribute1": "78",
+    "Attribute2": "56",
+    "Attribute3": "63",
+    "Attribute4": "56",
+    "Attribute5": "63",
+    "Attribute6": "63",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

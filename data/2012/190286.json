@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Sergio",
+    "LastName": "Canales Madrazo",
+    "CommonName": "Sergio Canales",
+    "Height": "176",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "2",
+      "Day": "16"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "461",
+    "LeagueId": "53",
+    "NationId": "45",
+    "Rating": "77",
+    "Attribute1": "70",
+    "Attribute2": "70",
+    "Attribute3": "72",
+    "Attribute4": "84",
+    "Attribute5": "46",
+    "Attribute6": "43",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

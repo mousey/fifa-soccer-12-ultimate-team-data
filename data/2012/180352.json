@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ronan",
+    "LastName": "Finn",
+    "CommonName": null,
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "12",
+      "Day": "21"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "306",
+    "LeagueId": "65",
+    "NationId": "25",
+    "Rating": "60",
+    "Attribute1": "74",
+    "Attribute2": "56",
+    "Attribute3": "60",
+    "Attribute4": "59",
+    "Attribute5": "53",
+    "Attribute6": "61",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

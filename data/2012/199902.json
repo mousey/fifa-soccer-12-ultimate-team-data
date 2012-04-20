@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jonathan",
+    "LastName": "Cosgrove",
+    "CommonName": null,
+    "Height": "181",
+    "DateOfBirth": {
+      "Year": "1993",
+      "Month": "1",
+      "Day": "12"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "144",
+    "LeagueId": "13",
+    "NationId": "35",
+    "Rating": "52",
+    "Attribute1": "66",
+    "Attribute2": "49",
+    "Attribute3": "39",
+    "Attribute4": "54",
+    "Attribute5": "37",
+    "Attribute6": "45",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

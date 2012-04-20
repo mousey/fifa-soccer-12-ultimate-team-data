@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Tae Su",
+    "LastName": "Kim",
+    "CommonName": "Kim Tae Su",
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "8",
+      "Day": "25"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1474",
+    "LeagueId": "83",
+    "NationId": "167",
+    "Rating": "63",
+    "Attribute1": "72",
+    "Attribute2": "54",
+    "Attribute3": "63",
+    "Attribute4": "56",
+    "Attribute5": "65",
+    "Attribute6": "61",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

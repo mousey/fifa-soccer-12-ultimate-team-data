@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Byeong Ju",
+    "LastName": "Park",
+    "CommonName": "Park Byeong Ju",
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "3",
+      "Day": "24"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "112258",
+    "LeagueId": "83",
+    "NationId": "167",
+    "Rating": "61",
+    "Attribute1": "56",
+    "Attribute2": "20",
+    "Attribute3": "31",
+    "Attribute4": "28",
+    "Attribute5": "67",
+    "Attribute6": "65",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

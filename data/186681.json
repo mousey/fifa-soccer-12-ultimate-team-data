@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Alberto",
+    "LastName": "García Cabrera",
+    "CommonName": "Alberto",
+    "Height": "181",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "2",
+      "Day": "9"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1867",
+    "LeagueId": "54",
+    "NationId": "45",
+    "Rating": "64",
+    "Attribute1": "71",
+    "Attribute2": "57",
+    "Attribute3": "55",
+    "Attribute4": "73",
+    "Attribute5": "58",
+    "Attribute6": "56",
+    "Rare": "1",
+    "ItemType": "PlayerGk"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Franck",
+    "LastName": "Berrier",
+    "CommonName": null,
+    "Height": "173",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "2",
+      "Day": "2"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "232",
+    "LeagueId": "4",
+    "NationId": "18",
+    "Rating": "73",
+    "Attribute1": "67",
+    "Attribute2": "68",
+    "Attribute3": "77",
+    "Attribute4": "70",
+    "Attribute5": "47",
+    "Attribute6": "47",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

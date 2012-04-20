@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Liam",
+    "LastName": "Rosenior",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "7",
+      "Day": "9"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1952",
+    "LeagueId": "14",
+    "NationId": "14",
+    "Rating": "68",
+    "Attribute1": "76",
+    "Attribute2": "53",
+    "Attribute3": "58",
+    "Attribute4": "65",
+    "Attribute5": "64",
+    "Attribute6": "62",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

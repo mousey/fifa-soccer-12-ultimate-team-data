@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jamel",
+    "LastName": "Aït Ben Idir",
+    "CommonName": null,
+    "Height": "174",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "1",
+      "Day": "10"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111989",
+    "LeagueId": "17",
+    "NationId": "18",
+    "Rating": "68",
+    "Attribute1": "68",
+    "Attribute2": "46",
+    "Attribute3": "55",
+    "Attribute4": "60",
+    "Attribute5": "74",
+    "Attribute6": "65",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

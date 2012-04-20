@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ibai",
+    "LastName": "Gómez Pérez",
+    "CommonName": "Ibai Gómez",
+    "Height": "179",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "11",
+      "Day": "11"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "448",
+    "LeagueId": "53",
+    "NationId": "45",
+    "Rating": "65",
+    "Attribute1": "71",
+    "Attribute2": "67",
+    "Attribute3": "58",
+    "Attribute4": "69",
+    "Attribute5": "51",
+    "Attribute6": "55",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

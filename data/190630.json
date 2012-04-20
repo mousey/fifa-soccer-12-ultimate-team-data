@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Hendry",
+    "LastName": "Thomas",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "2",
+      "Day": "23"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1917",
+    "LeagueId": "13",
+    "NationId": "81",
+    "Rating": "72",
+    "Attribute1": "64",
+    "Attribute2": "43",
+    "Attribute3": "60",
+    "Attribute4": "65",
+    "Attribute5": "74",
+    "Attribute6": "62",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

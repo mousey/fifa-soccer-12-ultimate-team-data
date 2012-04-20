@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "José",
+    "LastName": "Sand",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1980",
+      "Month": "7",
+      "Day": "1"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111678",
+    "LeagueId": "341",
+    "NationId": "52",
+    "Rating": "70",
+    "Attribute1": "48",
+    "Attribute2": "70",
+    "Attribute3": "49",
+    "Attribute4": "63",
+    "Attribute5": "55",
+    "Attribute6": "82",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

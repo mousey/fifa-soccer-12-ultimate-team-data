@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Vilmos",
+    "LastName": "Vanczák",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "6",
+      "Day": "20"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "110770",
+    "LeagueId": "189",
+    "NationId": "23",
+    "Rating": "64",
+    "Attribute1": "62",
+    "Attribute2": "42",
+    "Attribute3": "51",
+    "Attribute4": "47",
+    "Attribute5": "70",
+    "Attribute6": "73",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

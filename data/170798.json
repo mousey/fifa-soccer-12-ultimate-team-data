@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Sebastian",
+    "LastName": "Tyrała",
+    "CommonName": null,
+    "Height": "172",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "2",
+      "Day": "22"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "165",
+    "LeagueId": "20",
+    "NationId": "37",
+    "Rating": "67",
+    "Attribute1": "76",
+    "Attribute2": "60",
+    "Attribute3": "58",
+    "Attribute4": "73",
+    "Attribute5": "50",
+    "Attribute6": "53",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

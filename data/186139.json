@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Matthew",
+    "LastName": "James",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "7",
+      "Day": "22"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "11",
+    "LeagueId": "13",
+    "NationId": "14",
+    "Rating": "61",
+    "Attribute1": "73",
+    "Attribute2": "60",
+    "Attribute3": "56",
+    "Attribute4": "64",
+    "Attribute5": "60",
+    "Attribute6": "61",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

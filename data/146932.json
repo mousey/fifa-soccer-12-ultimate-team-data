@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Álvaro",
+    "LastName": "Rubio Robres",
+    "CommonName": "Álvaro Rubio",
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "4",
+      "Day": "18"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "462",
+    "LeagueId": "54",
+    "NationId": "45",
+    "Rating": "68",
+    "Attribute1": "58",
+    "Attribute2": "62",
+    "Attribute3": "68",
+    "Attribute4": "55",
+    "Attribute5": "66",
+    "Attribute6": "61",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

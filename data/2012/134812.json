@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ryan",
+    "LastName": "Jarvis",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "7",
+      "Day": "11"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1803",
+    "LeagueId": "60",
+    "NationId": "14",
+    "Rating": "58",
+    "Attribute1": "58",
+    "Attribute2": "55",
+    "Attribute3": "35",
+    "Attribute4": "57",
+    "Attribute5": "50",
+    "Attribute6": "56",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

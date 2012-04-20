@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Tomasz",
+    "LastName": "Kupisz",
+    "CommonName": null,
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "2",
+      "Day": "2"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110745",
+    "LeagueId": "66",
+    "NationId": "37",
+    "Rating": "68",
+    "Attribute1": "81",
+    "Attribute2": "56",
+    "Attribute3": "66",
+    "Attribute4": "67",
+    "Attribute5": "58",
+    "Attribute6": "58",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

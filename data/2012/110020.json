@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Sergio",
+    "LastName": "Pelegrín López",
+    "CommonName": "Pelegrín",
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "4",
+      "Day": "18"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "468",
+    "LeagueId": "54",
+    "NationId": "45",
+    "Rating": "70",
+    "Attribute1": "53",
+    "Attribute2": "39",
+    "Attribute3": "50",
+    "Attribute4": "49",
+    "Attribute5": "73",
+    "Attribute6": "70",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

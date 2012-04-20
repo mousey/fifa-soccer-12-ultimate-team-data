@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jonathan",
+    "LastName": "Téhoué",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "5",
+      "Day": "3"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1958",
+    "LeagueId": "60",
+    "NationId": "18",
+    "Rating": "60",
+    "Attribute1": "79",
+    "Attribute2": "55",
+    "Attribute3": "45",
+    "Attribute4": "51",
+    "Attribute5": "54",
+    "Attribute6": "67",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Peter",
+    "LastName": "Madsen",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1978",
+      "Month": "4",
+      "Day": "26"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "15001",
+    "LeagueId": "1",
+    "NationId": "13",
+    "Rating": "61",
+    "Attribute1": "49",
+    "Attribute2": "60",
+    "Attribute3": "59",
+    "Attribute4": "61",
+    "Attribute5": "53",
+    "Attribute6": "65",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Dario",
+    "LastName": "Dainelli",
+    "CommonName": null,
+    "Height": "191",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "6",
+      "Day": "9"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110556",
+    "LeagueId": "31",
+    "NationId": "27",
+    "Rating": "76",
+    "Attribute1": "56",
+    "Attribute2": "45",
+    "Attribute3": "54",
+    "Attribute4": "47",
+    "Attribute5": "79",
+    "Attribute6": "77",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

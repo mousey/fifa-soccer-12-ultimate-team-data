@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Kevin",
+    "LastName": "Mirallas",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "10",
+      "Day": "5"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "280",
+    "LeagueId": "63",
+    "NationId": "7",
+    "Rating": "77",
+    "Attribute1": "89",
+    "Attribute2": "74",
+    "Attribute3": "64",
+    "Attribute4": "82",
+    "Attribute5": "55",
+    "Attribute6": "67",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Khouma",
+    "LastName": "Babacar",
+    "CommonName": null,
+    "Height": "191",
+    "DateOfBirth": {
+      "Year": "1993",
+      "Month": "3",
+      "Day": "16"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110374",
+    "LeagueId": "31",
+    "NationId": "136",
+    "Rating": "72",
+    "Attribute1": "83",
+    "Attribute2": "64",
+    "Attribute3": "51",
+    "Attribute4": "70",
+    "Attribute5": "57",
+    "Attribute6": "64",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

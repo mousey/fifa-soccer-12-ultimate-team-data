@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Paolo",
+    "LastName": "Dametto",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1993",
+      "Month": "6",
+      "Day": "28"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1842",
+    "LeagueId": "31",
+    "NationId": "27",
+    "Rating": "61",
+    "Attribute1": "57",
+    "Attribute2": "38",
+    "Attribute3": "42",
+    "Attribute4": "29",
+    "Attribute5": "61",
+    "Attribute6": "68",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

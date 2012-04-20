@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "David",
+    "LastName": "Bermudo Rubio",
+    "CommonName": "Bermudo",
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "1",
+      "Day": "14"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "15021",
+    "LeagueId": "54",
+    "NationId": "45",
+    "Rating": "60",
+    "Attribute1": "80",
+    "Attribute2": "52",
+    "Attribute3": "57",
+    "Attribute4": "56",
+    "Attribute5": "60",
+    "Attribute6": "60",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

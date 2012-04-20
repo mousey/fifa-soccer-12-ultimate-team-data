@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ivan",
+    "LastName": "Đurđević",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1977",
+      "Month": "2",
+      "Day": "5"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "873",
+    "LeagueId": "66",
+    "NationId": "51",
+    "Rating": "63",
+    "Attribute1": "63",
+    "Attribute2": "52",
+    "Attribute3": "62",
+    "Attribute4": "54",
+    "Attribute5": "68",
+    "Attribute6": "45",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

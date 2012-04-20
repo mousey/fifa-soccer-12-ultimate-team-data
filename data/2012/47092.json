@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Joey",
+    "LastName": "Didulica",
+    "CommonName": null,
+    "Height": "191",
+    "DateOfBirth": {
+      "Year": "1977",
+      "Month": "10",
+      "Day": "14"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1906",
+    "LeagueId": "10",
+    "NationId": "10",
+    "Rating": "69",
+    "Attribute1": "70",
+    "Attribute2": "67",
+    "Attribute3": "65",
+    "Attribute4": "67",
+    "Attribute5": "60",
+    "Attribute6": "70",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

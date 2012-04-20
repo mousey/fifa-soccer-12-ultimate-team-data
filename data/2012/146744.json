@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jordi",
+    "LastName": "Codina Rodríguez",
+    "CommonName": "Codina",
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "4",
+      "Day": "27"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1860",
+    "LeagueId": "53",
+    "NationId": "45",
+    "Rating": "73",
+    "Attribute1": "78",
+    "Attribute2": "70",
+    "Attribute3": "73",
+    "Attribute4": "79",
+    "Attribute5": "68",
+    "Attribute6": "68",
+    "Rare": "1",
+    "ItemType": "PlayerGk"
+  }
+}

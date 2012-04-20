@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Danny",
+    "LastName": "Olsen",
+    "CommonName": null,
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "6",
+      "Day": "11"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1516",
+    "LeagueId": "1",
+    "NationId": "13",
+    "Rating": "65",
+    "Attribute1": "72",
+    "Attribute2": "62",
+    "Attribute3": "61",
+    "Attribute4": "68",
+    "Attribute5": "55",
+    "Attribute6": "63",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

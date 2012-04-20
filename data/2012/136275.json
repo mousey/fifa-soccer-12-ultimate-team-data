@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Won Kwon",
+    "LastName": "Choi",
+    "CommonName": "Choi Won Kwon",
+    "Height": "176",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "11",
+      "Day": "8"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1478",
+    "LeagueId": "83",
+    "NationId": "167",
+    "Rating": "65",
+    "Attribute1": "75",
+    "Attribute2": "53",
+    "Attribute3": "63",
+    "Attribute4": "47",
+    "Attribute5": "67",
+    "Attribute6": "68",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Tobias",
+    "LastName": "Jänicke",
+    "CommonName": null,
+    "Height": "176",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "3",
+      "Day": "16"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "27",
+    "LeagueId": "20",
+    "NationId": "21",
+    "Rating": "66",
+    "Attribute1": "85",
+    "Attribute2": "65",
+    "Attribute3": "60",
+    "Attribute4": "69",
+    "Attribute5": "49",
+    "Attribute6": "64",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Anderson",
+    "LastName": "Soares de Oliveira",
+    "CommonName": "Anderson",
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "1",
+      "Day": "10"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1824",
+    "LeagueId": "20",
+    "NationId": "54",
+    "Rating": "69",
+    "Attribute1": "64",
+    "Attribute2": "48",
+    "Attribute3": "59",
+    "Attribute4": "62",
+    "Attribute5": "70",
+    "Attribute6": "70",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

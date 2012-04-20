@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Joe",
+    "LastName": "Mason",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "5",
+      "Day": "13"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1961",
+    "LeagueId": "14",
+    "NationId": "25",
+    "Rating": "64",
+    "Attribute1": "72",
+    "Attribute2": "60",
+    "Attribute3": "48",
+    "Attribute4": "61",
+    "Attribute5": "46",
+    "Attribute6": "56",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Liam",
+    "LastName": "Cooper",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "8",
+      "Day": "30"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1939",
+    "LeagueId": "60",
+    "NationId": "42",
+    "Rating": "60",
+    "Attribute1": "53",
+    "Attribute2": "33",
+    "Attribute3": "39",
+    "Attribute4": "35",
+    "Attribute5": "61",
+    "Attribute6": "70",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Joan Guillem",
+    "LastName": "Truyols Mascaró",
+    "CommonName": "Truyols",
+    "Height": "179",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "11",
+      "Day": "11"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110902",
+    "LeagueId": "54",
+    "NationId": "45",
+    "Rating": "62",
+    "Attribute1": "63",
+    "Attribute2": "26",
+    "Attribute3": "41",
+    "Attribute4": "33",
+    "Attribute5": "63",
+    "Attribute6": "74",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

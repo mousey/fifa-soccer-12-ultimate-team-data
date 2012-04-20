@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Alan",
+    "LastName": "Gordon",
+    "CommonName": null,
+    "Height": "191",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "10",
+      "Day": "16"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111928",
+    "LeagueId": "39",
+    "NationId": "95",
+    "Rating": "65",
+    "Attribute1": "58",
+    "Attribute2": "60",
+    "Attribute3": "46",
+    "Attribute4": "59",
+    "Attribute5": "58",
+    "Attribute6": "79",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

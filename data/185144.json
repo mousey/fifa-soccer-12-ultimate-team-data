@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Massimo",
+    "LastName": "Coda",
+    "CommonName": null,
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "11",
+      "Day": "10"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "189",
+    "LeagueId": "31",
+    "NationId": "27",
+    "Rating": "56",
+    "Attribute1": "55",
+    "Attribute2": "51",
+    "Attribute3": "36",
+    "Attribute4": "49",
+    "Attribute5": "42",
+    "Attribute6": "46",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

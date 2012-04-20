@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Bryan",
+    "LastName": "Linssen",
+    "CommonName": null,
+    "Height": "170",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "10",
+      "Day": "8"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "100651",
+    "LeagueId": "10",
+    "NationId": "34",
+    "Rating": "65",
+    "Attribute1": "68",
+    "Attribute2": "65",
+    "Attribute3": "61",
+    "Attribute4": "66",
+    "Attribute5": "53",
+    "Attribute6": "67",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

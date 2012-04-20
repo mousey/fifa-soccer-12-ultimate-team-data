@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Marco",
+    "LastName": "D'Arsie",
+    "CommonName": null,
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1993",
+      "Month": "2",
+      "Day": "25"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "50",
+    "LeagueId": "31",
+    "NationId": "27",
+    "Rating": "57",
+    "Attribute1": "60",
+    "Attribute2": "56",
+    "Attribute3": "51",
+    "Attribute4": "62",
+    "Attribute5": "48",
+    "Attribute6": "50",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

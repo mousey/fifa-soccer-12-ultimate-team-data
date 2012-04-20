@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Alain",
+    "LastName": "Wiss",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "8",
+      "Day": "21"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "897",
+    "LeagueId": "189",
+    "NationId": "47",
+    "Rating": "61",
+    "Attribute1": "65",
+    "Attribute2": "53",
+    "Attribute3": "56",
+    "Attribute4": "59",
+    "Attribute5": "62",
+    "Attribute6": "63",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

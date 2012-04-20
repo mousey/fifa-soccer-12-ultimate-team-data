@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Lorenzo",
+    "LastName": "De Silvestri",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "5",
+      "Day": "23"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110374",
+    "LeagueId": "31",
+    "NationId": "27",
+    "Rating": "73",
+    "Attribute1": "82",
+    "Attribute2": "58",
+    "Attribute3": "68",
+    "Attribute4": "71",
+    "Attribute5": "72",
+    "Attribute6": "69",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

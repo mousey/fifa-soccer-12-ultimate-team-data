@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Vincent",
+    "LastName": "Nogueira",
+    "CommonName": null,
+    "Height": "170",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "1",
+      "Day": "16"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "226",
+    "LeagueId": "16",
+    "NationId": "18",
+    "Rating": "65",
+    "Attribute1": "62",
+    "Attribute2": "40",
+    "Attribute3": "61",
+    "Attribute4": "69",
+    "Attribute5": "46",
+    "Attribute6": "40",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

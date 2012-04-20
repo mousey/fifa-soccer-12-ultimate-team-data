@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Landry",
+    "LastName": "N'Guemo",
+    "CommonName": null,
+    "Height": "173",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "11",
+      "Day": "28"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "59",
+    "LeagueId": "16",
+    "NationId": "103",
+    "Rating": "75",
+    "Attribute1": "74",
+    "Attribute2": "46",
+    "Attribute3": "70",
+    "Attribute4": "74",
+    "Attribute5": "76",
+    "Attribute6": "65",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

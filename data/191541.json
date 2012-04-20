@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Atsuto",
+    "LastName": "Uchida",
+    "CommonName": null,
+    "Height": "176",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "3",
+      "Day": "27"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "34",
+    "LeagueId": "19",
+    "NationId": "163",
+    "Rating": "73",
+    "Attribute1": "80",
+    "Attribute2": "54",
+    "Attribute3": "77",
+    "Attribute4": "75",
+    "Attribute5": "62",
+    "Attribute6": "60",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

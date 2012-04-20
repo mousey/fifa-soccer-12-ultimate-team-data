@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Bernardo",
+    "LastName": "Domínguez Fernández",
+    "CommonName": "Bernardo",
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "7",
+      "Day": "6"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110839",
+    "LeagueId": "54",
+    "NationId": "45",
+    "Rating": "62",
+    "Attribute1": "61",
+    "Attribute2": "62",
+    "Attribute3": "57",
+    "Attribute4": "69",
+    "Attribute5": "56",
+    "Attribute6": "60",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

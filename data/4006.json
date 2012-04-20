@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Luis Miguel",
+    "LastName": "Garcia Monteiro",
+    "CommonName": "Miguel",
+    "Height": "179",
+    "DateOfBirth": {
+      "Year": "1980",
+      "Month": "1",
+      "Day": "4"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "461",
+    "LeagueId": "53",
+    "NationId": "38",
+    "Rating": "75",
+    "Attribute1": "75",
+    "Attribute2": "60",
+    "Attribute3": "72",
+    "Attribute4": "71",
+    "Attribute5": "78",
+    "Attribute6": "63",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Barry",
+    "LastName": "Nicholson",
+    "CommonName": null,
+    "Height": "170",
+    "DateOfBirth": {
+      "Year": "1978",
+      "Month": "8",
+      "Day": "24"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1801",
+    "LeagueId": "60",
+    "NationId": "42",
+    "Rating": "64",
+    "Attribute1": "63",
+    "Attribute2": "60",
+    "Attribute3": "63",
+    "Attribute4": "64",
+    "Attribute5": "58",
+    "Attribute6": "65",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

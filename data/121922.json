@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Daniel",
+    "LastName": "Wolf",
+    "CommonName": null,
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "5",
+      "Day": "4"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "111373",
+    "LeagueId": "80",
+    "NationId": "4",
+    "Rating": "59",
+    "Attribute1": "69",
+    "Attribute2": "52",
+    "Attribute3": "58",
+    "Attribute4": "60",
+    "Attribute5": "56",
+    "Attribute6": "65",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

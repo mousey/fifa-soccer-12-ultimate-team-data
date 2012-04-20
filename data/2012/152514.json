@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jason",
+    "LastName": "Puncheon",
+    "CommonName": null,
+    "Height": "173",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "6",
+      "Day": "26"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "15",
+    "LeagueId": "13",
+    "NationId": "14",
+    "Rating": "68",
+    "Attribute1": "76",
+    "Attribute2": "66",
+    "Attribute3": "61",
+    "Attribute4": "71",
+    "Attribute5": "50",
+    "Attribute6": "55",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

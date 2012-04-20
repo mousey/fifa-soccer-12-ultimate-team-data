@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Kevin",
+    "LastName": "Moon",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "6",
+      "Day": "8"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "100804",
+    "LeagueId": "50",
+    "NationId": "42",
+    "Rating": "61",
+    "Attribute1": "72",
+    "Attribute2": "34",
+    "Attribute3": "60",
+    "Attribute4": "65",
+    "Attribute5": "60",
+    "Attribute6": "52",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

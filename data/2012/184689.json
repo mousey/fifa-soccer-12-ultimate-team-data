@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "André Ricardo",
+    "LastName": "Soares",
+    "CommonName": "Andrézinho",
+    "Height": "173",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "10",
+      "Day": "9"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "31",
+    "LeagueId": "19",
+    "NationId": "54",
+    "Rating": "67",
+    "Attribute1": "70",
+    "Attribute2": "59",
+    "Attribute3": "70",
+    "Attribute4": "71",
+    "Attribute5": "62",
+    "Attribute6": "60",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

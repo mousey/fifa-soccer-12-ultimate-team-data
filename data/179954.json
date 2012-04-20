@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Thomas",
+    "LastName": "Kraft",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "7",
+      "Day": "22"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "166",
+    "LeagueId": "19",
+    "NationId": "21",
+    "Rating": "73",
+    "Attribute1": "76",
+    "Attribute2": "70",
+    "Attribute3": "65",
+    "Attribute4": "81",
+    "Attribute5": "56",
+    "Attribute6": "67",
+    "Rare": "1",
+    "ItemType": "PlayerGk"
+  }
+}

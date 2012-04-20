@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Nicky",
+    "LastName": "Kuiper",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "6",
+      "Day": "7"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1908",
+    "LeagueId": "10",
+    "NationId": "34",
+    "Rating": "67",
+    "Attribute1": "71",
+    "Attribute2": "48",
+    "Attribute3": "63",
+    "Attribute4": "66",
+    "Attribute5": "71",
+    "Attribute6": "60",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

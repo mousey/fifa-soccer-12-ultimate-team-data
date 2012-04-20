@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Carlos",
+    "LastName": "Bellvis Llorens",
+    "CommonName": "Carlos Bellvis",
+    "Height": "169",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "4",
+      "Day": "24"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "450",
+    "LeagueId": "54",
+    "NationId": "45",
+    "Rating": "62",
+    "Attribute1": "80",
+    "Attribute2": "47",
+    "Attribute3": "60",
+    "Attribute4": "66",
+    "Attribute5": "58",
+    "Attribute6": "60",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

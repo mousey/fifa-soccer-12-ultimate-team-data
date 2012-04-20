@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Michał",
+    "LastName": "Czekaj",
+    "CommonName": null,
+    "Height": "196",
+    "DateOfBirth": {
+      "Year": "1992",
+      "Month": "2",
+      "Day": "13"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1873",
+    "LeagueId": "66",
+    "NationId": "37",
+    "Rating": "56",
+    "Attribute1": "56",
+    "Attribute2": "44",
+    "Attribute3": "51",
+    "Attribute4": "50",
+    "Attribute5": "66",
+    "Attribute6": "45",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

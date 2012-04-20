@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Romeo",
+    "LastName": "Castelen",
+    "CommonName": null,
+    "Height": "170",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "5",
+      "Day": "3"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "28",
+    "LeagueId": "19",
+    "NationId": "34",
+    "Rating": "69",
+    "Attribute1": "78",
+    "Attribute2": "56",
+    "Attribute3": "63",
+    "Attribute4": "80",
+    "Attribute5": "36",
+    "Attribute6": "53",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "János",
+    "LastName": "Balogh",
+    "CommonName": null,
+    "Height": "192",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "11",
+      "Day": "29"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "80",
+    "LeagueId": "50",
+    "NationId": "23",
+    "Rating": "63",
+    "Attribute1": "66",
+    "Attribute2": "63",
+    "Attribute3": "57",
+    "Attribute4": "66",
+    "Attribute5": "45",
+    "Attribute6": "64",
+    "Rare": "1",
+    "ItemType": "PlayerGk"
+  }
+}

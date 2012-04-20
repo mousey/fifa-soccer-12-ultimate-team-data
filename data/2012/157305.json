@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Rasmus",
+    "LastName": "Lindgren",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "11",
+      "Day": "29"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "191",
+    "LeagueId": "80",
+    "NationId": "46",
+    "Rating": "71",
+    "Attribute1": "67",
+    "Attribute2": "70",
+    "Attribute3": "69",
+    "Attribute4": "65",
+    "Attribute5": "70",
+    "Attribute6": "70",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

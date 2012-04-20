@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Tae Su",
+    "LastName": "Park",
+    "CommonName": "Park Tae Su",
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "12",
+      "Day": "1"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110765",
+    "LeagueId": "83",
+    "NationId": "167",
+    "Rating": "56",
+    "Attribute1": "48",
+    "Attribute2": "34",
+    "Attribute3": "33",
+    "Attribute4": "35",
+    "Attribute5": "60",
+    "Attribute6": "45",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

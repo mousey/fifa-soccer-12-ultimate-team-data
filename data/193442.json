@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Lerin",
+    "LastName": "Duarte",
+    "CommonName": null,
+    "Height": "169",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "8",
+      "Day": "11"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "100634",
+    "LeagueId": "10",
+    "NationId": "34",
+    "Rating": "67",
+    "Attribute1": "81",
+    "Attribute2": "62",
+    "Attribute3": "63",
+    "Attribute4": "74",
+    "Attribute5": "35",
+    "Attribute6": "51",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

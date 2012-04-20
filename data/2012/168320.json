@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Asamoah",
+    "LastName": "Gyan",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "11",
+      "Day": "22"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "106",
+    "LeagueId": "13",
+    "NationId": "117",
+    "Rating": "81",
+    "Attribute1": "81",
+    "Attribute2": "75",
+    "Attribute3": "64",
+    "Attribute4": "75",
+    "Attribute5": "59",
+    "Attribute6": "74",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

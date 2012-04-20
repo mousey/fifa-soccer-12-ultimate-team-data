@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Darren",
+    "LastName": "O'Dea",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "2",
+      "Day": "4"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "8",
+    "LeagueId": "14",
+    "NationId": "25",
+    "Rating": "68",
+    "Attribute1": "65",
+    "Attribute2": "18",
+    "Attribute3": "51",
+    "Attribute4": "57",
+    "Attribute5": "70",
+    "Attribute6": "67",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Dusan",
+    "LastName": "Veskovac",
+    "CommonName": null,
+    "Height": "187",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "3",
+      "Day": "16"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "900",
+    "LeagueId": "189",
+    "NationId": "51",
+    "Rating": "65",
+    "Attribute1": "55",
+    "Attribute2": "45",
+    "Attribute3": "48",
+    "Attribute4": "49",
+    "Attribute5": "69",
+    "Attribute6": "64",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

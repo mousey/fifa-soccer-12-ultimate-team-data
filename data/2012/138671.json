@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Benjamin",
+    "LastName": "Mwaruwari",
+    "CommonName": "Benjani",
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1978",
+      "Month": "8",
+      "Day": "13"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1790",
+    "LeagueId": "14",
+    "NationId": "148",
+    "Rating": "71",
+    "Attribute1": "71",
+    "Attribute2": "68",
+    "Attribute3": "58",
+    "Attribute4": "70",
+    "Attribute5": "55",
+    "Attribute6": "75",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

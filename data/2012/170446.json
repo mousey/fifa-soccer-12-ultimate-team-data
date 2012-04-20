@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Peter",
+    "LastName": "Jungschläger",
+    "CommonName": null,
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "5",
+      "Day": "22"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "112078",
+    "LeagueId": "351",
+    "NationId": "34",
+    "Rating": "64",
+    "Attribute1": "60",
+    "Attribute2": "49",
+    "Attribute3": "57",
+    "Attribute4": "61",
+    "Attribute5": "65",
+    "Attribute6": "67",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

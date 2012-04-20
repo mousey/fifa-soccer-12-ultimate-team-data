@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Roman",
+    "LastName": "Pavlyuchenko",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "12",
+      "Day": "15"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "18",
+    "LeagueId": "13",
+    "NationId": "40",
+    "Rating": "78",
+    "Attribute1": "70",
+    "Attribute2": "78",
+    "Attribute3": "68",
+    "Attribute4": "71",
+    "Attribute5": "55",
+    "Attribute6": "77",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

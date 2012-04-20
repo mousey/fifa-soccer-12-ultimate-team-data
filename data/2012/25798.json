@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Roque",
+    "LastName": "Santa Cruz",
+    "CommonName": null,
+    "Height": "189",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "8",
+      "Day": "16"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "449",
+    "LeagueId": "53",
+    "NationId": "58",
+    "Rating": "79",
+    "Attribute1": "67",
+    "Attribute2": "76",
+    "Attribute3": "54",
+    "Attribute4": "75",
+    "Attribute5": "57",
+    "Attribute6": "76",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

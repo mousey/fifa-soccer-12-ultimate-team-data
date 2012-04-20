@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Halil",
+    "LastName": "Savran",
+    "CommonName": null,
+    "Height": "181",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "6",
+      "Day": "20"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1831",
+    "LeagueId": "20",
+    "NationId": "21",
+    "Rating": "62",
+    "Attribute1": "75",
+    "Attribute2": "58",
+    "Attribute3": "51",
+    "Attribute4": "64",
+    "Attribute5": "49",
+    "Attribute6": "65",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ho Jung",
+    "LastName": "Choi",
+    "CommonName": "Choi Ho Jung",
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "12",
+      "Day": "8"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "2056",
+    "LeagueId": "83",
+    "NationId": "167",
+    "Rating": "55",
+    "Attribute1": "76",
+    "Attribute2": "41",
+    "Attribute3": "54",
+    "Attribute4": "55",
+    "Attribute5": "61",
+    "Attribute6": "52",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

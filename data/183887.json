@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Alexandre",
+    "LastName": "Cuvillier",
+    "CommonName": null,
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "6",
+      "Day": "17"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1823",
+    "LeagueId": "16",
+    "NationId": "18",
+    "Rating": "71",
+    "Attribute1": "67",
+    "Attribute2": "63",
+    "Attribute3": "71",
+    "Attribute4": "73",
+    "Attribute5": "54",
+    "Attribute6": "57",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

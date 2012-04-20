@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jakub",
+    "LastName": "Wawrzyniak",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "7",
+      "Day": "7"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1871",
+    "LeagueId": "66",
+    "NationId": "37",
+    "Rating": "71",
+    "Attribute1": "81",
+    "Attribute2": "47",
+    "Attribute3": "65",
+    "Attribute4": "64",
+    "Attribute5": "74",
+    "Attribute6": "62",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

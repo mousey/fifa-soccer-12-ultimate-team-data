@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Danny",
+    "LastName": "Welbeck",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "11",
+      "Day": "26"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "11",
+    "LeagueId": "13",
+    "NationId": "14",
+    "Rating": "76",
+    "Attribute1": "83",
+    "Attribute2": "73",
+    "Attribute3": "66",
+    "Attribute4": "77",
+    "Attribute5": "52",
+    "Attribute6": "78",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

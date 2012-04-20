@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Darren",
+    "LastName": "Murphy",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "7",
+      "Day": "28"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "361",
+    "LeagueId": "60",
+    "NationId": "25",
+    "Rating": "53",
+    "Attribute1": "55",
+    "Attribute2": "34",
+    "Attribute3": "44",
+    "Attribute4": "36",
+    "Attribute5": "58",
+    "Attribute6": "56",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

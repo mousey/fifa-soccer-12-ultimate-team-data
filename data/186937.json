@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Andrés",
+    "LastName": "Lamas",
+    "CommonName": null,
+    "Height": "187",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "1",
+      "Day": "16"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "571",
+    "LeagueId": "54",
+    "NationId": "60",
+    "Rating": "64",
+    "Attribute1": "63",
+    "Attribute2": "36",
+    "Attribute3": "40",
+    "Attribute4": "39",
+    "Attribute5": "67",
+    "Attribute6": "68",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

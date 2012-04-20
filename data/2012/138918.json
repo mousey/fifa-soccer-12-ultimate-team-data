@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Luca",
+    "LastName": "Rigoni",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "12",
+      "Day": "7"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "192",
+    "LeagueId": "31",
+    "NationId": "27",
+    "Rating": "74",
+    "Attribute1": "60",
+    "Attribute2": "57",
+    "Attribute3": "67",
+    "Attribute4": "64",
+    "Attribute5": "76",
+    "Attribute6": "73",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

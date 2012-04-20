@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Łukasz",
+    "LastName": "Burliga",
+    "CommonName": null,
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "5",
+      "Day": "15"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "874",
+    "LeagueId": "66",
+    "NationId": "37",
+    "Rating": "59",
+    "Attribute1": "64",
+    "Attribute2": "45",
+    "Attribute3": "47",
+    "Attribute4": "47",
+    "Attribute5": "67",
+    "Attribute6": "55",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

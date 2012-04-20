@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Stefan",
+    "LastName": "Reisinger",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "9",
+      "Day": "14"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "25",
+    "LeagueId": "19",
+    "NationId": "21",
+    "Rating": "69",
+    "Attribute1": "71",
+    "Attribute2": "67",
+    "Attribute3": "53",
+    "Attribute4": "64",
+    "Attribute5": "53",
+    "Attribute6": "75",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Mark",
+    "LastName": "Brown",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "2",
+      "Day": "28"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "81",
+    "LeagueId": "50",
+    "NationId": "42",
+    "Rating": "61",
+    "Attribute1": "61",
+    "Attribute2": "64",
+    "Attribute3": "52",
+    "Attribute4": "61",
+    "Attribute5": "34",
+    "Attribute6": "61",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

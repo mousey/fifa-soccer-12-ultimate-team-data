@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Dean",
+    "LastName": "Bennett",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1977",
+      "Month": "12",
+      "Day": "13"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "837",
+    "LeagueId": "65",
+    "NationId": "14",
+    "Rating": "55",
+    "Attribute1": "32",
+    "Attribute2": "52",
+    "Attribute3": "57",
+    "Attribute4": "48",
+    "Attribute5": "59",
+    "Attribute6": "61",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

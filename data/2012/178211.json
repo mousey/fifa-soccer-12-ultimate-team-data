@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Robert",
+    "LastName": "Zwinkels",
+    "CommonName": null,
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "5",
+      "Day": "4"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "650",
+    "LeagueId": "10",
+    "NationId": "34",
+    "Rating": "65",
+    "Attribute1": "62",
+    "Attribute2": "66",
+    "Attribute3": "65",
+    "Attribute4": "67",
+    "Attribute5": "47",
+    "Attribute6": "68",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

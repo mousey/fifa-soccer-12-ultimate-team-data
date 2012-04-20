@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Milano",
+    "LastName": "Koenders",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "7",
+      "Day": "31"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1904",
+    "LeagueId": "10",
+    "NationId": "34",
+    "Rating": "65",
+    "Attribute1": "74",
+    "Attribute2": "35",
+    "Attribute3": "58",
+    "Attribute4": "64",
+    "Attribute5": "66",
+    "Attribute6": "65",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

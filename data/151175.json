@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ben",
+    "LastName": "Strevens",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1980",
+      "Month": "5",
+      "Day": "24"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1933",
+    "LeagueId": "60",
+    "NationId": "14",
+    "Rating": "59",
+    "Attribute1": "56",
+    "Attribute2": "58",
+    "Attribute3": "30",
+    "Attribute4": "61",
+    "Attribute5": "48",
+    "Attribute6": "58",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

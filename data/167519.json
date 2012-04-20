@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Efraín",
+    "LastName": "Juárez",
+    "CommonName": null,
+    "Height": "176",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "2",
+      "Day": "22"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "244",
+    "LeagueId": "53",
+    "NationId": "83",
+    "Rating": "71",
+    "Attribute1": "79",
+    "Attribute2": "60",
+    "Attribute3": "72",
+    "Attribute4": "71",
+    "Attribute5": "70",
+    "Attribute6": "66",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

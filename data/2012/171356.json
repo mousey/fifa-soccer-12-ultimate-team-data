@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Marcelo",
+    "LastName": "Alatorre",
+    "CommonName": null,
+    "Height": "173",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "1",
+      "Day": "18"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110780",
+    "LeagueId": "341",
+    "NationId": "83",
+    "Rating": "61",
+    "Attribute1": "62",
+    "Attribute2": "44",
+    "Attribute3": "50",
+    "Attribute4": "48",
+    "Attribute5": "65",
+    "Attribute6": "59",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

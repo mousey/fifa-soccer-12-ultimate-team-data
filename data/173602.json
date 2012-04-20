@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jonathan",
+    "LastName": "Vila Pereira",
+    "CommonName": "Jonathan Vila",
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "3",
+      "Day": "6"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "450",
+    "LeagueId": "54",
+    "NationId": "45",
+    "Rating": "66",
+    "Attribute1": "56",
+    "Attribute2": "46",
+    "Attribute3": "63",
+    "Attribute4": "55",
+    "Attribute5": "70",
+    "Attribute6": "56",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

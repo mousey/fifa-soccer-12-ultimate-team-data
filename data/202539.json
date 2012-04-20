@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Leigh",
+    "LastName": "Griffiths",
+    "CommonName": null,
+    "Height": "170",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "8",
+      "Day": "20"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "81",
+    "LeagueId": "50",
+    "NationId": "42",
+    "Rating": "68",
+    "Attribute1": "74",
+    "Attribute2": "68",
+    "Attribute3": "62",
+    "Attribute4": "67",
+    "Attribute5": "43",
+    "Attribute6": "62",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

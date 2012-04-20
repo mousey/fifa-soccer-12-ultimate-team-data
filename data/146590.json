@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Rubén",
+    "LastName": "Pérez Chueca",
+    "CommonName": "Rubén Pérez",
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1980",
+      "Month": "8",
+      "Day": "7"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "15019",
+    "LeagueId": "54",
+    "NationId": "45",
+    "Rating": "65",
+    "Attribute1": "66",
+    "Attribute2": "62",
+    "Attribute3": "81",
+    "Attribute4": "69",
+    "Attribute5": "51",
+    "Attribute6": "62",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "José Ángel",
+    "LastName": "Valdés Díaz",
+    "CommonName": "José Ángel",
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "9",
+      "Day": "5"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "52",
+    "LeagueId": "31",
+    "NationId": "45",
+    "Rating": "74",
+    "Attribute1": "80",
+    "Attribute2": "56",
+    "Attribute3": "73",
+    "Attribute4": "72",
+    "Attribute5": "72",
+    "Attribute6": "61",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

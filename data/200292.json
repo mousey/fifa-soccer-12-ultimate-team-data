@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jason",
+    "LastName": "Lowe",
+    "CommonName": null,
+    "Height": "176",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "9",
+      "Day": "2"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "3",
+    "LeagueId": "13",
+    "NationId": "14",
+    "Rating": "65",
+    "Attribute1": "65",
+    "Attribute2": "64",
+    "Attribute3": "67",
+    "Attribute4": "66",
+    "Attribute5": "63",
+    "Attribute6": "62",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

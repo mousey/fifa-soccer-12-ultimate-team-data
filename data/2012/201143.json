@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Aïssa",
+    "LastName": "Mandi",
+    "CommonName": null,
+    "Height": "181",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "10",
+      "Day": "22"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "379",
+    "LeagueId": "17",
+    "NationId": "18",
+    "Rating": "60",
+    "Attribute1": "76",
+    "Attribute2": "34",
+    "Attribute3": "60",
+    "Attribute4": "63",
+    "Attribute5": "56",
+    "Attribute6": "67",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

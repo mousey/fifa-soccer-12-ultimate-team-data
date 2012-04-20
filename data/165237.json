@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Florian",
+    "LastName": "Marange",
+    "CommonName": null,
+    "Height": "181",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "3",
+      "Day": "3"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "59",
+    "LeagueId": "16",
+    "NationId": "18",
+    "Rating": "72",
+    "Attribute1": "72",
+    "Attribute2": "54",
+    "Attribute3": "66",
+    "Attribute4": "59",
+    "Attribute5": "69",
+    "Attribute6": "67",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

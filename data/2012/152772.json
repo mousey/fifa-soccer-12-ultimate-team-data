@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Thiago",
+    "LastName": "Quirino da Silva",
+    "CommonName": "Quirino",
+    "Height": "181",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "1",
+      "Day": "4"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "2056",
+    "LeagueId": "83",
+    "NationId": "54",
+    "Rating": "62",
+    "Attribute1": "84",
+    "Attribute2": "59",
+    "Attribute3": "53",
+    "Attribute4": "66",
+    "Attribute5": "49",
+    "Attribute6": "67",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

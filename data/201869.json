@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Russell",
+    "LastName": "Teibert",
+    "CommonName": null,
+    "Height": "170",
+    "DateOfBirth": {
+      "Year": "1992",
+      "Month": "12",
+      "Day": "22"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "101112",
+    "LeagueId": "39",
+    "NationId": "70",
+    "Rating": "60",
+    "Attribute1": "75",
+    "Attribute2": "54",
+    "Attribute3": "62",
+    "Attribute4": "62",
+    "Attribute5": "49",
+    "Attribute6": "41",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

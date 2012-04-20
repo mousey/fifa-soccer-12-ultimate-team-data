@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Alexander",
+    "LastName": "Ujma",
+    "CommonName": null,
+    "Height": "173",
+    "DateOfBirth": {
+      "Year": "1992",
+      "Month": "7",
+      "Day": "24"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110596",
+    "LeagueId": "20",
+    "NationId": "21",
+    "Rating": "50",
+    "Attribute1": "72",
+    "Attribute2": "49",
+    "Attribute3": "43",
+    "Attribute4": "60",
+    "Attribute5": "45",
+    "Attribute6": "56",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

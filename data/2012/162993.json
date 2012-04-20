@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "James",
+    "LastName": "Perch",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "9",
+      "Day": "28"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "13",
+    "LeagueId": "13",
+    "NationId": "14",
+    "Rating": "69",
+    "Attribute1": "68",
+    "Attribute2": "45",
+    "Attribute3": "66",
+    "Attribute4": "64",
+    "Attribute5": "67",
+    "Attribute6": "62",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

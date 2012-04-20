@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Bruno",
+    "LastName": "V. Gallo de Freitas",
+    "CommonName": "Bruno Gallo",
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "5",
+      "Day": "7"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "665",
+    "LeagueId": "308",
+    "NationId": "54",
+    "Rating": "63",
+    "Attribute1": "62",
+    "Attribute2": "54",
+    "Attribute3": "66",
+    "Attribute4": "67",
+    "Attribute5": "63",
+    "Attribute6": "54",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

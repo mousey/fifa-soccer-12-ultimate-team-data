@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Amine",
+    "LastName": "Chermiti",
+    "CommonName": null,
+    "Height": "177",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "12",
+      "Day": "26"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "894",
+    "LeagueId": "189",
+    "NationId": "145",
+    "Rating": "67",
+    "Attribute1": "76",
+    "Attribute2": "68",
+    "Attribute3": "53",
+    "Attribute4": "73",
+    "Attribute5": "48",
+    "Attribute6": "61",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

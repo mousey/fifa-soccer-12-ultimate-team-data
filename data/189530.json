@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Sílvio Manuel",
+    "LastName": "Azevedo Ferreira",
+    "CommonName": "Sílvio",
+    "Height": "177",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "9",
+      "Day": "28"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "240",
+    "LeagueId": "53",
+    "NationId": "38",
+    "Rating": "75",
+    "Attribute1": "80",
+    "Attribute2": "65",
+    "Attribute3": "74",
+    "Attribute4": "74",
+    "Attribute5": "74",
+    "Attribute6": "73",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

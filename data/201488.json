@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Rory",
+    "LastName": "Kelly",
+    "CommonName": null,
+    "Height": "179",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "8",
+      "Day": "7"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "445",
+    "LeagueId": "65",
+    "NationId": "25",
+    "Rating": "49",
+    "Attribute1": "51",
+    "Attribute2": "48",
+    "Attribute3": "44",
+    "Attribute4": "54",
+    "Attribute5": "34",
+    "Attribute6": "49",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

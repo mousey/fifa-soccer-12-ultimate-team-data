@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ross",
+    "LastName": "LaBauex",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "12",
+      "Day": "5"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "694",
+    "LeagueId": "39",
+    "NationId": "95",
+    "Rating": "59",
+    "Attribute1": "77",
+    "Attribute2": "51",
+    "Attribute3": "52",
+    "Attribute4": "62",
+    "Attribute5": "61",
+    "Attribute6": "61",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

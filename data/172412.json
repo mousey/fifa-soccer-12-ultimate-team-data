@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Aniello",
+    "LastName": "Cutolo",
+    "CommonName": null,
+    "Height": "170",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "5",
+      "Day": "19"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "110912",
+    "LeagueId": "32",
+    "NationId": "27",
+    "Rating": "70",
+    "Attribute1": "84",
+    "Attribute2": "67",
+    "Attribute3": "62",
+    "Attribute4": "72",
+    "Attribute5": "47",
+    "Attribute6": "56",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Fabrice",
+    "LastName": "Levrat",
+    "CommonName": null,
+    "Height": "173",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "10",
+      "Day": "18"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1814",
+    "LeagueId": "17",
+    "NationId": "18",
+    "Rating": "60",
+    "Attribute1": "53",
+    "Attribute2": "48",
+    "Attribute3": "58",
+    "Attribute4": "60",
+    "Attribute5": "61",
+    "Attribute6": "55",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

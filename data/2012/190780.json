@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Sean",
+    "LastName": "Johnson",
+    "CommonName": null,
+    "Height": "190",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "5",
+      "Day": "31"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "693",
+    "LeagueId": "39",
+    "NationId": "95",
+    "Rating": "64",
+    "Attribute1": "70",
+    "Attribute2": "56",
+    "Attribute3": "74",
+    "Attribute4": "67",
+    "Attribute5": "60",
+    "Attribute6": "61",
+    "Rare": "1",
+    "ItemType": "PlayerGk"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Stephen",
+    "LastName": "McGinn",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "12",
+      "Day": "2"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1795",
+    "LeagueId": "14",
+    "NationId": "42",
+    "Rating": "67",
+    "Attribute1": "77",
+    "Attribute2": "63",
+    "Attribute3": "66",
+    "Attribute4": "70",
+    "Attribute5": "46",
+    "Attribute6": "46",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

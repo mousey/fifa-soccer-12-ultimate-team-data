@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Donieber",
+    "LastName": "Alexander Marangão",
+    "CommonName": "Doni",
+    "Height": "194",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "10",
+      "Day": "22"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "9",
+    "LeagueId": "13",
+    "NationId": "54",
+    "Rating": "76",
+    "Attribute1": "75",
+    "Attribute2": "74",
+    "Attribute3": "65",
+    "Attribute4": "80",
+    "Attribute5": "50",
+    "Attribute6": "76",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

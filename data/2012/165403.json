@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Frazer",
+    "LastName": "Wright",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "12",
+      "Day": "23"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "100804",
+    "LeagueId": "50",
+    "NationId": "42",
+    "Rating": "65",
+    "Attribute1": "57",
+    "Attribute2": "34",
+    "Attribute3": "57",
+    "Attribute4": "54",
+    "Attribute5": "65",
+    "Attribute6": "72",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Carlos",
+    "LastName": "Acuña",
+    "CommonName": null,
+    "Height": "177",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "6",
+      "Day": "23"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110062",
+    "LeagueId": "54",
+    "NationId": "58",
+    "Rating": "61",
+    "Attribute1": "73",
+    "Attribute2": "59",
+    "Attribute3": "50",
+    "Attribute4": "69",
+    "Attribute5": "43",
+    "Attribute6": "67",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Julian",
+    "LastName": "Dudda",
+    "CommonName": null,
+    "Height": "193",
+    "DateOfBirth": {
+      "Year": "1993",
+      "Month": "4",
+      "Day": "8"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1824",
+    "LeagueId": "20",
+    "NationId": "21",
+    "Rating": "58",
+    "Attribute1": "52",
+    "Attribute2": "35",
+    "Attribute3": "36",
+    "Attribute4": "33",
+    "Attribute5": "64",
+    "Attribute6": "63",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

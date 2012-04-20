@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Eric",
+    "LastName": "Kronberg",
+    "CommonName": null,
+    "Height": "195",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "7",
+      "Day": "7"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "696",
+    "LeagueId": "39",
+    "NationId": "95",
+    "Rating": "58",
+    "Attribute1": "61",
+    "Attribute2": "58",
+    "Attribute3": "59",
+    "Attribute4": "60",
+    "Attribute5": "47",
+    "Attribute6": "61",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

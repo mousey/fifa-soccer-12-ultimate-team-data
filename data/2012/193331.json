@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Karl",
+    "LastName": "Darlow",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "10",
+      "Day": "8"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "14",
+    "LeagueId": "14",
+    "NationId": "14",
+    "Rating": "56",
+    "Attribute1": "54",
+    "Attribute2": "56",
+    "Attribute3": "54",
+    "Attribute4": "58",
+    "Attribute5": "32",
+    "Attribute6": "56",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

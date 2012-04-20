@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jérémy",
+    "LastName": "Perbet",
+    "CommonName": null,
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "12",
+      "Day": "12"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1747",
+    "LeagueId": "4",
+    "NationId": "18",
+    "Rating": "68",
+    "Attribute1": "55",
+    "Attribute2": "66",
+    "Attribute3": "46",
+    "Attribute4": "54",
+    "Attribute5": "51",
+    "Attribute6": "66",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

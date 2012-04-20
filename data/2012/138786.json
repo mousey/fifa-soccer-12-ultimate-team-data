@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ben",
+    "LastName": "Williams",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "8",
+      "Day": "27"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1935",
+    "LeagueId": "60",
+    "NationId": "14",
+    "Rating": "66",
+    "Attribute1": "66",
+    "Attribute2": "61",
+    "Attribute3": "59",
+    "Attribute4": "74",
+    "Attribute5": "54",
+    "Attribute6": "62",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

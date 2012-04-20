@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Joey",
+    "LastName": "Barton",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "9",
+      "Day": "2"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "15",
+    "LeagueId": "13",
+    "NationId": "14",
+    "Rating": "80",
+    "Attribute1": "69",
+    "Attribute2": "71",
+    "Attribute3": "83",
+    "Attribute4": "75",
+    "Attribute5": "76",
+    "Attribute6": "69",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

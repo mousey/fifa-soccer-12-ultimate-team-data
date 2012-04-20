@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Dammyano",
+    "LastName": "Grootfaam",
+    "CommonName": null,
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "5",
+      "Day": "13"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1910",
+    "LeagueId": "10",
+    "NationId": "34",
+    "Rating": "59",
+    "Attribute1": "78",
+    "Attribute2": "51",
+    "Attribute3": "57",
+    "Attribute4": "66",
+    "Attribute5": "54",
+    "Attribute6": "58",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

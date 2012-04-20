@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jan",
+    "LastName": "Glinker",
+    "CommonName": null,
+    "Height": "187",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "1",
+      "Day": "18"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1831",
+    "LeagueId": "20",
+    "NationId": "21",
+    "Rating": "61",
+    "Attribute1": "68",
+    "Attribute2": "56",
+    "Attribute3": "57",
+    "Attribute4": "65",
+    "Attribute5": "53",
+    "Attribute6": "55",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

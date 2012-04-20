@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Laurent",
+    "LastName": "Ciman",
+    "CommonName": null,
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "8",
+      "Day": "5"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "232",
+    "LeagueId": "4",
+    "NationId": "7",
+    "Rating": "70",
+    "Attribute1": "69",
+    "Attribute2": "48",
+    "Attribute3": "62",
+    "Attribute4": "39",
+    "Attribute5": "66",
+    "Attribute6": "70",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Benjamin",
+    "LastName": "Fuchs",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "10",
+      "Day": "20"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110500",
+    "LeagueId": "20",
+    "NationId": "4",
+    "Rating": "60",
+    "Attribute1": "68",
+    "Attribute2": "44",
+    "Attribute3": "51",
+    "Attribute4": "60",
+    "Attribute5": "62",
+    "Attribute6": "60",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Rafał",
+    "LastName": "Grzyb",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "1",
+      "Day": "16"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110745",
+    "LeagueId": "66",
+    "NationId": "37",
+    "Rating": "65",
+    "Attribute1": "70",
+    "Attribute2": "50",
+    "Attribute3": "66",
+    "Attribute4": "57",
+    "Attribute5": "62",
+    "Attribute6": "60",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

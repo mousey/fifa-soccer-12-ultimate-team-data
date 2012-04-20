@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Antonio",
+    "LastName": "Amaya Carazo",
+    "CommonName": "Amaya",
+    "Height": "192",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "5",
+      "Day": "31"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "449",
+    "LeagueId": "53",
+    "NationId": "45",
+    "Rating": "69",
+    "Attribute1": "50",
+    "Attribute2": "25",
+    "Attribute3": "55",
+    "Attribute4": "38",
+    "Attribute5": "75",
+    "Attribute6": "69",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

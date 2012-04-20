@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Salim",
+    "LastName": "Kerkar",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "8",
+      "Day": "4"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "86",
+    "LeagueId": "50",
+    "NationId": "18",
+    "Rating": "61",
+    "Attribute1": "72",
+    "Attribute2": "49",
+    "Attribute3": "52",
+    "Attribute4": "65",
+    "Attribute5": "37",
+    "Attribute6": "50",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

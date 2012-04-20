@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Fraizer",
+    "LastName": "Campbell",
+    "CommonName": null,
+    "Height": "172",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "9",
+      "Day": "13"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "106",
+    "LeagueId": "13",
+    "NationId": "14",
+    "Rating": "71",
+    "Attribute1": "85",
+    "Attribute2": "65",
+    "Attribute3": "55",
+    "Attribute4": "73",
+    "Attribute5": "56",
+    "Attribute6": "63",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

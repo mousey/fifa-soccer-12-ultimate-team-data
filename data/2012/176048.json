@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Kei",
+    "LastName": "Kamara",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "9",
+      "Day": "1"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "696",
+    "LeagueId": "39",
+    "NationId": "138",
+    "Rating": "66",
+    "Attribute1": "80",
+    "Attribute2": "62",
+    "Attribute3": "59",
+    "Attribute4": "68",
+    "Attribute5": "47",
+    "Attribute6": "70",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

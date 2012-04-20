@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Liam",
+    "LastName": "Trotter",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "8",
+      "Day": "24"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "97",
+    "LeagueId": "14",
+    "NationId": "14",
+    "Rating": "68",
+    "Attribute1": "66",
+    "Attribute2": "61",
+    "Attribute3": "68",
+    "Attribute4": "68",
+    "Attribute5": "67",
+    "Attribute6": "70",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "John",
+    "LastName": "Rankin",
+    "CommonName": null,
+    "Height": "173",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "6",
+      "Day": "27"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "181",
+    "LeagueId": "50",
+    "NationId": "42",
+    "Rating": "64",
+    "Attribute1": "75",
+    "Attribute2": "63",
+    "Attribute3": "63",
+    "Attribute4": "67",
+    "Attribute5": "63",
+    "Attribute6": "72",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

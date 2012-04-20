@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Richard",
+    "LastName": "Windbichler",
+    "CommonName": null,
+    "Height": "181",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "4",
+      "Day": "2"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111821",
+    "LeagueId": "80",
+    "NationId": "4",
+    "Rating": "57",
+    "Attribute1": "63",
+    "Attribute2": "21",
+    "Attribute3": "35",
+    "Attribute4": "28",
+    "Attribute5": "61",
+    "Attribute6": "56",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

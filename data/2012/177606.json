@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Oscar",
+    "LastName": "Vega Salinas",
+    "CommonName": "Oscar Vega",
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "1",
+      "Day": "27"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110839",
+    "LeagueId": "54",
+    "NationId": "45",
+    "Rating": "60",
+    "Attribute1": "70",
+    "Attribute2": "56",
+    "Attribute3": "39",
+    "Attribute4": "60",
+    "Attribute5": "47",
+    "Attribute6": "61",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

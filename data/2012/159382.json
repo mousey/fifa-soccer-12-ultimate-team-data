@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Paulo Sérgio",
+    "LastName": "Moreira Gonçalves",
+    "CommonName": "Paulo Sérgio",
+    "Height": "165",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "1",
+      "Day": "24"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1887",
+    "LeagueId": "308",
+    "NationId": "38",
+    "Rating": "73",
+    "Attribute1": "82",
+    "Attribute2": "60",
+    "Attribute3": "70",
+    "Attribute4": "76",
+    "Attribute5": "44",
+    "Attribute6": "58",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

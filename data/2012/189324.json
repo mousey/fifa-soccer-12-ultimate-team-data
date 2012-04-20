@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Alex",
+    "LastName": "McCarthy",
+    "CommonName": null,
+    "Height": "193",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "12",
+      "Day": "3"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1793",
+    "LeagueId": "14",
+    "NationId": "14",
+    "Rating": "67",
+    "Attribute1": "69",
+    "Attribute2": "67",
+    "Attribute3": "61",
+    "Attribute4": "71",
+    "Attribute5": "59",
+    "Attribute6": "67",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

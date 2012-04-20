@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Javier",
+    "LastName": "Rodríguez Venta",
+    "CommonName": "Javi Venta",
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1975",
+      "Month": "12",
+      "Day": "13"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1853",
+    "LeagueId": "53",
+    "NationId": "45",
+    "Rating": "71",
+    "Attribute1": "66",
+    "Attribute2": "49",
+    "Attribute3": "68",
+    "Attribute4": "61",
+    "Attribute5": "72",
+    "Attribute6": "64",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jan-Paul",
+    "LastName": "Saeijs",
+    "CommonName": null,
+    "Height": "190",
+    "DateOfBirth": {
+      "Year": "1978",
+      "Month": "6",
+      "Day": "29"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "635",
+    "LeagueId": "10",
+    "NationId": "34",
+    "Rating": "65",
+    "Attribute1": "42",
+    "Attribute2": "52",
+    "Attribute3": "50",
+    "Attribute4": "45",
+    "Attribute5": "71",
+    "Attribute6": "64",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Moritz",
+    "LastName": "Volz",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "1",
+      "Day": "21"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110329",
+    "LeagueId": "20",
+    "NationId": "21",
+    "Rating": "66",
+    "Attribute1": "68",
+    "Attribute2": "49",
+    "Attribute3": "61",
+    "Attribute4": "60",
+    "Attribute5": "68",
+    "Attribute6": "66",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jordi",
+    "LastName": "Alba Ramos",
+    "CommonName": "Jordi Alba",
+    "Height": "170",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "3",
+      "Day": "21"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "461",
+    "LeagueId": "53",
+    "NationId": "45",
+    "Rating": "77",
+    "Attribute1": "90",
+    "Attribute2": "66",
+    "Attribute3": "72",
+    "Attribute4": "80",
+    "Attribute5": "66",
+    "Attribute6": "67",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

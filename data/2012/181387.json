@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Willian Thiego",
+    "LastName": "de Jesus",
+    "CommonName": "Thiego",
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "7",
+      "Day": "22"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1598",
+    "LeagueId": "7",
+    "NationId": "54",
+    "Rating": "71",
+    "Attribute1": "56",
+    "Attribute2": "34",
+    "Attribute3": "45",
+    "Attribute4": "33",
+    "Attribute5": "74",
+    "Attribute6": "74",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

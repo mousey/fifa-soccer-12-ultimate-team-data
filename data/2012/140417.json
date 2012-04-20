@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Andy",
+    "LastName": "Robinson",
+    "CommonName": null,
+    "Height": "173",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "11",
+      "Day": "3"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "15048",
+    "LeagueId": "60",
+    "NationId": "14",
+    "Rating": "65",
+    "Attribute1": "66",
+    "Attribute2": "65",
+    "Attribute3": "61",
+    "Attribute4": "66",
+    "Attribute5": "57",
+    "Attribute6": "59",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

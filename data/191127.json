@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Cam",
+    "LastName": "Weaver",
+    "CommonName": null,
+    "Height": "193",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "6",
+      "Day": "10"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "698",
+    "LeagueId": "39",
+    "NationId": "95",
+    "Rating": "61",
+    "Attribute1": "58",
+    "Attribute2": "60",
+    "Attribute3": "32",
+    "Attribute4": "56",
+    "Attribute5": "51",
+    "Attribute6": "79",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

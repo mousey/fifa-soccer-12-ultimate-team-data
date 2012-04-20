@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jamie",
+    "LastName": "Ashdown",
+    "CommonName": null,
+    "Height": "191",
+    "DateOfBirth": {
+      "Year": "1980",
+      "Month": "11",
+      "Day": "30"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1790",
+    "LeagueId": "14",
+    "NationId": "14",
+    "Rating": "67",
+    "Attribute1": "69",
+    "Attribute2": "66",
+    "Attribute3": "66",
+    "Attribute4": "67",
+    "Attribute5": "51",
+    "Attribute6": "64",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

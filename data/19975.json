@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Raphaël",
+    "LastName": "Nuzzolo",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "7",
+      "Day": "5"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "900",
+    "LeagueId": "189",
+    "NationId": "47",
+    "Rating": "66",
+    "Attribute1": "75",
+    "Attribute2": "61",
+    "Attribute3": "63",
+    "Attribute4": "67",
+    "Attribute5": "58",
+    "Attribute6": "57",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

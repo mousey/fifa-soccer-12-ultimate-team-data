@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Patrick",
+    "LastName": "Fabian",
+    "CommonName": null,
+    "Height": "193",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "10",
+      "Day": "11"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "160",
+    "LeagueId": "20",
+    "NationId": "21",
+    "Rating": "57",
+    "Attribute1": "52",
+    "Attribute2": "24",
+    "Attribute3": "41",
+    "Attribute4": "36",
+    "Attribute5": "63",
+    "Attribute6": "61",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

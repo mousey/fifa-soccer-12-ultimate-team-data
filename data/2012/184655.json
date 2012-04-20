@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Donovan",
+    "LastName": "Deekman",
+    "CommonName": null,
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "6",
+      "Day": "23"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "2007",
+    "LeagueId": "4",
+    "NationId": "34",
+    "Rating": "59",
+    "Attribute1": "84",
+    "Attribute2": "48",
+    "Attribute3": "49",
+    "Attribute4": "65",
+    "Attribute5": "38",
+    "Attribute6": "47",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

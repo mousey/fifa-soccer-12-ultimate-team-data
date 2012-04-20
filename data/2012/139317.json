@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jonathan",
+    "LastName": "Stead",
+    "CommonName": null,
+    "Height": "191",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "4",
+      "Day": "7"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1919",
+    "LeagueId": "14",
+    "NationId": "14",
+    "Rating": "68",
+    "Attribute1": "66",
+    "Attribute2": "67",
+    "Attribute3": "58",
+    "Attribute4": "64",
+    "Attribute5": "52",
+    "Attribute6": "74",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

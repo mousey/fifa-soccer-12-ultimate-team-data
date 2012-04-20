@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Keith",
+    "LastName": "Ward",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "10",
+      "Day": "12"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "837",
+    "LeagueId": "65",
+    "NationId": "25",
+    "Rating": "57",
+    "Attribute1": "68",
+    "Attribute2": "53",
+    "Attribute3": "56",
+    "Attribute4": "57",
+    "Attribute5": "42",
+    "Attribute6": "52",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

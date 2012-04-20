@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Wilfried",
+    "LastName": "Domoraud",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "8",
+      "Day": "18"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1785",
+    "LeagueId": "80",
+    "NationId": "18",
+    "Rating": "57",
+    "Attribute1": "76",
+    "Attribute2": "50",
+    "Attribute3": "47",
+    "Attribute4": "61",
+    "Attribute5": "48",
+    "Attribute6": "58",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Billy",
+    "LastName": "Clarke",
+    "CommonName": null,
+    "Height": "170",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "12",
+      "Day": "13"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1926",
+    "LeagueId": "14",
+    "NationId": "25",
+    "Rating": "62",
+    "Attribute1": "69",
+    "Attribute2": "63",
+    "Attribute3": "45",
+    "Attribute4": "62",
+    "Attribute5": "39",
+    "Attribute6": "61",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

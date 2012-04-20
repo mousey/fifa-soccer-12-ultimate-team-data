@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Luka",
+    "LastName": "Modrić",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "9",
+      "Day": "9"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "18",
+    "LeagueId": "13",
+    "NationId": "10",
+    "Rating": "88",
+    "Attribute1": "79",
+    "Attribute2": "76",
+    "Attribute3": "86",
+    "Attribute4": "86",
+    "Attribute5": "66",
+    "Attribute6": "62",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

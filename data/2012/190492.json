@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Joss",
+    "LastName": "Labadie",
+    "CommonName": null,
+    "Height": "191",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "8",
+      "Day": "30"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "15048",
+    "LeagueId": "60",
+    "NationId": "14",
+    "Rating": "65",
+    "Attribute1": "72",
+    "Attribute2": "54",
+    "Attribute3": "67",
+    "Attribute4": "63",
+    "Attribute5": "67",
+    "Attribute6": "60",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

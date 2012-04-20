@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ívar",
+    "LastName": "Ingimarsson",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1977",
+      "Month": "8",
+      "Day": "20"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "94",
+    "LeagueId": "14",
+    "NationId": "24",
+    "Rating": "67",
+    "Attribute1": "53",
+    "Attribute2": "31",
+    "Attribute3": "43",
+    "Attribute4": "35",
+    "Attribute5": "70",
+    "Attribute6": "75",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

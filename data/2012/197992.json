@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Josh",
+    "LastName": "Dawkin",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1992",
+      "Month": "1",
+      "Day": "16"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1792",
+    "LeagueId": "13",
+    "NationId": "50",
+    "Rating": "57",
+    "Attribute1": "67",
+    "Attribute2": "37",
+    "Attribute3": "51",
+    "Attribute4": "65",
+    "Attribute5": "39",
+    "Attribute6": "35",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

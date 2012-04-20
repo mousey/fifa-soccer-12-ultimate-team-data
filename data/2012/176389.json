@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Sung Ryong",
+    "LastName": "Jung",
+    "CommonName": "Jung Sung Ryong",
+    "Height": "189",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "1",
+      "Day": "4"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "983",
+    "LeagueId": "83",
+    "NationId": "167",
+    "Rating": "73",
+    "Attribute1": "75",
+    "Attribute2": "72",
+    "Attribute3": "73",
+    "Attribute4": "72",
+    "Attribute5": "41",
+    "Attribute6": "71",
+    "Rare": "1",
+    "ItemType": "PlayerGk"
+  }
+}

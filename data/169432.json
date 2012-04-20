@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Mehdi",
+    "LastName": "Lacen",
+    "CommonName": null,
+    "Height": "176",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "3",
+      "Day": "15"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1860",
+    "LeagueId": "53",
+    "NationId": "97",
+    "Rating": "75",
+    "Attribute1": "69",
+    "Attribute2": "65",
+    "Attribute3": "74",
+    "Attribute4": "76",
+    "Attribute5": "71",
+    "Attribute6": "65",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

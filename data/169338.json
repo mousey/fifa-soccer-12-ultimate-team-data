@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Marc",
+    "LastName": "Sand",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "1",
+      "Day": "23"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "15011",
+    "LeagueId": "80",
+    "NationId": "4",
+    "Rating": "56",
+    "Attribute1": "64",
+    "Attribute2": "48",
+    "Attribute3": "47",
+    "Attribute4": "57",
+    "Attribute5": "40",
+    "Attribute6": "63",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

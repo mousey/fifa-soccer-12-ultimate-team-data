@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Martín",
+    "LastName": "Bravo",
+    "CommonName": null,
+    "Height": "168",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "9",
+      "Day": "19"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1881",
+    "LeagueId": "341",
+    "NationId": "52",
+    "Rating": "72",
+    "Attribute1": "91",
+    "Attribute2": "67",
+    "Attribute3": "64",
+    "Attribute4": "76",
+    "Attribute5": "53",
+    "Attribute6": "68",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

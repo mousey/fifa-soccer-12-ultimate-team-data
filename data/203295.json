@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Caspar",
+    "LastName": "Hughes",
+    "CommonName": null,
+    "Height": "170",
+    "DateOfBirth": {
+      "Year": "1993",
+      "Month": "6",
+      "Day": "9"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "121",
+    "LeagueId": "61",
+    "NationId": "14",
+    "Rating": "47",
+    "Attribute1": "73",
+    "Attribute2": "35",
+    "Attribute3": "39",
+    "Attribute4": "51",
+    "Attribute5": "33",
+    "Attribute6": "43",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Massimo",
+    "LastName": "Murdocca",
+    "CommonName": null,
+    "Height": "165",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "9",
+      "Day": "2"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111395",
+    "LeagueId": "351",
+    "NationId": "195",
+    "Rating": "60",
+    "Attribute1": "67",
+    "Attribute2": "44",
+    "Attribute3": "57",
+    "Attribute4": "59",
+    "Attribute5": "48",
+    "Attribute6": "38",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

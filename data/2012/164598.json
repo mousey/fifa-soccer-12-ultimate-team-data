@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jay",
+    "LastName": "Nolly",
+    "CommonName": null,
+    "Height": "191",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "1",
+      "Day": "2"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "101112",
+    "LeagueId": "39",
+    "NationId": "95",
+    "Rating": "61",
+    "Attribute1": "64",
+    "Attribute2": "59",
+    "Attribute3": "60",
+    "Attribute4": "56",
+    "Attribute5": "50",
+    "Attribute6": "65",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

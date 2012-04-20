@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Federico",
+    "LastName": "Macheda",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "8",
+      "Day": "22"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "11",
+    "LeagueId": "13",
+    "NationId": "27",
+    "Rating": "73",
+    "Attribute1": "74",
+    "Attribute2": "72",
+    "Attribute3": "50",
+    "Attribute4": "68",
+    "Attribute5": "49",
+    "Attribute6": "71",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Stéphane",
+    "LastName": "Sessègnon",
+    "CommonName": null,
+    "Height": "170",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "6",
+      "Day": "1"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "106",
+    "LeagueId": "13",
+    "NationId": "99",
+    "Rating": "79",
+    "Attribute1": "83",
+    "Attribute2": "74",
+    "Attribute3": "78",
+    "Attribute4": "83",
+    "Attribute5": "61",
+    "Attribute6": "70",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

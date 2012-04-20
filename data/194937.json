@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Tom",
+    "LastName": "Parkes",
+    "CommonName": null,
+    "Height": "191",
+    "DateOfBirth": {
+      "Year": "1992",
+      "Month": "1",
+      "Day": "15"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "15015",
+    "LeagueId": "61",
+    "NationId": "14",
+    "Rating": "58",
+    "Attribute1": "63",
+    "Attribute2": "34",
+    "Attribute3": "44",
+    "Attribute4": "41",
+    "Attribute5": "60",
+    "Attribute6": "66",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

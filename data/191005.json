@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ahmed",
+    "LastName": "El Mohamady",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "9",
+      "Day": "9"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "106",
+    "LeagueId": "13",
+    "NationId": "111",
+    "Rating": "75",
+    "Attribute1": "80",
+    "Attribute2": "70",
+    "Attribute3": "76",
+    "Attribute4": "74",
+    "Attribute5": "68",
+    "Attribute6": "75",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

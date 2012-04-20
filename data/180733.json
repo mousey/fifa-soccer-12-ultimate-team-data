@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Adrian",
+    "LastName": "Leijer",
+    "CommonName": null,
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "3",
+      "Day": "25"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "111397",
+    "LeagueId": "351",
+    "NationId": "195",
+    "Rating": "67",
+    "Attribute1": "60",
+    "Attribute2": "46",
+    "Attribute3": "56",
+    "Attribute4": "52",
+    "Attribute5": "68",
+    "Attribute6": "78",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

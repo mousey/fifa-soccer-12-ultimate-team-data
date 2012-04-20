@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ryan",
+    "LastName": "Donk",
+    "CommonName": null,
+    "Height": "192",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "3",
+      "Day": "30"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "231",
+    "LeagueId": "4",
+    "NationId": "34",
+    "Rating": "71",
+    "Attribute1": "78",
+    "Attribute2": "43",
+    "Attribute3": "64",
+    "Attribute4": "67",
+    "Attribute5": "73",
+    "Attribute6": "76",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Innocent",
+    "LastName": "Emeghara",
+    "CommonName": null,
+    "Height": "170",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "5",
+      "Day": "27"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "217",
+    "LeagueId": "16",
+    "NationId": "47",
+    "Rating": "65",
+    "Attribute1": "87",
+    "Attribute2": "59",
+    "Attribute3": "43",
+    "Attribute4": "70",
+    "Attribute5": "47",
+    "Attribute6": "60",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

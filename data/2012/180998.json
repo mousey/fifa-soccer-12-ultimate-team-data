@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Adam",
+    "LastName": "Cristman",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "1",
+      "Day": "8"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "697",
+    "LeagueId": "39",
+    "NationId": "95",
+    "Rating": "60",
+    "Attribute1": "59",
+    "Attribute2": "57",
+    "Attribute3": "41",
+    "Attribute4": "60",
+    "Attribute5": "49",
+    "Attribute6": "61",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Dejan",
+    "LastName": "Damjanović",
+    "CommonName": null,
+    "Height": "187",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "7",
+      "Day": "27"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "982",
+    "LeagueId": "83",
+    "NationId": "15",
+    "Rating": "74",
+    "Attribute1": "80",
+    "Attribute2": "72",
+    "Attribute3": "66",
+    "Attribute4": "72",
+    "Attribute5": "59",
+    "Attribute6": "76",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

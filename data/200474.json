@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Philip",
+    "LastName": "Malinowski",
+    "CommonName": null,
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "10",
+      "Day": "15"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1831",
+    "LeagueId": "20",
+    "NationId": "21",
+    "Rating": "51",
+    "Attribute1": "70",
+    "Attribute2": "52",
+    "Attribute3": "49",
+    "Attribute4": "58",
+    "Attribute5": "38",
+    "Attribute6": "52",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

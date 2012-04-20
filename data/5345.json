@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "David",
+    "LastName": "Jarolím",
+    "CommonName": null,
+    "Height": "174",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "5",
+      "Day": "17"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "28",
+    "LeagueId": "19",
+    "NationId": "12",
+    "Rating": "76",
+    "Attribute1": "63",
+    "Attribute2": "58",
+    "Attribute3": "70",
+    "Attribute4": "72",
+    "Attribute5": "74",
+    "Attribute6": "72",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

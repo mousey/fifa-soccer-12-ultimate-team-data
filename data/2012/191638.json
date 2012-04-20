@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Eun Hoo",
+    "LastName": "Kim",
+    "CommonName": "Kim Eun Hoo",
+    "Height": "174",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "5",
+      "Day": "23"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "112115",
+    "LeagueId": "83",
+    "NationId": "167",
+    "Rating": "52",
+    "Attribute1": "52",
+    "Attribute2": "44",
+    "Attribute3": "53",
+    "Attribute4": "51",
+    "Attribute5": "42",
+    "Attribute6": "45",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

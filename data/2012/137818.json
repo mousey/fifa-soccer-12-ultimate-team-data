@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Élson",
+    "LastName": "Falcão da Silva",
+    "CommonName": "Elson",
+    "Height": "172",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "11",
+      "Day": "16"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "110231",
+    "LeagueId": "67",
+    "NationId": "54",
+    "Rating": "69",
+    "Attribute1": "69",
+    "Attribute2": "65",
+    "Attribute3": "62",
+    "Attribute4": "74",
+    "Attribute5": "45",
+    "Attribute6": "44",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Benjamin",
+    "LastName": "Siegrist",
+    "CommonName": null,
+    "Height": "194",
+    "DateOfBirth": {
+      "Year": "1992",
+      "Month": "1",
+      "Day": "31"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "2",
+    "LeagueId": "13",
+    "NationId": "47",
+    "Rating": "63",
+    "Attribute1": "67",
+    "Attribute2": "64",
+    "Attribute3": "73",
+    "Attribute4": "60",
+    "Attribute5": "39",
+    "Attribute6": "62",
+    "Rare": "1",
+    "ItemType": "PlayerGk"
+  }
+}

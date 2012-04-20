@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Philippe",
+    "LastName": "Senderos",
+    "CommonName": null,
+    "Height": "190",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "2",
+      "Day": "14"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "144",
+    "LeagueId": "13",
+    "NationId": "47",
+    "Rating": "72",
+    "Attribute1": "54",
+    "Attribute2": "35",
+    "Attribute3": "47",
+    "Attribute4": "36",
+    "Attribute5": "73",
+    "Attribute6": "78",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

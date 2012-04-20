@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Shaun",
+    "LastName": "Cummings",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "2",
+      "Day": "25"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1793",
+    "LeagueId": "14",
+    "NationId": "14",
+    "Rating": "62",
+    "Attribute1": "74",
+    "Attribute2": "45",
+    "Attribute3": "62",
+    "Attribute4": "60",
+    "Attribute5": "61",
+    "Attribute6": "55",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

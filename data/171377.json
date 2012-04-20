@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Leobardo",
+    "LastName": "López",
+    "CommonName": null,
+    "Height": "177",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "9",
+      "Day": "4"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110147",
+    "LeagueId": "341",
+    "NationId": "83",
+    "Rating": "71",
+    "Attribute1": "64",
+    "Attribute2": "53",
+    "Attribute3": "59",
+    "Attribute4": "57",
+    "Attribute5": "72",
+    "Attribute6": "75",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

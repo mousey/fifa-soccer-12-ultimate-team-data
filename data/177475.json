@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Tobias",
+    "LastName": "Sippel",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "3",
+      "Day": "22"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "29",
+    "LeagueId": "19",
+    "NationId": "21",
+    "Rating": "73",
+    "Attribute1": "77",
+    "Attribute2": "66",
+    "Attribute3": "71",
+    "Attribute4": "79",
+    "Attribute5": "60",
+    "Attribute6": "68",
+    "Rare": "1",
+    "ItemType": "PlayerGk"
+  }
+}

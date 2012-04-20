@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Niklas",
+    "LastName": "Moisander",
+    "CommonName": null,
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "9",
+      "Day": "29"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1906",
+    "LeagueId": "10",
+    "NationId": "17",
+    "Rating": "72",
+    "Attribute1": "68",
+    "Attribute2": "47",
+    "Attribute3": "68",
+    "Attribute4": "66",
+    "Attribute5": "71",
+    "Attribute6": "71",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

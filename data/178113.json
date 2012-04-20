@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Marko",
+    "LastName": "Lomić",
+    "CommonName": null,
+    "Height": "187",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "9",
+      "Day": "13"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "312",
+    "LeagueId": "67",
+    "NationId": "51",
+    "Rating": "68",
+    "Attribute1": "66",
+    "Attribute2": "45",
+    "Attribute3": "75",
+    "Attribute4": "62",
+    "Attribute5": "68",
+    "Attribute6": "62",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

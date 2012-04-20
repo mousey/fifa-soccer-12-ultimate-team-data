@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Itey",
+    "LastName": "Shechter",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "2",
+      "Day": "22"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "29",
+    "LeagueId": "19",
+    "NationId": "26",
+    "Rating": "74",
+    "Attribute1": "76",
+    "Attribute2": "67",
+    "Attribute3": "59",
+    "Attribute4": "78",
+    "Attribute5": "50",
+    "Attribute6": "65",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

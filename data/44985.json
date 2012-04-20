@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Anders",
+    "LastName": "Møller Christensen",
+    "CommonName": null,
+    "Height": "187",
+    "DateOfBirth": {
+      "Year": "1977",
+      "Month": "7",
+      "Day": "26"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "272",
+    "LeagueId": "1",
+    "NationId": "13",
+    "Rating": "69",
+    "Attribute1": "36",
+    "Attribute2": "34",
+    "Attribute3": "48",
+    "Attribute4": "41",
+    "Attribute5": "70",
+    "Attribute6": "69",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

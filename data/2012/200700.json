@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Alexander",
+    "LastName": "Merkel",
+    "CommonName": null,
+    "Height": "177",
+    "DateOfBirth": {
+      "Year": "1992",
+      "Month": "2",
+      "Day": "22"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110556",
+    "LeagueId": "31",
+    "NationId": "21",
+    "Rating": "73",
+    "Attribute1": "77",
+    "Attribute2": "62",
+    "Attribute3": "73",
+    "Attribute4": "74",
+    "Attribute5": "50",
+    "Attribute6": "48",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

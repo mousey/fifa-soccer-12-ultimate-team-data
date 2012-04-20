@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Lasha",
+    "LastName": "Salukvadze",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "12",
+      "Day": "21"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "112217",
+    "LeagueId": "67",
+    "NationId": "20",
+    "Rating": "68",
+    "Attribute1": "66",
+    "Attribute2": "34",
+    "Attribute3": "60",
+    "Attribute4": "53",
+    "Attribute5": "76",
+    "Attribute6": "72",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

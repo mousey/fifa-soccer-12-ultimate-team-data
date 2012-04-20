@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Fabricio",
+    "LastName": "Coloccini",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "1",
+      "Day": "22"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "13",
+    "LeagueId": "13",
+    "NationId": "52",
+    "Rating": "79",
+    "Attribute1": "64",
+    "Attribute2": "56",
+    "Attribute3": "70",
+    "Attribute4": "66",
+    "Attribute5": "78",
+    "Attribute6": "81",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

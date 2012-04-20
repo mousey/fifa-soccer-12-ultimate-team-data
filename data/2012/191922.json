@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Seung Jo",
+    "LastName": "Kang",
+    "CommonName": "Kang Seung Jo",
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "1",
+      "Day": "20"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111588",
+    "LeagueId": "83",
+    "NationId": "167",
+    "Rating": "62",
+    "Attribute1": "70",
+    "Attribute2": "51",
+    "Attribute3": "65",
+    "Attribute4": "65",
+    "Attribute5": "62",
+    "Attribute6": "60",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

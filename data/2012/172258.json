@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "José Vítor",
+    "LastName": "Moreira Semedo",
+    "CommonName": "José Semedo",
+    "Height": "181",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "1",
+      "Day": "11"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1807",
+    "LeagueId": "60",
+    "NationId": "38",
+    "Rating": "65",
+    "Attribute1": "60",
+    "Attribute2": "40",
+    "Attribute3": "58",
+    "Attribute4": "56",
+    "Attribute5": "68",
+    "Attribute6": "60",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Vágner",
+    "LastName": "Silva de Souza",
+    "CommonName": "Vágner Love",
+    "Height": "173",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "6",
+      "Day": "11"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "315",
+    "LeagueId": "67",
+    "NationId": "54",
+    "Rating": "81",
+    "Attribute1": "89",
+    "Attribute2": "75",
+    "Attribute3": "58",
+    "Attribute4": "83",
+    "Attribute5": "54",
+    "Attribute6": "76",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

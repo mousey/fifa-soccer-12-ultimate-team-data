@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Keith",
+    "LastName": "Watson",
+    "CommonName": null,
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "11",
+      "Day": "14"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "181",
+    "LeagueId": "50",
+    "NationId": "42",
+    "Rating": "65",
+    "Attribute1": "63",
+    "Attribute2": "42",
+    "Attribute3": "64",
+    "Attribute4": "63",
+    "Attribute5": "66",
+    "Attribute6": "64",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

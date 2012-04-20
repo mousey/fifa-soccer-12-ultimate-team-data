@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Adam",
+    "LastName": "Lockwood",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "10",
+      "Day": "26"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "142",
+    "LeagueId": "14",
+    "NationId": "14",
+    "Rating": "63",
+    "Attribute1": "57",
+    "Attribute2": "31",
+    "Attribute3": "44",
+    "Attribute4": "54",
+    "Attribute5": "67",
+    "Attribute6": "66",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

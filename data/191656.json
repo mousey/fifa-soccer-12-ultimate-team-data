@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Kwang Hyun",
+    "LastName": "Lee",
+    "CommonName": "Lee Kwang Hyun",
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "7",
+      "Day": "18"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1477",
+    "LeagueId": "83",
+    "NationId": "167",
+    "Rating": "53",
+    "Attribute1": "51",
+    "Attribute2": "38",
+    "Attribute3": "40",
+    "Attribute4": "51",
+    "Attribute5": "53",
+    "Attribute6": "52",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

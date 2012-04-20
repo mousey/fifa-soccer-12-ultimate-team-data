@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Hugo Ventura",
+    "LastName": "Moura Guedes",
+    "CommonName": "Hugo Ventura",
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "1",
+      "Day": "14"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111540",
+    "LeagueId": "308",
+    "NationId": "38",
+    "Rating": "69",
+    "Attribute1": "69",
+    "Attribute2": "68",
+    "Attribute3": "69",
+    "Attribute4": "71",
+    "Attribute5": "44",
+    "Attribute6": "66",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

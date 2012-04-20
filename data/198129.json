@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Celso",
+    "LastName": "Ortiz",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "1",
+      "Day": "26"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1906",
+    "LeagueId": "10",
+    "NationId": "58",
+    "Rating": "66",
+    "Attribute1": "77",
+    "Attribute2": "57",
+    "Attribute3": "61",
+    "Attribute4": "67",
+    "Attribute5": "66",
+    "Attribute6": "58",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

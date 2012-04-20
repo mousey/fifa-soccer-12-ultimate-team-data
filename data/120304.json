@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jean",
+    "LastName": "Makoun",
+    "CommonName": null,
+    "Height": "173",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "5",
+      "Day": "29"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "280",
+    "LeagueId": "63",
+    "NationId": "103",
+    "Rating": "78",
+    "Attribute1": "76",
+    "Attribute2": "60",
+    "Attribute3": "73",
+    "Attribute4": "73",
+    "Attribute5": "73",
+    "Attribute6": "82",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

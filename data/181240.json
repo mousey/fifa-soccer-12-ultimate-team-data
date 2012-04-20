@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Diogo",
+    "LastName": "Antunes de Oliveira",
+    "CommonName": "Diogo",
+    "Height": "181",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "10",
+      "Day": "20"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "567",
+    "LeagueId": "7",
+    "NationId": "54",
+    "Rating": "70",
+    "Attribute1": "62",
+    "Attribute2": "53",
+    "Attribute3": "62",
+    "Attribute4": "62",
+    "Attribute5": "75",
+    "Attribute6": "66",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

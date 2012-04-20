@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Lovel",
+    "LastName": "Palmer",
+    "CommonName": null,
+    "Height": "179",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "8",
+      "Day": "30"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111140",
+    "LeagueId": "39",
+    "NationId": "82",
+    "Rating": "62",
+    "Attribute1": "61",
+    "Attribute2": "56",
+    "Attribute3": "49",
+    "Attribute4": "60",
+    "Attribute5": "65",
+    "Attribute6": "66",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Mike",
+    "LastName": "Grella",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "1",
+      "Day": "23"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1925",
+    "LeagueId": "60",
+    "NationId": "95",
+    "Rating": "62",
+    "Attribute1": "70",
+    "Attribute2": "58",
+    "Attribute3": "48",
+    "Attribute4": "66",
+    "Attribute5": "48",
+    "Attribute6": "59",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

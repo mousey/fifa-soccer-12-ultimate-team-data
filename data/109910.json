@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Mark",
+    "LastName": "Wilson",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "6",
+      "Day": "5"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "78",
+    "LeagueId": "50",
+    "NationId": "42",
+    "Rating": "73",
+    "Attribute1": "72",
+    "Attribute2": "36",
+    "Attribute3": "67",
+    "Attribute4": "66",
+    "Attribute5": "71",
+    "Attribute6": "74",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

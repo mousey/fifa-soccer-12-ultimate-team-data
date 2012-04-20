@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Alex",
+    "LastName": "MacDonald",
+    "CommonName": null,
+    "Height": "170",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "4",
+      "Day": "14"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1796",
+    "LeagueId": "14",
+    "NationId": "42",
+    "Rating": "53",
+    "Attribute1": "68",
+    "Attribute2": "49",
+    "Attribute3": "37",
+    "Attribute4": "45",
+    "Attribute5": "49",
+    "Attribute6": "60",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

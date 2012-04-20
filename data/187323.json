@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Henrique",
+    "LastName": "Adriano Buss",
+    "CommonName": "Henrique",
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "10",
+      "Day": "14"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "383",
+    "LeagueId": "7",
+    "NationId": "54",
+    "Rating": "77",
+    "Attribute1": "60",
+    "Attribute2": "47",
+    "Attribute3": "54",
+    "Attribute4": "60",
+    "Attribute5": "76",
+    "Attribute6": "76",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

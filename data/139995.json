@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ibra",
+    "LastName": "Kébé",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1978",
+      "Month": "12",
+      "Day": "24"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "100766",
+    "LeagueId": "67",
+    "NationId": "136",
+    "Rating": "63",
+    "Attribute1": "48",
+    "Attribute2": "42",
+    "Attribute3": "54",
+    "Attribute4": "49",
+    "Attribute5": "68",
+    "Attribute6": "73",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

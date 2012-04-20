@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Michael",
+    "LastName": "Higdon",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "9",
+      "Day": "2"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "83",
+    "LeagueId": "50",
+    "NationId": "14",
+    "Rating": "70",
+    "Attribute1": "61",
+    "Attribute2": "68",
+    "Attribute3": "52",
+    "Attribute4": "62",
+    "Attribute5": "55",
+    "Attribute6": "75",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

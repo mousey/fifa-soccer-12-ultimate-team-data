@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Dennis",
+    "LastName": "Odoi",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "5",
+      "Day": "27"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "229",
+    "LeagueId": "4",
+    "NationId": "7",
+    "Rating": "68",
+    "Attribute1": "82",
+    "Attribute2": "49",
+    "Attribute3": "62",
+    "Attribute4": "68",
+    "Attribute5": "63",
+    "Attribute6": "73",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

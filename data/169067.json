@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jean-Jacques",
+    "LastName": "Mandrichi",
+    "CommonName": null,
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "6",
+      "Day": "3"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "71",
+    "LeagueId": "17",
+    "NationId": "18",
+    "Rating": "66",
+    "Attribute1": "63",
+    "Attribute2": "65",
+    "Attribute3": "50",
+    "Attribute4": "56",
+    "Attribute5": "49",
+    "Attribute6": "66",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

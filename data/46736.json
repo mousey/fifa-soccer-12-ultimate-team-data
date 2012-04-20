@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Emiliano",
+    "LastName": "Moretti",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "6",
+      "Day": "11"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "110556",
+    "LeagueId": "31",
+    "NationId": "27",
+    "Rating": "72",
+    "Attribute1": "66",
+    "Attribute2": "48",
+    "Attribute3": "67",
+    "Attribute4": "53",
+    "Attribute5": "76",
+    "Attribute6": "74",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

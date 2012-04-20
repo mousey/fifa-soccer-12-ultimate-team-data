@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Daniel",
+    "LastName": "Aranzubia Aguado",
+    "CommonName": "Aranzubia",
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "9",
+      "Day": "18"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "242",
+    "LeagueId": "54",
+    "NationId": "45",
+    "Rating": "77",
+    "Attribute1": "78",
+    "Attribute2": "69",
+    "Attribute3": "78",
+    "Attribute4": "82",
+    "Attribute5": "62",
+    "Attribute6": "80",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

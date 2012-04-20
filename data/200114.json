@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Shane",
+    "LastName": "Sutherland",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "10",
+      "Day": "23"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "620",
+    "LeagueId": "50",
+    "NationId": "42",
+    "Rating": "62",
+    "Attribute1": "72",
+    "Attribute2": "60",
+    "Attribute3": "47",
+    "Attribute4": "63",
+    "Attribute5": "43",
+    "Attribute6": "62",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

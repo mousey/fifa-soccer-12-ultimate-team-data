@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Antoni",
+    "LastName": "Łukasiewicz",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "6",
+      "Day": "26"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111085",
+    "LeagueId": "66",
+    "NationId": "37",
+    "Rating": "61",
+    "Attribute1": "66",
+    "Attribute2": "47",
+    "Attribute3": "54",
+    "Attribute4": "59",
+    "Attribute5": "67",
+    "Attribute6": "64",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

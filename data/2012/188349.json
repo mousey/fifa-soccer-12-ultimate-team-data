@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Michael",
+    "LastName": "Wiemann",
+    "CommonName": null,
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "2",
+      "Day": "9"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "27",
+    "LeagueId": "20",
+    "NationId": "21",
+    "Rating": "60",
+    "Attribute1": "58",
+    "Attribute2": "46",
+    "Attribute3": "53",
+    "Attribute4": "51",
+    "Attribute5": "62",
+    "Attribute6": "61",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

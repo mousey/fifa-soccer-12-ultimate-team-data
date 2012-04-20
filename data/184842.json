@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Alexandre",
+    "LastName": "Morfaw",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "8",
+      "Day": "31"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "101112",
+    "LeagueId": "39",
+    "NationId": "103",
+    "Rating": "54",
+    "Attribute1": "70",
+    "Attribute2": "48",
+    "Attribute3": "52",
+    "Attribute4": "58",
+    "Attribute5": "59",
+    "Attribute6": "60",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

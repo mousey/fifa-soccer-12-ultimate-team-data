@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Mario",
+    "LastName": "Mandžukić",
+    "CommonName": null,
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "5",
+      "Day": "21"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "175",
+    "LeagueId": "19",
+    "NationId": "10",
+    "Rating": "78",
+    "Attribute1": "77",
+    "Attribute2": "74",
+    "Attribute3": "57",
+    "Attribute4": "74",
+    "Attribute5": "56",
+    "Attribute6": "79",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

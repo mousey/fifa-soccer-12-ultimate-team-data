@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Filippo",
+    "LastName": "Inzaghi",
+    "CommonName": null,
+    "Height": "181",
+    "DateOfBirth": {
+      "Year": "1973",
+      "Month": "8",
+      "Day": "9"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "47",
+    "LeagueId": "31",
+    "NationId": "27",
+    "Rating": "76",
+    "Attribute1": "51",
+    "Attribute2": "69",
+    "Attribute3": "42",
+    "Attribute4": "54",
+    "Attribute5": "35",
+    "Attribute6": "69",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

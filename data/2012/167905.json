@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Antonio",
+    "LastName": "Valencia",
+    "CommonName": null,
+    "Height": "181",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "8",
+      "Day": "4"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "11",
+    "LeagueId": "13",
+    "NationId": "57",
+    "Rating": "83",
+    "Attribute1": "93",
+    "Attribute2": "72",
+    "Attribute3": "74",
+    "Attribute4": "82",
+    "Attribute5": "54",
+    "Attribute6": "67",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

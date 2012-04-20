@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Won Woo",
+    "LastName": "Ryu",
+    "CommonName": "Ryu Won Woo",
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "8",
+      "Day": "5"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1475",
+    "LeagueId": "83",
+    "NationId": "167",
+    "Rating": "49",
+    "Attribute1": "48",
+    "Attribute2": "50",
+    "Attribute3": "52",
+    "Attribute4": "50",
+    "Attribute5": "35",
+    "Attribute6": "50",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

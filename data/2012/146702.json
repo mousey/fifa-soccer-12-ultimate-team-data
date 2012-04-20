@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Rafael",
+    "LastName": "Ramos Lozano",
+    "CommonName": "Rafita",
+    "Height": "177",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "9",
+      "Day": "18"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1861",
+    "LeagueId": "54",
+    "NationId": "45",
+    "Rating": "66",
+    "Attribute1": "80",
+    "Attribute2": "56",
+    "Attribute3": "58",
+    "Attribute4": "66",
+    "Attribute5": "65",
+    "Attribute6": "62",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Alexandru",
+    "LastName": "Epureanu",
+    "CommonName": null,
+    "Height": "187",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "9",
+      "Day": "27"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "312",
+    "LeagueId": "67",
+    "NationId": "33",
+    "Rating": "69",
+    "Attribute1": "66",
+    "Attribute2": "49",
+    "Attribute3": "58",
+    "Attribute4": "60",
+    "Attribute5": "73",
+    "Attribute6": "71",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

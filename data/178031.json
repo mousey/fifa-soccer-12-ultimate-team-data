@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Paul",
+    "LastName": "Baysse",
+    "CommonName": null,
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "5",
+      "Day": "18"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "378",
+    "LeagueId": "16",
+    "NationId": "18",
+    "Rating": "70",
+    "Attribute1": "62",
+    "Attribute2": "43",
+    "Attribute3": "66",
+    "Attribute4": "61",
+    "Attribute5": "74",
+    "Attribute6": "80",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

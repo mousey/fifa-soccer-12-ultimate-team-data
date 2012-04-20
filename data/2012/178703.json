@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "David",
+    "LastName": "Destorme",
+    "CommonName": null,
+    "Height": "187",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "8",
+      "Day": "30"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110724",
+    "LeagueId": "4",
+    "NationId": "7",
+    "Rating": "67",
+    "Attribute1": "61",
+    "Attribute2": "64",
+    "Attribute3": "63",
+    "Attribute4": "64",
+    "Attribute5": "63",
+    "Attribute6": "63",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

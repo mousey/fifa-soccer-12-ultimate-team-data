@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Aras",
+    "LastName": "Özbiliz",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "3",
+      "Day": "9"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "245",
+    "LeagueId": "10",
+    "NationId": "3",
+    "Rating": "68",
+    "Attribute1": "87",
+    "Attribute2": "65",
+    "Attribute3": "50",
+    "Attribute4": "76",
+    "Attribute5": "44",
+    "Attribute6": "52",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

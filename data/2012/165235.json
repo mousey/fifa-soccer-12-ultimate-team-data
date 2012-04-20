@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Thiago",
+    "LastName": "Ribeiro Cardoso",
+    "CommonName": "Thiago Ribeiro",
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "2",
+      "Day": "24"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1842",
+    "LeagueId": "31",
+    "NationId": "54",
+    "Rating": "75",
+    "Attribute1": "83",
+    "Attribute2": "75",
+    "Attribute3": "68",
+    "Attribute4": "74",
+    "Attribute5": "61",
+    "Attribute6": "66",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

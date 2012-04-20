@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Giampaolo",
+    "LastName": "Pazzini",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "8",
+      "Day": "2"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "44",
+    "LeagueId": "31",
+    "NationId": "27",
+    "Rating": "83",
+    "Attribute1": "79",
+    "Attribute2": "75",
+    "Attribute3": "65",
+    "Attribute4": "77",
+    "Attribute5": "53",
+    "Attribute6": "88",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

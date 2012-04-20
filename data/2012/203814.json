@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Erdal",
+    "LastName": "Akdari",
+    "CommonName": null,
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1993",
+      "Month": "6",
+      "Day": "5"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "485",
+    "LeagueId": "19",
+    "NationId": "48",
+    "Rating": "61",
+    "Attribute1": "72",
+    "Attribute2": "39",
+    "Attribute3": "57",
+    "Attribute4": "60",
+    "Attribute5": "63",
+    "Attribute6": "63",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

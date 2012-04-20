@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Niccolò",
+    "LastName": "Galli",
+    "CommonName": null,
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "9",
+      "Day": "16"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "206",
+    "LeagueId": "32",
+    "NationId": "27",
+    "Rating": "61",
+    "Attribute1": "67",
+    "Attribute2": "51",
+    "Attribute3": "61",
+    "Attribute4": "61",
+    "Attribute5": "45",
+    "Attribute6": "42",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

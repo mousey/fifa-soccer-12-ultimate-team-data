@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Marco",
+    "LastName": "Andreolli",
+    "CommonName": null,
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "6",
+      "Day": "10"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "192",
+    "LeagueId": "31",
+    "NationId": "27",
+    "Rating": "74",
+    "Attribute1": "63",
+    "Attribute2": "40",
+    "Attribute3": "52",
+    "Attribute4": "42",
+    "Attribute5": "77",
+    "Attribute6": "76",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

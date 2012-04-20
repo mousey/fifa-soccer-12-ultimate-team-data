@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Sven",
+    "LastName": "Krause",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "1",
+      "Day": "19"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "10030",
+    "LeagueId": "20",
+    "NationId": "21",
+    "Rating": "61",
+    "Attribute1": "57",
+    "Attribute2": "59",
+    "Attribute3": "46",
+    "Attribute4": "58",
+    "Attribute5": "48",
+    "Attribute6": "66",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

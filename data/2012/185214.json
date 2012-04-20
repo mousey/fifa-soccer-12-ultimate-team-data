@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Marc",
+    "LastName": "Crosas Luque",
+    "CommonName": "Marc Crosas",
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "1",
+      "Day": "9"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "112217",
+    "LeagueId": "67",
+    "NationId": "45",
+    "Rating": "69",
+    "Attribute1": "66",
+    "Attribute2": "51",
+    "Attribute3": "70",
+    "Attribute4": "70",
+    "Attribute5": "62",
+    "Attribute6": "58",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

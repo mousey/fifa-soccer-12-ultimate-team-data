@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Derek",
+    "LastName": "Asamoah",
+    "CommonName": null,
+    "Height": "168",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "5",
+      "Day": "1"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1474",
+    "LeagueId": "83",
+    "NationId": "117",
+    "Rating": "68",
+    "Attribute1": "85",
+    "Attribute2": "60",
+    "Attribute3": "61",
+    "Attribute4": "71",
+    "Attribute5": "48",
+    "Attribute6": "56",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

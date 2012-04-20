@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Anthony",
+    "LastName": "Lecointe",
+    "CommonName": null,
+    "Height": "170",
+    "DateOfBirth": {
+      "Year": "1980",
+      "Month": "10",
+      "Day": "5"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111376",
+    "LeagueId": "17",
+    "NationId": "18",
+    "Rating": "63",
+    "Attribute1": "64",
+    "Attribute2": "48",
+    "Attribute3": "58",
+    "Attribute4": "60",
+    "Attribute5": "51",
+    "Attribute6": "62",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

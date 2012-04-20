@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ihsan",
+    "LastName": "Poyraz",
+    "CommonName": null,
+    "Height": "190",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "3",
+      "Day": "5"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111373",
+    "LeagueId": "80",
+    "NationId": "4",
+    "Rating": "58",
+    "Attribute1": "60",
+    "Attribute2": "57",
+    "Attribute3": "58",
+    "Attribute4": "57",
+    "Attribute5": "37",
+    "Attribute6": "59",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

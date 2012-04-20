@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Henri",
+    "LastName": "Sillanpää",
+    "CommonName": null,
+    "Height": "189",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "6",
+      "Day": "4"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111594",
+    "LeagueId": "56",
+    "NationId": "17",
+    "Rating": "66",
+    "Attribute1": "64",
+    "Attribute2": "69",
+    "Attribute3": "59",
+    "Attribute4": "68",
+    "Attribute5": "23",
+    "Attribute6": "67",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Mario",
+    "LastName": "Haas",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1974",
+      "Month": "9",
+      "Day": "16"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "209",
+    "LeagueId": "80",
+    "NationId": "4",
+    "Rating": "64",
+    "Attribute1": "69",
+    "Attribute2": "64",
+    "Attribute3": "57",
+    "Attribute4": "62",
+    "Attribute5": "53",
+    "Attribute6": "63",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

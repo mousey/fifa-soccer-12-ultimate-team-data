@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Eddie",
+    "LastName": "McCallion",
+    "CommonName": null,
+    "Height": "170",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "1",
+      "Day": "25"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "445",
+    "LeagueId": "65",
+    "NationId": "35",
+    "Rating": "57",
+    "Attribute1": "65",
+    "Attribute2": "43",
+    "Attribute3": "53",
+    "Attribute4": "43",
+    "Attribute5": "49",
+    "Attribute6": "52",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

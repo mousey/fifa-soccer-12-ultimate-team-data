@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Juan Daniel",
+    "LastName": "Forlin",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "1",
+      "Day": "10"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "452",
+    "LeagueId": "53",
+    "NationId": "52",
+    "Rating": "75",
+    "Attribute1": "69",
+    "Attribute2": "39",
+    "Attribute3": "60",
+    "Attribute4": "47",
+    "Attribute5": "74",
+    "Attribute6": "75",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

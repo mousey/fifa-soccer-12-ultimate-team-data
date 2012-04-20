@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Faouzi",
+    "LastName": "Ghoulam",
+    "CommonName": null,
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "2",
+      "Day": "1"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1819",
+    "LeagueId": "16",
+    "NationId": "18",
+    "Rating": "61",
+    "Attribute1": "63",
+    "Attribute2": "50",
+    "Attribute3": "57",
+    "Attribute4": "60",
+    "Attribute5": "64",
+    "Attribute6": "63",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

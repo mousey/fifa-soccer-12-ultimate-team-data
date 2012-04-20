@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Óscar",
+    "LastName": "Rojas",
+    "CommonName": null,
+    "Height": "173",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "8",
+      "Day": "2"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1879",
+    "LeagueId": "341",
+    "NationId": "83",
+    "Rating": "69",
+    "Attribute1": "74",
+    "Attribute2": "53",
+    "Attribute3": "68",
+    "Attribute4": "67",
+    "Attribute5": "68",
+    "Attribute6": "68",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

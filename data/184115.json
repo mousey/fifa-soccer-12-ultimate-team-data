@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Dimitri",
+    "LastName": "Daeseleire",
+    "CommonName": null,
+    "Height": "169",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "5",
+      "Day": "18"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "680",
+    "LeagueId": "4",
+    "NationId": "7",
+    "Rating": "64",
+    "Attribute1": "72",
+    "Attribute2": "42",
+    "Attribute3": "61",
+    "Attribute4": "60",
+    "Attribute5": "54",
+    "Attribute6": "68",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

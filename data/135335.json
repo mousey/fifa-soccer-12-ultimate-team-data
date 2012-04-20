@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jônatas",
+    "LastName": "Domingos",
+    "CommonName": "Jônatas",
+    "Height": "181",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "7",
+      "Day": "29"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111045",
+    "LeagueId": "7",
+    "NationId": "54",
+    "Rating": "71",
+    "Attribute1": "48",
+    "Attribute2": "62",
+    "Attribute3": "68",
+    "Attribute4": "67",
+    "Attribute5": "75",
+    "Attribute6": "61",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

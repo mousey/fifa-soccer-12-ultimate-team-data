@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Diego",
+    "LastName": "Cervantes",
+    "CommonName": null,
+    "Height": "192",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "8",
+      "Day": "30"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "110152",
+    "LeagueId": "341",
+    "NationId": "83",
+    "Rating": "64",
+    "Attribute1": "42",
+    "Attribute2": "40",
+    "Attribute3": "52",
+    "Attribute4": "44",
+    "Attribute5": "71",
+    "Attribute6": "61",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

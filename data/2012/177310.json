@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Frédéric",
+    "LastName": "Nimani",
+    "CommonName": null,
+    "Height": "191",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "10",
+      "Day": "8"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "69",
+    "LeagueId": "17",
+    "NationId": "18",
+    "Rating": "64",
+    "Attribute1": "68",
+    "Attribute2": "62",
+    "Attribute3": "54",
+    "Attribute4": "58",
+    "Attribute5": "54",
+    "Attribute6": "78",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

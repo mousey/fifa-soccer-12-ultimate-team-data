@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Alberto",
+    "LastName": "Lora Ramos",
+    "CommonName": "Lora",
+    "Height": "168",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "3",
+      "Day": "25"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "459",
+    "LeagueId": "53",
+    "NationId": "45",
+    "Rating": "74",
+    "Attribute1": "85",
+    "Attribute2": "60",
+    "Attribute3": "70",
+    "Attribute4": "74",
+    "Attribute5": "70",
+    "Attribute6": "67",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

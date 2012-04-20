@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Steward",
+    "LastName": "Ceus",
+    "CommonName": null,
+    "Height": "198",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "3",
+      "Day": "26"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "694",
+    "LeagueId": "39",
+    "NationId": "95",
+    "Rating": "56",
+    "Attribute1": "62",
+    "Attribute2": "53",
+    "Attribute3": "53",
+    "Attribute4": "68",
+    "Attribute5": "39",
+    "Attribute6": "46",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

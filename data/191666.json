@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Dae Sung",
+    "LastName": "Moon",
+    "CommonName": "Moon Dae Sung",
+    "Height": "173",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "3",
+      "Day": "15"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1473",
+    "LeagueId": "83",
+    "NationId": "167",
+    "Rating": "62",
+    "Attribute1": "79",
+    "Attribute2": "47",
+    "Attribute3": "54",
+    "Attribute4": "65",
+    "Attribute5": "49",
+    "Attribute6": "55",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

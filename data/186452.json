@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Siem",
+    "LastName": "de Jong",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "1",
+      "Day": "28"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "245",
+    "LeagueId": "10",
+    "NationId": "34",
+    "Rating": "75",
+    "Attribute1": "67",
+    "Attribute2": "75",
+    "Attribute3": "68",
+    "Attribute4": "69",
+    "Attribute5": "66",
+    "Attribute6": "73",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

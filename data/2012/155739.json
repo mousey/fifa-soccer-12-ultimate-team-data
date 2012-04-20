@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Henrik",
+    "LastName": "Toft",
+    "CommonName": null,
+    "Height": "196",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "4",
+      "Day": "15"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1446",
+    "LeagueId": "1",
+    "NationId": "13",
+    "Rating": "67",
+    "Attribute1": "47",
+    "Attribute2": "64",
+    "Attribute3": "53",
+    "Attribute4": "54",
+    "Attribute5": "59",
+    "Attribute6": "60",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

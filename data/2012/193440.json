@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Nick",
+    "LastName": "Viergever",
+    "CommonName": null,
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "8",
+      "Day": "3"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1906",
+    "LeagueId": "10",
+    "NationId": "34",
+    "Rating": "68",
+    "Attribute1": "66",
+    "Attribute2": "50",
+    "Attribute3": "66",
+    "Attribute4": "64",
+    "Attribute5": "69",
+    "Attribute6": "63",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

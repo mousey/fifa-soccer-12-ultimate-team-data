@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Tomasz",
+    "LastName": "Zahorski",
+    "CommonName": null,
+    "Height": "190",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "11",
+      "Day": "11"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "420",
+    "LeagueId": "66",
+    "NationId": "37",
+    "Rating": "61",
+    "Attribute1": "75",
+    "Attribute2": "55",
+    "Attribute3": "50",
+    "Attribute4": "57",
+    "Attribute5": "45",
+    "Attribute6": "65",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

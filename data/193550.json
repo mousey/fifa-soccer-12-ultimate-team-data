@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Beram",
+    "LastName": "Kayal",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "5",
+      "Day": "2"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "78",
+    "LeagueId": "50",
+    "NationId": "26",
+    "Rating": "76",
+    "Attribute1": "82",
+    "Attribute2": "60",
+    "Attribute3": "75",
+    "Attribute4": "82",
+    "Attribute5": "77",
+    "Attribute6": "73",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

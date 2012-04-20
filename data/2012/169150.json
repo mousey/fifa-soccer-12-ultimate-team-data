@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jean-Louis",
+    "LastName": "Akpa Akpro",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "1",
+      "Day": "4"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1955",
+    "LeagueId": "60",
+    "NationId": "18",
+    "Rating": "57",
+    "Attribute1": "75",
+    "Attribute2": "51",
+    "Attribute3": "39",
+    "Attribute4": "55",
+    "Attribute5": "49",
+    "Attribute6": "61",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

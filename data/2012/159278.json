@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Agostino",
+    "LastName": "Garofalo",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "9",
+      "Day": "29"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1848",
+    "LeagueId": "32",
+    "NationId": "27",
+    "Rating": "66",
+    "Attribute1": "67",
+    "Attribute2": "53",
+    "Attribute3": "59",
+    "Attribute4": "62",
+    "Attribute5": "66",
+    "Attribute6": "65",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

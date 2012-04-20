@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Aythami",
+    "LastName": "Artiles Oliva",
+    "CommonName": "Aythami",
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "4",
+      "Day": "2"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "242",
+    "LeagueId": "54",
+    "NationId": "45",
+    "Rating": "69",
+    "Attribute1": "53",
+    "Attribute2": "39",
+    "Attribute3": "60",
+    "Attribute4": "46",
+    "Attribute5": "70",
+    "Attribute6": "73",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

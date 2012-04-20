@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Hallam",
+    "LastName": "Hope",
+    "CommonName": null,
+    "Height": "179",
+    "DateOfBirth": {
+      "Year": "1994",
+      "Month": "3",
+      "Day": "17"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "7",
+    "LeagueId": "13",
+    "NationId": "14",
+    "Rating": "61",
+    "Attribute1": "73",
+    "Attribute2": "65",
+    "Attribute3": "40",
+    "Attribute4": "50",
+    "Attribute5": "40",
+    "Attribute6": "49",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

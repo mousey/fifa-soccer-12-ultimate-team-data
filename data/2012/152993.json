@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Renato",
+    "LastName": "Civelli",
+    "CommonName": null,
+    "Height": "193",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "10",
+      "Day": "14"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "72",
+    "LeagueId": "16",
+    "NationId": "52",
+    "Rating": "71",
+    "Attribute1": "37",
+    "Attribute2": "52",
+    "Attribute3": "58",
+    "Attribute4": "35",
+    "Attribute5": "73",
+    "Attribute6": "78",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

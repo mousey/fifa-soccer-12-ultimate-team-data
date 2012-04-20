@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Filip",
+    "LastName": "Daems",
+    "CommonName": null,
+    "Height": "181",
+    "DateOfBirth": {
+      "Year": "1978",
+      "Month": "10",
+      "Day": "31"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "23",
+    "LeagueId": "19",
+    "NationId": "7",
+    "Rating": "70",
+    "Attribute1": "62",
+    "Attribute2": "55",
+    "Attribute3": "68",
+    "Attribute4": "63",
+    "Attribute5": "74",
+    "Attribute6": "72",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

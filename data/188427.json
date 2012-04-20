@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Senad",
+    "LastName": "Lulic",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "1",
+      "Day": "18"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "46",
+    "LeagueId": "31",
+    "NationId": "8",
+    "Rating": "72",
+    "Attribute1": "77",
+    "Attribute2": "65",
+    "Attribute3": "73",
+    "Attribute4": "74",
+    "Attribute5": "67",
+    "Attribute6": "65",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

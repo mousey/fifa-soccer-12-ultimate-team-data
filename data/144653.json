@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jérôme",
+    "LastName": "Schneider",
+    "CommonName": null,
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "11",
+      "Day": "4"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "324",
+    "LeagueId": "189",
+    "NationId": "47",
+    "Rating": "54",
+    "Attribute1": "61",
+    "Attribute2": "43",
+    "Attribute3": "55",
+    "Attribute4": "48",
+    "Attribute5": "60",
+    "Attribute6": "57",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

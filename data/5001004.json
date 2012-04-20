@@ -1,0 +1,11 @@
+{
+  "Contract": {
+    "Desc": "Player Rare Bronze",
+    "Rating": "60",
+    "Rare": "1",
+    "Bronze": "12",
+    "Silver": "6",
+    "Gold": "3",
+    "ItemType": "ContractPlayer"
+  }
+}

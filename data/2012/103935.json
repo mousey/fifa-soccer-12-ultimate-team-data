@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Alberto",
+    "LastName": "Aquilani",
+    "CommonName": null,
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "7",
+      "Day": "7"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "47",
+    "LeagueId": "31",
+    "NationId": "27",
+    "Rating": "81",
+    "Attribute1": "65",
+    "Attribute2": "75",
+    "Attribute3": "84",
+    "Attribute4": "81",
+    "Attribute5": "67",
+    "Attribute6": "62",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

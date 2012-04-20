@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "David",
+    "LastName": "García de La Cruz",
+    "CommonName": "David García",
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "1",
+      "Day": "16"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "110062",
+    "LeagueId": "54",
+    "NationId": "45",
+    "Rating": "67",
+    "Attribute1": "72",
+    "Attribute2": "47",
+    "Attribute3": "61",
+    "Attribute4": "56",
+    "Attribute5": "70",
+    "Attribute6": "60",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

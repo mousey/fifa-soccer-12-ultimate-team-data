@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "László",
+    "LastName": "Köteles",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "9",
+      "Day": "1"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "673",
+    "LeagueId": "4",
+    "NationId": "23",
+    "Rating": "66",
+    "Attribute1": "69",
+    "Attribute2": "62",
+    "Attribute3": "61",
+    "Attribute4": "71",
+    "Attribute5": "63",
+    "Attribute6": "63",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

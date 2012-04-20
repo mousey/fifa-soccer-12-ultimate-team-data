@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Wayne",
+    "LastName": "Bridge",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1980",
+      "Month": "8",
+      "Day": "5"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "10",
+    "LeagueId": "13",
+    "NationId": "14",
+    "Rating": "73",
+    "Attribute1": "60",
+    "Attribute2": "54",
+    "Attribute3": "77",
+    "Attribute4": "65",
+    "Attribute5": "73",
+    "Attribute6": "72",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

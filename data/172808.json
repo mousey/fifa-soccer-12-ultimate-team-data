@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Marcos",
+    "LastName": "Painter",
+    "CommonName": null,
+    "Height": "181",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "8",
+      "Day": "17"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1808",
+    "LeagueId": "14",
+    "NationId": "25",
+    "Rating": "63",
+    "Attribute1": "59",
+    "Attribute2": "29",
+    "Attribute3": "59",
+    "Attribute4": "55",
+    "Attribute5": "64",
+    "Attribute6": "65",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

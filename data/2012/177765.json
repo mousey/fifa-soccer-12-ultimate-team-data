@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Papiss Demba",
+    "LastName": "Cissé",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "6",
+      "Day": "3"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "25",
+    "LeagueId": "19",
+    "NationId": "136",
+    "Rating": "81",
+    "Attribute1": "81",
+    "Attribute2": "76",
+    "Attribute3": "65",
+    "Attribute4": "78",
+    "Attribute5": "51",
+    "Attribute6": "79",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

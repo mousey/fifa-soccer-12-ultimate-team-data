@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Vladimir",
+    "LastName": "Weiss",
+    "CommonName": null,
+    "Height": "176",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "11",
+      "Day": "30"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "452",
+    "LeagueId": "53",
+    "NationId": "43",
+    "Rating": "74",
+    "Attribute1": "85",
+    "Attribute2": "66",
+    "Attribute3": "67",
+    "Attribute4": "79",
+    "Attribute5": "45",
+    "Attribute6": "58",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

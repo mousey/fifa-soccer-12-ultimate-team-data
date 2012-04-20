@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Joost",
+    "LastName": "Terol",
+    "CommonName": null,
+    "Height": "193",
+    "DateOfBirth": {
+      "Year": "1980",
+      "Month": "2",
+      "Day": "1"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "635",
+    "LeagueId": "10",
+    "NationId": "34",
+    "Rating": "64",
+    "Attribute1": "65",
+    "Attribute2": "61",
+    "Attribute3": "65",
+    "Attribute4": "66",
+    "Attribute5": "39",
+    "Attribute6": "62",
+    "Rare": "1",
+    "ItemType": "PlayerGk"
+  }
+}

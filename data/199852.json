@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Nicolai",
+    "LastName": "Jørgensen",
+    "CommonName": null,
+    "Height": "190",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "1",
+      "Day": "15"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "32",
+    "LeagueId": "19",
+    "NationId": "13",
+    "Rating": "69",
+    "Attribute1": "74",
+    "Attribute2": "62",
+    "Attribute3": "51",
+    "Attribute4": "75",
+    "Attribute5": "54",
+    "Attribute6": "64",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Juan Carlos",
+    "LastName": "Valenzuela",
+    "CommonName": null,
+    "Height": "179",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "5",
+      "Day": "15"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1879",
+    "LeagueId": "341",
+    "NationId": "83",
+    "Rating": "66",
+    "Attribute1": "56",
+    "Attribute2": "45",
+    "Attribute3": "59",
+    "Attribute4": "53",
+    "Attribute5": "68",
+    "Attribute6": "66",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

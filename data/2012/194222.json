@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Víctor",
+    "LastName": "Laguardia Cisneros",
+    "CommonName": "Laguardia",
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "11",
+      "Day": "5"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "472",
+    "LeagueId": "54",
+    "NationId": "45",
+    "Rating": "64",
+    "Attribute1": "55",
+    "Attribute2": "32",
+    "Attribute3": "44",
+    "Attribute4": "40",
+    "Attribute5": "69",
+    "Attribute6": "59",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

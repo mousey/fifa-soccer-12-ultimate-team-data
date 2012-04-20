@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Juan Luis",
+    "LastName": "Hens Lorite",
+    "CommonName": "Juanlu Hens",
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "2",
+      "Day": "7"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110062",
+    "LeagueId": "54",
+    "NationId": "45",
+    "Rating": "64",
+    "Attribute1": "69",
+    "Attribute2": "61",
+    "Attribute3": "66",
+    "Attribute4": "62",
+    "Attribute5": "50",
+    "Attribute6": "53",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

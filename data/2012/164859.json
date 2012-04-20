@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Theo",
+    "LastName": "Walcott",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "3",
+      "Day": "16"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1",
+    "LeagueId": "13",
+    "NationId": "14",
+    "Rating": "82",
+    "Attribute1": "96",
+    "Attribute2": "71",
+    "Attribute3": "68",
+    "Attribute4": "85",
+    "Attribute5": "53",
+    "Attribute6": "56",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

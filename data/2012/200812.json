@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Max",
+    "LastName": "Ehmer",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1992",
+      "Month": "2",
+      "Day": "3"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "346",
+    "LeagueId": "60",
+    "NationId": "21",
+    "Rating": "59",
+    "Attribute1": "65",
+    "Attribute2": "52",
+    "Attribute3": "44",
+    "Attribute4": "52",
+    "Attribute5": "60",
+    "Attribute6": "69",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

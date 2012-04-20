@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Landry",
+    "LastName": "Mulemo",
+    "CommonName": null,
+    "Height": "177",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "9",
+      "Day": "17"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "100081",
+    "LeagueId": "4",
+    "NationId": "7",
+    "Rating": "64",
+    "Attribute1": "79",
+    "Attribute2": "57",
+    "Attribute3": "60",
+    "Attribute4": "67",
+    "Attribute5": "63",
+    "Attribute6": "61",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

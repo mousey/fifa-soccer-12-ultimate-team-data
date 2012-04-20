@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Rémi",
+    "LastName": "Fournier",
+    "CommonName": null,
+    "Height": "190",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "11",
+      "Day": "13"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "212",
+    "LeagueId": "17",
+    "NationId": "18",
+    "Rating": "63",
+    "Attribute1": "49",
+    "Attribute2": "20",
+    "Attribute3": "45",
+    "Attribute4": "23",
+    "Attribute5": "67",
+    "Attribute6": "67",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

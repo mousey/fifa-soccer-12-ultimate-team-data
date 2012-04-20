@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Kasper",
+    "LastName": "Jensen",
+    "CommonName": null,
+    "Height": "193",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "10",
+      "Day": "7"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1516",
+    "LeagueId": "1",
+    "NationId": "13",
+    "Rating": "62",
+    "Attribute1": "69",
+    "Attribute2": "65",
+    "Attribute3": "56",
+    "Attribute4": "58",
+    "Attribute5": "61",
+    "Attribute6": "57",
+    "Rare": "1",
+    "ItemType": "PlayerGk"
+  }
+}

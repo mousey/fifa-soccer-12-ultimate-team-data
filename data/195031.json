@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Joao",
+    "LastName": "Rojas",
+    "CommonName": null,
+    "Height": "173",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "6",
+      "Day": "14"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1028",
+    "LeagueId": "341",
+    "NationId": "57",
+    "Rating": "74",
+    "Attribute1": "91",
+    "Attribute2": "65",
+    "Attribute3": "62",
+    "Attribute4": "79",
+    "Attribute5": "50",
+    "Attribute6": "66",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

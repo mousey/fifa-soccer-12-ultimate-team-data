@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Scott",
+    "LastName": "Parker",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1980",
+      "Month": "10",
+      "Day": "13"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "18",
+    "LeagueId": "13",
+    "NationId": "14",
+    "Rating": "82",
+    "Attribute1": "73",
+    "Attribute2": "76",
+    "Attribute3": "81",
+    "Attribute4": "76",
+    "Attribute5": "78",
+    "Attribute6": "74",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

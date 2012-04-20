@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Alexandr",
+    "LastName": "Samedov",
+    "CommonName": null,
+    "Height": "177",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "7",
+      "Day": "19"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "312",
+    "LeagueId": "67",
+    "NationId": "40",
+    "Rating": "79",
+    "Attribute1": "81",
+    "Attribute2": "68",
+    "Attribute3": "80",
+    "Attribute4": "79",
+    "Attribute5": "57",
+    "Attribute6": "60",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

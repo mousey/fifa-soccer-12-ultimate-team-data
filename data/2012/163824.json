@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ashley",
+    "LastName": "Williams",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "8",
+      "Day": "23"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1960",
+    "LeagueId": "13",
+    "NationId": "50",
+    "Rating": "73",
+    "Attribute1": "66",
+    "Attribute2": "40",
+    "Attribute3": "57",
+    "Attribute4": "59",
+    "Attribute5": "74",
+    "Attribute6": "84",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

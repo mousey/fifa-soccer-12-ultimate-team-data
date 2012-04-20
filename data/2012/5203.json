@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Massimo",
+    "LastName": "Oddo",
+    "CommonName": null,
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1976",
+      "Month": "6",
+      "Day": "14"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "347",
+    "LeagueId": "31",
+    "NationId": "27",
+    "Rating": "71",
+    "Attribute1": "54",
+    "Attribute2": "70",
+    "Attribute3": "79",
+    "Attribute4": "71",
+    "Attribute5": "70",
+    "Attribute6": "61",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

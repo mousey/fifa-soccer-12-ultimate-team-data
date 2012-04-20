@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Luigi",
+    "LastName": "Vitale",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "10",
+      "Day": "5"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "189",
+    "LeagueId": "31",
+    "NationId": "27",
+    "Rating": "70",
+    "Attribute1": "69",
+    "Attribute2": "65",
+    "Attribute3": "72",
+    "Attribute4": "70",
+    "Attribute5": "69",
+    "Attribute6": "64",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

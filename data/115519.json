@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Bruno",
+    "LastName": "Berner",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1977",
+      "Month": "11",
+      "Day": "21"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "95",
+    "LeagueId": "14",
+    "NationId": "47",
+    "Rating": "60",
+    "Attribute1": "49",
+    "Attribute2": "50",
+    "Attribute3": "59",
+    "Attribute4": "58",
+    "Attribute5": "66",
+    "Attribute6": "68",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

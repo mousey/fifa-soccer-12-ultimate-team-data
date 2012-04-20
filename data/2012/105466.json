@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Daniele",
+    "LastName": "Martinelli",
+    "CommonName": null,
+    "Height": "181",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "2",
+      "Day": "27"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1847",
+    "LeagueId": "32",
+    "NationId": "27",
+    "Rating": "63",
+    "Attribute1": "61",
+    "Attribute2": "46",
+    "Attribute3": "58",
+    "Attribute4": "52",
+    "Attribute5": "63",
+    "Attribute6": "62",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

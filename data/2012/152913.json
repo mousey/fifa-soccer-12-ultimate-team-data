@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Gabriel",
+    "LastName": "Pereyra",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1978",
+      "Month": "2",
+      "Day": "28"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110152",
+    "LeagueId": "341",
+    "NationId": "52",
+    "Rating": "70",
+    "Attribute1": "71",
+    "Attribute2": "69",
+    "Attribute3": "68",
+    "Attribute4": "71",
+    "Attribute5": "62",
+    "Attribute6": "76",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

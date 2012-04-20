@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Juan Manuel",
+    "LastName": "Vargas",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "10",
+      "Day": "5"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "110374",
+    "LeagueId": "31",
+    "NationId": "59",
+    "Rating": "81",
+    "Attribute1": "81",
+    "Attribute2": "78",
+    "Attribute3": "82",
+    "Attribute4": "79",
+    "Attribute5": "79",
+    "Attribute6": "67",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

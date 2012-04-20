@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Fabio",
+    "LastName": "Daprelà",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "2",
+      "Day": "19"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "190",
+    "LeagueId": "32",
+    "NationId": "47",
+    "Rating": "67",
+    "Attribute1": "80",
+    "Attribute2": "44",
+    "Attribute3": "64",
+    "Attribute4": "64",
+    "Attribute5": "66",
+    "Attribute6": "61",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

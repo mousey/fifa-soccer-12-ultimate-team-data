@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Florian",
+    "LastName": "Bague",
+    "CommonName": null,
+    "Height": "181",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "7",
+      "Day": "27"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111376",
+    "LeagueId": "17",
+    "NationId": "18",
+    "Rating": "63",
+    "Attribute1": "64",
+    "Attribute2": "67",
+    "Attribute3": "61",
+    "Attribute4": "68",
+    "Attribute5": "32",
+    "Attribute6": "64",
+    "Rare": "1",
+    "ItemType": "PlayerGk"
+  }
+}

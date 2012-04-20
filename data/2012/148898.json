@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Koen",
+    "LastName": "van de Laak",
+    "CommonName": null,
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "9",
+      "Day": "3"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1915",
+    "LeagueId": "10",
+    "NationId": "34",
+    "Rating": "67",
+    "Attribute1": "68",
+    "Attribute2": "63",
+    "Attribute3": "64",
+    "Attribute4": "67",
+    "Attribute5": "60",
+    "Attribute6": "66",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

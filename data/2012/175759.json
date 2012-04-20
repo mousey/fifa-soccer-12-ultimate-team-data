@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Nukri",
+    "LastName": "Revishvili",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "3",
+      "Day": "2"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "100766",
+    "LeagueId": "67",
+    "NationId": "20",
+    "Rating": "75",
+    "Attribute1": "80",
+    "Attribute2": "75",
+    "Attribute3": "67",
+    "Attribute4": "74",
+    "Attribute5": "43",
+    "Attribute6": "75",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

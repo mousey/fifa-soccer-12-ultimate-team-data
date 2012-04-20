@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ryan",
+    "LastName": "O'Leary",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "8",
+      "Day": "24"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "82",
+    "LeagueId": "50",
+    "NationId": "42",
+    "Rating": "61",
+    "Attribute1": "69",
+    "Attribute2": "12",
+    "Attribute3": "33",
+    "Attribute4": "50",
+    "Attribute5": "61",
+    "Attribute6": "64",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

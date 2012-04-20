@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "David",
+    "LastName": "Pisot",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "7",
+      "Day": "6"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111239",
+    "LeagueId": "20",
+    "NationId": "21",
+    "Rating": "62",
+    "Attribute1": "67",
+    "Attribute2": "50",
+    "Attribute3": "50",
+    "Attribute4": "57",
+    "Attribute5": "66",
+    "Attribute6": "73",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

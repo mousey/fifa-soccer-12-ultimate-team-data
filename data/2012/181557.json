@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Karim",
+    "LastName": "Aït-Fana",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "2",
+      "Day": "25"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "70",
+    "LeagueId": "16",
+    "NationId": "18",
+    "Rating": "74",
+    "Attribute1": "79",
+    "Attribute2": "66",
+    "Attribute3": "68",
+    "Attribute4": "78",
+    "Attribute5": "49",
+    "Attribute6": "50",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

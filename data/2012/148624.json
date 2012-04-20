@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Evgeniy",
+    "LastName": "Levchenko",
+    "CommonName": null,
+    "Height": "187",
+    "DateOfBirth": {
+      "Year": "1978",
+      "Month": "1",
+      "Day": "2"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "111393",
+    "LeagueId": "351",
+    "NationId": "49",
+    "Rating": "67",
+    "Attribute1": "66",
+    "Attribute2": "64",
+    "Attribute3": "67",
+    "Attribute4": "63",
+    "Attribute5": "68",
+    "Attribute6": "65",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

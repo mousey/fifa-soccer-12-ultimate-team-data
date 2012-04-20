@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Maik",
+    "LastName": "Franz",
+    "CommonName": null,
+    "Height": "190",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "8",
+      "Day": "5"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "166",
+    "LeagueId": "19",
+    "NationId": "21",
+    "Rating": "74",
+    "Attribute1": "58",
+    "Attribute2": "46",
+    "Attribute3": "51",
+    "Attribute4": "33",
+    "Attribute5": "77",
+    "Attribute6": "68",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

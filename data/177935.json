@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Kévin",
+    "LastName": "Constant",
+    "CommonName": null,
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "5",
+      "Day": "15"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "110556",
+    "LeagueId": "31",
+    "NationId": "118",
+    "Rating": "75",
+    "Attribute1": "75",
+    "Attribute2": "68",
+    "Attribute3": "78",
+    "Attribute4": "76",
+    "Attribute5": "70",
+    "Attribute6": "67",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

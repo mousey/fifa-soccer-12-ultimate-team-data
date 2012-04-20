@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "David",
+    "LastName": "Solga",
+    "CommonName": null,
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "10",
+      "Day": "16"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "503",
+    "LeagueId": "20",
+    "NationId": "21",
+    "Rating": "61",
+    "Attribute1": "50",
+    "Attribute2": "42",
+    "Attribute3": "57",
+    "Attribute4": "48",
+    "Attribute5": "59",
+    "Attribute6": "50",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Mahir",
+    "LastName": "Sağlık",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "1",
+      "Day": "18"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "110329",
+    "LeagueId": "20",
+    "NationId": "48",
+    "Rating": "69",
+    "Attribute1": "75",
+    "Attribute2": "63",
+    "Attribute3": "46",
+    "Attribute4": "71",
+    "Attribute5": "49",
+    "Attribute6": "65",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

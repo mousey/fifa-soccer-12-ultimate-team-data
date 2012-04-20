@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Nejc",
+    "LastName": "Pečnik",
+    "CommonName": null,
+    "Height": "189",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "1",
+      "Day": "3"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "100764",
+    "LeagueId": "67",
+    "NationId": "44",
+    "Rating": "70",
+    "Attribute1": "71",
+    "Attribute2": "72",
+    "Attribute3": "68",
+    "Attribute4": "66",
+    "Attribute5": "65",
+    "Attribute6": "73",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

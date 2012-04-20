@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Maciej",
+    "LastName": "Rybus",
+    "CommonName": null,
+    "Height": "172",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "8",
+      "Day": "19"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1871",
+    "LeagueId": "66",
+    "NationId": "37",
+    "Rating": "67",
+    "Attribute1": "80",
+    "Attribute2": "64",
+    "Attribute3": "65",
+    "Attribute4": "68",
+    "Attribute5": "47",
+    "Attribute6": "51",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

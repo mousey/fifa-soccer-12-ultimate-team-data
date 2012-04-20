@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Sylvan",
+    "LastName": "Ebanks-Blake",
+    "CommonName": null,
+    "Height": "173",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "3",
+      "Day": "29"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110",
+    "LeagueId": "13",
+    "NationId": "14",
+    "Rating": "72",
+    "Attribute1": "80",
+    "Attribute2": "67",
+    "Attribute3": "45",
+    "Attribute4": "70",
+    "Attribute5": "54",
+    "Attribute6": "66",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

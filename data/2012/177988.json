@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Dong Hyun",
+    "LastName": "Seo",
+    "CommonName": "Seo Dong Hyun",
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "6",
+      "Day": "5"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "112115",
+    "LeagueId": "83",
+    "NationId": "167",
+    "Rating": "59",
+    "Attribute1": "56",
+    "Attribute2": "60",
+    "Attribute3": "51",
+    "Attribute4": "60",
+    "Attribute5": "53",
+    "Attribute6": "73",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

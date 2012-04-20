@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Paweł",
+    "LastName": "Abbott",
+    "CommonName": null,
+    "Height": "187",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "5",
+      "Day": "5"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "874",
+    "LeagueId": "66",
+    "NationId": "37",
+    "Rating": "59",
+    "Attribute1": "51",
+    "Attribute2": "60",
+    "Attribute3": "49",
+    "Attribute4": "51",
+    "Attribute5": "54",
+    "Attribute6": "64",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

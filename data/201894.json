@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Blair",
+    "LastName": "Adams",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "9",
+      "Day": "8"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "106",
+    "LeagueId": "13",
+    "NationId": "14",
+    "Rating": "55",
+    "Attribute1": "64",
+    "Attribute2": "22",
+    "Attribute3": "31",
+    "Attribute4": "26",
+    "Attribute5": "64",
+    "Attribute6": "56",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

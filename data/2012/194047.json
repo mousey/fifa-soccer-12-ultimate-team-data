@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ivans",
+    "LastName": "Lukjanovs",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "1",
+      "Day": "24"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111091",
+    "LeagueId": "66",
+    "NationId": "28",
+    "Rating": "61",
+    "Attribute1": "79",
+    "Attribute2": "56",
+    "Attribute3": "55",
+    "Attribute4": "63",
+    "Attribute5": "53",
+    "Attribute6": "64",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

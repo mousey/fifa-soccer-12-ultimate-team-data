@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Nikolay",
+    "LastName": "Mihaylov",
+    "CommonName": null,
+    "Height": "194",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "6",
+      "Day": "28"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1908",
+    "LeagueId": "10",
+    "NationId": "9",
+    "Rating": "79",
+    "Attribute1": "80",
+    "Attribute2": "77",
+    "Attribute3": "76",
+    "Attribute4": "84",
+    "Attribute5": "65",
+    "Attribute6": "75",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

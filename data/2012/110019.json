@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "José Antonio",
+    "LastName": "Dorado Ramírez",
+    "CommonName": "Dorado",
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "7",
+      "Day": "10"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "449",
+    "LeagueId": "53",
+    "NationId": "45",
+    "Rating": "73",
+    "Attribute1": "59",
+    "Attribute2": "33",
+    "Attribute3": "55",
+    "Attribute4": "45",
+    "Attribute5": "72",
+    "Attribute6": "72",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

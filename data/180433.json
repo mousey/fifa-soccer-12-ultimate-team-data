@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Tobias",
+    "LastName": "Levels",
+    "CommonName": null,
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "11",
+      "Day": "22"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110636",
+    "LeagueId": "20",
+    "NationId": "21",
+    "Rating": "69",
+    "Attribute1": "67",
+    "Attribute2": "52",
+    "Attribute3": "62",
+    "Attribute4": "63",
+    "Attribute5": "72",
+    "Attribute6": "65",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

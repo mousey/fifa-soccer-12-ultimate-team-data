@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Kenny",
+    "LastName": "Cooper",
+    "CommonName": null,
+    "Height": "192",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "10",
+      "Day": "21"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111140",
+    "LeagueId": "39",
+    "NationId": "95",
+    "Rating": "67",
+    "Attribute1": "64",
+    "Attribute2": "69",
+    "Attribute3": "39",
+    "Attribute4": "66",
+    "Attribute5": "60",
+    "Attribute6": "77",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

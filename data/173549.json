@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Josh",
+    "LastName": "Walker",
+    "CommonName": null,
+    "Height": "181",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "2",
+      "Day": "21"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "361",
+    "LeagueId": "60",
+    "NationId": "14",
+    "Rating": "60",
+    "Attribute1": "63",
+    "Attribute2": "56",
+    "Attribute3": "57",
+    "Attribute4": "58",
+    "Attribute5": "55",
+    "Attribute6": "56",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

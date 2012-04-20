@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Zarek",
+    "LastName": "Valentin",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "8",
+      "Day": "6"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111070",
+    "LeagueId": "39",
+    "NationId": "95",
+    "Rating": "63",
+    "Attribute1": "76",
+    "Attribute2": "40",
+    "Attribute3": "66",
+    "Attribute4": "55",
+    "Attribute5": "65",
+    "Attribute6": "66",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

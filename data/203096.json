@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Orr",
+    "LastName": "Barouch",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "11",
+      "Day": "29"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "693",
+    "LeagueId": "39",
+    "NationId": "26",
+    "Rating": "58",
+    "Attribute1": "60",
+    "Attribute2": "59",
+    "Attribute3": "60",
+    "Attribute4": "59",
+    "Attribute5": "56",
+    "Attribute6": "60",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

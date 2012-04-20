@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Hélder Manuel",
+    "LastName": "Marques Postiga",
+    "CommonName": "Hélder Postiga",
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "8",
+      "Day": "2"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "244",
+    "LeagueId": "53",
+    "NationId": "38",
+    "Rating": "78",
+    "Attribute1": "72",
+    "Attribute2": "76",
+    "Attribute3": "65",
+    "Attribute4": "79",
+    "Attribute5": "52",
+    "Attribute6": "77",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

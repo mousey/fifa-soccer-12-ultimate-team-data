@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Bram",
+    "LastName": "Verbist",
+    "CommonName": null,
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "3",
+      "Day": "5"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1750",
+    "LeagueId": "4",
+    "NationId": "7",
+    "Rating": "66",
+    "Attribute1": "66",
+    "Attribute2": "64",
+    "Attribute3": "72",
+    "Attribute4": "71",
+    "Attribute5": "61",
+    "Attribute6": "63",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Darnel",
+    "LastName": "Situ",
+    "CommonName": null,
+    "Height": "187",
+    "DateOfBirth": {
+      "Year": "1992",
+      "Month": "3",
+      "Day": "18"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1960",
+    "LeagueId": "13",
+    "NationId": "18",
+    "Rating": "59",
+    "Attribute1": "60",
+    "Attribute2": "32",
+    "Attribute3": "49",
+    "Attribute4": "38",
+    "Attribute5": "63",
+    "Attribute6": "62",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

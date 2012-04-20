@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Massimo",
+    "LastName": "Ambrosini",
+    "CommonName": null,
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1977",
+      "Month": "5",
+      "Day": "29"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "47",
+    "LeagueId": "31",
+    "NationId": "27",
+    "Rating": "80",
+    "Attribute1": "57",
+    "Attribute2": "65",
+    "Attribute3": "77",
+    "Attribute4": "71",
+    "Attribute5": "79",
+    "Attribute6": "87",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

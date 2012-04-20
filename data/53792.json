@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Mark",
+    "LastName": "Hudson",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "3",
+      "Day": "30"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1961",
+    "LeagueId": "14",
+    "NationId": "14",
+    "Rating": "67",
+    "Attribute1": "54",
+    "Attribute2": "39",
+    "Attribute3": "39",
+    "Attribute4": "44",
+    "Attribute5": "67",
+    "Attribute6": "78",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

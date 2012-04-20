@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Rohan",
+    "LastName": "Ricketts",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "12",
+      "Day": "22"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "306",
+    "LeagueId": "65",
+    "NationId": "14",
+    "Rating": "61",
+    "Attribute1": "75",
+    "Attribute2": "58",
+    "Attribute3": "54",
+    "Attribute4": "60",
+    "Attribute5": "53",
+    "Attribute6": "61",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

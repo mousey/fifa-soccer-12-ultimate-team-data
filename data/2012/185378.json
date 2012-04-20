@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Mihkel",
+    "LastName": "Aksalu",
+    "CommonName": null,
+    "Height": "192",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "11",
+      "Day": "7"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1794",
+    "LeagueId": "60",
+    "NationId": "208",
+    "Rating": "60",
+    "Attribute1": "69",
+    "Attribute2": "52",
+    "Attribute3": "65",
+    "Attribute4": "69",
+    "Attribute5": "26",
+    "Attribute6": "57",
+    "Rare": "1",
+    "ItemType": "PlayerGk"
+  }
+}

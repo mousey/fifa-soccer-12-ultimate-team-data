@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Romain",
+    "LastName": "Inez",
+    "CommonName": null,
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "4",
+      "Day": "30"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "212",
+    "LeagueId": "17",
+    "NationId": "18",
+    "Rating": "61",
+    "Attribute1": "60",
+    "Attribute2": "30",
+    "Attribute3": "60",
+    "Attribute4": "32",
+    "Attribute5": "65",
+    "Attribute6": "61",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

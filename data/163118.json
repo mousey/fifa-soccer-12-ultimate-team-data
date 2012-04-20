@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Wayne",
+    "LastName": "Srhoj",
+    "CommonName": null,
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "3",
+      "Day": "23"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "112224",
+    "LeagueId": "351",
+    "NationId": "195",
+    "Rating": "62",
+    "Attribute1": "56",
+    "Attribute2": "58",
+    "Attribute3": "58",
+    "Attribute4": "57",
+    "Attribute5": "67",
+    "Attribute6": "57",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

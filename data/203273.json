@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Gabriel",
+    "LastName": "Farfan",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "6",
+      "Day": "23"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "112134",
+    "LeagueId": "39",
+    "NationId": "95",
+    "Rating": "61",
+    "Attribute1": "70",
+    "Attribute2": "59",
+    "Attribute3": "62",
+    "Attribute4": "64",
+    "Attribute5": "61",
+    "Attribute6": "62",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Hanno",
+    "LastName": "Balitsch",
+    "CommonName": null,
+    "Height": "181",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "1",
+      "Day": "2"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "32",
+    "LeagueId": "19",
+    "NationId": "21",
+    "Rating": "75",
+    "Attribute1": "61",
+    "Attribute2": "60",
+    "Attribute3": "70",
+    "Attribute4": "61",
+    "Attribute5": "76",
+    "Attribute6": "74",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

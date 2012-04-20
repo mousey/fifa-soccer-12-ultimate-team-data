@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Oier",
+    "LastName": "Sanjurjo Maté",
+    "CommonName": "Oier",
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "5",
+      "Day": "25"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "450",
+    "LeagueId": "54",
+    "NationId": "45",
+    "Rating": "64",
+    "Attribute1": "66",
+    "Attribute2": "40",
+    "Attribute3": "55",
+    "Attribute4": "47",
+    "Attribute5": "69",
+    "Attribute6": "69",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

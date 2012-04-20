@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "David",
+    "LastName": "Graham",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "6",
+      "Day": "2"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "182",
+    "LeagueId": "50",
+    "NationId": "42",
+    "Rating": "62",
+    "Attribute1": "57",
+    "Attribute2": "57",
+    "Attribute3": "61",
+    "Attribute4": "68",
+    "Attribute5": "54",
+    "Attribute6": "54",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

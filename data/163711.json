@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Lassana",
+    "LastName": "Diarra",
+    "CommonName": null,
+    "Height": "172",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "3",
+      "Day": "10"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "243",
+    "LeagueId": "53",
+    "NationId": "18",
+    "Rating": "82",
+    "Attribute1": "76",
+    "Attribute2": "55",
+    "Attribute3": "70",
+    "Attribute4": "72",
+    "Attribute5": "82",
+    "Attribute6": "66",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Gonzalo",
+    "LastName": "Higuaín",
+    "CommonName": null,
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "12",
+      "Day": "10"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "243",
+    "LeagueId": "53",
+    "NationId": "52",
+    "Rating": "85",
+    "Attribute1": "80",
+    "Attribute2": "82",
+    "Attribute3": "71",
+    "Attribute4": "83",
+    "Attribute5": "53",
+    "Attribute6": "74",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

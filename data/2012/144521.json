@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Paulo",
+    "LastName": "Menezes Kuru",
+    "CommonName": "Paulo Menezes",
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "7",
+      "Day": "14"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "322",
+    "LeagueId": "189",
+    "NationId": "54",
+    "Rating": "63",
+    "Attribute1": "79",
+    "Attribute2": "47",
+    "Attribute3": "60",
+    "Attribute4": "67",
+    "Attribute5": "62",
+    "Attribute6": "62",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

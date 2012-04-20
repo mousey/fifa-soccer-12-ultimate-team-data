@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Marco",
+    "LastName": "Knaller",
+    "CommonName": null,
+    "Height": "192",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "3",
+      "Day": "26"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "29",
+    "LeagueId": "19",
+    "NationId": "4",
+    "Rating": "58",
+    "Attribute1": "61",
+    "Attribute2": "52",
+    "Attribute3": "49",
+    "Attribute4": "68",
+    "Attribute5": "51",
+    "Attribute6": "54",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Giuseppe",
+    "LastName": "Colucci",
+    "CommonName": null,
+    "Height": "179",
+    "DateOfBirth": {
+      "Year": "1980",
+      "Month": "8",
+      "Day": "24"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110915",
+    "LeagueId": "31",
+    "NationId": "27",
+    "Rating": "72",
+    "Attribute1": "57",
+    "Attribute2": "69",
+    "Attribute3": "74",
+    "Attribute4": "69",
+    "Attribute5": "66",
+    "Attribute6": "53",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

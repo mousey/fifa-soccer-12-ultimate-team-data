@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "José Gaspar",
+    "LastName": "Silva Azevedo",
+    "CommonName": "Gaspar",
+    "Height": "191",
+    "DateOfBirth": {
+      "Year": "1975",
+      "Month": "6",
+      "Day": "1"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "744",
+    "LeagueId": "308",
+    "NationId": "38",
+    "Rating": "68",
+    "Attribute1": "46",
+    "Attribute2": "33",
+    "Attribute3": "46",
+    "Attribute4": "30",
+    "Attribute5": "73",
+    "Attribute6": "64",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

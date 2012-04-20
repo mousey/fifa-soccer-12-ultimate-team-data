@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Bart",
+    "LastName": "Biemans",
+    "CommonName": null,
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "3",
+      "Day": "14"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1902",
+    "LeagueId": "10",
+    "NationId": "7",
+    "Rating": "65",
+    "Attribute1": "59",
+    "Attribute2": "40",
+    "Attribute3": "51",
+    "Attribute4": "46",
+    "Attribute5": "67",
+    "Attribute6": "79",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

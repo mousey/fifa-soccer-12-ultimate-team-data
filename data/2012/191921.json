@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Sang Wun",
+    "LastName": "Han",
+    "CommonName": "Han Sang Wun",
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "5",
+      "Day": "3"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1476",
+    "LeagueId": "83",
+    "NationId": "167",
+    "Rating": "68",
+    "Attribute1": "71",
+    "Attribute2": "68",
+    "Attribute3": "63",
+    "Attribute4": "64",
+    "Attribute5": "54",
+    "Attribute6": "66",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

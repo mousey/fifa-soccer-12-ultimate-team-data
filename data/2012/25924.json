@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Joan",
+    "LastName": "Capdevila Méndez",
+    "CommonName": "Capdevila",
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1978",
+      "Month": "2",
+      "Day": "3"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "234",
+    "LeagueId": "308",
+    "NationId": "45",
+    "Rating": "79",
+    "Attribute1": "72",
+    "Attribute2": "69",
+    "Attribute3": "79",
+    "Attribute4": "65",
+    "Attribute5": "78",
+    "Attribute6": "74",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

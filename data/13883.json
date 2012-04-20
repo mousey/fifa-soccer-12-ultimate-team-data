@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Danny",
+    "LastName": "Whitaker",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1980",
+      "Month": "11",
+      "Day": "14"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1924",
+    "LeagueId": "60",
+    "NationId": "14",
+    "Rating": "62",
+    "Attribute1": "62",
+    "Attribute2": "64",
+    "Attribute3": "59",
+    "Attribute4": "61",
+    "Attribute5": "54",
+    "Attribute6": "58",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

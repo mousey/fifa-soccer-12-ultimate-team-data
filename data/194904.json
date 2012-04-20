@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Bill",
+    "LastName": "Hamid",
+    "CommonName": null,
+    "Height": "191",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "11",
+      "Day": "25"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "688",
+    "LeagueId": "39",
+    "NationId": "95",
+    "Rating": "64",
+    "Attribute1": "66",
+    "Attribute2": "63",
+    "Attribute3": "62",
+    "Attribute4": "69",
+    "Attribute5": "66",
+    "Attribute6": "61",
+    "Rare": "1",
+    "ItemType": "PlayerGk"
+  }
+}

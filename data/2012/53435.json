@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Danny",
+    "LastName": "Shittu",
+    "CommonName": null,
+    "Height": "191",
+    "DateOfBirth": {
+      "Year": "1980",
+      "Month": "9",
+      "Day": "2"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "15",
+    "LeagueId": "13",
+    "NationId": "133",
+    "Rating": "68",
+    "Attribute1": "50",
+    "Attribute2": "30",
+    "Attribute3": "36",
+    "Attribute4": "43",
+    "Attribute5": "74",
+    "Attribute6": "79",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

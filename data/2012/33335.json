@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Peter",
+    "LastName": "Enckelman",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1977",
+      "Month": "3",
+      "Day": "10"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "100804",
+    "LeagueId": "50",
+    "NationId": "17",
+    "Rating": "61",
+    "Attribute1": "62",
+    "Attribute2": "57",
+    "Attribute3": "51",
+    "Attribute4": "61",
+    "Attribute5": "55",
+    "Attribute6": "66",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

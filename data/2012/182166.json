@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Julian",
+    "LastName": "Palmieri",
+    "CommonName": null,
+    "Height": "170",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "12",
+      "Day": "7"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1820",
+    "LeagueId": "17",
+    "NationId": "18",
+    "Rating": "69",
+    "Attribute1": "78",
+    "Attribute2": "59",
+    "Attribute3": "64",
+    "Attribute4": "72",
+    "Attribute5": "42",
+    "Attribute6": "47",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

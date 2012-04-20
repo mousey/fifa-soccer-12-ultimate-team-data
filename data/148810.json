@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Darl",
+    "LastName": "Douglas",
+    "CommonName": null,
+    "Height": "172",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "10",
+      "Day": "5"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "100634",
+    "LeagueId": "10",
+    "NationId": "34",
+    "Rating": "68",
+    "Attribute1": "73",
+    "Attribute2": "62",
+    "Attribute3": "60",
+    "Attribute4": "75",
+    "Attribute5": "56",
+    "Attribute6": "57",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

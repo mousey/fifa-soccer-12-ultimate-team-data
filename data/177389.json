@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Filipe",
+    "LastName": "Morais",
+    "CommonName": null,
+    "Height": "173",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "11",
+      "Day": "21"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1920",
+    "LeagueId": "60",
+    "NationId": "38",
+    "Rating": "64",
+    "Attribute1": "76",
+    "Attribute2": "50",
+    "Attribute3": "58",
+    "Attribute4": "70",
+    "Attribute5": "47",
+    "Attribute6": "55",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

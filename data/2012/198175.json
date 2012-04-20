@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Luc",
+    "LastName": "Castaignos",
+    "CommonName": null,
+    "Height": "187",
+    "DateOfBirth": {
+      "Year": "1992",
+      "Month": "9",
+      "Day": "27"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "44",
+    "LeagueId": "31",
+    "NationId": "34",
+    "Rating": "72",
+    "Attribute1": "82",
+    "Attribute2": "70",
+    "Attribute3": "42",
+    "Attribute4": "69",
+    "Attribute5": "53",
+    "Attribute6": "72",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

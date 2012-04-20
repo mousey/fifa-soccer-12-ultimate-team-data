@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Stefano",
+    "LastName": "Lucchini",
+    "CommonName": null,
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1980",
+      "Month": "10",
+      "Day": "2"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "39",
+    "LeagueId": "31",
+    "NationId": "27",
+    "Rating": "75",
+    "Attribute1": "64",
+    "Attribute2": "36",
+    "Attribute3": "52",
+    "Attribute4": "46",
+    "Attribute5": "78",
+    "Attribute6": "76",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Sang Jun",
+    "LastName": "Jo",
+    "CommonName": "Jo Sang Jun",
+    "Height": "187",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "7",
+      "Day": "24"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "112258",
+    "LeagueId": "83",
+    "NationId": "167",
+    "Rating": "55",
+    "Attribute1": "56",
+    "Attribute2": "55",
+    "Attribute3": "57",
+    "Attribute4": "56",
+    "Attribute5": "23",
+    "Attribute6": "59",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

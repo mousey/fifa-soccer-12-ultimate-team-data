@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Tommy Svindal",
+    "LastName": "Larsen",
+    "CommonName": null,
+    "Height": "172",
+    "DateOfBirth": {
+      "Year": "1973",
+      "Month": "8",
+      "Day": "11"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1456",
+    "LeagueId": "41",
+    "NationId": "36",
+    "Rating": "59",
+    "Attribute1": "45",
+    "Attribute2": "60",
+    "Attribute3": "56",
+    "Attribute4": "61",
+    "Attribute5": "63",
+    "Attribute6": "58",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

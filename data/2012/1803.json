@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Javier",
+    "LastName": "Saviola",
+    "CommonName": null,
+    "Height": "169",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "12",
+      "Day": "11"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "234",
+    "LeagueId": "308",
+    "NationId": "52",
+    "Rating": "81",
+    "Attribute1": "86",
+    "Attribute2": "76",
+    "Attribute3": "70",
+    "Attribute4": "86",
+    "Attribute5": "42",
+    "Attribute6": "68",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

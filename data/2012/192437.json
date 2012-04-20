@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Florian",
+    "LastName": "Trinks",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1992",
+      "Month": "3",
+      "Day": "11"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "38",
+    "LeagueId": "19",
+    "NationId": "21",
+    "Rating": "68",
+    "Attribute1": "69",
+    "Attribute2": "65",
+    "Attribute3": "64",
+    "Attribute4": "70",
+    "Attribute5": "49",
+    "Attribute6": "63",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

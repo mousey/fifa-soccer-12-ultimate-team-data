@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ashley",
+    "LastName": "Cole",
+    "CommonName": null,
+    "Height": "176",
+    "DateOfBirth": {
+      "Year": "1980",
+      "Month": "12",
+      "Day": "20"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "5",
+    "LeagueId": "13",
+    "NationId": "14",
+    "Rating": "85",
+    "Attribute1": "83",
+    "Attribute2": "63",
+    "Attribute3": "80",
+    "Attribute4": "79",
+    "Attribute5": "79",
+    "Attribute6": "72",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

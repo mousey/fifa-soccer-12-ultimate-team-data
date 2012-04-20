@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Antonio",
+    "LastName": "Galdeano Benítez",
+    "CommonName": "Apoño",
+    "Height": "173",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "2",
+      "Day": "13"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "573",
+    "LeagueId": "53",
+    "NationId": "45",
+    "Rating": "75",
+    "Attribute1": "67",
+    "Attribute2": "70",
+    "Attribute3": "77",
+    "Attribute4": "70",
+    "Attribute5": "71",
+    "Attribute6": "57",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

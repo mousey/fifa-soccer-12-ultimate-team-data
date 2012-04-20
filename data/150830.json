@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Terry",
+    "LastName": "McFlynn",
+    "CommonName": null,
+    "Height": "177",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "3",
+      "Day": "27"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111400",
+    "LeagueId": "351",
+    "NationId": "35",
+    "Rating": "60",
+    "Attribute1": "40",
+    "Attribute2": "55",
+    "Attribute3": "49",
+    "Attribute4": "39",
+    "Attribute5": "69",
+    "Attribute6": "56",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

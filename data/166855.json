@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Karleigh",
+    "LastName": "Osborne",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "3",
+      "Day": "19"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1925",
+    "LeagueId": "60",
+    "NationId": "14",
+    "Rating": "62",
+    "Attribute1": "81",
+    "Attribute2": "31",
+    "Attribute3": "46",
+    "Attribute4": "39",
+    "Attribute5": "67",
+    "Attribute6": "62",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Cristian",
+    "LastName": "Nazarit",
+    "CommonName": null,
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "8",
+      "Day": "13"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "693",
+    "LeagueId": "39",
+    "NationId": "56",
+    "Rating": "65",
+    "Attribute1": "75",
+    "Attribute2": "67",
+    "Attribute3": "45",
+    "Attribute4": "59",
+    "Attribute5": "55",
+    "Attribute6": "70",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

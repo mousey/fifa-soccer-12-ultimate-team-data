@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Danilo Luiz",
+    "LastName": "da Silva",
+    "CommonName": "Danilo",
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "7",
+      "Day": "15"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1053",
+    "LeagueId": "7",
+    "NationId": "54",
+    "Rating": "76",
+    "Attribute1": "87",
+    "Attribute2": "72",
+    "Attribute3": "73",
+    "Attribute4": "80",
+    "Attribute5": "68",
+    "Attribute6": "65",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

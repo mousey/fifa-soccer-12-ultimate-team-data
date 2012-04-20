@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Danny",
+    "LastName": "O'Rourke",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "5",
+      "Day": "31"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "687",
+    "LeagueId": "39",
+    "NationId": "95",
+    "Rating": "66",
+    "Attribute1": "72",
+    "Attribute2": "46",
+    "Attribute3": "59",
+    "Attribute4": "58",
+    "Attribute5": "69",
+    "Attribute6": "63",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

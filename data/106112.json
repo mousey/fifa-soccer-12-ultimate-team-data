@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Julien",
+    "LastName": "François",
+    "CommonName": null,
+    "Height": "192",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "9",
+      "Day": "21"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1738",
+    "LeagueId": "17",
+    "NationId": "18",
+    "Rating": "66",
+    "Attribute1": "51",
+    "Attribute2": "52",
+    "Attribute3": "64",
+    "Attribute4": "55",
+    "Attribute5": "68",
+    "Attribute6": "67",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

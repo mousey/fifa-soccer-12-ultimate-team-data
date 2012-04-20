@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Hans-Peter",
+    "LastName": "Berger",
+    "CommonName": null,
+    "Height": "179",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "9",
+      "Day": "28"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111821",
+    "LeagueId": "80",
+    "NationId": "4",
+    "Rating": "65",
+    "Attribute1": "67",
+    "Attribute2": "64",
+    "Attribute3": "64",
+    "Attribute4": "68",
+    "Attribute5": "52",
+    "Attribute6": "64",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

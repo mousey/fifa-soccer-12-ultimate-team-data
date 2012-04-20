@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Élton",
+    "LastName": "Rodriguez Brandão",
+    "CommonName": "Élton",
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "8",
+      "Day": "1"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "569",
+    "LeagueId": "7",
+    "NationId": "54",
+    "Rating": "70",
+    "Attribute1": "65",
+    "Attribute2": "66",
+    "Attribute3": "46",
+    "Attribute4": "61",
+    "Attribute5": "59",
+    "Attribute6": "74",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

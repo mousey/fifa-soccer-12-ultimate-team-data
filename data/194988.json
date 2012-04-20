@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Henry Damián",
+    "LastName": "Gimenez",
+    "CommonName": null,
+    "Height": "176",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "3",
+      "Day": "13"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "189",
+    "LeagueId": "31",
+    "NationId": "60",
+    "Rating": "73",
+    "Attribute1": "81",
+    "Attribute2": "65",
+    "Attribute3": "59",
+    "Attribute4": "76",
+    "Attribute5": "56",
+    "Attribute6": "58",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Yohan",
+    "LastName": "Benalouane",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "3",
+      "Day": "28"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "110915",
+    "LeagueId": "31",
+    "NationId": "18",
+    "Rating": "69",
+    "Attribute1": "62",
+    "Attribute2": "42",
+    "Attribute3": "52",
+    "Attribute4": "37",
+    "Attribute5": "70",
+    "Attribute6": "69",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

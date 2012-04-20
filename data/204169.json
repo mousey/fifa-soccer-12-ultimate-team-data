@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Enes",
+    "LastName": "Uzun",
+    "CommonName": null,
+    "Height": "168",
+    "DateOfBirth": {
+      "Year": "1992",
+      "Month": "1",
+      "Day": "25"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "160",
+    "LeagueId": "20",
+    "NationId": "48",
+    "Rating": "55",
+    "Attribute1": "66",
+    "Attribute2": "44",
+    "Attribute3": "50",
+    "Attribute4": "59",
+    "Attribute5": "39",
+    "Attribute6": "51",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Milan",
+    "LastName": "Gajic",
+    "CommonName": null,
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "11",
+      "Day": "17"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "894",
+    "LeagueId": "189",
+    "NationId": "51",
+    "Rating": "59",
+    "Attribute1": "69",
+    "Attribute2": "59",
+    "Attribute3": "61",
+    "Attribute4": "63",
+    "Attribute5": "58",
+    "Attribute6": "55",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

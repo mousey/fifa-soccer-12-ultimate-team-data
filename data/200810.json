@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Alessandro",
+    "LastName": "Crescenzi",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "9",
+      "Day": "25"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1848",
+    "LeagueId": "32",
+    "NationId": "27",
+    "Rating": "62",
+    "Attribute1": "71",
+    "Attribute2": "45",
+    "Attribute3": "58",
+    "Attribute4": "59",
+    "Attribute5": "64",
+    "Attribute6": "63",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

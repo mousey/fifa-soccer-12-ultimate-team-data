@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Bernhard",
+    "LastName": "Schachner",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "1",
+      "Day": "10"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111821",
+    "LeagueId": "80",
+    "NationId": "4",
+    "Rating": "57",
+    "Attribute1": "64",
+    "Attribute2": "46",
+    "Attribute3": "56",
+    "Attribute4": "60",
+    "Attribute5": "58",
+    "Attribute6": "62",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

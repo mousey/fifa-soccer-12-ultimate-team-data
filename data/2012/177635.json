@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Benoît",
+    "LastName": "Trémoulinas",
+    "CommonName": null,
+    "Height": "172",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "12",
+      "Day": "28"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "59",
+    "LeagueId": "16",
+    "NationId": "18",
+    "Rating": "78",
+    "Attribute1": "85",
+    "Attribute2": "62",
+    "Attribute3": "81",
+    "Attribute4": "74",
+    "Attribute5": "70",
+    "Attribute6": "65",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

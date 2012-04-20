@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Edwin",
+    "LastName": "Valencia",
+    "CommonName": null,
+    "Height": "181",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "3",
+      "Day": "29"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "567",
+    "LeagueId": "7",
+    "NationId": "56",
+    "Rating": "72",
+    "Attribute1": "68",
+    "Attribute2": "54",
+    "Attribute3": "62",
+    "Attribute4": "63",
+    "Attribute5": "76",
+    "Attribute6": "73",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

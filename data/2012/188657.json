@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Declan",
+    "LastName": "Rudd",
+    "CommonName": null,
+    "Height": "191",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "1",
+      "Day": "16"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1792",
+    "LeagueId": "13",
+    "NationId": "14",
+    "Rating": "62",
+    "Attribute1": "65",
+    "Attribute2": "63",
+    "Attribute3": "57",
+    "Attribute4": "59",
+    "Attribute5": "54",
+    "Attribute6": "62",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

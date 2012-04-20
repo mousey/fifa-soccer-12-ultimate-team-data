@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Simen Søraunet",
+    "LastName": "Wangberg",
+    "CommonName": null,
+    "Height": "187",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "5",
+      "Day": "6"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "298",
+    "LeagueId": "41",
+    "NationId": "36",
+    "Rating": "66",
+    "Attribute1": "70",
+    "Attribute2": "40",
+    "Attribute3": "51",
+    "Attribute4": "40",
+    "Attribute5": "67",
+    "Attribute6": "72",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Andrew Erik",
+    "LastName": "Feitosa",
+    "CommonName": "Morato",
+    "Height": "170",
+    "DateOfBirth": {
+      "Year": "1992",
+      "Month": "9",
+      "Day": "1"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "111588",
+    "LeagueId": "83",
+    "NationId": "54",
+    "Rating": "59",
+    "Attribute1": "54",
+    "Attribute2": "60",
+    "Attribute3": "59",
+    "Attribute4": "60",
+    "Attribute5": "40",
+    "Attribute6": "58",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

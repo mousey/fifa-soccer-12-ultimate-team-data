@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Dawid",
+    "LastName": "Plizga",
+    "CommonName": null,
+    "Height": "174",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "11",
+      "Day": "17"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110745",
+    "LeagueId": "66",
+    "NationId": "37",
+    "Rating": "65",
+    "Attribute1": "82",
+    "Attribute2": "61",
+    "Attribute3": "58",
+    "Attribute4": "64",
+    "Attribute5": "48",
+    "Attribute6": "64",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

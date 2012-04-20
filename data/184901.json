@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Kwang Hoon",
+    "LastName": "Shin",
+    "CommonName": "Shin Kwang Hoon",
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "3",
+      "Day": "18"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1474",
+    "LeagueId": "83",
+    "NationId": "167",
+    "Rating": "65",
+    "Attribute1": "77",
+    "Attribute2": "48",
+    "Attribute3": "65",
+    "Attribute4": "67",
+    "Attribute5": "68",
+    "Attribute6": "58",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Marcelo",
+    "LastName": "Aparecido Toscano",
+    "CommonName": "Toscano",
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "5",
+      "Day": "12"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1887",
+    "LeagueId": "308",
+    "NationId": "54",
+    "Rating": "71",
+    "Attribute1": "70",
+    "Attribute2": "71",
+    "Attribute3": "68",
+    "Attribute4": "71",
+    "Attribute5": "54",
+    "Attribute6": "68",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

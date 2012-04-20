@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Daniel",
+    "LastName": "Caligiuri",
+    "CommonName": null,
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "1",
+      "Day": "15"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "25",
+    "LeagueId": "19",
+    "NationId": "21",
+    "Rating": "69",
+    "Attribute1": "75",
+    "Attribute2": "55",
+    "Attribute3": "65",
+    "Attribute4": "71",
+    "Attribute5": "50",
+    "Attribute6": "58",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

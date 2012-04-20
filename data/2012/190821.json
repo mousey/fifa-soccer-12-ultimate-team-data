@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Abdisalam",
+    "LastName": "Ibrahim",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "5",
+      "Day": "1"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1910",
+    "LeagueId": "10",
+    "NationId": "36",
+    "Rating": "65",
+    "Attribute1": "77",
+    "Attribute2": "55",
+    "Attribute3": "63",
+    "Attribute4": "70",
+    "Attribute5": "60",
+    "Attribute6": "65",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

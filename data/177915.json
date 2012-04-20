@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Daniele",
+    "LastName": "Capelli",
+    "CommonName": null,
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "6",
+      "Day": "20"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "39",
+    "LeagueId": "31",
+    "NationId": "27",
+    "Rating": "73",
+    "Attribute1": "67",
+    "Attribute2": "40",
+    "Attribute3": "55",
+    "Attribute4": "40",
+    "Attribute5": "78",
+    "Attribute6": "75",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

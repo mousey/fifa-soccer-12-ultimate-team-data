@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ilijan",
+    "LastName": "Micanski",
+    "CommonName": null,
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "12",
+      "Day": "20"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "29",
+    "LeagueId": "19",
+    "NationId": "9",
+    "Rating": "66",
+    "Attribute1": "67",
+    "Attribute2": "63",
+    "Attribute3": "55",
+    "Attribute4": "67",
+    "Attribute5": "53",
+    "Attribute6": "61",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

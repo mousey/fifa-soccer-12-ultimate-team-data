@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Matteo",
+    "LastName": "Centurioni",
+    "CommonName": null,
+    "Height": "190",
+    "DateOfBirth": {
+      "Year": "1974",
+      "Month": "5",
+      "Day": "8"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "112225",
+    "LeagueId": "31",
+    "NationId": "27",
+    "Rating": "66",
+    "Attribute1": "40",
+    "Attribute2": "39",
+    "Attribute3": "51",
+    "Attribute4": "45",
+    "Attribute5": "70",
+    "Attribute6": "68",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Carlos",
+    "LastName": "Carmona",
+    "CommonName": null,
+    "Height": "168",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "2",
+      "Day": "21"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "39",
+    "LeagueId": "31",
+    "NationId": "55",
+    "Rating": "74",
+    "Attribute1": "80",
+    "Attribute2": "58",
+    "Attribute3": "73",
+    "Attribute4": "71",
+    "Attribute5": "67",
+    "Attribute6": "58",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Darren",
+    "LastName": "Fletcher",
+    "CommonName": null,
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "2",
+      "Day": "1"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "11",
+    "LeagueId": "13",
+    "NationId": "42",
+    "Rating": "81",
+    "Attribute1": "77",
+    "Attribute2": "67",
+    "Attribute3": "82",
+    "Attribute4": "73",
+    "Attribute5": "82",
+    "Attribute6": "81",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

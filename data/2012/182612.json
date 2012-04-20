@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Dave",
+    "LastName": "Winfield",
+    "CommonName": null,
+    "Height": "191",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "3",
+      "Day": "24"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1933",
+    "LeagueId": "60",
+    "NationId": "14",
+    "Rating": "57",
+    "Attribute1": "40",
+    "Attribute2": "26",
+    "Attribute3": "26",
+    "Attribute4": "25",
+    "Attribute5": "66",
+    "Attribute6": "65",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

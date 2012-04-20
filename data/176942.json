@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Mikael",
+    "LastName": "Lustig",
+    "CommonName": null,
+    "Height": "189",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "12",
+      "Day": "13"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "298",
+    "LeagueId": "41",
+    "NationId": "46",
+    "Rating": "71",
+    "Attribute1": "76",
+    "Attribute2": "60",
+    "Attribute3": "67",
+    "Attribute4": "66",
+    "Attribute5": "68",
+    "Attribute6": "71",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

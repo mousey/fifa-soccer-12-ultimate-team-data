@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Michael",
+    "LastName": "Agazzi",
+    "CommonName": null,
+    "Height": "189",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "7",
+      "Day": "3"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1842",
+    "LeagueId": "31",
+    "NationId": "27",
+    "Rating": "73",
+    "Attribute1": "74",
+    "Attribute2": "70",
+    "Attribute3": "65",
+    "Attribute4": "77",
+    "Attribute5": "48",
+    "Attribute6": "74",
+    "Rare": "1",
+    "ItemType": "PlayerGk"
+  }
+}

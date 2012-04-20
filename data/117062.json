@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Olivier",
+    "LastName": "Blondel",
+    "CommonName": null,
+    "Height": "187",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "7",
+      "Day": "9"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "294",
+    "LeagueId": "17",
+    "NationId": "18",
+    "Rating": "64",
+    "Attribute1": "69",
+    "Attribute2": "63",
+    "Attribute3": "58",
+    "Attribute4": "60",
+    "Attribute5": "51",
+    "Attribute6": "65",
+    "Rare": "1",
+    "ItemType": "PlayerGk"
+  }
+}

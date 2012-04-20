@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Armando",
+    "LastName": "Lozano Sánchez",
+    "CommonName": "Armando",
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "12",
+      "Day": "16"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110704",
+    "LeagueId": "54",
+    "NationId": "45",
+    "Rating": "64",
+    "Attribute1": "51",
+    "Attribute2": "35",
+    "Attribute3": "44",
+    "Attribute4": "39",
+    "Attribute5": "71",
+    "Attribute6": "69",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

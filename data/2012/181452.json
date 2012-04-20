@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Oumar",
+    "LastName": "Sissoko",
+    "CommonName": null,
+    "Height": "187",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "9",
+      "Day": "13"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "68",
+    "LeagueId": "17",
+    "NationId": "126",
+    "Rating": "55",
+    "Attribute1": "66",
+    "Attribute2": "57",
+    "Attribute3": "52",
+    "Attribute4": "44",
+    "Attribute5": "50",
+    "Attribute6": "51",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Adriano",
+    "LastName": "Ferreira Pinto",
+    "CommonName": null,
+    "Height": "179",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "12",
+      "Day": "10"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "39",
+    "LeagueId": "31",
+    "NationId": "54",
+    "Rating": "73",
+    "Attribute1": "76",
+    "Attribute2": "67",
+    "Attribute3": "74",
+    "Attribute4": "76",
+    "Attribute5": "60",
+    "Attribute6": "60",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

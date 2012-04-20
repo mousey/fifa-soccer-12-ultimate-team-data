@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Mikele",
+    "LastName": "Leigertwood",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "11",
+      "Day": "12"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1793",
+    "LeagueId": "14",
+    "NationId": "63",
+    "Rating": "66",
+    "Attribute1": "65",
+    "Attribute2": "43",
+    "Attribute3": "60",
+    "Attribute4": "57",
+    "Attribute5": "69",
+    "Attribute6": "71",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

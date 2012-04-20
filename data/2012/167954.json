@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Habib",
+    "LastName": "Bellaïd",
+    "CommonName": null,
+    "Height": "189",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "3",
+      "Day": "28"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1824",
+    "LeagueId": "20",
+    "NationId": "97",
+    "Rating": "68",
+    "Attribute1": "47",
+    "Attribute2": "36",
+    "Attribute3": "54",
+    "Attribute4": "52",
+    "Attribute5": "74",
+    "Attribute6": "69",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

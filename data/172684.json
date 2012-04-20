@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Javier",
+    "LastName": "Varas Herrera",
+    "CommonName": "Javi Varas",
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "9",
+      "Day": "10"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "481",
+    "LeagueId": "53",
+    "NationId": "45",
+    "Rating": "76",
+    "Attribute1": "80",
+    "Attribute2": "71",
+    "Attribute3": "65",
+    "Attribute4": "82",
+    "Attribute5": "51",
+    "Attribute6": "76",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

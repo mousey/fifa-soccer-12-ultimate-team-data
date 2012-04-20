@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Xherdan",
+    "LastName": "Shaqiri",
+    "CommonName": null,
+    "Height": "169",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "10",
+      "Day": "10"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "896",
+    "LeagueId": "189",
+    "NationId": "47",
+    "Rating": "76",
+    "Attribute1": "89",
+    "Attribute2": "68",
+    "Attribute3": "68",
+    "Attribute4": "84",
+    "Attribute5": "66",
+    "Attribute6": "61",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

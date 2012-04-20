@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Marek",
+    "LastName": "Suchý",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "3",
+      "Day": "29"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "100767",
+    "LeagueId": "67",
+    "NationId": "12",
+    "Rating": "72",
+    "Attribute1": "72",
+    "Attribute2": "53",
+    "Attribute3": "59",
+    "Attribute4": "62",
+    "Attribute5": "72",
+    "Attribute6": "82",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Clemente",
+    "LastName": "Rodríguez",
+    "CommonName": null,
+    "Height": "167",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "7",
+      "Day": "31"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1877",
+    "LeagueId": "353",
+    "NationId": "52",
+    "Rating": "74",
+    "Attribute1": "81",
+    "Attribute2": "56",
+    "Attribute3": "74",
+    "Attribute4": "70",
+    "Attribute5": "69",
+    "Attribute6": "67",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

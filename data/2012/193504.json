@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Steven",
+    "LastName": "Caulker",
+    "CommonName": null,
+    "Height": "190",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "12",
+      "Day": "29"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1960",
+    "LeagueId": "13",
+    "NationId": "14",
+    "Rating": "70",
+    "Attribute1": "72",
+    "Attribute2": "28",
+    "Attribute3": "57",
+    "Attribute4": "58",
+    "Attribute5": "72",
+    "Attribute6": "73",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

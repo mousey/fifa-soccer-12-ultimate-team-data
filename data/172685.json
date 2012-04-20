@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "José Ángel",
+    "LastName": "Crespo Rincón",
+    "CommonName": "Crespo",
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "2",
+      "Day": "9"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "189",
+    "LeagueId": "31",
+    "NationId": "45",
+    "Rating": "65",
+    "Attribute1": "66",
+    "Attribute2": "45",
+    "Attribute3": "58",
+    "Attribute4": "58",
+    "Attribute5": "66",
+    "Attribute6": "63",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

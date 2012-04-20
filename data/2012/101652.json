@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Peter",
+    "LastName": "Schyrba",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1980",
+      "Month": "10",
+      "Day": "17"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "27",
+    "LeagueId": "20",
+    "NationId": "21",
+    "Rating": "61",
+    "Attribute1": "65",
+    "Attribute2": "45",
+    "Attribute3": "52",
+    "Attribute4": "53",
+    "Attribute5": "67",
+    "Attribute6": "65",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

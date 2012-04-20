@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Danijel",
+    "LastName": "Pranjić",
+    "CommonName": null,
+    "Height": "171",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "12",
+      "Day": "2"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "21",
+    "LeagueId": "19",
+    "NationId": "10",
+    "Rating": "76",
+    "Attribute1": "75",
+    "Attribute2": "71",
+    "Attribute3": "76",
+    "Attribute4": "76",
+    "Attribute5": "63",
+    "Attribute6": "59",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

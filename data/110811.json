@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Pedro Mario",
+    "LastName": "Álvarez Abrante",
+    "CommonName": "Mario",
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "2",
+      "Day": "2"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "449",
+    "LeagueId": "53",
+    "NationId": "45",
+    "Rating": "74",
+    "Attribute1": "66",
+    "Attribute2": "46",
+    "Attribute3": "52",
+    "Attribute4": "48",
+    "Attribute5": "74",
+    "Attribute6": "81",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Nampalys",
+    "LastName": "Mendy",
+    "CommonName": null,
+    "Height": "174",
+    "DateOfBirth": {
+      "Year": "1992",
+      "Month": "6",
+      "Day": "23"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "69",
+    "LeagueId": "17",
+    "NationId": "18",
+    "Rating": "65",
+    "Attribute1": "73",
+    "Attribute2": "50",
+    "Attribute3": "66",
+    "Attribute4": "64",
+    "Attribute5": "62",
+    "Attribute6": "64",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

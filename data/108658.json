@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Marco",
+    "LastName": "Streller",
+    "CommonName": null,
+    "Height": "195",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "6",
+      "Day": "18"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "896",
+    "LeagueId": "189",
+    "NationId": "47",
+    "Rating": "74",
+    "Attribute1": "64",
+    "Attribute2": "64",
+    "Attribute3": "58",
+    "Attribute4": "73",
+    "Attribute5": "61",
+    "Attribute6": "73",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

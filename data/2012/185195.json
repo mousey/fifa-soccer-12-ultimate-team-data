@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Odion",
+    "LastName": "Ighalo",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "6",
+      "Day": "16"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110832",
+    "LeagueId": "53",
+    "NationId": "133",
+    "Rating": "68",
+    "Attribute1": "77",
+    "Attribute2": "63",
+    "Attribute3": "50",
+    "Attribute4": "74",
+    "Attribute5": "57",
+    "Attribute6": "71",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

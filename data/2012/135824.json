@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jorge",
+    "LastName": "López Marco",
+    "CommonName": "Tote",
+    "Height": "177",
+    "DateOfBirth": {
+      "Year": "1978",
+      "Month": "11",
+      "Day": "23"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "100879",
+    "LeagueId": "54",
+    "NationId": "45",
+    "Rating": "70",
+    "Attribute1": "60",
+    "Attribute2": "67",
+    "Attribute3": "62",
+    "Attribute4": "84",
+    "Attribute5": "46",
+    "Attribute6": "49",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

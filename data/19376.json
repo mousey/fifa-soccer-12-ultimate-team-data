@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Wade",
+    "LastName": "Elliott",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1978",
+      "Month": "12",
+      "Day": "14"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "88",
+    "LeagueId": "14",
+    "NationId": "14",
+    "Rating": "69",
+    "Attribute1": "67",
+    "Attribute2": "60",
+    "Attribute3": "72",
+    "Attribute4": "70",
+    "Attribute5": "54",
+    "Attribute6": "57",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

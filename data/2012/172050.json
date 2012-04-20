@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Baptiste",
+    "LastName": "Martin",
+    "CommonName": null,
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "5",
+      "Day": "14"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "100081",
+    "LeagueId": "4",
+    "NationId": "18",
+    "Rating": "64",
+    "Attribute1": "55",
+    "Attribute2": "39",
+    "Attribute3": "60",
+    "Attribute4": "54",
+    "Attribute5": "68",
+    "Attribute6": "61",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

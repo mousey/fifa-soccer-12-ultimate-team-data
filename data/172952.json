@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Toumani",
+    "LastName": "Diagouraga",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "6",
+      "Day": "9"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1925",
+    "LeagueId": "60",
+    "NationId": "18",
+    "Rating": "60",
+    "Attribute1": "72",
+    "Attribute2": "44",
+    "Attribute3": "56",
+    "Attribute4": "61",
+    "Attribute5": "54",
+    "Attribute6": "53",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

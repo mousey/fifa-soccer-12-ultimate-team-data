@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Kyung Ho",
+    "LastName": "Chung",
+    "CommonName": "Chung Kyung Ho",
+    "Height": "179",
+    "DateOfBirth": {
+      "Year": "1980",
+      "Month": "5",
+      "Day": "22"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "112115",
+    "LeagueId": "83",
+    "NationId": "167",
+    "Rating": "61",
+    "Attribute1": "60",
+    "Attribute2": "60",
+    "Attribute3": "60",
+    "Attribute4": "66",
+    "Attribute5": "52",
+    "Attribute6": "59",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Paul",
+    "LastName": "Robinson",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1978",
+      "Month": "12",
+      "Day": "14"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "4",
+    "LeagueId": "13",
+    "NationId": "14",
+    "Rating": "72",
+    "Attribute1": "53",
+    "Attribute2": "47",
+    "Attribute3": "68",
+    "Attribute4": "57",
+    "Attribute5": "75",
+    "Attribute6": "72",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

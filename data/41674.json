@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Sylvain",
+    "LastName": "Armand",
+    "CommonName": null,
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1980",
+      "Month": "8",
+      "Day": "1"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "73",
+    "LeagueId": "16",
+    "NationId": "18",
+    "Rating": "74",
+    "Attribute1": "65",
+    "Attribute2": "60",
+    "Attribute3": "74",
+    "Attribute4": "69",
+    "Attribute5": "75",
+    "Attribute6": "71",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

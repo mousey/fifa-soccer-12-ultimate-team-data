@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Florent",
+    "LastName": "Sinama-Pongolle",
+    "CommonName": null,
+    "Height": "176",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "10",
+      "Day": "20"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1819",
+    "LeagueId": "16",
+    "NationId": "18",
+    "Rating": "72",
+    "Attribute1": "81",
+    "Attribute2": "69",
+    "Attribute3": "59",
+    "Attribute4": "70",
+    "Attribute5": "49",
+    "Attribute6": "64",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

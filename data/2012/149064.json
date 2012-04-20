@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Cristian",
+    "LastName": "Molinaro",
+    "CommonName": null,
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "7",
+      "Day": "30"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "36",
+    "LeagueId": "19",
+    "NationId": "27",
+    "Rating": "73",
+    "Attribute1": "83",
+    "Attribute2": "58",
+    "Attribute3": "72",
+    "Attribute4": "74",
+    "Attribute5": "73",
+    "Attribute6": "64",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

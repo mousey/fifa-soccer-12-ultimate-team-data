@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Andy",
+    "LastName": "Rafferty",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "5",
+      "Day": "22"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1941",
+    "LeagueId": "60",
+    "NationId": "14",
+    "Rating": "49",
+    "Attribute1": "54",
+    "Attribute2": "42",
+    "Attribute3": "49",
+    "Attribute4": "62",
+    "Attribute5": "26",
+    "Attribute6": "44",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

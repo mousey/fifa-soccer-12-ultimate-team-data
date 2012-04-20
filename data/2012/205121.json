@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Carlos Wilson",
+    "LastName": "Carchiote Da Rocha",
+    "CommonName": "Rudy",
+    "Height": "187",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "1",
+      "Day": "5"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1750",
+    "LeagueId": "4",
+    "NationId": "38",
+    "Rating": "69",
+    "Attribute1": "90",
+    "Attribute2": "65",
+    "Attribute3": "59",
+    "Attribute4": "74",
+    "Attribute5": "55",
+    "Attribute6": "51",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Josué",
+    "LastName": "Balamandji",
+    "CommonName": null,
+    "Height": "170",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "8",
+      "Day": "9"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "379",
+    "LeagueId": "17",
+    "NationId": "105",
+    "Rating": "60",
+    "Attribute1": "78",
+    "Attribute2": "59",
+    "Attribute3": "48",
+    "Attribute4": "63",
+    "Attribute5": "39",
+    "Attribute6": "34",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

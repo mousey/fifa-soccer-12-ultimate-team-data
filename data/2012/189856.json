@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Markus",
+    "LastName": "Felfernig",
+    "CommonName": null,
+    "Height": "172",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "6",
+      "Day": "18"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "15011",
+    "LeagueId": "80",
+    "NationId": "4",
+    "Rating": "63",
+    "Attribute1": "85",
+    "Attribute2": "55",
+    "Attribute3": "58",
+    "Attribute4": "63",
+    "Attribute5": "39",
+    "Attribute6": "56",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

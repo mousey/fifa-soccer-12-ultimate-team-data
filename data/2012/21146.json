@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Michael",
+    "LastName": "Carrick",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "7",
+      "Day": "28"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "11",
+    "LeagueId": "13",
+    "NationId": "14",
+    "Rating": "82",
+    "Attribute1": "64",
+    "Attribute2": "72",
+    "Attribute3": "83",
+    "Attribute4": "73",
+    "Attribute5": "78",
+    "Attribute6": "73",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

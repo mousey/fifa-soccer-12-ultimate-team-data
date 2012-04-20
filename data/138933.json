@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Bryan",
+    "LastName": "Bergougnoux",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "1",
+      "Day": "12"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "347",
+    "LeagueId": "31",
+    "NationId": "18",
+    "Rating": "71",
+    "Attribute1": "67",
+    "Attribute2": "64",
+    "Attribute3": "63",
+    "Attribute4": "74",
+    "Attribute5": "51",
+    "Attribute6": "52",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

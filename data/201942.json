@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Roberto Firmino",
+    "LastName": "Barbosa de Oliveira",
+    "CommonName": "Roberto Firmino",
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "10",
+      "Day": "2"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "10029",
+    "LeagueId": "19",
+    "NationId": "54",
+    "Rating": "75",
+    "Attribute1": "74",
+    "Attribute2": "70",
+    "Attribute3": "71",
+    "Attribute4": "79",
+    "Attribute5": "48",
+    "Attribute6": "72",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

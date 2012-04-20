@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Michael",
+    "LastName": "Parensen",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "7",
+      "Day": "24"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1831",
+    "LeagueId": "20",
+    "NationId": "21",
+    "Rating": "67",
+    "Attribute1": "72",
+    "Attribute2": "54",
+    "Attribute3": "65",
+    "Attribute4": "65",
+    "Attribute5": "65",
+    "Attribute6": "63",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

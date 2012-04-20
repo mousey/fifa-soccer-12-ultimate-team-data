@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Henri",
+    "LastName": "Eninful",
+    "CommonName": null,
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1992",
+      "Month": "7",
+      "Day": "21"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "232",
+    "LeagueId": "4",
+    "NationId": "144",
+    "Rating": "59",
+    "Attribute1": "67",
+    "Attribute2": "50",
+    "Attribute3": "60",
+    "Attribute4": "59",
+    "Attribute5": "60",
+    "Attribute6": "62",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

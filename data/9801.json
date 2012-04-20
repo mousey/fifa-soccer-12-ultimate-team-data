@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Danijel",
+    "LastName": "Ljuboja",
+    "CommonName": null,
+    "Height": "189",
+    "DateOfBirth": {
+      "Year": "1978",
+      "Month": "9",
+      "Day": "4"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1871",
+    "LeagueId": "66",
+    "NationId": "51",
+    "Rating": "73",
+    "Attribute1": "62",
+    "Attribute2": "73",
+    "Attribute3": "64",
+    "Attribute4": "74",
+    "Attribute5": "56",
+    "Attribute6": "68",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

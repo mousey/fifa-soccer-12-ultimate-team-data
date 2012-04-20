@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Diego",
+    "LastName": "Rivero",
+    "CommonName": null,
+    "Height": "166",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "8",
+      "Day": "11"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1877",
+    "LeagueId": "353",
+    "NationId": "52",
+    "Rating": "68",
+    "Attribute1": "70",
+    "Attribute2": "56",
+    "Attribute3": "73",
+    "Attribute4": "67",
+    "Attribute5": "55",
+    "Attribute6": "57",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

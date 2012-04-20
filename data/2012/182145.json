@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Martí",
+    "LastName": "Crespí Pascual",
+    "CommonName": "Crespí",
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "6",
+      "Day": "15"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "453",
+    "LeagueId": "53",
+    "NationId": "45",
+    "Rating": "67",
+    "Attribute1": "57",
+    "Attribute2": "44",
+    "Attribute3": "58",
+    "Attribute4": "52",
+    "Attribute5": "67",
+    "Attribute6": "68",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

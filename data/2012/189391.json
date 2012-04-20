@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Juan Antonio",
+    "LastName": "González Fernández",
+    "CommonName": "Juanan",
+    "Height": "192",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "4",
+      "Day": "27"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "110636",
+    "LeagueId": "20",
+    "NationId": "45",
+    "Rating": "64",
+    "Attribute1": "53",
+    "Attribute2": "34",
+    "Attribute3": "54",
+    "Attribute4": "45",
+    "Attribute5": "71",
+    "Attribute6": "56",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

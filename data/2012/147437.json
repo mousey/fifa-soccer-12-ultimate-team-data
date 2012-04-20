@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Andrey",
+    "LastName": "Tikhonov",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1970",
+      "Month": "10",
+      "Day": "16"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "100767",
+    "LeagueId": "67",
+    "NationId": "40",
+    "Rating": "70",
+    "Attribute1": "51",
+    "Attribute2": "72",
+    "Attribute3": "74",
+    "Attribute4": "73",
+    "Attribute5": "56",
+    "Attribute6": "60",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

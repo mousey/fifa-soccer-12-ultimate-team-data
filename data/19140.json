@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Paddy",
+    "LastName": "Kenny",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1978",
+      "Month": "5",
+      "Day": "17"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "15",
+    "LeagueId": "13",
+    "NationId": "25",
+    "Rating": "73",
+    "Attribute1": "69",
+    "Attribute2": "72",
+    "Attribute3": "73",
+    "Attribute4": "76",
+    "Attribute5": "60",
+    "Attribute6": "75",
+    "Rare": "1",
+    "ItemType": "PlayerGk"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Diogo",
+    "LastName": "Ferreira Salomão",
+    "CommonName": "Salomão",
+    "Height": "176",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "9",
+      "Day": "14"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "242",
+    "LeagueId": "54",
+    "NationId": "38",
+    "Rating": "70",
+    "Attribute1": "82",
+    "Attribute2": "61",
+    "Attribute3": "62",
+    "Attribute4": "76",
+    "Attribute5": "50",
+    "Attribute6": "61",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

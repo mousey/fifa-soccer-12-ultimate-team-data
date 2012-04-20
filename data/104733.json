@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jack",
+    "LastName": "Lester",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1975",
+      "Month": "10",
+      "Day": "8"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1924",
+    "LeagueId": "60",
+    "NationId": "14",
+    "Rating": "64",
+    "Attribute1": "56",
+    "Attribute2": "62",
+    "Attribute3": "36",
+    "Attribute4": "58",
+    "Attribute5": "50",
+    "Attribute6": "71",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Traianos",
+    "LastName": "Dellas",
+    "CommonName": null,
+    "Height": "196",
+    "DateOfBirth": {
+      "Year": "1976",
+      "Month": "1",
+      "Day": "31"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "278",
+    "LeagueId": "63",
+    "NationId": "22",
+    "Rating": "72",
+    "Attribute1": "33",
+    "Attribute2": "49",
+    "Attribute3": "59",
+    "Attribute4": "38",
+    "Attribute5": "77",
+    "Attribute6": "69",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

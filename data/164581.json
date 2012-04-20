@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Marcel",
+    "LastName": "de Jong",
+    "CommonName": null,
+    "Height": "174",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "10",
+      "Day": "15"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "100409",
+    "LeagueId": "19",
+    "NationId": "70",
+    "Rating": "68",
+    "Attribute1": "68",
+    "Attribute2": "50",
+    "Attribute3": "64",
+    "Attribute4": "66",
+    "Attribute5": "67",
+    "Attribute6": "69",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

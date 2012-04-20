@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Adam",
+    "LastName": "Moffat",
+    "CommonName": null,
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "5",
+      "Day": "15"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "698",
+    "LeagueId": "39",
+    "NationId": "42",
+    "Rating": "60",
+    "Attribute1": "65",
+    "Attribute2": "63",
+    "Attribute3": "55",
+    "Attribute4": "62",
+    "Attribute5": "64",
+    "Attribute6": "66",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jae Kwon",
+    "LastName": "Lee",
+    "CommonName": "Lee Jae Kwon",
+    "Height": "176",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "7",
+      "Day": "30"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110765",
+    "LeagueId": "83",
+    "NationId": "167",
+    "Rating": "61",
+    "Attribute1": "71",
+    "Attribute2": "46",
+    "Attribute3": "64",
+    "Attribute4": "65",
+    "Attribute5": "63",
+    "Attribute6": "64",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Sebastian",
+    "LastName": "Miranda",
+    "CommonName": null,
+    "Height": "173",
+    "DateOfBirth": {
+      "Year": "1980",
+      "Month": "6",
+      "Day": "26"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "687",
+    "LeagueId": "39",
+    "NationId": "55",
+    "Rating": "65",
+    "Attribute1": "58",
+    "Attribute2": "53",
+    "Attribute3": "62",
+    "Attribute4": "61",
+    "Attribute5": "67",
+    "Attribute6": "65",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

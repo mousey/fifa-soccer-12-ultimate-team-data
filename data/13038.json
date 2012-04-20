@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Carles",
+    "LastName": "Puyol Saforcada",
+    "CommonName": "Puyol",
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1978",
+      "Month": "4",
+      "Day": "13"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "241",
+    "LeagueId": "53",
+    "NationId": "45",
+    "Rating": "86",
+    "Attribute1": "59",
+    "Attribute2": "50",
+    "Attribute3": "65",
+    "Attribute4": "56",
+    "Attribute5": "88",
+    "Attribute6": "84",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

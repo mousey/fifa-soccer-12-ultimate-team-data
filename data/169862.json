@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Freddy",
+    "LastName": "Eastwood",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "10",
+      "Day": "29"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1800",
+    "LeagueId": "14",
+    "NationId": "50",
+    "Rating": "66",
+    "Attribute1": "74",
+    "Attribute2": "68",
+    "Attribute3": "51",
+    "Attribute4": "67",
+    "Attribute5": "51",
+    "Attribute6": "54",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

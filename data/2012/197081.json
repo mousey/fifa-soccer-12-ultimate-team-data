@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Adrien",
+    "LastName": "Regattin",
+    "CommonName": null,
+    "Height": "166",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "8",
+      "Day": "22"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1809",
+    "LeagueId": "16",
+    "NationId": "18",
+    "Rating": "65",
+    "Attribute1": "77",
+    "Attribute2": "58",
+    "Attribute3": "61",
+    "Attribute4": "73",
+    "Attribute5": "55",
+    "Attribute6": "46",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

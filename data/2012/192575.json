@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Emmanuel",
+    "LastName": "Agyemang-Badu",
+    "CommonName": null,
+    "Height": "173",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "12",
+      "Day": "2"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "55",
+    "LeagueId": "31",
+    "NationId": "117",
+    "Rating": "72",
+    "Attribute1": "80",
+    "Attribute2": "62",
+    "Attribute3": "74",
+    "Attribute4": "71",
+    "Attribute5": "69",
+    "Attribute6": "69",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

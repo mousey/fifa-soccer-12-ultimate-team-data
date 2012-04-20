@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Tim",
+    "LastName": "Smolders",
+    "CommonName": null,
+    "Height": "191",
+    "DateOfBirth": {
+      "Year": "1980",
+      "Month": "8",
+      "Day": "26"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "674",
+    "LeagueId": "4",
+    "NationId": "7",
+    "Rating": "68",
+    "Attribute1": "37",
+    "Attribute2": "68",
+    "Attribute3": "68",
+    "Attribute4": "62",
+    "Attribute5": "67",
+    "Attribute6": "63",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

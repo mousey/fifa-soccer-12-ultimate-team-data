@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "John Anthony",
+    "LastName": "Brooks",
+    "CommonName": null,
+    "Height": "193",
+    "DateOfBirth": {
+      "Year": "1993",
+      "Month": "1",
+      "Day": "28"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "166",
+    "LeagueId": "19",
+    "NationId": "95",
+    "Rating": "62",
+    "Attribute1": "64",
+    "Attribute2": "41",
+    "Attribute3": "48",
+    "Attribute4": "39",
+    "Attribute5": "63",
+    "Attribute6": "53",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

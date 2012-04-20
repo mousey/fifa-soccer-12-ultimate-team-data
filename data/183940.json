@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Vurnon",
+    "LastName": "Anita",
+    "CommonName": null,
+    "Height": "167",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "4",
+      "Day": "4"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "245",
+    "LeagueId": "10",
+    "NationId": "34",
+    "Rating": "73",
+    "Attribute1": "84",
+    "Attribute2": "52",
+    "Attribute3": "67",
+    "Attribute4": "71",
+    "Attribute5": "71",
+    "Attribute6": "62",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

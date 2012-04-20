@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Gregory",
+    "LastName": "van der Wiel",
+    "CommonName": null,
+    "Height": "181",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "2",
+      "Day": "3"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "245",
+    "LeagueId": "10",
+    "NationId": "34",
+    "Rating": "78",
+    "Attribute1": "85",
+    "Attribute2": "62",
+    "Attribute3": "70",
+    "Attribute4": "74",
+    "Attribute5": "74",
+    "Attribute6": "73",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

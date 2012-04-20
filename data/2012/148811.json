@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Tim",
+    "LastName": "Gilissen",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "6",
+      "Day": "4"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1904",
+    "LeagueId": "10",
+    "NationId": "34",
+    "Rating": "67",
+    "Attribute1": "66",
+    "Attribute2": "47",
+    "Attribute3": "68",
+    "Attribute4": "68",
+    "Attribute5": "64",
+    "Attribute6": "59",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

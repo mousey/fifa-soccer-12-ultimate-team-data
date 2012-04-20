@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Federico",
+    "LastName": "Marchetti",
+    "CommonName": null,
+    "Height": "190",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "2",
+      "Day": "7"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "46",
+    "LeagueId": "31",
+    "NationId": "27",
+    "Rating": "79",
+    "Attribute1": "80",
+    "Attribute2": "78",
+    "Attribute3": "64",
+    "Attribute4": "84",
+    "Attribute5": "37",
+    "Attribute6": "76",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

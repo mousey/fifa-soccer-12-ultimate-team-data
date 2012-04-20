@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Carlos",
+    "LastName": "Lázaro Vallejo",
+    "CommonName": "Lázaro",
+    "Height": "179",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "11",
+      "Day": "13"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "462",
+    "LeagueId": "54",
+    "NationId": "45",
+    "Rating": "62",
+    "Attribute1": "63",
+    "Attribute2": "54",
+    "Attribute3": "60",
+    "Attribute4": "58",
+    "Attribute5": "58",
+    "Attribute6": "62",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

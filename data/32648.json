@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Julien",
+    "LastName": "Rodriguez",
+    "CommonName": null,
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1978",
+      "Month": "6",
+      "Day": "11"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "219",
+    "LeagueId": "16",
+    "NationId": "18",
+    "Rating": "54",
+    "Attribute1": "33",
+    "Attribute2": "31",
+    "Attribute3": "39",
+    "Attribute4": "37",
+    "Attribute5": "52",
+    "Attribute6": "48",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

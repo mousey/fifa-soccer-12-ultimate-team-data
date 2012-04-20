@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Marcos Roberto",
+    "LastName": "Silveira Reis",
+    "CommonName": "Marcos",
+    "Height": "193",
+    "DateOfBirth": {
+      "Year": "1973",
+      "Month": "8",
+      "Day": "4"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "383",
+    "LeagueId": "7",
+    "NationId": "54",
+    "Rating": "76",
+    "Attribute1": "83",
+    "Attribute2": "77",
+    "Attribute3": "65",
+    "Attribute4": "64",
+    "Attribute5": "34",
+    "Attribute6": "91",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

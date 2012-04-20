@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Mathieu",
+    "LastName": "Bodmer",
+    "CommonName": null,
+    "Height": "190",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "11",
+      "Day": "22"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "73",
+    "LeagueId": "16",
+    "NationId": "18",
+    "Rating": "80",
+    "Attribute1": "66",
+    "Attribute2": "75",
+    "Attribute3": "80",
+    "Attribute4": "74",
+    "Attribute5": "77",
+    "Attribute6": "81",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

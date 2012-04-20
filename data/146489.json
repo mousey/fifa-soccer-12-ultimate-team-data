@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Iban",
+    "LastName": "Zubiaurre Urrutia",
+    "CommonName": "Zubiaurre",
+    "Height": "177",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "1",
+      "Day": "22"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "448",
+    "LeagueId": "53",
+    "NationId": "45",
+    "Rating": "62",
+    "Attribute1": "67",
+    "Attribute2": "45",
+    "Attribute3": "63",
+    "Attribute4": "61",
+    "Attribute5": "63",
+    "Attribute6": "61",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

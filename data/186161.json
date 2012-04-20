@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Gilles",
+    "LastName": "Sunu",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "3",
+      "Day": "30"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "217",
+    "LeagueId": "16",
+    "NationId": "18",
+    "Rating": "64",
+    "Attribute1": "78",
+    "Attribute2": "58",
+    "Attribute3": "50",
+    "Attribute4": "71",
+    "Attribute5": "44",
+    "Attribute6": "56",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

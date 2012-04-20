@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Freddy",
+    "LastName": "Guarín",
+    "CommonName": null,
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "6",
+      "Day": "30"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "236",
+    "LeagueId": "308",
+    "NationId": "56",
+    "Rating": "80",
+    "Attribute1": "75",
+    "Attribute2": "81",
+    "Attribute3": "81",
+    "Attribute4": "79",
+    "Attribute5": "80",
+    "Attribute6": "76",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

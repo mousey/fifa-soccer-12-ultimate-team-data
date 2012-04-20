@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Héctor Miguel",
+    "LastName": "Morales",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "5",
+      "Day": "3"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1032",
+    "LeagueId": "341",
+    "NationId": "83",
+    "Rating": "66",
+    "Attribute1": "53",
+    "Attribute2": "50",
+    "Attribute3": "59",
+    "Attribute4": "53",
+    "Attribute5": "68",
+    "Attribute6": "65",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Joleon",
+    "LastName": "Lescott",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "8",
+      "Day": "16"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "10",
+    "LeagueId": "13",
+    "NationId": "14",
+    "Rating": "80",
+    "Attribute1": "67",
+    "Attribute2": "51",
+    "Attribute3": "69",
+    "Attribute4": "59",
+    "Attribute5": "82",
+    "Attribute6": "84",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

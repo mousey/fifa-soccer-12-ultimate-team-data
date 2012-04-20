@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jan",
+    "LastName": "Holenda",
+    "CommonName": null,
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "8",
+      "Day": "22"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "100766",
+    "LeagueId": "67",
+    "NationId": "12",
+    "Rating": "68",
+    "Attribute1": "59",
+    "Attribute2": "64",
+    "Attribute3": "52",
+    "Attribute4": "62",
+    "Attribute5": "60",
+    "Attribute6": "74",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

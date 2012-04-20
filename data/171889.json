@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Daryl",
+    "LastName": "Kavanagh",
+    "CommonName": null,
+    "Height": "173",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "2",
+      "Day": "1"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "423",
+    "LeagueId": "65",
+    "NationId": "25",
+    "Rating": "57",
+    "Attribute1": "64",
+    "Attribute2": "55",
+    "Attribute3": "56",
+    "Attribute4": "58",
+    "Attribute5": "37",
+    "Attribute6": "65",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

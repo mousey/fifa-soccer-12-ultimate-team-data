@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Tore André",
+    "LastName": "Flo",
+    "CommonName": null,
+    "Height": "193",
+    "DateOfBirth": {
+      "Year": "1973",
+      "Month": "6",
+      "Day": "15"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1465",
+    "LeagueId": "41",
+    "NationId": "36",
+    "Rating": "54",
+    "Attribute1": "34",
+    "Attribute2": "58",
+    "Attribute3": "49",
+    "Attribute4": "61",
+    "Attribute5": "48",
+    "Attribute6": "56",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

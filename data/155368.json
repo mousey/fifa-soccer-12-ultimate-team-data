@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Sun Pil",
+    "LastName": "Hwang",
+    "CommonName": "Hwang Sun Pil",
+    "Height": "181",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "7",
+      "Day": "14"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1475",
+    "LeagueId": "83",
+    "NationId": "167",
+    "Rating": "61",
+    "Attribute1": "64",
+    "Attribute2": "38",
+    "Attribute3": "47",
+    "Attribute4": "51",
+    "Attribute5": "63",
+    "Attribute6": "66",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

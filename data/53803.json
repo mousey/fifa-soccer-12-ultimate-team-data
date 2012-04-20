@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Mark",
+    "LastName": "Wright",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "2",
+      "Day": "24"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "127",
+    "LeagueId": "61",
+    "NationId": "14",
+    "Rating": "62",
+    "Attribute1": "83",
+    "Attribute2": "47",
+    "Attribute3": "58",
+    "Attribute4": "64",
+    "Attribute5": "47",
+    "Attribute6": "49",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

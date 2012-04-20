@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jaime",
+    "LastName": "Lozano",
+    "CommonName": null,
+    "Height": "172",
+    "DateOfBirth": {
+      "Year": "1978",
+      "Month": "9",
+      "Day": "29"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1028",
+    "LeagueId": "341",
+    "NationId": "83",
+    "Rating": "69",
+    "Attribute1": "67",
+    "Attribute2": "66",
+    "Attribute3": "71",
+    "Attribute4": "66",
+    "Attribute5": "69",
+    "Attribute6": "67",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

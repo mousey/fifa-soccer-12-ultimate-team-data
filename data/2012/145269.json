@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Pedro",
+    "LastName": "Ríos Maestre",
+    "CommonName": "Pedro Ríos",
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "12",
+      "Day": "12"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1860",
+    "LeagueId": "53",
+    "NationId": "45",
+    "Rating": "74",
+    "Attribute1": "78",
+    "Attribute2": "72",
+    "Attribute3": "69",
+    "Attribute4": "78",
+    "Attribute5": "50",
+    "Attribute6": "58",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

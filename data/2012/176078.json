@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Nathan",
+    "LastName": "Sturgis",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "7",
+      "Day": "6"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111651",
+    "LeagueId": "39",
+    "NationId": "95",
+    "Rating": "64",
+    "Attribute1": "62",
+    "Attribute2": "62",
+    "Attribute3": "65",
+    "Attribute4": "62",
+    "Attribute5": "64",
+    "Attribute6": "69",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

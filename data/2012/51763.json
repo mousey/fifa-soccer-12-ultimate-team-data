@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Yohan",
+    "LastName": "Hautcœur",
+    "CommonName": null,
+    "Height": "179",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "10",
+      "Day": "30"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "212",
+    "LeagueId": "17",
+    "NationId": "18",
+    "Rating": "64",
+    "Attribute1": "62",
+    "Attribute2": "60",
+    "Attribute3": "69",
+    "Attribute4": "63",
+    "Attribute5": "64",
+    "Attribute6": "65",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

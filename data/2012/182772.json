@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Mickaël",
+    "LastName": "Poté",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "9",
+      "Day": "24"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "503",
+    "LeagueId": "20",
+    "NationId": "99",
+    "Rating": "64",
+    "Attribute1": "77",
+    "Attribute2": "64",
+    "Attribute3": "54",
+    "Attribute4": "59",
+    "Attribute5": "48",
+    "Attribute6": "68",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

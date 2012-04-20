@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Iain",
+    "LastName": "Fyfe",
+    "CommonName": null,
+    "Height": "189",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "4",
+      "Day": "3"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1476",
+    "LeagueId": "83",
+    "NationId": "195",
+    "Rating": "63",
+    "Attribute1": "31",
+    "Attribute2": "45",
+    "Attribute3": "48",
+    "Attribute4": "38",
+    "Attribute5": "69",
+    "Attribute6": "62",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Bobby",
+    "LastName": "Reid",
+    "CommonName": null,
+    "Height": "170",
+    "DateOfBirth": {
+      "Year": "1993",
+      "Month": "2",
+      "Day": "2"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1919",
+    "LeagueId": "14",
+    "NationId": "14",
+    "Rating": "59",
+    "Attribute1": "77",
+    "Attribute2": "57",
+    "Attribute3": "62",
+    "Attribute4": "67",
+    "Attribute5": "47",
+    "Attribute6": "40",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

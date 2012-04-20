@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jens",
+    "LastName": "Janse",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "7",
+      "Day": "1"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1904",
+    "LeagueId": "10",
+    "NationId": "34",
+    "Rating": "64",
+    "Attribute1": "73",
+    "Attribute2": "29",
+    "Attribute3": "66",
+    "Attribute4": "60",
+    "Attribute5": "65",
+    "Attribute6": "57",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Michael",
+    "LastName": "Barrantes",
+    "CommonName": null,
+    "Height": "177",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "10",
+      "Day": "4"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1755",
+    "LeagueId": "41",
+    "NationId": "72",
+    "Rating": "73",
+    "Attribute1": "70",
+    "Attribute2": "71",
+    "Attribute3": "72",
+    "Attribute4": "74",
+    "Attribute5": "65",
+    "Attribute6": "56",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

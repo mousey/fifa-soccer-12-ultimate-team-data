@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Manuel",
+    "LastName": "Schäffler",
+    "CommonName": null,
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "2",
+      "Day": "6"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "33",
+    "LeagueId": "20",
+    "NationId": "21",
+    "Rating": "62",
+    "Attribute1": "70",
+    "Attribute2": "60",
+    "Attribute3": "48",
+    "Attribute4": "64",
+    "Attribute5": "46",
+    "Attribute6": "56",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

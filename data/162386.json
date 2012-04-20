@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "André",
+    "LastName": "Ooijer",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1974",
+      "Month": "7",
+      "Day": "11"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "245",
+    "LeagueId": "10",
+    "NationId": "34",
+    "Rating": "70",
+    "Attribute1": "38",
+    "Attribute2": "43",
+    "Attribute3": "56",
+    "Attribute4": "45",
+    "Attribute5": "73",
+    "Attribute6": "67",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

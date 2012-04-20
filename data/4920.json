@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Yves",
+    "LastName": "Deroff",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1978",
+      "Month": "8",
+      "Day": "29"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1530",
+    "LeagueId": "17",
+    "NationId": "18",
+    "Rating": "56",
+    "Attribute1": "52",
+    "Attribute2": "40",
+    "Attribute3": "55",
+    "Attribute4": "50",
+    "Attribute5": "61",
+    "Attribute6": "63",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

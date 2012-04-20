@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Michael",
+    "LastName": "Kightly",
+    "CommonName": null,
+    "Height": "173",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "1",
+      "Day": "24"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110",
+    "LeagueId": "13",
+    "NationId": "14",
+    "Rating": "72",
+    "Attribute1": "79",
+    "Attribute2": "62",
+    "Attribute3": "69",
+    "Attribute4": "75",
+    "Attribute5": "53",
+    "Attribute6": "58",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

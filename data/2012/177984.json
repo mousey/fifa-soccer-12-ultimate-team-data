@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Thomas",
+    "LastName": "Hinum",
+    "CommonName": null,
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "7",
+      "Day": "24"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "780",
+    "LeagueId": "80",
+    "NationId": "4",
+    "Rating": "64",
+    "Attribute1": "70",
+    "Attribute2": "48",
+    "Attribute3": "59",
+    "Attribute4": "63",
+    "Attribute5": "65",
+    "Attribute6": "66",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

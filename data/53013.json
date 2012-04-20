@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Mike",
+    "LastName": "Hanke",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "11",
+      "Day": "5"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "23",
+    "LeagueId": "19",
+    "NationId": "21",
+    "Rating": "71",
+    "Attribute1": "58",
+    "Attribute2": "68",
+    "Attribute3": "60",
+    "Attribute4": "64",
+    "Attribute5": "54",
+    "Attribute6": "80",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

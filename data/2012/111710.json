@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Guilherme",
+    "LastName": "Afonso",
+    "CommonName": null,
+    "Height": "187",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "11",
+      "Day": "15"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110770",
+    "LeagueId": "189",
+    "NationId": "98",
+    "Rating": "58",
+    "Attribute1": "81",
+    "Attribute2": "55",
+    "Attribute3": "58",
+    "Attribute4": "67",
+    "Attribute5": "45",
+    "Attribute6": "51",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

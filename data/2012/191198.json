@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ivan",
+    "LastName": "Obradović",
+    "CommonName": null,
+    "Height": "181",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "7",
+      "Day": "25"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "244",
+    "LeagueId": "53",
+    "NationId": "51",
+    "Rating": "71",
+    "Attribute1": "77",
+    "Attribute2": "55",
+    "Attribute3": "72",
+    "Attribute4": "69",
+    "Attribute5": "69",
+    "Attribute6": "67",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "James",
+    "LastName": "Poole",
+    "CommonName": null,
+    "Height": "177",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "3",
+      "Day": "20"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1941",
+    "LeagueId": "60",
+    "NationId": "14",
+    "Rating": "61",
+    "Attribute1": "78",
+    "Attribute2": "61",
+    "Attribute3": "41",
+    "Attribute4": "58",
+    "Attribute5": "42",
+    "Attribute6": "60",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

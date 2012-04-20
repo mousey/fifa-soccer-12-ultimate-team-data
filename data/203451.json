@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Markus",
+    "LastName": "Unger",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "11",
+      "Day": "18"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110500",
+    "LeagueId": "20",
+    "NationId": "21",
+    "Rating": "58",
+    "Attribute1": "65",
+    "Attribute2": "58",
+    "Attribute3": "58",
+    "Attribute4": "57",
+    "Attribute5": "57",
+    "Attribute6": "56",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

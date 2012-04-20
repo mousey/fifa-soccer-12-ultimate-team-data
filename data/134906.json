@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Marouane",
+    "LastName": "Chamakh",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "1",
+      "Day": "10"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1",
+    "LeagueId": "13",
+    "NationId": "129",
+    "Rating": "81",
+    "Attribute1": "78",
+    "Attribute2": "77",
+    "Attribute3": "72",
+    "Attribute4": "78",
+    "Attribute5": "66",
+    "Attribute6": "83",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

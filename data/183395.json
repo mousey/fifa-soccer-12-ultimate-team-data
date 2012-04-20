@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Cheikh",
+    "LastName": "M'Bengué",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "7",
+      "Day": "23"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1809",
+    "LeagueId": "16",
+    "NationId": "136",
+    "Rating": "74",
+    "Attribute1": "84",
+    "Attribute2": "37",
+    "Attribute3": "69",
+    "Attribute4": "66",
+    "Attribute5": "75",
+    "Attribute6": "67",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

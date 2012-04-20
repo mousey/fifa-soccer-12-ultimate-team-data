@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "José Eduardo",
+    "LastName": "Bischofe de Almeida",
+    "CommonName": "Zé Eduardo",
+    "Height": "179",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "10",
+      "Day": "29"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110556",
+    "LeagueId": "31",
+    "NationId": "54",
+    "Rating": "76",
+    "Attribute1": "83",
+    "Attribute2": "72",
+    "Attribute3": "67",
+    "Attribute4": "77",
+    "Attribute5": "57",
+    "Attribute6": "67",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

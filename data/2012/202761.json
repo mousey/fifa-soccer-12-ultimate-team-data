@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Chris",
+    "LastName": "Kettings",
+    "CommonName": null,
+    "Height": "191",
+    "DateOfBirth": {
+      "Year": "1992",
+      "Month": "10",
+      "Day": "25"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1926",
+    "LeagueId": "14",
+    "NationId": "14",
+    "Rating": "50",
+    "Attribute1": "54",
+    "Attribute2": "49",
+    "Attribute3": "46",
+    "Attribute4": "54",
+    "Attribute5": "48",
+    "Attribute6": "49",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

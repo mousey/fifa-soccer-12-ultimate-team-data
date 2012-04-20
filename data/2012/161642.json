@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Michael",
+    "LastName": "Symes",
+    "CommonName": null,
+    "Height": "191",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "10",
+      "Day": "31"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1943",
+    "LeagueId": "60",
+    "NationId": "14",
+    "Rating": "60",
+    "Attribute1": "54",
+    "Attribute2": "59",
+    "Attribute3": "41",
+    "Attribute4": "51",
+    "Attribute5": "48",
+    "Attribute6": "59",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

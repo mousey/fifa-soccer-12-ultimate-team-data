@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ole",
+    "LastName": "Springer",
+    "CommonName": null,
+    "Height": "187",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "11",
+      "Day": "29"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110329",
+    "LeagueId": "20",
+    "NationId": "21",
+    "Rating": "55",
+    "Attribute1": "52",
+    "Attribute2": "56",
+    "Attribute3": "51",
+    "Attribute4": "61",
+    "Attribute5": "48",
+    "Attribute6": "51",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

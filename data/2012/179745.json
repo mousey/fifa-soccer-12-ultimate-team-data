@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Danny",
+    "LastName": "Hollands",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "11",
+      "Day": "6"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "89",
+    "LeagueId": "60",
+    "NationId": "14",
+    "Rating": "64",
+    "Attribute1": "64",
+    "Attribute2": "55",
+    "Attribute3": "65",
+    "Attribute4": "56",
+    "Attribute5": "61",
+    "Attribute6": "62",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

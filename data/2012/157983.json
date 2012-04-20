@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Tommy",
+    "LastName": "Smith",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1980",
+      "Month": "5",
+      "Day": "22"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "15",
+    "LeagueId": "13",
+    "NationId": "14",
+    "Rating": "71",
+    "Attribute1": "69",
+    "Attribute2": "69",
+    "Attribute3": "60",
+    "Attribute4": "73",
+    "Attribute5": "51",
+    "Attribute6": "63",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

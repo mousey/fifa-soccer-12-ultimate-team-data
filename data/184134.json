@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Fernando",
+    "LastName": "Reges",
+    "CommonName": "Fernando",
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "7",
+      "Day": "25"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "236",
+    "LeagueId": "308",
+    "NationId": "54",
+    "Rating": "79",
+    "Attribute1": "70",
+    "Attribute2": "53",
+    "Attribute3": "74",
+    "Attribute4": "70",
+    "Attribute5": "80",
+    "Attribute6": "74",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

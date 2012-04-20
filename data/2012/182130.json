@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Krisztián",
+    "LastName": "Németh",
+    "CommonName": null,
+    "Height": "179",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "1",
+      "Day": "5"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "280",
+    "LeagueId": "63",
+    "NationId": "23",
+    "Rating": "69",
+    "Attribute1": "78",
+    "Attribute2": "67",
+    "Attribute3": "53",
+    "Attribute4": "68",
+    "Attribute5": "52",
+    "Attribute6": "66",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

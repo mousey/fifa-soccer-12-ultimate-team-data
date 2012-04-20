@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Cédric",
+    "LastName": "Bakambu",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "4",
+      "Day": "11"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "226",
+    "LeagueId": "16",
+    "NationId": "18",
+    "Rating": "59",
+    "Attribute1": "64",
+    "Attribute2": "56",
+    "Attribute3": "48",
+    "Attribute4": "62",
+    "Attribute5": "39",
+    "Attribute6": "51",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Michaël",
+    "LastName": "Cordier",
+    "CommonName": null,
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "3",
+      "Day": "27"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "229",
+    "LeagueId": "4",
+    "NationId": "7",
+    "Rating": "63",
+    "Attribute1": "65",
+    "Attribute2": "62",
+    "Attribute3": "61",
+    "Attribute4": "69",
+    "Attribute5": "60",
+    "Attribute6": "57",
+    "Rare": "1",
+    "ItemType": "PlayerGk"
+  }
+}

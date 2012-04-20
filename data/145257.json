@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jaime",
+    "LastName": "Jiménez Merlo",
+    "CommonName": "Jaime",
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1980",
+      "Month": "12",
+      "Day": "10"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "462",
+    "LeagueId": "54",
+    "NationId": "45",
+    "Rating": "67",
+    "Attribute1": "66",
+    "Attribute2": "71",
+    "Attribute3": "59",
+    "Attribute4": "69",
+    "Attribute5": "53",
+    "Attribute6": "63",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

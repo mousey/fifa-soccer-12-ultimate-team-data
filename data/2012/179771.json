@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Mike",
+    "LastName": "Banner",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "10",
+      "Day": "20"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "693",
+    "LeagueId": "39",
+    "NationId": "95",
+    "Rating": "63",
+    "Attribute1": "82",
+    "Attribute2": "51",
+    "Attribute3": "54",
+    "Attribute4": "67",
+    "Attribute5": "53",
+    "Attribute6": "48",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Sean",
+    "LastName": "Russell",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1994",
+      "Month": "2",
+      "Day": "1"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "111132",
+    "LeagueId": "65",
+    "NationId": "25",
+    "Rating": "50",
+    "Attribute1": "59",
+    "Attribute2": "50",
+    "Attribute3": "47",
+    "Attribute4": "51",
+    "Attribute5": "47",
+    "Attribute6": "50",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Gervais",
+    "LastName": "Yao Kouassi",
+    "CommonName": "Gervinho",
+    "Height": "179",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "5",
+      "Day": "27"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1",
+    "LeagueId": "13",
+    "NationId": "108",
+    "Rating": "84",
+    "Attribute1": "91",
+    "Attribute2": "76",
+    "Attribute3": "74",
+    "Attribute4": "87",
+    "Attribute5": "61",
+    "Attribute6": "69",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

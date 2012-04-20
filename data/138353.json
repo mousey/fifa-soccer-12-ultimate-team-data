@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Patrick",
+    "LastName": "McCarthy",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "5",
+      "Day": "31"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1799",
+    "LeagueId": "14",
+    "NationId": "25",
+    "Rating": "67",
+    "Attribute1": "65",
+    "Attribute2": "32",
+    "Attribute3": "35",
+    "Attribute4": "36",
+    "Attribute5": "70",
+    "Attribute6": "77",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

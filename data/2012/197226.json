@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Sören",
+    "LastName": "Bertram",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "6",
+      "Day": "5"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "28",
+    "LeagueId": "19",
+    "NationId": "21",
+    "Rating": "63",
+    "Attribute1": "75",
+    "Attribute2": "59",
+    "Attribute3": "61",
+    "Attribute4": "69",
+    "Attribute5": "46",
+    "Attribute6": "53",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

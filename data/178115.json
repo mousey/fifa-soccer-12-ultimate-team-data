@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Lazaros",
+    "LastName": "Christodoulopoulos",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "12",
+      "Day": "19"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1884",
+    "LeagueId": "63",
+    "NationId": "22",
+    "Rating": "73",
+    "Attribute1": "78",
+    "Attribute2": "71",
+    "Attribute3": "72",
+    "Attribute4": "75",
+    "Attribute5": "53",
+    "Attribute6": "61",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

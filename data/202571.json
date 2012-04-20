@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Teddy",
+    "LastName": "Schneider",
+    "CommonName": null,
+    "Height": "168",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "11",
+      "Day": "23"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "689",
+    "LeagueId": "39",
+    "NationId": "95",
+    "Rating": "54",
+    "Attribute1": "69",
+    "Attribute2": "48",
+    "Attribute3": "54",
+    "Attribute4": "44",
+    "Attribute5": "47",
+    "Attribute6": "46",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Geoffrey",
+    "LastName": "Lembet",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "9",
+      "Day": "23"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "613",
+    "LeagueId": "17",
+    "NationId": "105",
+    "Rating": "56",
+    "Attribute1": "56",
+    "Attribute2": "57",
+    "Attribute3": "60",
+    "Attribute4": "61",
+    "Attribute5": "39",
+    "Attribute6": "52",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Richard",
+    "LastName": "Wood",
+    "CommonName": null,
+    "Height": "191",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "7",
+      "Day": "5"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1800",
+    "LeagueId": "14",
+    "NationId": "14",
+    "Rating": "66",
+    "Attribute1": "69",
+    "Attribute2": "31",
+    "Attribute3": "44",
+    "Attribute4": "40",
+    "Attribute5": "70",
+    "Attribute6": "76",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Damián",
+    "LastName": "Álvarez",
+    "CommonName": null,
+    "Height": "165",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "5",
+      "Day": "21"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1970",
+    "LeagueId": "341",
+    "NationId": "52",
+    "Rating": "73",
+    "Attribute1": "85",
+    "Attribute2": "66",
+    "Attribute3": "70",
+    "Attribute4": "76",
+    "Attribute5": "48",
+    "Attribute6": "50",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

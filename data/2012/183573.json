@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Norman",
+    "LastName": "Theuerkauf",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "1",
+      "Day": "24"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "110500",
+    "LeagueId": "20",
+    "NationId": "21",
+    "Rating": "65",
+    "Attribute1": "68",
+    "Attribute2": "60",
+    "Attribute3": "67",
+    "Attribute4": "63",
+    "Attribute5": "67",
+    "Attribute6": "64",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

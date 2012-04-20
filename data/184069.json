@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Sandro",
+    "LastName": "Wagner",
+    "CommonName": null,
+    "Height": "194",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "11",
+      "Day": "29"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "38",
+    "LeagueId": "19",
+    "NationId": "21",
+    "Rating": "71",
+    "Attribute1": "65",
+    "Attribute2": "74",
+    "Attribute3": "50",
+    "Attribute4": "62",
+    "Attribute5": "61",
+    "Attribute6": "68",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ricardo Alberto",
+    "LastName": "Silv. de Carvalho",
+    "CommonName": "Ricardo Carvalho",
+    "Height": "181",
+    "DateOfBirth": {
+      "Year": "1978",
+      "Month": "5",
+      "Day": "18"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "243",
+    "LeagueId": "53",
+    "NationId": "38",
+    "Rating": "84",
+    "Attribute1": "58",
+    "Attribute2": "46",
+    "Attribute3": "62",
+    "Attribute4": "54",
+    "Attribute5": "81",
+    "Attribute6": "81",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

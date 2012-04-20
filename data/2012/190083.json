@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Antonios",
+    "LastName": "Rikka",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "3",
+      "Day": "3"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "278",
+    "LeagueId": "63",
+    "NationId": "22",
+    "Rating": "62",
+    "Attribute1": "63",
+    "Attribute2": "55",
+    "Attribute3": "63",
+    "Attribute4": "69",
+    "Attribute5": "65",
+    "Attribute6": "66",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

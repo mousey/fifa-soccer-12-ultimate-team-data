@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Michael",
+    "LastName": "McCrudden",
+    "CommonName": null,
+    "Height": "177",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "7",
+      "Day": "31"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "445",
+    "LeagueId": "65",
+    "NationId": "35",
+    "Rating": "48",
+    "Attribute1": "54",
+    "Attribute2": "49",
+    "Attribute3": "50",
+    "Attribute4": "52",
+    "Attribute5": "33",
+    "Attribute6": "48",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

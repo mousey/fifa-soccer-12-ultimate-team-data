@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ryad",
+    "LastName": "Boudebouz",
+    "CommonName": null,
+    "Height": "177",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "2",
+      "Day": "19"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "226",
+    "LeagueId": "16",
+    "NationId": "97",
+    "Rating": "75",
+    "Attribute1": "81",
+    "Attribute2": "72",
+    "Attribute3": "71",
+    "Attribute4": "84",
+    "Attribute5": "45",
+    "Attribute6": "46",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

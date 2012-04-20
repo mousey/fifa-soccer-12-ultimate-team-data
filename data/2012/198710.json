@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "James",
+    "LastName": "Rodríguez",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "7",
+      "Day": "12"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "236",
+    "LeagueId": "308",
+    "NationId": "56",
+    "Rating": "79",
+    "Attribute1": "76",
+    "Attribute2": "75",
+    "Attribute3": "75",
+    "Attribute4": "82",
+    "Attribute5": "55",
+    "Attribute6": "64",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

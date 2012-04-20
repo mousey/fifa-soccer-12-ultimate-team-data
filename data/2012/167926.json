@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Anthony",
+    "LastName": "Grant",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "6",
+      "Day": "4"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1954",
+    "LeagueId": "61",
+    "NationId": "14",
+    "Rating": "63",
+    "Attribute1": "73",
+    "Attribute2": "61",
+    "Attribute3": "59",
+    "Attribute4": "62",
+    "Attribute5": "68",
+    "Attribute6": "66",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ji No",
+    "LastName": "Yu",
+    "CommonName": "Yu Ji No",
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "11",
+      "Day": "6"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1475",
+    "LeagueId": "83",
+    "NationId": "167",
+    "Rating": "58",
+    "Attribute1": "71",
+    "Attribute2": "38",
+    "Attribute3": "54",
+    "Attribute4": "59",
+    "Attribute5": "47",
+    "Attribute6": "53",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Stef",
+    "LastName": "Wils",
+    "CommonName": null,
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "8",
+      "Day": "2"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "681",
+    "LeagueId": "4",
+    "NationId": "7",
+    "Rating": "69",
+    "Attribute1": "58",
+    "Attribute2": "49",
+    "Attribute3": "58",
+    "Attribute4": "55",
+    "Attribute5": "70",
+    "Attribute6": "75",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

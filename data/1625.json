@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Thierry",
+    "LastName": "Henry",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1977",
+      "Month": "8",
+      "Day": "17"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "689",
+    "LeagueId": "39",
+    "NationId": "18",
+    "Rating": "80",
+    "Attribute1": "82",
+    "Attribute2": "80",
+    "Attribute3": "67",
+    "Attribute4": "85",
+    "Attribute5": "51",
+    "Attribute6": "64",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

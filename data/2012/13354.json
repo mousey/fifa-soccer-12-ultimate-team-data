@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Alan",
+    "LastName": "Maybury",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1978",
+      "Month": "8",
+      "Day": "8"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "100804",
+    "LeagueId": "50",
+    "NationId": "25",
+    "Rating": "61",
+    "Attribute1": "64",
+    "Attribute2": "35",
+    "Attribute3": "58",
+    "Attribute4": "54",
+    "Attribute5": "68",
+    "Attribute6": "68",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

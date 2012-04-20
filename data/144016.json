@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Yassin",
+    "LastName": "Mikari",
+    "CommonName": null,
+    "Height": "172",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "1",
+      "Day": "9"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "226",
+    "LeagueId": "16",
+    "NationId": "145",
+    "Rating": "72",
+    "Attribute1": "82",
+    "Attribute2": "55",
+    "Attribute3": "71",
+    "Attribute4": "69",
+    "Attribute5": "68",
+    "Attribute6": "59",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

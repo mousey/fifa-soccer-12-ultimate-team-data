@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Luiz Gustavo",
+    "LastName": "Dias",
+    "CommonName": "Luiz Gustavo",
+    "Height": "187",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "7",
+      "Day": "23"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "21",
+    "LeagueId": "19",
+    "NationId": "54",
+    "Rating": "79",
+    "Attribute1": "75",
+    "Attribute2": "56",
+    "Attribute3": "74",
+    "Attribute4": "76",
+    "Attribute5": "80",
+    "Attribute6": "75",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

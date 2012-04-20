@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Steven",
+    "LastName": "Saunders",
+    "CommonName": null,
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "2",
+      "Day": "23"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "83",
+    "LeagueId": "50",
+    "NationId": "42",
+    "Rating": "65",
+    "Attribute1": "72",
+    "Attribute2": "21",
+    "Attribute3": "43",
+    "Attribute4": "61",
+    "Attribute5": "68",
+    "Attribute6": "71",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

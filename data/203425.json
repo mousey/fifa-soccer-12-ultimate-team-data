@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Terry",
+    "LastName": "Kennedy",
+    "CommonName": null,
+    "Height": "189",
+    "DateOfBirth": {
+      "Year": "1993",
+      "Month": "11",
+      "Day": "14"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1794",
+    "LeagueId": "60",
+    "NationId": "14",
+    "Rating": "53",
+    "Attribute1": "51",
+    "Attribute2": "27",
+    "Attribute3": "28",
+    "Attribute4": "30",
+    "Attribute5": "53",
+    "Attribute6": "65",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

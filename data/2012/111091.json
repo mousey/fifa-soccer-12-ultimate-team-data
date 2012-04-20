@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "David",
+    "LastName": "Pérez Arteaga",
+    "CommonName": "Arteaga",
+    "Height": "167",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "12",
+      "Day": "1"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "15021",
+    "LeagueId": "54",
+    "NationId": "45",
+    "Rating": "65",
+    "Attribute1": "76",
+    "Attribute2": "56",
+    "Attribute3": "61",
+    "Attribute4": "63",
+    "Attribute5": "47",
+    "Attribute6": "48",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

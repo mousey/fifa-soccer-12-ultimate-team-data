@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Nick",
+    "LastName": "Ward",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "3",
+      "Day": "24"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111766",
+    "LeagueId": "351",
+    "NationId": "195",
+    "Rating": "60",
+    "Attribute1": "68",
+    "Attribute2": "59",
+    "Attribute3": "56",
+    "Attribute4": "59",
+    "Attribute5": "50",
+    "Attribute6": "49",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

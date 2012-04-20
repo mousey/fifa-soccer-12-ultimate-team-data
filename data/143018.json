@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Germán",
+    "LastName": "Herrera",
+    "CommonName": null,
+    "Height": "181",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "7",
+      "Day": "19"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "517",
+    "LeagueId": "7",
+    "NationId": "52",
+    "Rating": "73",
+    "Attribute1": "77",
+    "Attribute2": "67",
+    "Attribute3": "57",
+    "Attribute4": "70",
+    "Attribute5": "61",
+    "Attribute6": "78",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

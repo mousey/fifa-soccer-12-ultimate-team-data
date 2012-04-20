@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Sebastien",
+    "LastName": "Frey",
+    "CommonName": null,
+    "Height": "189",
+    "DateOfBirth": {
+      "Year": "1980",
+      "Month": "3",
+      "Day": "18"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110556",
+    "LeagueId": "31",
+    "NationId": "18",
+    "Rating": "80",
+    "Attribute1": "79",
+    "Attribute2": "78",
+    "Attribute3": "70",
+    "Attribute4": "84",
+    "Attribute5": "50",
+    "Attribute6": "81",
+    "Rare": "1",
+    "ItemType": "PlayerGk"
+  }
+}

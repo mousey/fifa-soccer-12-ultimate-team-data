@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Adam",
+    "LastName": "Henley",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1994",
+      "Month": "6",
+      "Day": "14"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "3",
+    "LeagueId": "13",
+    "NationId": "50",
+    "Rating": "64",
+    "Attribute1": "64",
+    "Attribute2": "34",
+    "Attribute3": "60",
+    "Attribute4": "55",
+    "Attribute5": "67",
+    "Attribute6": "61",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

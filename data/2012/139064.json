@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Leonardo",
+    "LastName": "Ponzio",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "1",
+      "Day": "29"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "244",
+    "LeagueId": "53",
+    "NationId": "52",
+    "Rating": "74",
+    "Attribute1": "69",
+    "Attribute2": "63",
+    "Attribute3": "63",
+    "Attribute4": "66",
+    "Attribute5": "75",
+    "Attribute6": "62",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

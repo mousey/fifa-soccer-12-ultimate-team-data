@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Mickael Akim",
+    "LastName": "Orinel",
+    "CommonName": null,
+    "Height": "172",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "7",
+      "Day": "27"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "212",
+    "LeagueId": "17",
+    "NationId": "18",
+    "Rating": "60",
+    "Attribute1": "70",
+    "Attribute2": "45",
+    "Attribute3": "54",
+    "Attribute4": "65",
+    "Attribute5": "38",
+    "Attribute6": "37",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Masoud",
+    "LastName": "Shojaei",
+    "CommonName": null,
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "6",
+      "Day": "9"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "479",
+    "LeagueId": "53",
+    "NationId": "161",
+    "Rating": "74",
+    "Attribute1": "67",
+    "Attribute2": "73",
+    "Attribute3": "73",
+    "Attribute4": "88",
+    "Attribute5": "47",
+    "Attribute6": "53",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

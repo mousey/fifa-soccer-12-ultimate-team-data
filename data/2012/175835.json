@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Hassan",
+    "LastName": "El Mouataz",
+    "CommonName": null,
+    "Height": "179",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "9",
+      "Day": "21"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "2007",
+    "LeagueId": "4",
+    "NationId": "129",
+    "Rating": "65",
+    "Attribute1": "74",
+    "Attribute2": "52",
+    "Attribute3": "63",
+    "Attribute4": "60",
+    "Attribute5": "66",
+    "Attribute6": "64",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Teal",
+    "LastName": "Bunbury",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "2",
+      "Day": "17"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "696",
+    "LeagueId": "39",
+    "NationId": "95",
+    "Rating": "68",
+    "Attribute1": "80",
+    "Attribute2": "65",
+    "Attribute3": "47",
+    "Attribute4": "68",
+    "Attribute5": "56",
+    "Attribute6": "74",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

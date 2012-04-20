@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Nicola",
+    "LastName": "Pavarini",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1974",
+      "Month": "2",
+      "Day": "24"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "50",
+    "LeagueId": "31",
+    "NationId": "27",
+    "Rating": "67",
+    "Attribute1": "71",
+    "Attribute2": "60",
+    "Attribute3": "61",
+    "Attribute4": "63",
+    "Attribute5": "30",
+    "Attribute6": "72",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

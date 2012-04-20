@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Antonio",
+    "LastName": "Buscè",
+    "CommonName": null,
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1975",
+      "Month": "12",
+      "Day": "12"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1746",
+    "LeagueId": "32",
+    "NationId": "27",
+    "Rating": "67",
+    "Attribute1": "54",
+    "Attribute2": "61",
+    "Attribute3": "69",
+    "Attribute4": "66",
+    "Attribute5": "68",
+    "Attribute6": "61",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

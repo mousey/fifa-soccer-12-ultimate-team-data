@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Niall",
+    "LastName": "Canavan",
+    "CommonName": null,
+    "Height": "191",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "4",
+      "Day": "11"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1949",
+    "LeagueId": "60",
+    "NationId": "25",
+    "Rating": "59",
+    "Attribute1": "55",
+    "Attribute2": "13",
+    "Attribute3": "24",
+    "Attribute4": "31",
+    "Attribute5": "62",
+    "Attribute6": "69",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

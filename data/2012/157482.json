@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jamie",
+    "LastName": "Mackie",
+    "CommonName": null,
+    "Height": "173",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "9",
+      "Day": "22"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "15",
+    "LeagueId": "13",
+    "NationId": "42",
+    "Rating": "67",
+    "Attribute1": "75",
+    "Attribute2": "63",
+    "Attribute3": "58",
+    "Attribute4": "70",
+    "Attribute5": "61",
+    "Attribute6": "62",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

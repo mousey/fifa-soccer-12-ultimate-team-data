@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Stipe",
+    "LastName": "Matić",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "2",
+      "Day": "6"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1715",
+    "LeagueId": "189",
+    "NationId": "10",
+    "Rating": "64",
+    "Attribute1": "43",
+    "Attribute2": "39",
+    "Attribute3": "51",
+    "Attribute4": "50",
+    "Attribute5": "67",
+    "Attribute6": "60",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

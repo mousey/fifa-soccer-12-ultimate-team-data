@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Heath",
+    "LastName": "Pearce",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "8",
+      "Day": "13"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "111070",
+    "LeagueId": "39",
+    "NationId": "95",
+    "Rating": "67",
+    "Attribute1": "79",
+    "Attribute2": "53",
+    "Attribute3": "64",
+    "Attribute4": "68",
+    "Attribute5": "69",
+    "Attribute6": "65",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

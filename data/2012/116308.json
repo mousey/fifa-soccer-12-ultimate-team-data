@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Rod",
+    "LastName": "Fanni",
+    "CommonName": null,
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "12",
+      "Day": "6"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "219",
+    "LeagueId": "16",
+    "NationId": "18",
+    "Rating": "79",
+    "Attribute1": "82",
+    "Attribute2": "53",
+    "Attribute3": "74",
+    "Attribute4": "70",
+    "Attribute5": "81",
+    "Attribute6": "81",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

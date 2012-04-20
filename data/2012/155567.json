@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Peter",
+    "LastName": "Nymann",
+    "CommonName": null,
+    "Height": "179",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "8",
+      "Day": "22"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "710",
+    "LeagueId": "56",
+    "NationId": "13",
+    "Rating": "64",
+    "Attribute1": "84",
+    "Attribute2": "54",
+    "Attribute3": "65",
+    "Attribute4": "63",
+    "Attribute5": "57",
+    "Attribute6": "56",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

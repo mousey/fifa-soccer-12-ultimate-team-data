@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Darío",
+    "LastName": "Verón",
+    "CommonName": null,
+    "Height": "179",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "7",
+      "Day": "26"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1881",
+    "LeagueId": "341",
+    "NationId": "58",
+    "Rating": "75",
+    "Attribute1": "70",
+    "Attribute2": "54",
+    "Attribute3": "62",
+    "Attribute4": "58",
+    "Attribute5": "77",
+    "Attribute6": "79",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Eric",
+    "LastName": "Lichaj",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "11",
+      "Day": "17"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "2",
+    "LeagueId": "13",
+    "NationId": "95",
+    "Rating": "70",
+    "Attribute1": "73",
+    "Attribute2": "45",
+    "Attribute3": "65",
+    "Attribute4": "66",
+    "Attribute5": "70",
+    "Attribute6": "66",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

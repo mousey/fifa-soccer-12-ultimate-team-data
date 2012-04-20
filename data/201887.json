@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Daniel",
+    "LastName": "Johnson",
+    "CommonName": null,
+    "Height": "174",
+    "DateOfBirth": {
+      "Year": "1992",
+      "Month": "10",
+      "Day": "8"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "2",
+    "LeagueId": "13",
+    "NationId": "14",
+    "Rating": "60",
+    "Attribute1": "76",
+    "Attribute2": "61",
+    "Attribute3": "63",
+    "Attribute4": "71",
+    "Attribute5": "50",
+    "Attribute6": "54",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

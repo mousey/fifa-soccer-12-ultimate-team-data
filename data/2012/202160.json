@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jore",
+    "LastName": "Trompet",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1992",
+      "Month": "7",
+      "Day": "30"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "2007",
+    "LeagueId": "4",
+    "NationId": "7",
+    "Rating": "60",
+    "Attribute1": "72",
+    "Attribute2": "58",
+    "Attribute3": "60",
+    "Attribute4": "65",
+    "Attribute5": "57",
+    "Attribute6": "59",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

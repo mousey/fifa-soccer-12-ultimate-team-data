@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Willy",
+    "LastName": "Boly",
+    "CommonName": null,
+    "Height": "191",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "2",
+      "Day": "3"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "57",
+    "LeagueId": "16",
+    "NationId": "18",
+    "Rating": "66",
+    "Attribute1": "54",
+    "Attribute2": "30",
+    "Attribute3": "63",
+    "Attribute4": "30",
+    "Attribute5": "70",
+    "Attribute6": "70",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

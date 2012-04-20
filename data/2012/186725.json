@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "David",
+    "LastName": "Horst",
+    "CommonName": null,
+    "Height": "193",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "10",
+      "Day": "25"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111140",
+    "LeagueId": "39",
+    "NationId": "95",
+    "Rating": "59",
+    "Attribute1": "35",
+    "Attribute2": "23",
+    "Attribute3": "32",
+    "Attribute4": "34",
+    "Attribute5": "68",
+    "Attribute6": "66",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

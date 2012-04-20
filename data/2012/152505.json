@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "John",
+    "LastName": "White",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "7",
+      "Day": "26"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1935",
+    "LeagueId": "60",
+    "NationId": "14",
+    "Rating": "60",
+    "Attribute1": "58",
+    "Attribute2": "42",
+    "Attribute3": "49",
+    "Attribute4": "52",
+    "Attribute5": "60",
+    "Attribute6": "59",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

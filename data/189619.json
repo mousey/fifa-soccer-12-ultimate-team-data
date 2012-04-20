@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Korey",
+    "LastName": "Smith",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "1",
+      "Day": "31"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1792",
+    "LeagueId": "13",
+    "NationId": "14",
+    "Rating": "65",
+    "Attribute1": "75",
+    "Attribute2": "43",
+    "Attribute3": "64",
+    "Attribute4": "67",
+    "Attribute5": "66",
+    "Attribute6": "47",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

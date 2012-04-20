@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "João Henrique",
+    "LastName": "Pataco Tomás",
+    "CommonName": "João Tomás",
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1975",
+      "Month": "5",
+      "Day": "27"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "744",
+    "LeagueId": "308",
+    "NationId": "38",
+    "Rating": "72",
+    "Attribute1": "33",
+    "Attribute2": "72",
+    "Attribute3": "63",
+    "Attribute4": "62",
+    "Attribute5": "59",
+    "Attribute6": "77",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

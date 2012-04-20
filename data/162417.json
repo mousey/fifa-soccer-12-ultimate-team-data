@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Magnus",
+    "LastName": "Okuonghae",
+    "CommonName": null,
+    "Height": "191",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "2",
+      "Day": "16"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1935",
+    "LeagueId": "60",
+    "NationId": "133",
+    "Rating": "64",
+    "Attribute1": "74",
+    "Attribute2": "33",
+    "Attribute3": "44",
+    "Attribute4": "38",
+    "Attribute5": "69",
+    "Attribute6": "72",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

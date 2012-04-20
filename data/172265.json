@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Isaiah",
+    "LastName": "Osbourne",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "11",
+      "Day": "15"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "81",
+    "LeagueId": "50",
+    "NationId": "14",
+    "Rating": "62",
+    "Attribute1": "73",
+    "Attribute2": "52",
+    "Attribute3": "62",
+    "Attribute4": "61",
+    "Attribute5": "63",
+    "Attribute6": "64",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

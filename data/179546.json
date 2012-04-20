@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Marko",
+    "LastName": "Marin",
+    "CommonName": null,
+    "Height": "170",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "3",
+      "Day": "13"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "38",
+    "LeagueId": "19",
+    "NationId": "21",
+    "Rating": "80",
+    "Attribute1": "82",
+    "Attribute2": "70",
+    "Attribute3": "73",
+    "Attribute4": "87",
+    "Attribute5": "36",
+    "Attribute6": "46",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

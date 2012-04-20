@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Francesco",
+    "LastName": "De  Rose",
+    "CommonName": null,
+    "Height": "172",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "6",
+      "Day": "21"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "203",
+    "LeagueId": "32",
+    "NationId": "27",
+    "Rating": "62",
+    "Attribute1": "70",
+    "Attribute2": "53",
+    "Attribute3": "58",
+    "Attribute4": "62",
+    "Attribute5": "63",
+    "Attribute6": "65",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

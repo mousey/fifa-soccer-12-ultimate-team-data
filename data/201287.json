@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Stefan",
+    "LastName": "Pointner",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "2",
+      "Day": "1"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "780",
+    "LeagueId": "80",
+    "NationId": "4",
+    "Rating": "50",
+    "Attribute1": "49",
+    "Attribute2": "49",
+    "Attribute3": "45",
+    "Attribute4": "50",
+    "Attribute5": "37",
+    "Attribute6": "53",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Laureano",
+    "LastName": "Sanabria Ruiz",
+    "CommonName": "Laure",
+    "Height": "166",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "3",
+      "Day": "22"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "242",
+    "LeagueId": "54",
+    "NationId": "45",
+    "Rating": "70",
+    "Attribute1": "81",
+    "Attribute2": "49",
+    "Attribute3": "61",
+    "Attribute4": "64",
+    "Attribute5": "67",
+    "Attribute6": "65",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

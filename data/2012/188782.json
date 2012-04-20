@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Michael",
+    "LastName": "Morrison",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "3",
+      "Day": "3"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "89",
+    "LeagueId": "60",
+    "NationId": "14",
+    "Rating": "66",
+    "Attribute1": "59",
+    "Attribute2": "34",
+    "Attribute3": "53",
+    "Attribute4": "36",
+    "Attribute5": "68",
+    "Attribute6": "65",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

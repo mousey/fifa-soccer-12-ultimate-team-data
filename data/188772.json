@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Philippe",
+    "LastName": "Koch",
+    "CommonName": null,
+    "Height": "179",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "2",
+      "Day": "8"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "894",
+    "LeagueId": "189",
+    "NationId": "47",
+    "Rating": "64",
+    "Attribute1": "64",
+    "Attribute2": "41",
+    "Attribute3": "61",
+    "Attribute4": "59",
+    "Attribute5": "64",
+    "Attribute6": "66",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

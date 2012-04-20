@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Steve",
+    "LastName": "von Bergen",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "6",
+      "Day": "10"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110915",
+    "LeagueId": "31",
+    "NationId": "47",
+    "Rating": "73",
+    "Attribute1": "73",
+    "Attribute2": "36",
+    "Attribute3": "59",
+    "Attribute4": "43",
+    "Attribute5": "74",
+    "Attribute6": "74",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

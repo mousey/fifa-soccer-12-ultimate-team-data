@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Karol",
+    "LastName": "Kisel",
+    "CommonName": null,
+    "Height": "173",
+    "DateOfBirth": {
+      "Year": "1977",
+      "Month": "3",
+      "Day": "15"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111400",
+    "LeagueId": "351",
+    "NationId": "43",
+    "Rating": "64",
+    "Attribute1": "59",
+    "Attribute2": "69",
+    "Attribute3": "66",
+    "Attribute4": "65",
+    "Attribute5": "66",
+    "Attribute6": "58",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

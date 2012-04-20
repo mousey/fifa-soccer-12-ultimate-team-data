@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Adilson",
+    "LastName": "Warken",
+    "CommonName": "Adilson",
+    "Height": "181",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "1",
+      "Day": "16"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1629",
+    "LeagueId": "7",
+    "NationId": "54",
+    "Rating": "74",
+    "Attribute1": "61",
+    "Attribute2": "53",
+    "Attribute3": "56",
+    "Attribute4": "63",
+    "Attribute5": "74",
+    "Attribute6": "68",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

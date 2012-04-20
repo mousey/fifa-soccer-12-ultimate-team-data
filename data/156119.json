@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Aarón",
+    "LastName": "Padilla",
+    "CommonName": null,
+    "Height": "170",
+    "DateOfBirth": {
+      "Year": "1977",
+      "Month": "8",
+      "Day": "13"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110152",
+    "LeagueId": "341",
+    "NationId": "83",
+    "Rating": "61",
+    "Attribute1": "63",
+    "Attribute2": "60",
+    "Attribute3": "55",
+    "Attribute4": "62",
+    "Attribute5": "47",
+    "Attribute6": "65",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

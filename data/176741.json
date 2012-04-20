@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Rafael",
+    "LastName": "de Miranda Moura",
+    "CommonName": "Rafael Moura",
+    "Height": "189",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "5",
+      "Day": "23"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "567",
+    "LeagueId": "7",
+    "NationId": "54",
+    "Rating": "76",
+    "Attribute1": "58",
+    "Attribute2": "74",
+    "Attribute3": "51",
+    "Attribute4": "67",
+    "Attribute5": "64",
+    "Attribute6": "86",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

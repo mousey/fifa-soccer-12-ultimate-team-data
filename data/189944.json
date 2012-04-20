@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Lamine",
+    "LastName": "Gassama",
+    "CommonName": null,
+    "Height": "181",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "10",
+      "Day": "20"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "66",
+    "LeagueId": "16",
+    "NationId": "18",
+    "Rating": "69",
+    "Attribute1": "80",
+    "Attribute2": "33",
+    "Attribute3": "62",
+    "Attribute4": "48",
+    "Attribute5": "69",
+    "Attribute6": "67",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

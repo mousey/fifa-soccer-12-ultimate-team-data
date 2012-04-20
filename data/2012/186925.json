@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jude Ikechukwu",
+    "LastName": "Nworuh",
+    "CommonName": null,
+    "Height": "170",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "6",
+      "Day": "9"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1516",
+    "LeagueId": "1",
+    "NationId": "133",
+    "Rating": "60",
+    "Attribute1": "84",
+    "Attribute2": "58",
+    "Attribute3": "39",
+    "Attribute4": "63",
+    "Attribute5": "38",
+    "Attribute6": "62",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

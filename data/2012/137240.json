@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Domenico",
+    "LastName": "Giampá",
+    "CommonName": null,
+    "Height": "168",
+    "DateOfBirth": {
+      "Year": "1977",
+      "Month": "2",
+      "Day": "15"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1744",
+    "LeagueId": "32",
+    "NationId": "27",
+    "Rating": "64",
+    "Attribute1": "70",
+    "Attribute2": "58",
+    "Attribute3": "59",
+    "Attribute4": "67",
+    "Attribute5": "44",
+    "Attribute6": "40",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Gi Dong",
+    "LastName": "Park",
+    "CommonName": "Park Gi Dong",
+    "Height": "191",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "11",
+      "Day": "1"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "112258",
+    "LeagueId": "83",
+    "NationId": "167",
+    "Rating": "62",
+    "Attribute1": "71",
+    "Attribute2": "62",
+    "Attribute3": "60",
+    "Attribute4": "61",
+    "Attribute5": "49",
+    "Attribute6": "69",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

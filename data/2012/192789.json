@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Mario Gaspar",
+    "LastName": "Pérez Martínez",
+    "CommonName": "Mario Gaspar",
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "11",
+      "Day": "24"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "483",
+    "LeagueId": "53",
+    "NationId": "45",
+    "Rating": "73",
+    "Attribute1": "77",
+    "Attribute2": "53",
+    "Attribute3": "67",
+    "Attribute4": "65",
+    "Attribute5": "74",
+    "Attribute6": "64",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

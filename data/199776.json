@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Luca",
+    "LastName": "Caldirola",
+    "CommonName": null,
+    "Height": "189",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "2",
+      "Day": "1"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "44",
+    "LeagueId": "31",
+    "NationId": "27",
+    "Rating": "69",
+    "Attribute1": "66",
+    "Attribute2": "46",
+    "Attribute3": "57",
+    "Attribute4": "44",
+    "Attribute5": "73",
+    "Attribute6": "71",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

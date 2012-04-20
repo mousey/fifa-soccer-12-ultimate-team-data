@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Tomasz",
+    "LastName": "Brzyski",
+    "CommonName": null,
+    "Height": "170",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "1",
+      "Day": "10"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1570",
+    "LeagueId": "66",
+    "NationId": "37",
+    "Rating": "61",
+    "Attribute1": "71",
+    "Attribute2": "63",
+    "Attribute3": "60",
+    "Attribute4": "58",
+    "Attribute5": "62",
+    "Attribute6": "64",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Luke",
+    "LastName": "Young",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "7",
+      "Day": "19"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "15",
+    "LeagueId": "13",
+    "NationId": "14",
+    "Rating": "74",
+    "Attribute1": "68",
+    "Attribute2": "54",
+    "Attribute3": "64",
+    "Attribute4": "62",
+    "Attribute5": "76",
+    "Attribute6": "71",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

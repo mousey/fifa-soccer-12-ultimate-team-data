@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Andrés",
+    "LastName": "Mendoza",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1978",
+      "Month": "4",
+      "Day": "26"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "687",
+    "LeagueId": "39",
+    "NationId": "59",
+    "Rating": "66",
+    "Attribute1": "72",
+    "Attribute2": "67",
+    "Attribute3": "52",
+    "Attribute4": "65",
+    "Attribute5": "49",
+    "Attribute6": "66",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

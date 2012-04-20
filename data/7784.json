@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Djibril",
+    "LastName": "Cissé",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "8",
+      "Day": "12"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "46",
+    "LeagueId": "31",
+    "NationId": "18",
+    "Rating": "82",
+    "Attribute1": "88",
+    "Attribute2": "80",
+    "Attribute3": "58",
+    "Attribute4": "73",
+    "Attribute5": "58",
+    "Attribute6": "80",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

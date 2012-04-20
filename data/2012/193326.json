@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Casey",
+    "LastName": "Thomas",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "11",
+      "Day": "14"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1960",
+    "LeagueId": "13",
+    "NationId": "50",
+    "Rating": "57",
+    "Attribute1": "76",
+    "Attribute2": "48",
+    "Attribute3": "56",
+    "Attribute4": "63",
+    "Attribute5": "44",
+    "Attribute6": "64",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

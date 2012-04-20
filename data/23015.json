@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Luca",
+    "LastName": "Toni",
+    "CommonName": null,
+    "Height": "194",
+    "DateOfBirth": {
+      "Year": "1977",
+      "Month": "5",
+      "Day": "26"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "45",
+    "LeagueId": "31",
+    "NationId": "27",
+    "Rating": "76",
+    "Attribute1": "45",
+    "Attribute2": "70",
+    "Attribute3": "50",
+    "Attribute4": "56",
+    "Attribute5": "59",
+    "Attribute6": "81",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

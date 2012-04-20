@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Marius",
+    "LastName": "Ebbers",
+    "CommonName": null,
+    "Height": "192",
+    "DateOfBirth": {
+      "Year": "1978",
+      "Month": "1",
+      "Day": "4"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110329",
+    "LeagueId": "20",
+    "NationId": "21",
+    "Rating": "68",
+    "Attribute1": "59",
+    "Attribute2": "65",
+    "Attribute3": "53",
+    "Attribute4": "62",
+    "Attribute5": "61",
+    "Attribute6": "74",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

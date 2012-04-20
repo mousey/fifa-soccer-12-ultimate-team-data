@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Duško",
+    "LastName": "Tošić",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "1",
+      "Day": "19"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "449",
+    "LeagueId": "53",
+    "NationId": "51",
+    "Rating": "70",
+    "Attribute1": "74",
+    "Attribute2": "39",
+    "Attribute3": "59",
+    "Attribute4": "57",
+    "Attribute5": "76",
+    "Attribute6": "72",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

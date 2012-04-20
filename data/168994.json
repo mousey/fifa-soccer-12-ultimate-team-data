@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Sergio",
+    "LastName": "Arias",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "2",
+      "Day": "27"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111070",
+    "LeagueId": "39",
+    "NationId": "83",
+    "Rating": "59",
+    "Attribute1": "58",
+    "Attribute2": "57",
+    "Attribute3": "61",
+    "Attribute4": "62",
+    "Attribute5": "42",
+    "Attribute6": "57",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

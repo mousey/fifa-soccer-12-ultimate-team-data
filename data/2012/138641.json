@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Francisco",
+    "LastName": "Esteban Granados",
+    "CommonName": "Paco Esteban",
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "8",
+      "Day": "21"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110833",
+    "LeagueId": "54",
+    "NationId": "45",
+    "Rating": "61",
+    "Attribute1": "76",
+    "Attribute2": "53",
+    "Attribute3": "50",
+    "Attribute4": "68",
+    "Attribute5": "51",
+    "Attribute6": "64",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

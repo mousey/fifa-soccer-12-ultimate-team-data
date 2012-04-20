@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Bruno",
+    "LastName": "Pilatos",
+    "CommonName": null,
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1993",
+      "Month": "3",
+      "Day": "30"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "12",
+    "LeagueId": "14",
+    "NationId": "14",
+    "Rating": "48",
+    "Attribute1": "72",
+    "Attribute2": "32",
+    "Attribute3": "51",
+    "Attribute4": "51",
+    "Attribute5": "57",
+    "Attribute6": "52",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

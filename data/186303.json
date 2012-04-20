@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ramón",
+    "LastName": "Partida",
+    "CommonName": null,
+    "Height": "174",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "3",
+      "Day": "15"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110780",
+    "LeagueId": "341",
+    "NationId": "83",
+    "Rating": "59",
+    "Attribute1": "58",
+    "Attribute2": "45",
+    "Attribute3": "56",
+    "Attribute4": "50",
+    "Attribute5": "58",
+    "Attribute6": "61",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

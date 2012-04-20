@@ -1,0 +1,15 @@
+{
+  "Manager": {
+    "FirstName": "Ricardo",
+    "LastName": "Ferretti",
+    "NationId": "54",
+    "Value": "70",
+    "Rare": "0",
+    "Weight": "15",
+    "FormationId": "15",
+    "TalkRating": "2",
+    "Negotiation": "0",
+    "AssetId": "1000428",
+    "ItemType": "Manager"
+  }
+}

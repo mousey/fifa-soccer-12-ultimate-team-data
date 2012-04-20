@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ismaïl",
+    "LastName": "Aissati",
+    "CommonName": null,
+    "Height": "174",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "8",
+      "Day": "16"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "245",
+    "LeagueId": "10",
+    "NationId": "129",
+    "Rating": "71",
+    "Attribute1": "68",
+    "Attribute2": "63",
+    "Attribute3": "67",
+    "Attribute4": "76",
+    "Attribute5": "41",
+    "Attribute6": "54",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

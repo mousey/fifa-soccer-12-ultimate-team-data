@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Gennaro",
+    "LastName": "Bracigliano",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1980",
+      "Month": "3",
+      "Day": "1"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "219",
+    "LeagueId": "16",
+    "NationId": "18",
+    "Rating": "72",
+    "Attribute1": "75",
+    "Attribute2": "73",
+    "Attribute3": "71",
+    "Attribute4": "75",
+    "Attribute5": "43",
+    "Attribute6": "76",
+    "Rare": "1",
+    "ItemType": "PlayerGk"
+  }
+}

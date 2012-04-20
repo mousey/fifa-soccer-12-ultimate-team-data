@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Michael",
+    "LastName": "Almebäck",
+    "CommonName": null,
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "4",
+      "Day": "4"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "231",
+    "LeagueId": "4",
+    "NationId": "46",
+    "Rating": "69",
+    "Attribute1": "82",
+    "Attribute2": "34",
+    "Attribute3": "43",
+    "Attribute4": "34",
+    "Attribute5": "74",
+    "Attribute6": "72",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

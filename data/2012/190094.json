@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Javier",
+    "LastName": "Castellano Betancor",
+    "CommonName": "Javi Castellano",
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "11",
+      "Day": "2"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "472",
+    "LeagueId": "54",
+    "NationId": "45",
+    "Rating": "64",
+    "Attribute1": "60",
+    "Attribute2": "41",
+    "Attribute3": "53",
+    "Attribute4": "52",
+    "Attribute5": "66",
+    "Attribute6": "61",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

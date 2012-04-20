@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Dejan",
+    "LastName": "Jakovic",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "7",
+      "Day": "16"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "688",
+    "LeagueId": "39",
+    "NationId": "70",
+    "Rating": "63",
+    "Attribute1": "55",
+    "Attribute2": "40",
+    "Attribute3": "41",
+    "Attribute4": "41",
+    "Attribute5": "67",
+    "Attribute6": "68",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

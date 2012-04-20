@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Tony",
+    "LastName": "McMahon",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "3",
+      "Day": "24"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "12",
+    "LeagueId": "14",
+    "NationId": "14",
+    "Rating": "65",
+    "Attribute1": "68",
+    "Attribute2": "52",
+    "Attribute3": "59",
+    "Attribute4": "60",
+    "Attribute5": "67",
+    "Attribute6": "68",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Lee",
+    "LastName": "Sawyer",
+    "CommonName": null,
+    "Height": "176",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "9",
+      "Day": "10"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1954",
+    "LeagueId": "61",
+    "NationId": "14",
+    "Rating": "57",
+    "Attribute1": "73",
+    "Attribute2": "47",
+    "Attribute3": "60",
+    "Attribute4": "57",
+    "Attribute5": "50",
+    "Attribute6": "38",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

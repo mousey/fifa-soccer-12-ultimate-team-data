@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Marcel",
+    "LastName": "Ndjeng",
+    "CommonName": null,
+    "Height": "179",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "5",
+      "Day": "6"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "100409",
+    "LeagueId": "19",
+    "NationId": "103",
+    "Rating": "69",
+    "Attribute1": "81",
+    "Attribute2": "63",
+    "Attribute3": "65",
+    "Attribute4": "72",
+    "Attribute5": "57",
+    "Attribute6": "63",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

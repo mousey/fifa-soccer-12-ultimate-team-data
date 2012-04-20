@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Yang",
+    "LastName": "Wang",
+    "CommonName": "Wang Yang",
+    "Height": "190",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "7",
+      "Day": "26"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1750",
+    "LeagueId": "4",
+    "NationId": "155",
+    "Rating": "59",
+    "Attribute1": "66",
+    "Attribute2": "58",
+    "Attribute3": "59",
+    "Attribute4": "66",
+    "Attribute5": "52",
+    "Attribute6": "61",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

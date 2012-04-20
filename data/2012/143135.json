@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Lucas",
+    "LastName": "Lobos",
+    "CommonName": null,
+    "Height": "176",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "8",
+      "Day": "3"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1970",
+    "LeagueId": "341",
+    "NationId": "52",
+    "Rating": "75",
+    "Attribute1": "72",
+    "Attribute2": "72",
+    "Attribute3": "75",
+    "Attribute4": "77",
+    "Attribute5": "58",
+    "Attribute6": "66",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Gary",
+    "LastName": "Harkins",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "1",
+      "Day": "2"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "82",
+    "LeagueId": "50",
+    "NationId": "14",
+    "Rating": "67",
+    "Attribute1": "75",
+    "Attribute2": "65",
+    "Attribute3": "64",
+    "Attribute4": "69",
+    "Attribute5": "65",
+    "Attribute6": "64",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

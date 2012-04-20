@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Hélder Jorge",
+    "LastName": "Rodrigues Barbosa",
+    "CommonName": "Hélder Barbosa",
+    "Height": "172",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "5",
+      "Day": "25"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1896",
+    "LeagueId": "308",
+    "NationId": "38",
+    "Rating": "75",
+    "Attribute1": "81",
+    "Attribute2": "65",
+    "Attribute3": "68",
+    "Attribute4": "80",
+    "Attribute5": "45",
+    "Attribute6": "58",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

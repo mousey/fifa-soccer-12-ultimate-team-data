@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Tom",
+    "LastName": "De Sutter",
+    "CommonName": null,
+    "Height": "192",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "7",
+      "Day": "3"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "229",
+    "LeagueId": "4",
+    "NationId": "7",
+    "Rating": "71",
+    "Attribute1": "72",
+    "Attribute2": "68",
+    "Attribute3": "60",
+    "Attribute4": "64",
+    "Attribute5": "62",
+    "Attribute6": "79",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Tomasz",
+    "LastName": "Sokolowski",
+    "CommonName": null,
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "6",
+      "Day": "25"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "300",
+    "LeagueId": "41",
+    "NationId": "36",
+    "Rating": "69",
+    "Attribute1": "72",
+    "Attribute2": "67",
+    "Attribute3": "68",
+    "Attribute4": "58",
+    "Attribute5": "70",
+    "Attribute6": "72",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

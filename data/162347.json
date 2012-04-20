@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "João Filipe",
+    "LastName": "Moutinho",
+    "CommonName": "João Moutinho",
+    "Height": "171",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "9",
+      "Day": "8"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "236",
+    "LeagueId": "308",
+    "NationId": "38",
+    "Rating": "84",
+    "Attribute1": "77",
+    "Attribute2": "77",
+    "Attribute3": "84",
+    "Attribute4": "83",
+    "Attribute5": "71",
+    "Attribute6": "74",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

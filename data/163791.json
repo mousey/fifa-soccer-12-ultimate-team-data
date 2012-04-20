@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Geoffrey",
+    "LastName": "Jourdren",
+    "CommonName": null,
+    "Height": "181",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "2",
+      "Day": "4"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "70",
+    "LeagueId": "16",
+    "NationId": "18",
+    "Rating": "74",
+    "Attribute1": "79",
+    "Attribute2": "69",
+    "Attribute3": "75",
+    "Attribute4": "80",
+    "Attribute5": "47",
+    "Attribute6": "75",
+    "Rare": "1",
+    "ItemType": "PlayerGk"
+  }
+}

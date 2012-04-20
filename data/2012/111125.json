@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Oguchi",
+    "LastName": "Onyewu",
+    "CommonName": null,
+    "Height": "194",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "5",
+      "Day": "13"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "237",
+    "LeagueId": "308",
+    "NationId": "95",
+    "Rating": "73",
+    "Attribute1": "50",
+    "Attribute2": "44",
+    "Attribute3": "49",
+    "Attribute4": "33",
+    "Attribute5": "81",
+    "Attribute6": "62",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "David",
+    "LastName": "García Santana",
+    "CommonName": "David García",
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "2",
+      "Day": "25"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "472",
+    "LeagueId": "54",
+    "NationId": "45",
+    "Rating": "65",
+    "Attribute1": "56",
+    "Attribute2": "46",
+    "Attribute3": "49",
+    "Attribute4": "54",
+    "Attribute5": "67",
+    "Attribute6": "64",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

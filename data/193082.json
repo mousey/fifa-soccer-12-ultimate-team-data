@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Juan Guillermo",
+    "LastName": "Cuadrado",
+    "CommonName": null,
+    "Height": "176",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "5",
+      "Day": "26"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "347",
+    "LeagueId": "31",
+    "NationId": "56",
+    "Rating": "69",
+    "Attribute1": "81",
+    "Attribute2": "57",
+    "Attribute3": "66",
+    "Attribute4": "70",
+    "Attribute5": "64",
+    "Attribute6": "52",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

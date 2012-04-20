@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Aleksandar",
+    "LastName": "Ignjovski",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "1",
+      "Day": "27"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "38",
+    "LeagueId": "19",
+    "NationId": "51",
+    "Rating": "68",
+    "Attribute1": "74",
+    "Attribute2": "56",
+    "Attribute3": "66",
+    "Attribute4": "66",
+    "Attribute5": "68",
+    "Attribute6": "61",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

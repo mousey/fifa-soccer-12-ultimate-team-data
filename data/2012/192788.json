@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Joan",
+    "LastName": "Oriol Gracia",
+    "CommonName": "Joan Oriol",
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "11",
+      "Day": "5"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "483",
+    "LeagueId": "53",
+    "NationId": "45",
+    "Rating": "72",
+    "Attribute1": "78",
+    "Attribute2": "56",
+    "Attribute3": "67",
+    "Attribute4": "67",
+    "Attribute5": "70",
+    "Attribute6": "66",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

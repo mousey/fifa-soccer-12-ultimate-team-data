@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Alex",
+    "LastName": "Bruce",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "9",
+      "Day": "28"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "8",
+    "LeagueId": "14",
+    "NationId": "35",
+    "Rating": "66",
+    "Attribute1": "62",
+    "Attribute2": "33",
+    "Attribute3": "48",
+    "Attribute4": "41",
+    "Attribute5": "67",
+    "Attribute6": "69",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

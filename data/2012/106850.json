@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Mirko",
+    "LastName": "Vučinić",
+    "CommonName": null,
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "10",
+      "Day": "1"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "45",
+    "LeagueId": "31",
+    "NationId": "15",
+    "Rating": "81",
+    "Attribute1": "82",
+    "Attribute2": "80",
+    "Attribute3": "70",
+    "Attribute4": "84",
+    "Attribute5": "60",
+    "Attribute6": "71",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

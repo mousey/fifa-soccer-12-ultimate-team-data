@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Zdeněk",
+    "LastName": "Pospěch",
+    "CommonName": null,
+    "Height": "174",
+    "DateOfBirth": {
+      "Year": "1978",
+      "Month": "12",
+      "Day": "14"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "169",
+    "LeagueId": "19",
+    "NationId": "12",
+    "Rating": "73",
+    "Attribute1": "75",
+    "Attribute2": "67",
+    "Attribute3": "72",
+    "Attribute4": "69",
+    "Attribute5": "72",
+    "Attribute6": "70",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

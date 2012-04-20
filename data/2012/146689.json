@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Antoni Lluís",
+    "LastName": "Adrover Colom",
+    "CommonName": "Tuni",
+    "Height": "181",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "6",
+      "Day": "14"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "15019",
+    "LeagueId": "54",
+    "NationId": "45",
+    "Rating": "66",
+    "Attribute1": "69",
+    "Attribute2": "62",
+    "Attribute3": "67",
+    "Attribute4": "68",
+    "Attribute5": "63",
+    "Attribute6": "61",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

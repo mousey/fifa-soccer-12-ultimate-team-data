@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Youl",
+    "LastName": "Mawéné",
+    "CommonName": null,
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "7",
+      "Day": "16"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "77",
+    "LeagueId": "50",
+    "NationId": "18",
+    "Rating": "63",
+    "Attribute1": "52",
+    "Attribute2": "29",
+    "Attribute3": "55",
+    "Attribute4": "56",
+    "Attribute5": "67",
+    "Attribute6": "57",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

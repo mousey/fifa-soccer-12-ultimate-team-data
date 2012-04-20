@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Markel",
+    "LastName": "Susaeta Laskurain",
+    "CommonName": "Susaeta",
+    "Height": "179",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "12",
+      "Day": "14"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "448",
+    "LeagueId": "53",
+    "NationId": "45",
+    "Rating": "75",
+    "Attribute1": "83",
+    "Attribute2": "69",
+    "Attribute3": "73",
+    "Attribute4": "76",
+    "Attribute5": "47",
+    "Attribute6": "60",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

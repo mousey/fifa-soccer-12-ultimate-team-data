@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jeroen",
+    "LastName": "Drost",
+    "CommonName": null,
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "1",
+      "Day": "21"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1909",
+    "LeagueId": "10",
+    "NationId": "34",
+    "Rating": "64",
+    "Attribute1": "54",
+    "Attribute2": "50",
+    "Attribute3": "52",
+    "Attribute4": "52",
+    "Attribute5": "67",
+    "Attribute6": "66",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

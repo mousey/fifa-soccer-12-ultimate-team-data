@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jim",
+    "LastName": "Paterson",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "9",
+      "Day": "25"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "306",
+    "LeagueId": "65",
+    "NationId": "42",
+    "Rating": "59",
+    "Attribute1": "65",
+    "Attribute2": "56",
+    "Attribute3": "58",
+    "Attribute4": "62",
+    "Attribute5": "54",
+    "Attribute6": "50",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

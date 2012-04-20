@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Simon",
+    "LastName": "Poulsen",
+    "CommonName": null,
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "10",
+      "Day": "7"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1906",
+    "LeagueId": "10",
+    "NationId": "13",
+    "Rating": "68",
+    "Attribute1": "82",
+    "Attribute2": "60",
+    "Attribute3": "62",
+    "Attribute4": "71",
+    "Attribute5": "67",
+    "Attribute6": "62",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

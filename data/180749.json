@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Tarek",
+    "LastName": "Elrich",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "1",
+      "Day": "1"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111398",
+    "LeagueId": "351",
+    "NationId": "195",
+    "Rating": "60",
+    "Attribute1": "81",
+    "Attribute2": "57",
+    "Attribute3": "54",
+    "Attribute4": "69",
+    "Attribute5": "60",
+    "Attribute6": "43",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

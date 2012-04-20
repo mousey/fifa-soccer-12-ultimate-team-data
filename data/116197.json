@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ricardo",
+    "LastName": "Fuller",
+    "CommonName": null,
+    "Height": "191",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "10",
+      "Day": "31"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1806",
+    "LeagueId": "13",
+    "NationId": "82",
+    "Rating": "75",
+    "Attribute1": "72",
+    "Attribute2": "72",
+    "Attribute3": "56",
+    "Attribute4": "77",
+    "Attribute5": "58",
+    "Attribute6": "74",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Giorgi",
+    "LastName": "Makaridze",
+    "CommonName": null,
+    "Height": "193",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "3",
+      "Day": "31"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1739",
+    "LeagueId": "17",
+    "NationId": "20",
+    "Rating": "61",
+    "Attribute1": "66",
+    "Attribute2": "64",
+    "Attribute3": "68",
+    "Attribute4": "62",
+    "Attribute5": "30",
+    "Attribute6": "60",
+    "Rare": "1",
+    "ItemType": "PlayerGk"
+  }
+}

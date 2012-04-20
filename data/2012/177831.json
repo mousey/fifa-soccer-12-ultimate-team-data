@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Júlio César",
+    "LastName": "Jacobi",
+    "CommonName": "Júlio César",
+    "Height": "191",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "9",
+      "Day": "2"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110832",
+    "LeagueId": "53",
+    "NationId": "54",
+    "Rating": "72",
+    "Attribute1": "69",
+    "Attribute2": "74",
+    "Attribute3": "76",
+    "Attribute4": "71",
+    "Attribute5": "52",
+    "Attribute6": "74",
+    "Rare": "1",
+    "ItemType": "PlayerGk"
+  }
+}

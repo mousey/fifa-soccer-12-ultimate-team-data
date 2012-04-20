@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Änis",
+    "LastName": "Ben-Hatira",
+    "CommonName": null,
+    "Height": "181",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "7",
+      "Day": "18"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "166",
+    "LeagueId": "19",
+    "NationId": "21",
+    "Rating": "72",
+    "Attribute1": "81",
+    "Attribute2": "68",
+    "Attribute3": "68",
+    "Attribute4": "76",
+    "Attribute5": "58",
+    "Attribute6": "65",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ben",
+    "LastName": "Burgess",
+    "CommonName": null,
+    "Height": "191",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "11",
+      "Day": "9"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1937",
+    "LeagueId": "60",
+    "NationId": "25",
+    "Rating": "59",
+    "Attribute1": "44",
+    "Attribute2": "60",
+    "Attribute3": "49",
+    "Attribute4": "39",
+    "Attribute5": "60",
+    "Attribute6": "67",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

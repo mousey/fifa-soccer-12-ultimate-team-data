@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Stevan",
+    "LastName": "Jovetić",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "11",
+      "Day": "2"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110374",
+    "LeagueId": "31",
+    "NationId": "15",
+    "Rating": "81",
+    "Attribute1": "81",
+    "Attribute2": "76",
+    "Attribute3": "73",
+    "Attribute4": "86",
+    "Attribute5": "56",
+    "Attribute6": "68",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

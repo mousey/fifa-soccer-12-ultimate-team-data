@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Hernán",
+    "LastName": "Crespo",
+    "CommonName": null,
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1975",
+      "Month": "7",
+      "Day": "5"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "50",
+    "LeagueId": "31",
+    "NationId": "52",
+    "Rating": "76",
+    "Attribute1": "46",
+    "Attribute2": "72",
+    "Attribute3": "46",
+    "Attribute4": "60",
+    "Attribute5": "49",
+    "Attribute6": "79",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

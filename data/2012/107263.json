@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Fahid",
+    "LastName": "Ben Khalfallah",
+    "CommonName": null,
+    "Height": "170",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "10",
+      "Day": "9"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "59",
+    "LeagueId": "16",
+    "NationId": "145",
+    "Rating": "71",
+    "Attribute1": "76",
+    "Attribute2": "62",
+    "Attribute3": "69",
+    "Attribute4": "74",
+    "Attribute5": "49",
+    "Attribute6": "50",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

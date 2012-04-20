@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Mickaël",
+    "LastName": "Landreau",
+    "CommonName": null,
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "5",
+      "Day": "14"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "65",
+    "LeagueId": "16",
+    "NationId": "18",
+    "Rating": "80",
+    "Attribute1": "78",
+    "Attribute2": "76",
+    "Attribute3": "84",
+    "Attribute4": "82",
+    "Attribute5": "61",
+    "Attribute6": "78",
+    "Rare": "1",
+    "ItemType": "PlayerGk"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Samuel",
+    "LastName": "Di Carmine",
+    "CommonName": null,
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "9",
+      "Day": "29"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111993",
+    "LeagueId": "32",
+    "NationId": "27",
+    "Rating": "62",
+    "Attribute1": "60",
+    "Attribute2": "60",
+    "Attribute3": "35",
+    "Attribute4": "63",
+    "Attribute5": "51",
+    "Attribute6": "60",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

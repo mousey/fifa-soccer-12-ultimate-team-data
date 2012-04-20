@@ -1,0 +1,15 @@
+{
+  "Manager": {
+    "FirstName": "Werner",
+    "LastName": "Gregoritsch",
+    "NationId": "4",
+    "Value": "61",
+    "Rare": "0",
+    "Weight": "15",
+    "FormationId": "11",
+    "TalkRating": "1",
+    "Negotiation": "0",
+    "AssetId": "1000285",
+    "ItemType": "Manager"
+  }
+}

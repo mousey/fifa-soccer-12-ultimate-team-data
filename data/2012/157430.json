@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Sejad",
+    "LastName": "Salihović",
+    "CommonName": null,
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "10",
+      "Day": "8"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "10029",
+    "LeagueId": "19",
+    "NationId": "8",
+    "Rating": "75",
+    "Attribute1": "50",
+    "Attribute2": "81",
+    "Attribute3": "82",
+    "Attribute4": "75",
+    "Attribute5": "74",
+    "Attribute6": "55",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

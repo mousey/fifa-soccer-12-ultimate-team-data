@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Bogdan",
+    "LastName": "Milić",
+    "CommonName": null,
+    "Height": "201",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "11",
+      "Day": "24"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "110103",
+    "LeagueId": "67",
+    "NationId": "15",
+    "Rating": "64",
+    "Attribute1": "60",
+    "Attribute2": "57",
+    "Attribute3": "54",
+    "Attribute4": "59",
+    "Attribute5": "59",
+    "Attribute6": "57",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

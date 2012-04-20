@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Blaise",
+    "LastName": "Matuidi",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "4",
+      "Day": "9"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "73",
+    "LeagueId": "16",
+    "NationId": "18",
+    "Rating": "78",
+    "Attribute1": "78",
+    "Attribute2": "66",
+    "Attribute3": "76",
+    "Attribute4": "74",
+    "Attribute5": "77",
+    "Attribute6": "76",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

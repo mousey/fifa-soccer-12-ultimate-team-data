@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Pat",
+    "LastName": "Baldwin",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "11",
+      "Day": "12"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1935",
+    "LeagueId": "60",
+    "NationId": "14",
+    "Rating": "60",
+    "Attribute1": "52",
+    "Attribute2": "31",
+    "Attribute3": "46",
+    "Attribute4": "58",
+    "Attribute5": "63",
+    "Attribute6": "65",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

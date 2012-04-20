@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Matthew",
+    "LastName": "Jurman",
+    "CommonName": null,
+    "Height": "190",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "12",
+      "Day": "8"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "111395",
+    "LeagueId": "351",
+    "NationId": "195",
+    "Rating": "62",
+    "Attribute1": "57",
+    "Attribute2": "39",
+    "Attribute3": "42",
+    "Attribute4": "47",
+    "Attribute5": "64",
+    "Attribute6": "69",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

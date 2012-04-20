@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jeong Nam",
+    "LastName": "Hong",
+    "CommonName": "Hong Jeong Nam",
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "5",
+      "Day": "21"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1477",
+    "LeagueId": "83",
+    "NationId": "167",
+    "Rating": "61",
+    "Attribute1": "63",
+    "Attribute2": "65",
+    "Attribute3": "55",
+    "Attribute4": "60",
+    "Attribute5": "35",
+    "Attribute6": "54",
+    "Rare": "1",
+    "ItemType": "PlayerGk"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Craig",
+    "LastName": "Easton",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "2",
+      "Day": "26"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "182",
+    "LeagueId": "50",
+    "NationId": "42",
+    "Rating": "60",
+    "Attribute1": "61",
+    "Attribute2": "46",
+    "Attribute3": "64",
+    "Attribute4": "60",
+    "Attribute5": "64",
+    "Attribute6": "61",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

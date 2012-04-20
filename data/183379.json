@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Laionel",
+    "LastName": "Silva Ramalho",
+    "CommonName": "Laionel",
+    "Height": "173",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "4",
+      "Day": "27"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1888",
+    "LeagueId": "308",
+    "NationId": "54",
+    "Rating": "68",
+    "Attribute1": "78",
+    "Attribute2": "68",
+    "Attribute3": "60",
+    "Attribute4": "70",
+    "Attribute5": "39",
+    "Attribute6": "46",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

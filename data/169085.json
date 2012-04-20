@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Krunoslav",
+    "LastName": "Lovrek",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "9",
+      "Day": "11"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1477",
+    "LeagueId": "83",
+    "NationId": "10",
+    "Rating": "67",
+    "Attribute1": "70",
+    "Attribute2": "65",
+    "Attribute3": "61",
+    "Attribute4": "65",
+    "Attribute5": "53",
+    "Attribute6": "67",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

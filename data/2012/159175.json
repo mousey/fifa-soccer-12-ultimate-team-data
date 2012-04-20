@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Alaixys",
+    "LastName": "Romao",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "1",
+      "Day": "18"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "217",
+    "LeagueId": "16",
+    "NationId": "144",
+    "Rating": "76",
+    "Attribute1": "66",
+    "Attribute2": "52",
+    "Attribute3": "74",
+    "Attribute4": "67",
+    "Attribute5": "78",
+    "Attribute6": "78",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

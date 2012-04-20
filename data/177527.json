@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Leandro",
+    "LastName": "Vitiello",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "10",
+      "Day": "16"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111491",
+    "LeagueId": "32",
+    "NationId": "27",
+    "Rating": "63",
+    "Attribute1": "71",
+    "Attribute2": "55",
+    "Attribute3": "64",
+    "Attribute4": "61",
+    "Attribute5": "62",
+    "Attribute6": "64",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

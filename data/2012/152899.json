@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Josh",
+    "LastName": "Gardner",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "9",
+      "Day": "14"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "687",
+    "LeagueId": "39",
+    "NationId": "95",
+    "Rating": "63",
+    "Attribute1": "67",
+    "Attribute2": "47",
+    "Attribute3": "59",
+    "Attribute4": "60",
+    "Attribute5": "66",
+    "Attribute6": "52",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

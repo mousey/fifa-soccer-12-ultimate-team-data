@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Roy",
+    "LastName": "Contout",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "2",
+      "Day": "11"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "57",
+    "LeagueId": "16",
+    "NationId": "18",
+    "Rating": "70",
+    "Attribute1": "82",
+    "Attribute2": "61",
+    "Attribute3": "60",
+    "Attribute4": "76",
+    "Attribute5": "49",
+    "Attribute6": "48",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

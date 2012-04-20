@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Abu",
+    "LastName": "Ogogo",
+    "CommonName": null,
+    "Height": "177",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "11",
+      "Day": "3"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "373",
+    "LeagueId": "61",
+    "NationId": "14",
+    "Rating": "59",
+    "Attribute1": "74",
+    "Attribute2": "41",
+    "Attribute3": "55",
+    "Attribute4": "57",
+    "Attribute5": "64",
+    "Attribute6": "65",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

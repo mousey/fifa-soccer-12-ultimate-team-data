@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Anderson Luís",
+    "LastName": "da Silva",
+    "CommonName": "Luisão",
+    "Height": "192",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "2",
+      "Day": "13"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "234",
+    "LeagueId": "308",
+    "NationId": "54",
+    "Rating": "82",
+    "Attribute1": "37",
+    "Attribute2": "59",
+    "Attribute3": "65",
+    "Attribute4": "60",
+    "Attribute5": "84",
+    "Attribute6": "74",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

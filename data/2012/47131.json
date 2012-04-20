@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Fernándo José",
+    "LastName": "da Silva Meira",
+    "CommonName": "Fernando Meira",
+    "Height": "190",
+    "DateOfBirth": {
+      "Year": "1978",
+      "Month": "6",
+      "Day": "5"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "244",
+    "LeagueId": "53",
+    "NationId": "38",
+    "Rating": "76",
+    "Attribute1": "48",
+    "Attribute2": "43",
+    "Attribute3": "65",
+    "Attribute4": "55",
+    "Attribute5": "79",
+    "Attribute6": "76",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

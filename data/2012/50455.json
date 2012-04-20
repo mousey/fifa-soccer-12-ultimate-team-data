@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "George",
+    "LastName": "McCartney",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "4",
+      "Day": "29"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "19",
+    "LeagueId": "14",
+    "NationId": "35",
+    "Rating": "65",
+    "Attribute1": "53",
+    "Attribute2": "37",
+    "Attribute3": "60",
+    "Attribute4": "59",
+    "Attribute5": "67",
+    "Attribute6": "67",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Julian",
+    "LastName": "Koch",
+    "CommonName": null,
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "11",
+      "Day": "11"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "22",
+    "LeagueId": "19",
+    "NationId": "21",
+    "Rating": "71",
+    "Attribute1": "73",
+    "Attribute2": "54",
+    "Attribute3": "67",
+    "Attribute4": "67",
+    "Attribute5": "72",
+    "Attribute6": "74",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

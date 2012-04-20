@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ignasi",
+    "LastName": "Miquel",
+    "CommonName": null,
+    "Height": "193",
+    "DateOfBirth": {
+      "Year": "1992",
+      "Month": "9",
+      "Day": "28"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1",
+    "LeagueId": "13",
+    "NationId": "45",
+    "Rating": "63",
+    "Attribute1": "66",
+    "Attribute2": "26",
+    "Attribute3": "49",
+    "Attribute4": "56",
+    "Attribute5": "65",
+    "Attribute6": "67",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

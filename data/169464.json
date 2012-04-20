@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Armand",
+    "LastName": "Traoré",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "10",
+      "Day": "8"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "15",
+    "LeagueId": "13",
+    "NationId": "136",
+    "Rating": "71",
+    "Attribute1": "83",
+    "Attribute2": "51",
+    "Attribute3": "74",
+    "Attribute4": "74",
+    "Attribute5": "67",
+    "Attribute6": "64",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

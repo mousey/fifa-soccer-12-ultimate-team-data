@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Nassim",
+    "LastName": "Ben Khalifa",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1992",
+      "Month": "1",
+      "Day": "13"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "900",
+    "LeagueId": "189",
+    "NationId": "47",
+    "Rating": "66",
+    "Attribute1": "74",
+    "Attribute2": "60",
+    "Attribute3": "57",
+    "Attribute4": "68",
+    "Attribute5": "51",
+    "Attribute6": "67",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

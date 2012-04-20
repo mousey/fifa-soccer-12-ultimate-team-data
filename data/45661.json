@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Raúl",
+    "LastName": "González Blanco",
+    "CommonName": "Raúl",
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1977",
+      "Month": "6",
+      "Day": "27"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "34",
+    "LeagueId": "19",
+    "NationId": "45",
+    "Rating": "81",
+    "Attribute1": "63",
+    "Attribute2": "76",
+    "Attribute3": "69",
+    "Attribute4": "82",
+    "Attribute5": "54",
+    "Attribute6": "71",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Rohan",
+    "LastName": "Ince",
+    "CommonName": null,
+    "Height": "191",
+    "DateOfBirth": {
+      "Year": "1992",
+      "Month": "11",
+      "Day": "8"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "5",
+    "LeagueId": "13",
+    "NationId": "14",
+    "Rating": "53",
+    "Attribute1": "60",
+    "Attribute2": "26",
+    "Attribute3": "34",
+    "Attribute4": "23",
+    "Attribute5": "60",
+    "Attribute6": "40",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

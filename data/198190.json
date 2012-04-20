@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Greg",
+    "LastName": "Cunningham",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "1",
+      "Day": "31"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "10",
+    "LeagueId": "13",
+    "NationId": "25",
+    "Rating": "68",
+    "Attribute1": "70",
+    "Attribute2": "57",
+    "Attribute3": "52",
+    "Attribute4": "65",
+    "Attribute5": "67",
+    "Attribute6": "66",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

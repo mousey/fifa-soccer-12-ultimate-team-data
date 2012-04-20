@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Kyung Ho",
+    "LastName": "Jeong",
+    "CommonName": "Jeong Kyung Ho",
+    "Height": "168",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "1",
+      "Day": "12"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "2055",
+    "LeagueId": "83",
+    "NationId": "167",
+    "Rating": "63",
+    "Attribute1": "65",
+    "Attribute2": "47",
+    "Attribute3": "62",
+    "Attribute4": "64",
+    "Attribute5": "53",
+    "Attribute6": "49",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

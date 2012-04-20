@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Marvin",
+    "LastName": "Plattenhardt",
+    "CommonName": null,
+    "Height": "181",
+    "DateOfBirth": {
+      "Year": "1992",
+      "Month": "1",
+      "Day": "26"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "171",
+    "LeagueId": "19",
+    "NationId": "21",
+    "Rating": "64",
+    "Attribute1": "71",
+    "Attribute2": "37",
+    "Attribute3": "60",
+    "Attribute4": "61",
+    "Attribute5": "59",
+    "Attribute6": "67",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

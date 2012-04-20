@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Federico",
+    "LastName": "Dionisi",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "6",
+      "Day": "16"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1844",
+    "LeagueId": "32",
+    "NationId": "27",
+    "Rating": "68",
+    "Attribute1": "75",
+    "Attribute2": "63",
+    "Attribute3": "58",
+    "Attribute4": "65",
+    "Attribute5": "53",
+    "Attribute6": "67",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

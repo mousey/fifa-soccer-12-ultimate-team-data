@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Tobias",
+    "LastName": "Hysén",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "3",
+      "Day": "9"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "319",
+    "LeagueId": "56",
+    "NationId": "46",
+    "Rating": "73",
+    "Attribute1": "84",
+    "Attribute2": "69",
+    "Attribute3": "61",
+    "Attribute4": "62",
+    "Attribute5": "52",
+    "Attribute6": "72",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

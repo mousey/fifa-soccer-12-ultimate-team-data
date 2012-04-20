@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Johan",
+    "LastName": "Martial",
+    "CommonName": null,
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "5",
+      "Day": "30"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "378",
+    "LeagueId": "16",
+    "NationId": "18",
+    "Rating": "68",
+    "Attribute1": "58",
+    "Attribute2": "29",
+    "Attribute3": "56",
+    "Attribute4": "45",
+    "Attribute5": "69",
+    "Attribute6": "69",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Matthias",
+    "LastName": "Holst",
+    "CommonName": null,
+    "Height": "190",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "6",
+      "Day": "19"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "27",
+    "LeagueId": "20",
+    "NationId": "21",
+    "Rating": "61",
+    "Attribute1": "51",
+    "Attribute2": "36",
+    "Attribute3": "37",
+    "Attribute4": "39",
+    "Attribute5": "68",
+    "Attribute6": "59",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

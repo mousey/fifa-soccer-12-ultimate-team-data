@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Wellington Luís",
+    "LastName": "de Sousa",
+    "CommonName": "Wellington",
+    "Height": "187",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "2",
+      "Day": "11"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111045",
+    "LeagueId": "7",
+    "NationId": "54",
+    "Rating": "69",
+    "Attribute1": "64",
+    "Attribute2": "65",
+    "Attribute3": "57",
+    "Attribute4": "68",
+    "Attribute5": "52",
+    "Attribute6": "72",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

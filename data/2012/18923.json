@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Garry",
+    "LastName": "Hay",
+    "CommonName": null,
+    "Height": "173",
+    "DateOfBirth": {
+      "Year": "1977",
+      "Month": "9",
+      "Day": "7"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "82",
+    "LeagueId": "50",
+    "NationId": "42",
+    "Rating": "62",
+    "Attribute1": "51",
+    "Attribute2": "18",
+    "Attribute3": "60",
+    "Attribute4": "46",
+    "Attribute5": "65",
+    "Attribute6": "74",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

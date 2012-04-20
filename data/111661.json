@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Carlos Idriss",
+    "LastName": "Kameni",
+    "CommonName": null,
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "2",
+      "Day": "18"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "452",
+    "LeagueId": "53",
+    "NationId": "103",
+    "Rating": "82",
+    "Attribute1": "87",
+    "Attribute2": "79",
+    "Attribute3": "66",
+    "Attribute4": "92",
+    "Attribute5": "44",
+    "Attribute6": "75",
+    "Rare": "1",
+    "ItemType": "PlayerGk"
+  }
+}

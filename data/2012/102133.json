@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Stefan",
+    "LastName": "Leitl",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1977",
+      "Month": "8",
+      "Day": "29"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111239",
+    "LeagueId": "20",
+    "NationId": "21",
+    "Rating": "68",
+    "Attribute1": "70",
+    "Attribute2": "68",
+    "Attribute3": "64",
+    "Attribute4": "69",
+    "Attribute5": "57",
+    "Attribute6": "57",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Stephen",
+    "LastName": "Last",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "10",
+      "Day": "5"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "838",
+    "LeagueId": "65",
+    "NationId": "25",
+    "Rating": "51",
+    "Attribute1": "34",
+    "Attribute2": "28",
+    "Attribute3": "30",
+    "Attribute4": "25",
+    "Attribute5": "54",
+    "Attribute6": "56",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

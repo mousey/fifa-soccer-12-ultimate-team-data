@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Danilo Luís",
+    "LastName": "Hélio Pereira",
+    "CommonName": "Danilo Pereira",
+    "Height": "187",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "9",
+      "Day": "9"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "50",
+    "LeagueId": "31",
+    "NationId": "38",
+    "Rating": "65",
+    "Attribute1": "70",
+    "Attribute2": "46",
+    "Attribute3": "60",
+    "Attribute4": "58",
+    "Attribute5": "64",
+    "Attribute6": "61",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

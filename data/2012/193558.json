@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Gaby",
+    "LastName": "Jallo",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "1",
+      "Day": "1"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "100634",
+    "LeagueId": "10",
+    "NationId": "186",
+    "Rating": "61",
+    "Attribute1": "73",
+    "Attribute2": "50",
+    "Attribute3": "61",
+    "Attribute4": "64",
+    "Attribute5": "62",
+    "Attribute6": "60",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

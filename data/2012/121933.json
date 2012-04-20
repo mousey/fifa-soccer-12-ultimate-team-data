@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "René",
+    "LastName": "Adler",
+    "CommonName": null,
+    "Height": "190",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "1",
+      "Day": "15"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "32",
+    "LeagueId": "19",
+    "NationId": "21",
+    "Rating": "84",
+    "Attribute1": "88",
+    "Attribute2": "82",
+    "Attribute3": "65",
+    "Attribute4": "86",
+    "Attribute5": "52",
+    "Attribute6": "82",
+    "Rare": "1",
+    "ItemType": "PlayerGk"
+  }
+}

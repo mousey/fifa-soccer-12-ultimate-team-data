@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Alexander",
+    "LastName": "Meier",
+    "CommonName": null,
+    "Height": "196",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "1",
+      "Day": "17"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1824",
+    "LeagueId": "20",
+    "NationId": "21",
+    "Rating": "73",
+    "Attribute1": "60",
+    "Attribute2": "74",
+    "Attribute3": "73",
+    "Attribute4": "70",
+    "Attribute5": "69",
+    "Attribute6": "65",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

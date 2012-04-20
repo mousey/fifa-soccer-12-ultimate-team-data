@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jan-Philipp",
+    "LastName": "Kalla",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "8",
+      "Day": "6"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110329",
+    "LeagueId": "20",
+    "NationId": "21",
+    "Rating": "64",
+    "Attribute1": "68",
+    "Attribute2": "45",
+    "Attribute3": "59",
+    "Attribute4": "55",
+    "Attribute5": "63",
+    "Attribute6": "67",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

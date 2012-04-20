@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ezequiel",
+    "LastName": "Lavezzi",
+    "CommonName": null,
+    "Height": "173",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "5",
+      "Day": "3"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "48",
+    "LeagueId": "31",
+    "NationId": "52",
+    "Rating": "85",
+    "Attribute1": "92",
+    "Attribute2": "76",
+    "Attribute3": "72",
+    "Attribute4": "90",
+    "Attribute5": "59",
+    "Attribute6": "56",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

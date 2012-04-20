@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ibrahim",
+    "LastName": "Afellay",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "4",
+      "Day": "2"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "241",
+    "LeagueId": "53",
+    "NationId": "34",
+    "Rating": "82",
+    "Attribute1": "90",
+    "Attribute2": "77",
+    "Attribute3": "76",
+    "Attribute4": "85",
+    "Attribute5": "57",
+    "Attribute6": "59",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Alexis",
+    "LastName": "Sánchez",
+    "CommonName": null,
+    "Height": "168",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "12",
+      "Day": "19"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "241",
+    "LeagueId": "53",
+    "NationId": "55",
+    "Rating": "86",
+    "Attribute1": "91",
+    "Attribute2": "76",
+    "Attribute3": "76",
+    "Attribute4": "89",
+    "Attribute5": "59",
+    "Attribute6": "66",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

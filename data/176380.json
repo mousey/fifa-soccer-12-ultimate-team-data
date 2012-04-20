@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "David",
+    "LastName": "Ferreira",
+    "CommonName": null,
+    "Height": "166",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "8",
+      "Day": "8"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "695",
+    "LeagueId": "39",
+    "NationId": "56",
+    "Rating": "77",
+    "Attribute1": "71",
+    "Attribute2": "73",
+    "Attribute3": "73",
+    "Attribute4": "76",
+    "Attribute5": "65",
+    "Attribute6": "62",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

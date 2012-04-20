@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Pierre-Michel",
+    "LastName": "Lasogga",
+    "CommonName": null,
+    "Height": "189",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "12",
+      "Day": "15"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "166",
+    "LeagueId": "19",
+    "NationId": "21",
+    "Rating": "70",
+    "Attribute1": "66",
+    "Attribute2": "66",
+    "Attribute3": "43",
+    "Attribute4": "63",
+    "Attribute5": "54",
+    "Attribute6": "74",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

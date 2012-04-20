@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Kevan",
+    "LastName": "Hurst",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "8",
+      "Day": "27"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1803",
+    "LeagueId": "60",
+    "NationId": "14",
+    "Rating": "61",
+    "Attribute1": "65",
+    "Attribute2": "45",
+    "Attribute3": "61",
+    "Attribute4": "62",
+    "Attribute5": "48",
+    "Attribute6": "59",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

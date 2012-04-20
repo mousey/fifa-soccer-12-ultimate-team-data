@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Maurice Junior",
+    "LastName": "Dalé",
+    "CommonName": null,
+    "Height": "187",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "7",
+      "Day": "12"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "71",
+    "LeagueId": "17",
+    "NationId": "18",
+    "Rating": "67",
+    "Attribute1": "74",
+    "Attribute2": "64",
+    "Attribute3": "54",
+    "Attribute4": "63",
+    "Attribute5": "48",
+    "Attribute6": "68",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

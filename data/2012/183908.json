@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Bilal",
+    "LastName": "Çubukçu",
+    "CommonName": null,
+    "Height": "176",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "5",
+      "Day": "16"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1826",
+    "LeagueId": "20",
+    "NationId": "48",
+    "Rating": "64",
+    "Attribute1": "72",
+    "Attribute2": "62",
+    "Attribute3": "60",
+    "Attribute4": "65",
+    "Attribute5": "45",
+    "Attribute6": "54",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

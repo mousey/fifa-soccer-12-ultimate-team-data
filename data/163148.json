@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Marcus",
+    "LastName": "Williams",
+    "CommonName": null,
+    "Height": "173",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "4",
+      "Day": "8"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1793",
+    "LeagueId": "14",
+    "NationId": "14",
+    "Rating": "63",
+    "Attribute1": "73",
+    "Attribute2": "28",
+    "Attribute3": "58",
+    "Attribute4": "58",
+    "Attribute5": "65",
+    "Attribute6": "64",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

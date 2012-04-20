@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Edinson",
+    "LastName": "Cavani",
+    "CommonName": null,
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "2",
+      "Day": "14"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "48",
+    "LeagueId": "31",
+    "NationId": "60",
+    "Rating": "86",
+    "Attribute1": "84",
+    "Attribute2": "83",
+    "Attribute3": "64",
+    "Attribute4": "76",
+    "Attribute5": "68",
+    "Attribute6": "86",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

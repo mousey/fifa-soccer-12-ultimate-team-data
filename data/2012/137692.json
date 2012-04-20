@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jeroen",
+    "LastName": "Verhoeven",
+    "CommonName": null,
+    "Height": "197",
+    "DateOfBirth": {
+      "Year": "1980",
+      "Month": "4",
+      "Day": "30"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "245",
+    "LeagueId": "10",
+    "NationId": "34",
+    "Rating": "67",
+    "Attribute1": "62",
+    "Attribute2": "70",
+    "Attribute3": "70",
+    "Attribute4": "72",
+    "Attribute5": "42",
+    "Attribute6": "66",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

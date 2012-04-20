@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ricardo Izecson",
+    "LastName": "dos Santos Leite",
+    "CommonName": "Kaká",
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "4",
+      "Day": "22"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "243",
+    "LeagueId": "53",
+    "NationId": "54",
+    "Rating": "85",
+    "Attribute1": "77",
+    "Attribute2": "83",
+    "Attribute3": "80",
+    "Attribute4": "87",
+    "Attribute5": "48",
+    "Attribute6": "50",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

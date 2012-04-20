@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Johannes",
+    "LastName": "Geis",
+    "CommonName": null,
+    "Height": "181",
+    "DateOfBirth": {
+      "Year": "1993",
+      "Month": "5",
+      "Day": "17"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "165",
+    "LeagueId": "20",
+    "NationId": "21",
+    "Rating": "56",
+    "Attribute1": "68",
+    "Attribute2": "45",
+    "Attribute3": "54",
+    "Attribute4": "57",
+    "Attribute5": "59",
+    "Attribute6": "71",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

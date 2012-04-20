@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "José Francisco",
+    "LastName": "Mora Aldava",
+    "CommonName": "Mora",
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "6",
+      "Day": "11"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "100879",
+    "LeagueId": "54",
+    "NationId": "45",
+    "Rating": "65",
+    "Attribute1": "55",
+    "Attribute2": "43",
+    "Attribute3": "56",
+    "Attribute4": "46",
+    "Attribute5": "70",
+    "Attribute6": "66",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

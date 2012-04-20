@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Kevin",
+    "LastName": "Doyle",
+    "CommonName": null,
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "9",
+      "Day": "18"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110",
+    "LeagueId": "13",
+    "NationId": "25",
+    "Rating": "78",
+    "Attribute1": "76",
+    "Attribute2": "74",
+    "Attribute3": "60",
+    "Attribute4": "73",
+    "Attribute5": "58",
+    "Attribute6": "79",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

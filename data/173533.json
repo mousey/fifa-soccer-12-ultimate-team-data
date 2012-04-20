@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "David",
+    "LastName": "Button",
+    "CommonName": null,
+    "Height": "191",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "2",
+      "Day": "27"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1958",
+    "LeagueId": "60",
+    "NationId": "14",
+    "Rating": "62",
+    "Attribute1": "69",
+    "Attribute2": "52",
+    "Attribute3": "59",
+    "Attribute4": "68",
+    "Attribute5": "66",
+    "Attribute6": "60",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

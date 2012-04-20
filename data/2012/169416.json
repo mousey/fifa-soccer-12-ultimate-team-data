@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Carlos",
+    "LastName": "Vela",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "3",
+      "Day": "1"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "457",
+    "LeagueId": "53",
+    "NationId": "83",
+    "Rating": "74",
+    "Attribute1": "86",
+    "Attribute2": "73",
+    "Attribute3": "67",
+    "Attribute4": "76",
+    "Attribute5": "46",
+    "Attribute6": "66",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Juán Francisco",
+    "LastName": "Martínez Modesto",
+    "CommonName": "Nino",
+    "Height": "169",
+    "DateOfBirth": {
+      "Year": "1980",
+      "Month": "6",
+      "Day": "10"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "479",
+    "LeagueId": "53",
+    "NationId": "45",
+    "Rating": "71",
+    "Attribute1": "74",
+    "Attribute2": "71",
+    "Attribute3": "58",
+    "Attribute4": "67",
+    "Attribute5": "52",
+    "Attribute6": "62",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Nathan",
+    "LastName": "Thompson",
+    "CommonName": null,
+    "Height": "170",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "11",
+      "Day": "9"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1934",
+    "LeagueId": "61",
+    "NationId": "14",
+    "Rating": "50",
+    "Attribute1": "67",
+    "Attribute2": "16",
+    "Attribute3": "35",
+    "Attribute4": "22",
+    "Attribute5": "51",
+    "Attribute6": "62",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

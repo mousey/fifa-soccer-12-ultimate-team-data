@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Trond Erik",
+    "LastName": "Bertelsen",
+    "CommonName": null,
+    "Height": "174",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "6",
+      "Day": "5"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "300",
+    "LeagueId": "41",
+    "NationId": "36",
+    "Rating": "64",
+    "Attribute1": "75",
+    "Attribute2": "57",
+    "Attribute3": "62",
+    "Attribute4": "60",
+    "Attribute5": "66",
+    "Attribute6": "65",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

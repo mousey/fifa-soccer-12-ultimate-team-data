@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Dean",
+    "LastName": "Marshall",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "3",
+      "Day": "15"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111132",
+    "LeagueId": "65",
+    "NationId": "25",
+    "Rating": "56",
+    "Attribute1": "71",
+    "Attribute2": "48",
+    "Attribute3": "51",
+    "Attribute4": "57",
+    "Attribute5": "41",
+    "Attribute6": "49",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

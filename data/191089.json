@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Connor",
+    "LastName": "Wickham",
+    "CommonName": null,
+    "Height": "191",
+    "DateOfBirth": {
+      "Year": "1993",
+      "Month": "3",
+      "Day": "31"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "106",
+    "LeagueId": "13",
+    "NationId": "14",
+    "Rating": "70",
+    "Attribute1": "73",
+    "Attribute2": "63",
+    "Attribute3": "53",
+    "Attribute4": "71",
+    "Attribute5": "52",
+    "Attribute6": "69",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

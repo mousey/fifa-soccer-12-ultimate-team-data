@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Andy",
+    "LastName": "Sandell",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "9",
+      "Day": "8"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1933",
+    "LeagueId": "60",
+    "NationId": "14",
+    "Rating": "59",
+    "Attribute1": "71",
+    "Attribute2": "55",
+    "Attribute3": "55",
+    "Attribute4": "59",
+    "Attribute5": "60",
+    "Attribute6": "61",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

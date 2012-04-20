@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ben",
+    "LastName": "Coker",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "7",
+      "Day": "1"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1935",
+    "LeagueId": "60",
+    "NationId": "14",
+    "Rating": "59",
+    "Attribute1": "76",
+    "Attribute2": "48",
+    "Attribute3": "61",
+    "Attribute4": "61",
+    "Attribute5": "60",
+    "Attribute6": "56",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

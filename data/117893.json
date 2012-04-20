@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Paulo César",
+    "LastName": "Rocha Rosa",
+    "CommonName": "Paulo César",
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1980",
+      "Month": "1",
+      "Day": "5"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1896",
+    "LeagueId": "308",
+    "NationId": "54",
+    "Rating": "72",
+    "Attribute1": "78",
+    "Attribute2": "65",
+    "Attribute3": "62",
+    "Attribute4": "73",
+    "Attribute5": "55",
+    "Attribute6": "68",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

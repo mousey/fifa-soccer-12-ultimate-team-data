@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Kieran",
+    "LastName": "Charnock",
+    "CommonName": null,
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "8",
+      "Day": "3"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "357",
+    "LeagueId": "61",
+    "NationId": "14",
+    "Rating": "60",
+    "Attribute1": "57",
+    "Attribute2": "24",
+    "Attribute3": "27",
+    "Attribute4": "26",
+    "Attribute5": "67",
+    "Attribute6": "67",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

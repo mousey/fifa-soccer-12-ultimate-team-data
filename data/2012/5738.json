@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Pascal",
+    "LastName": "Feindouno",
+    "CommonName": null,
+    "Height": "176",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "2",
+      "Day": "27"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110770",
+    "LeagueId": "189",
+    "NationId": "118",
+    "Rating": "72",
+    "Attribute1": "79",
+    "Attribute2": "69",
+    "Attribute3": "69",
+    "Attribute4": "77",
+    "Attribute5": "50",
+    "Attribute6": "65",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

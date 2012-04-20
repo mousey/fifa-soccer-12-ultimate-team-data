@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "André Luiz",
+    "LastName": "Tavares",
+    "CommonName": "Andrezinho",
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "7",
+      "Day": "30"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1048",
+    "LeagueId": "7",
+    "NationId": "54",
+    "Rating": "75",
+    "Attribute1": "68",
+    "Attribute2": "76",
+    "Attribute3": "78",
+    "Attribute4": "76",
+    "Attribute5": "60",
+    "Attribute6": "65",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

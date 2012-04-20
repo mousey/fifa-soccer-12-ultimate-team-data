@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Arnold",
+    "LastName": "Kruiswijk",
+    "CommonName": null,
+    "Height": "187",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "11",
+      "Day": "2"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1913",
+    "LeagueId": "10",
+    "NationId": "34",
+    "Rating": "68",
+    "Attribute1": "55",
+    "Attribute2": "48",
+    "Attribute3": "58",
+    "Attribute4": "48",
+    "Attribute5": "70",
+    "Attribute6": "66",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Dean",
+    "LastName": "Morgan",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "10",
+      "Day": "3"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1924",
+    "LeagueId": "60",
+    "NationId": "14",
+    "Rating": "61",
+    "Attribute1": "75",
+    "Attribute2": "55",
+    "Attribute3": "58",
+    "Attribute4": "65",
+    "Attribute5": "49",
+    "Attribute6": "39",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

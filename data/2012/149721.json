@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Gary",
+    "LastName": "Rogers",
+    "CommonName": null,
+    "Height": "191",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "9",
+      "Day": "24"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "423",
+    "LeagueId": "65",
+    "NationId": "25",
+    "Rating": "60",
+    "Attribute1": "59",
+    "Attribute2": "58",
+    "Attribute3": "57",
+    "Attribute4": "66",
+    "Attribute5": "35",
+    "Attribute6": "60",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

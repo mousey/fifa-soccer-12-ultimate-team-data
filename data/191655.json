@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Seung Gyu",
+    "LastName": "Kim",
+    "CommonName": "Kim Seung Gyu",
+    "Height": "187",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "9",
+      "Day": "30"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1473",
+    "LeagueId": "83",
+    "NationId": "167",
+    "Rating": "62",
+    "Attribute1": "61",
+    "Attribute2": "60",
+    "Attribute3": "60",
+    "Attribute4": "64",
+    "Attribute5": "57",
+    "Attribute6": "62",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Carlos",
+    "LastName": "Edwards",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1978",
+      "Month": "10",
+      "Day": "24"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "94",
+    "LeagueId": "14",
+    "NationId": "93",
+    "Rating": "67",
+    "Attribute1": "74",
+    "Attribute2": "63",
+    "Attribute3": "61",
+    "Attribute4": "73",
+    "Attribute5": "63",
+    "Attribute6": "58",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

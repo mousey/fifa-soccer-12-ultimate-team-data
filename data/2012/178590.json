@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Tomasz",
+    "LastName": "Cywka",
+    "CommonName": null,
+    "Height": "173",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "6",
+      "Day": "27"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "91",
+    "LeagueId": "14",
+    "NationId": "37",
+    "Rating": "69",
+    "Attribute1": "72",
+    "Attribute2": "65",
+    "Attribute3": "64",
+    "Attribute4": "73",
+    "Attribute5": "60",
+    "Attribute6": "60",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

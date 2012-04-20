@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Andrés",
+    "LastName": "Palop Cervera",
+    "CommonName": "Palop",
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1973",
+      "Month": "10",
+      "Day": "22"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "481",
+    "LeagueId": "53",
+    "NationId": "45",
+    "Rating": "77",
+    "Attribute1": "78",
+    "Attribute2": "79",
+    "Attribute3": "79",
+    "Attribute4": "71",
+    "Attribute5": "54",
+    "Attribute6": "81",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

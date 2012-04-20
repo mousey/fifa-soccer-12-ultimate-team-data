@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Luca",
+    "LastName": "Antonelli",
+    "CommonName": null,
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "2",
+      "Day": "11"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "110556",
+    "LeagueId": "31",
+    "NationId": "27",
+    "Rating": "73",
+    "Attribute1": "78",
+    "Attribute2": "53",
+    "Attribute3": "70",
+    "Attribute4": "68",
+    "Attribute5": "72",
+    "Attribute6": "62",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

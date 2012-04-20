@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jonathan",
+    "LastName": "Parr",
+    "CommonName": null,
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "10",
+      "Day": "21"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1799",
+    "LeagueId": "14",
+    "NationId": "36",
+    "Rating": "70",
+    "Attribute1": "79",
+    "Attribute2": "61",
+    "Attribute3": "69",
+    "Attribute4": "68",
+    "Attribute5": "69",
+    "Attribute6": "63",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

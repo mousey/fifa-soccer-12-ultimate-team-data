@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Danny",
+    "LastName": "Coles",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "10",
+      "Day": "30"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "143",
+    "LeagueId": "60",
+    "NationId": "14",
+    "Rating": "62",
+    "Attribute1": "70",
+    "Attribute2": "32",
+    "Attribute3": "33",
+    "Attribute4": "35",
+    "Attribute5": "66",
+    "Attribute6": "67",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

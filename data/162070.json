@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Bruno",
+    "LastName": "Herrero Arias",
+    "CommonName": "Bruno Herrero",
+    "Height": "177",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "2",
+      "Day": "13"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1742",
+    "LeagueId": "54",
+    "NationId": "45",
+    "Rating": "65",
+    "Attribute1": "64",
+    "Attribute2": "65",
+    "Attribute3": "74",
+    "Attribute4": "60",
+    "Attribute5": "58",
+    "Attribute6": "51",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

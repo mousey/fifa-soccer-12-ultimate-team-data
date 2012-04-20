@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Fatih",
+    "LastName": "Atik",
+    "CommonName": null,
+    "Height": "174",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "6",
+      "Day": "25"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "62",
+    "LeagueId": "17",
+    "NationId": "18",
+    "Rating": "68",
+    "Attribute1": "74",
+    "Attribute2": "57",
+    "Attribute3": "65",
+    "Attribute4": "71",
+    "Attribute5": "60",
+    "Attribute6": "46",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

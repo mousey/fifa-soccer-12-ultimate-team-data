@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Benjamin",
+    "LastName": "Nivet",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1977",
+      "Month": "1",
+      "Day": "2"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "210",
+    "LeagueId": "16",
+    "NationId": "18",
+    "Rating": "74",
+    "Attribute1": "50",
+    "Attribute2": "72",
+    "Attribute3": "71",
+    "Attribute4": "72",
+    "Attribute5": "56",
+    "Attribute6": "55",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

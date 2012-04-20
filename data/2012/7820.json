@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Denny",
+    "LastName": "Landzaat",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1976",
+      "Month": "5",
+      "Day": "6"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1908",
+    "LeagueId": "10",
+    "NationId": "34",
+    "Rating": "72",
+    "Attribute1": "49",
+    "Attribute2": "72",
+    "Attribute3": "71",
+    "Attribute4": "69",
+    "Attribute5": "70",
+    "Attribute6": "71",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

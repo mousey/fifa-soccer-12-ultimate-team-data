@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ezequiel",
+    "LastName": "Muñoz",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "10",
+      "Day": "8"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1843",
+    "LeagueId": "31",
+    "NationId": "52",
+    "Rating": "74",
+    "Attribute1": "68",
+    "Attribute2": "35",
+    "Attribute3": "50",
+    "Attribute4": "44",
+    "Attribute5": "78",
+    "Attribute6": "78",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

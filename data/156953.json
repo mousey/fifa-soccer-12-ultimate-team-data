@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Adriano",
+    "LastName": "Neves Pereira",
+    "CommonName": "Chuva",
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "5",
+      "Day": "24"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1474",
+    "LeagueId": "83",
+    "NationId": "54",
+    "Rating": "69",
+    "Attribute1": "74",
+    "Attribute2": "65",
+    "Attribute3": "56",
+    "Attribute4": "66",
+    "Attribute5": "57",
+    "Attribute6": "68",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

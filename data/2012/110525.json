@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Dele",
+    "LastName": "Adebola",
+    "CommonName": null,
+    "Height": "191",
+    "DateOfBirth": {
+      "Year": "1975",
+      "Month": "6",
+      "Day": "23"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1952",
+    "LeagueId": "14",
+    "NationId": "133",
+    "Rating": "64",
+    "Attribute1": "34",
+    "Attribute2": "65",
+    "Attribute3": "50",
+    "Attribute4": "62",
+    "Attribute5": "58",
+    "Attribute6": "75",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

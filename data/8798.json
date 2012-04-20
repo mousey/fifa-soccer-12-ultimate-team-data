@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "José María",
+    "LastName": "Movilla Cubero",
+    "CommonName": "Movilla",
+    "Height": "171",
+    "DateOfBirth": {
+      "Year": "1975",
+      "Month": "2",
+      "Day": "8"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "480",
+    "LeagueId": "53",
+    "NationId": "45",
+    "Rating": "69",
+    "Attribute1": "45",
+    "Attribute2": "57",
+    "Attribute3": "72",
+    "Attribute4": "56",
+    "Attribute5": "66",
+    "Attribute6": "53",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Heung-Min",
+    "LastName": "Son",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1992",
+      "Month": "7",
+      "Day": "8"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "28",
+    "LeagueId": "19",
+    "NationId": "167",
+    "Rating": "73",
+    "Attribute1": "79",
+    "Attribute2": "71",
+    "Attribute3": "58",
+    "Attribute4": "77",
+    "Attribute5": "50",
+    "Attribute6": "65",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Alfredo",
+    "LastName": "González Tahuilán",
+    "CommonName": null,
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1980",
+      "Month": "4",
+      "Day": "10"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "101114",
+    "LeagueId": "341",
+    "NationId": "83",
+    "Rating": "67",
+    "Attribute1": "60",
+    "Attribute2": "48",
+    "Attribute3": "47",
+    "Attribute4": "37",
+    "Attribute5": "73",
+    "Attribute6": "72",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

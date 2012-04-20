@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Danny",
+    "LastName": "Allsopp",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1978",
+      "Month": "8",
+      "Day": "10"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111397",
+    "LeagueId": "351",
+    "NationId": "195",
+    "Rating": "64",
+    "Attribute1": "66",
+    "Attribute2": "63",
+    "Attribute3": "38",
+    "Attribute4": "59",
+    "Attribute5": "54",
+    "Attribute6": "70",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

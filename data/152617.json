@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Karim",
+    "LastName": "Essediri",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "7",
+      "Day": "29"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "299",
+    "LeagueId": "41",
+    "NationId": "145",
+    "Rating": "67",
+    "Attribute1": "76",
+    "Attribute2": "67",
+    "Attribute3": "68",
+    "Attribute4": "63",
+    "Attribute5": "68",
+    "Attribute6": "58",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

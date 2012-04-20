@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Benoît",
+    "LastName": "Costil",
+    "CommonName": null,
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "7",
+      "Day": "3"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "74",
+    "LeagueId": "16",
+    "NationId": "18",
+    "Rating": "74",
+    "Attribute1": "74",
+    "Attribute2": "73",
+    "Attribute3": "65",
+    "Attribute4": "78",
+    "Attribute5": "46",
+    "Attribute6": "75",
+    "Rare": "1",
+    "ItemType": "PlayerGk"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Angelo",
+    "LastName": "Ogbonna",
+    "CommonName": null,
+    "Height": "189",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "5",
+      "Day": "23"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "54",
+    "LeagueId": "32",
+    "NationId": "27",
+    "Rating": "75",
+    "Attribute1": "82",
+    "Attribute2": "44",
+    "Attribute3": "61",
+    "Attribute4": "49",
+    "Attribute5": "81",
+    "Attribute6": "81",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

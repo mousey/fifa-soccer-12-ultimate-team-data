@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Chris",
+    "LastName": "Brunt",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "12",
+      "Day": "14"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "109",
+    "LeagueId": "13",
+    "NationId": "35",
+    "Rating": "75",
+    "Attribute1": "66",
+    "Attribute2": "75",
+    "Attribute3": "80",
+    "Attribute4": "77",
+    "Attribute5": "60",
+    "Attribute6": "67",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

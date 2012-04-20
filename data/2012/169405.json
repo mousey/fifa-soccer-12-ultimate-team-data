@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Andre",
+    "LastName": "Mijatović",
+    "CommonName": null,
+    "Height": "191",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "12",
+      "Day": "3"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "166",
+    "LeagueId": "19",
+    "NationId": "10",
+    "Rating": "71",
+    "Attribute1": "40",
+    "Attribute2": "40",
+    "Attribute3": "41",
+    "Attribute4": "30",
+    "Attribute5": "73",
+    "Attribute6": "79",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

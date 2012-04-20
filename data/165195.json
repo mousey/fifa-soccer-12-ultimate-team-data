@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Hamdi",
+    "LastName": "Kasraoui",
+    "CommonName": null,
+    "Height": "192",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "1",
+      "Day": "18"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "64",
+    "LeagueId": "17",
+    "NationId": "145",
+    "Rating": "67",
+    "Attribute1": "73",
+    "Attribute2": "64",
+    "Attribute3": "60",
+    "Attribute4": "70",
+    "Attribute5": "53",
+    "Attribute6": "62",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

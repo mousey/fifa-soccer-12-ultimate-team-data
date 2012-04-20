@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Robert",
+    "LastName": "Lewandowski",
+    "CommonName": null,
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "8",
+      "Day": "21"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "22",
+    "LeagueId": "19",
+    "NationId": "37",
+    "Rating": "77",
+    "Attribute1": "80",
+    "Attribute2": "73",
+    "Attribute3": "57",
+    "Attribute4": "76",
+    "Attribute5": "56",
+    "Attribute6": "79",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

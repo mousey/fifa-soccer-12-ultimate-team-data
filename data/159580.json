@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Damiá",
+    "LastName": "Abellá Pérez",
+    "CommonName": "Damià",
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "4",
+      "Day": "15"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "479",
+    "LeagueId": "53",
+    "NationId": "45",
+    "Rating": "69",
+    "Attribute1": "76",
+    "Attribute2": "55",
+    "Attribute3": "67",
+    "Attribute4": "70",
+    "Attribute5": "68",
+    "Attribute6": "63",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Miralem",
+    "LastName": "Pjanić",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "4",
+      "Day": "2"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "52",
+    "LeagueId": "31",
+    "NationId": "8",
+    "Rating": "79",
+    "Attribute1": "78",
+    "Attribute2": "75",
+    "Attribute3": "79",
+    "Attribute4": "80",
+    "Attribute5": "63",
+    "Attribute6": "61",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

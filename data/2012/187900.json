@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Yussif",
+    "LastName": "Chibsah",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "12",
+      "Day": "30"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111277",
+    "LeagueId": "56",
+    "NationId": "117",
+    "Rating": "64",
+    "Attribute1": "78",
+    "Attribute2": "56",
+    "Attribute3": "54",
+    "Attribute4": "64",
+    "Attribute5": "68",
+    "Attribute6": "68",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

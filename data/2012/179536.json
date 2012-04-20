@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Tijan",
+    "LastName": "Jaiteh",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "12",
+      "Day": "31"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "919",
+    "LeagueId": "41",
+    "NationId": "116",
+    "Rating": "56",
+    "Attribute1": "64",
+    "Attribute2": "52",
+    "Attribute3": "52",
+    "Attribute4": "61",
+    "Attribute5": "58",
+    "Attribute6": "60",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

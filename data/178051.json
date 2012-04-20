@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Lucas",
+    "LastName": "Deaux",
+    "CommonName": null,
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "12",
+      "Day": "26"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "379",
+    "LeagueId": "17",
+    "NationId": "18",
+    "Rating": "64",
+    "Attribute1": "76",
+    "Attribute2": "48",
+    "Attribute3": "57",
+    "Attribute4": "58",
+    "Attribute5": "66",
+    "Attribute6": "69",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

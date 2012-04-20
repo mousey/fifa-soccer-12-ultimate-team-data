@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Sjoerd",
+    "LastName": "Overgoor",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "9",
+      "Day": "6"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "635",
+    "LeagueId": "10",
+    "NationId": "34",
+    "Rating": "63",
+    "Attribute1": "66",
+    "Attribute2": "61",
+    "Attribute3": "59",
+    "Attribute4": "62",
+    "Attribute5": "59",
+    "Attribute6": "63",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

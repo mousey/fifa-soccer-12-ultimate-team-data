@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Felipe Aliste",
+    "LastName": "Lopes",
+    "CommonName": "Felipe Lopes",
+    "Height": "187",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "8",
+      "Day": "7"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1891",
+    "LeagueId": "308",
+    "NationId": "54",
+    "Rating": "73",
+    "Attribute1": "66",
+    "Attribute2": "47",
+    "Attribute3": "60",
+    "Attribute4": "58",
+    "Attribute5": "75",
+    "Attribute6": "73",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

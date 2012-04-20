@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Néstor",
+    "LastName": "Susaeta Jaurrieta",
+    "CommonName": "Susaeta",
+    "Height": "177",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "12",
+      "Day": "1"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "480",
+    "LeagueId": "53",
+    "NationId": "45",
+    "Rating": "66",
+    "Attribute1": "59",
+    "Attribute2": "70",
+    "Attribute3": "74",
+    "Attribute4": "67",
+    "Attribute5": "49",
+    "Attribute6": "52",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

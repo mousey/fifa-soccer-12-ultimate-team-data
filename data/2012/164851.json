@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ivanildo",
+    "LastName": "Soares Cassamá",
+    "CommonName": "Ivanildo",
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "1",
+      "Day": "9"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "111540",
+    "LeagueId": "308",
+    "NationId": "119",
+    "Rating": "74",
+    "Attribute1": "89",
+    "Attribute2": "60",
+    "Attribute3": "65",
+    "Attribute4": "76",
+    "Attribute5": "44",
+    "Attribute6": "42",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Kieran",
+    "LastName": "Lee",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "6",
+      "Day": "22"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1920",
+    "LeagueId": "60",
+    "NationId": "14",
+    "Rating": "63",
+    "Attribute1": "72",
+    "Attribute2": "43",
+    "Attribute3": "65",
+    "Attribute4": "54",
+    "Attribute5": "60",
+    "Attribute6": "61",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

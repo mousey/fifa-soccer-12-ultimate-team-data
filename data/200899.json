@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Christophe",
+    "LastName": "Bertjens",
+    "CommonName": null,
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1993",
+      "Month": "1",
+      "Day": "5"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "680",
+    "LeagueId": "4",
+    "NationId": "7",
+    "Rating": "52",
+    "Attribute1": "66",
+    "Attribute2": "47",
+    "Attribute3": "51",
+    "Attribute4": "56",
+    "Attribute5": "46",
+    "Attribute6": "54",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

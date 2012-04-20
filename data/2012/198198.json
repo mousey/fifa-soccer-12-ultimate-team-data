@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jordi",
+    "LastName": "Amat Maas",
+    "CommonName": "Jordi Amat",
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1992",
+      "Month": "3",
+      "Day": "21"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "452",
+    "LeagueId": "53",
+    "NationId": "45",
+    "Rating": "69",
+    "Attribute1": "65",
+    "Attribute2": "29",
+    "Attribute3": "48",
+    "Attribute4": "36",
+    "Attribute5": "70",
+    "Attribute6": "74",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

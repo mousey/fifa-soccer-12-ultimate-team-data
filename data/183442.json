@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "James",
+    "LastName": "Henry",
+    "CommonName": null,
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "6",
+      "Day": "10"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "97",
+    "LeagueId": "14",
+    "NationId": "14",
+    "Rating": "68",
+    "Attribute1": "76",
+    "Attribute2": "65",
+    "Attribute3": "73",
+    "Attribute4": "66",
+    "Attribute5": "44",
+    "Attribute6": "52",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

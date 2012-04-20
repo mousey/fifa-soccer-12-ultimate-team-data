@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ludovic",
+    "LastName": "Obraniak",
+    "CommonName": null,
+    "Height": "174",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "11",
+      "Day": "10"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "65",
+    "LeagueId": "16",
+    "NationId": "37",
+    "Rating": "77",
+    "Attribute1": "78",
+    "Attribute2": "77",
+    "Attribute3": "79",
+    "Attribute4": "77",
+    "Attribute5": "61",
+    "Attribute6": "56",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

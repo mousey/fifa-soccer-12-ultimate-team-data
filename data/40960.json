@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "André Luiz",
+    "LastName": "Moreira",
+    "CommonName": "André Luiz",
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1974",
+      "Month": "1",
+      "Day": "11"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "111928",
+    "LeagueId": "39",
+    "NationId": "54",
+    "Rating": "64",
+    "Attribute1": "46",
+    "Attribute2": "64",
+    "Attribute3": "68",
+    "Attribute4": "62",
+    "Attribute5": "68",
+    "Attribute6": "68",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

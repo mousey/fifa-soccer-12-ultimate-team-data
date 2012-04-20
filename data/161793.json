@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Imanol",
+    "LastName": "Agirretxe Arruti",
+    "CommonName": "Agirretxe",
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "2",
+      "Day": "24"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "457",
+    "LeagueId": "53",
+    "NationId": "45",
+    "Rating": "67",
+    "Attribute1": "52",
+    "Attribute2": "63",
+    "Attribute3": "42",
+    "Attribute4": "60",
+    "Attribute5": "58",
+    "Attribute6": "72",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

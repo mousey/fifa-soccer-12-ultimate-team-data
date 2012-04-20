@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Mladen",
+    "LastName": "Petrić",
+    "CommonName": null,
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "1",
+      "Day": "1"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "28",
+    "LeagueId": "19",
+    "NationId": "10",
+    "Rating": "81",
+    "Attribute1": "66",
+    "Attribute2": "84",
+    "Attribute3": "70",
+    "Attribute4": "77",
+    "Attribute5": "54",
+    "Attribute6": "78",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

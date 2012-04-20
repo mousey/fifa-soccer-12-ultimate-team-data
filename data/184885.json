@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Muriel Gustavo",
+    "LastName": "Becker",
+    "CommonName": "Muriel",
+    "Height": "189",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "2",
+      "Day": "14"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1048",
+    "LeagueId": "7",
+    "NationId": "54",
+    "Rating": "75",
+    "Attribute1": "81",
+    "Attribute2": "68",
+    "Attribute3": "65",
+    "Attribute4": "79",
+    "Attribute5": "33",
+    "Attribute6": "71",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Leon",
+    "LastName": "McSweeney",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "2",
+      "Day": "19"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1958",
+    "LeagueId": "60",
+    "NationId": "25",
+    "Rating": "60",
+    "Attribute1": "74",
+    "Attribute2": "48",
+    "Attribute3": "56",
+    "Attribute4": "62",
+    "Attribute5": "60",
+    "Attribute6": "51",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Joan",
+    "LastName": "Verdú González",
+    "CommonName": "Verdú",
+    "Height": "176",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "5",
+      "Day": "5"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "452",
+    "LeagueId": "53",
+    "NationId": "45",
+    "Rating": "78",
+    "Attribute1": "66",
+    "Attribute2": "71",
+    "Attribute3": "79",
+    "Attribute4": "78",
+    "Attribute5": "56",
+    "Attribute6": "56",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Marcus",
+    "LastName": "Tracy",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "10",
+      "Day": "2"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "820",
+    "LeagueId": "1",
+    "NationId": "95",
+    "Rating": "63",
+    "Attribute1": "81",
+    "Attribute2": "59",
+    "Attribute3": "34",
+    "Attribute4": "65",
+    "Attribute5": "52",
+    "Attribute6": "72",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

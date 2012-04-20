@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Christian",
+    "LastName": "Rahn",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "6",
+      "Day": "15"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "165",
+    "LeagueId": "20",
+    "NationId": "21",
+    "Rating": "63",
+    "Attribute1": "61",
+    "Attribute2": "69",
+    "Attribute3": "64",
+    "Attribute4": "65",
+    "Attribute5": "67",
+    "Attribute6": "64",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

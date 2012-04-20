@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Peter",
+    "LastName": "Løvenkrands",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1980",
+      "Month": "1",
+      "Day": "29"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "13",
+    "LeagueId": "13",
+    "NationId": "13",
+    "Rating": "71",
+    "Attribute1": "69",
+    "Attribute2": "70",
+    "Attribute3": "75",
+    "Attribute4": "74",
+    "Attribute5": "54",
+    "Attribute6": "66",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

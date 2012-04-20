@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Steve",
+    "LastName": "Fletcher",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1972",
+      "Month": "7",
+      "Day": "26"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1943",
+    "LeagueId": "60",
+    "NationId": "14",
+    "Rating": "58",
+    "Attribute1": "30",
+    "Attribute2": "56",
+    "Attribute3": "42",
+    "Attribute4": "35",
+    "Attribute5": "63",
+    "Attribute6": "77",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

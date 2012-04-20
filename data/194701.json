@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Senah",
+    "LastName": "Mango",
+    "CommonName": null,
+    "Height": "181",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "12",
+      "Day": "13"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "69",
+    "LeagueId": "17",
+    "NationId": "144",
+    "Rating": "61",
+    "Attribute1": "65",
+    "Attribute2": "34",
+    "Attribute3": "58",
+    "Attribute4": "49",
+    "Attribute5": "64",
+    "Attribute6": "68",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

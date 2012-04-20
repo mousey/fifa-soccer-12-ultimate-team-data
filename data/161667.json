@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Luis Enrique",
+    "LastName": "Robles",
+    "CommonName": null,
+    "Height": "169",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "9",
+      "Day": "22"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "101114",
+    "LeagueId": "341",
+    "NationId": "83",
+    "Rating": "66",
+    "Attribute1": "72",
+    "Attribute2": "50",
+    "Attribute3": "58",
+    "Attribute4": "57",
+    "Attribute5": "71",
+    "Attribute6": "73",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

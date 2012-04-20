@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Boris",
+    "LastName": "Smiljanic",
+    "CommonName": null,
+    "Height": "190",
+    "DateOfBirth": {
+      "Year": "1976",
+      "Month": "9",
+      "Day": "28"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "322",
+    "LeagueId": "189",
+    "NationId": "47",
+    "Rating": "69",
+    "Attribute1": "29",
+    "Attribute2": "58",
+    "Attribute3": "65",
+    "Attribute4": "56",
+    "Attribute5": "74",
+    "Attribute6": "68",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

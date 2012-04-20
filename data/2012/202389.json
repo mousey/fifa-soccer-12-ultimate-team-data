@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ben",
+    "LastName": "Sippola",
+    "CommonName": null,
+    "Height": "173",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "7",
+      "Day": "13"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "687",
+    "LeagueId": "39",
+    "NationId": "95",
+    "Rating": "54",
+    "Attribute1": "71",
+    "Attribute2": "59",
+    "Attribute3": "52",
+    "Attribute4": "63",
+    "Attribute5": "50",
+    "Attribute6": "48",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

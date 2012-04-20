@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Andreas",
+    "LastName": "Schäfer",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "2",
+      "Day": "5"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "111239",
+    "LeagueId": "20",
+    "NationId": "21",
+    "Rating": "63",
+    "Attribute1": "74",
+    "Attribute2": "51",
+    "Attribute3": "58",
+    "Attribute4": "62",
+    "Attribute5": "63",
+    "Attribute6": "62",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

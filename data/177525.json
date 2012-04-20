@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Nabil",
+    "LastName": "Dirar",
+    "CommonName": null,
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "2",
+      "Day": "25"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "231",
+    "LeagueId": "4",
+    "NationId": "129",
+    "Rating": "72",
+    "Attribute1": "85",
+    "Attribute2": "63",
+    "Attribute3": "68",
+    "Attribute4": "80",
+    "Attribute5": "55",
+    "Attribute6": "63",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Sidney",
+    "LastName": "Govou",
+    "CommonName": null,
+    "Height": "177",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "7",
+      "Day": "27"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111271",
+    "LeagueId": "16",
+    "NationId": "18",
+    "Rating": "77",
+    "Attribute1": "77",
+    "Attribute2": "77",
+    "Attribute3": "74",
+    "Attribute4": "75",
+    "Attribute5": "53",
+    "Attribute6": "69",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

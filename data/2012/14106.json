@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ross",
+    "LastName": "Tokely",
+    "CommonName": null,
+    "Height": "191",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "3",
+      "Day": "8"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "620",
+    "LeagueId": "50",
+    "NationId": "42",
+    "Rating": "60",
+    "Attribute1": "40",
+    "Attribute2": "17",
+    "Attribute3": "47",
+    "Attribute4": "46",
+    "Attribute5": "74",
+    "Attribute6": "67",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

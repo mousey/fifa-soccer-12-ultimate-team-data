@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Damien",
+    "LastName": "Delaney",
+    "CommonName": null,
+    "Height": "191",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "7",
+      "Day": "20"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "94",
+    "LeagueId": "14",
+    "NationId": "25",
+    "Rating": "68",
+    "Attribute1": "63",
+    "Attribute2": "43",
+    "Attribute3": "59",
+    "Attribute4": "31",
+    "Attribute5": "71",
+    "Attribute6": "78",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

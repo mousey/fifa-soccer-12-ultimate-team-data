@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Marvin",
+    "LastName": "Knoll",
+    "CommonName": null,
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "12",
+      "Day": "5"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "503",
+    "LeagueId": "20",
+    "NationId": "21",
+    "Rating": "63",
+    "Attribute1": "68",
+    "Attribute2": "61",
+    "Attribute3": "64",
+    "Attribute4": "68",
+    "Attribute5": "62",
+    "Attribute6": "63",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

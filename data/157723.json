@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Mohammed",
+    "LastName": "Tchité",
+    "CommonName": null,
+    "Height": "177",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "1",
+      "Day": "31"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "232",
+    "LeagueId": "4",
+    "NationId": "134",
+    "Rating": "74",
+    "Attribute1": "93",
+    "Attribute2": "70",
+    "Attribute3": "54",
+    "Attribute4": "67",
+    "Attribute5": "47",
+    "Attribute6": "73",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

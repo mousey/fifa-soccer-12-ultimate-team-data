@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Matty",
+    "LastName": "Robson",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "1",
+      "Day": "23"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1480",
+    "LeagueId": "60",
+    "NationId": "14",
+    "Rating": "59",
+    "Attribute1": "79",
+    "Attribute2": "49",
+    "Attribute3": "58",
+    "Attribute4": "62",
+    "Attribute5": "56",
+    "Attribute6": "56",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

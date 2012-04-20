@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Luke",
+    "LastName": "Wilkshire",
+    "CommonName": null,
+    "Height": "176",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "10",
+      "Day": "2"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "312",
+    "LeagueId": "67",
+    "NationId": "195",
+    "Rating": "72",
+    "Attribute1": "82",
+    "Attribute2": "71",
+    "Attribute3": "74",
+    "Attribute4": "67",
+    "Attribute5": "65",
+    "Attribute6": "68",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

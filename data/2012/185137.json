@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Daniel",
+    "LastName": "Aquino Pintos",
+    "CommonName": "Aquino",
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "7",
+      "Day": "27"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "462",
+    "LeagueId": "54",
+    "NationId": "45",
+    "Rating": "66",
+    "Attribute1": "70",
+    "Attribute2": "65",
+    "Attribute3": "65",
+    "Attribute4": "68",
+    "Attribute5": "42",
+    "Attribute6": "55",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

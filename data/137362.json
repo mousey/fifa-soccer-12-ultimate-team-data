@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jiayi",
+    "LastName": "Shao",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1980",
+      "Month": "4",
+      "Day": "10"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1825",
+    "LeagueId": "20",
+    "NationId": "155",
+    "Rating": "67",
+    "Attribute1": "64",
+    "Attribute2": "71",
+    "Attribute3": "67",
+    "Attribute4": "68",
+    "Attribute5": "48",
+    "Attribute6": "55",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

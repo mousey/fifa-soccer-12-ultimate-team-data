@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Chris",
+    "LastName": "Sørensen",
+    "CommonName": null,
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1977",
+      "Month": "7",
+      "Day": "27"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "272",
+    "LeagueId": "1",
+    "NationId": "13",
+    "Rating": "65",
+    "Attribute1": "36",
+    "Attribute2": "55",
+    "Attribute3": "65",
+    "Attribute4": "59",
+    "Attribute5": "69",
+    "Attribute6": "54",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

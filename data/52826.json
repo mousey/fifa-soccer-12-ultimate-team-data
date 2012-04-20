@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "John",
+    "LastName": "Utaka",
+    "CommonName": null,
+    "Height": "179",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "1",
+      "Day": "8"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "70",
+    "LeagueId": "16",
+    "NationId": "133",
+    "Rating": "74",
+    "Attribute1": "88",
+    "Attribute2": "72",
+    "Attribute3": "63",
+    "Attribute4": "78",
+    "Attribute5": "56",
+    "Attribute6": "76",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

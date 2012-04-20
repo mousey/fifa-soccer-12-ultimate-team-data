@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Philipp",
+    "LastName": "Heerwagen",
+    "CommonName": null,
+    "Height": "193",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "4",
+      "Day": "13"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "160",
+    "LeagueId": "20",
+    "NationId": "21",
+    "Rating": "66",
+    "Attribute1": "69",
+    "Attribute2": "63",
+    "Attribute3": "61",
+    "Attribute4": "70",
+    "Attribute5": "52",
+    "Attribute6": "63",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

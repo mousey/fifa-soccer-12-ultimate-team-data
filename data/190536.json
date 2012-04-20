@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Osvaldo",
+    "LastName": "Martínez",
+    "CommonName": null,
+    "Height": "167",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "4",
+      "Day": "1"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "101116",
+    "LeagueId": "341",
+    "NationId": "58",
+    "Rating": "70",
+    "Attribute1": "73",
+    "Attribute2": "70",
+    "Attribute3": "70",
+    "Attribute4": "72",
+    "Attribute5": "45",
+    "Attribute6": "60",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Emanuele",
+    "LastName": "Calaió",
+    "CommonName": null,
+    "Height": "179",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "1",
+      "Day": "8"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1838",
+    "LeagueId": "31",
+    "NationId": "27",
+    "Rating": "72",
+    "Attribute1": "68",
+    "Attribute2": "70",
+    "Attribute3": "50",
+    "Attribute4": "69",
+    "Attribute5": "53",
+    "Attribute6": "78",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

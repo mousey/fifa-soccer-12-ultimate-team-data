@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jonas",
+    "LastName": "Ivens",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "10",
+      "Day": "14"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1915",
+    "LeagueId": "10",
+    "NationId": "7",
+    "Rating": "68",
+    "Attribute1": "41",
+    "Attribute2": "42",
+    "Attribute3": "56",
+    "Attribute4": "40",
+    "Attribute5": "75",
+    "Attribute6": "62",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

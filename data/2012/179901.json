@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Lorenzo",
+    "LastName": "Davids",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "9",
+      "Day": "4"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "100409",
+    "LeagueId": "19",
+    "NationId": "92",
+    "Rating": "68",
+    "Attribute1": "70",
+    "Attribute2": "61",
+    "Attribute3": "65",
+    "Attribute4": "68",
+    "Attribute5": "66",
+    "Attribute6": "70",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

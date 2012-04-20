@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Andy",
+    "LastName": "Drury",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "11",
+      "Day": "28"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "94",
+    "LeagueId": "14",
+    "NationId": "14",
+    "Rating": "61",
+    "Attribute1": "68",
+    "Attribute2": "52",
+    "Attribute3": "61",
+    "Attribute4": "58",
+    "Attribute5": "54",
+    "Attribute6": "46",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

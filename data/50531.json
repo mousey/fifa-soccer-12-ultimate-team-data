@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Øyvind",
+    "LastName": "Storflor",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "12",
+      "Day": "18"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "922",
+    "LeagueId": "41",
+    "NationId": "36",
+    "Rating": "66",
+    "Attribute1": "79",
+    "Attribute2": "60",
+    "Attribute3": "54",
+    "Attribute4": "66",
+    "Attribute5": "51",
+    "Attribute6": "59",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

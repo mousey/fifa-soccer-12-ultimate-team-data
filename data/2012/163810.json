@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Robert",
+    "LastName": "Almer",
+    "CommonName": null,
+    "Height": "194",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "3",
+      "Day": "20"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "110636",
+    "LeagueId": "20",
+    "NationId": "4",
+    "Rating": "65",
+    "Attribute1": "63",
+    "Attribute2": "67",
+    "Attribute3": "65",
+    "Attribute4": "65",
+    "Attribute5": "53",
+    "Attribute6": "65",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

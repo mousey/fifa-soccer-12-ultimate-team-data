@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Fabio",
+    "LastName": "Grosso",
+    "CommonName": null,
+    "Height": "190",
+    "DateOfBirth": {
+      "Year": "1977",
+      "Month": "11",
+      "Day": "28"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "45",
+    "LeagueId": "31",
+    "NationId": "27",
+    "Rating": "72",
+    "Attribute1": "45",
+    "Attribute2": "72",
+    "Attribute3": "75",
+    "Attribute4": "67",
+    "Attribute5": "72",
+    "Attribute6": "61",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

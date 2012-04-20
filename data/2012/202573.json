@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Miguel",
+    "LastName": "López",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "6",
+      "Day": "9"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "697",
+    "LeagueId": "39",
+    "NationId": "52",
+    "Rating": "61",
+    "Attribute1": "68",
+    "Attribute2": "60",
+    "Attribute3": "50",
+    "Attribute4": "71",
+    "Attribute5": "51",
+    "Attribute6": "54",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

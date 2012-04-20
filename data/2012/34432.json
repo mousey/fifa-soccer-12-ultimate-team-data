@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jon",
+    "LastName": "Knudsen",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1974",
+      "Month": "11",
+      "Day": "20"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "917",
+    "LeagueId": "41",
+    "NationId": "36",
+    "Rating": "69",
+    "Attribute1": "64",
+    "Attribute2": "67",
+    "Attribute3": "68",
+    "Attribute4": "68",
+    "Attribute5": "31",
+    "Attribute6": "76",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

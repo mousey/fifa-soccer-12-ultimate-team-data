@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Anatoliy",
+    "LastName": "Tymoshchuk",
+    "CommonName": null,
+    "Height": "181",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "3",
+      "Day": "30"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "21",
+    "LeagueId": "19",
+    "NationId": "49",
+    "Rating": "80",
+    "Attribute1": "61",
+    "Attribute2": "65",
+    "Attribute3": "74",
+    "Attribute4": "62",
+    "Attribute5": "79",
+    "Attribute6": "77",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

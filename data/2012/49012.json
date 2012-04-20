@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Kevin",
+    "LastName": "Kuranyi",
+    "CommonName": null,
+    "Height": "190",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "3",
+      "Day": "2"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "312",
+    "LeagueId": "67",
+    "NationId": "21",
+    "Rating": "81",
+    "Attribute1": "80",
+    "Attribute2": "75",
+    "Attribute3": "62",
+    "Attribute4": "70",
+    "Attribute5": "63",
+    "Attribute6": "81",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

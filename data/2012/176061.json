@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jonathan",
+    "LastName": "Bornstein",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "11",
+      "Day": "7"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1970",
+    "LeagueId": "341",
+    "NationId": "95",
+    "Rating": "64",
+    "Attribute1": "80",
+    "Attribute2": "60",
+    "Attribute3": "63",
+    "Attribute4": "63",
+    "Attribute5": "62",
+    "Attribute6": "66",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Michael",
+    "LastName": "Blum",
+    "CommonName": null,
+    "Height": "189",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "12",
+      "Day": "25"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "27",
+    "LeagueId": "20",
+    "NationId": "21",
+    "Rating": "58",
+    "Attribute1": "70",
+    "Attribute2": "54",
+    "Attribute3": "56",
+    "Attribute4": "60",
+    "Attribute5": "59",
+    "Attribute6": "50",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

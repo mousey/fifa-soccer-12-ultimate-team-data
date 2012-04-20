@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Janis",
+    "LastName": "Blaswich",
+    "CommonName": null,
+    "Height": "193",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "5",
+      "Day": "2"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "23",
+    "LeagueId": "19",
+    "NationId": "21",
+    "Rating": "59",
+    "Attribute1": "65",
+    "Attribute2": "60",
+    "Attribute3": "64",
+    "Attribute4": "63",
+    "Attribute5": "63",
+    "Attribute6": "51",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

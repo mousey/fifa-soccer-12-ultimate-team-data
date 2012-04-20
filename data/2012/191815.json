@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Hong Il",
+    "LastName": "Kim",
+    "CommonName": "Kim Hong Il",
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "9",
+      "Day": "29"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "112258",
+    "LeagueId": "83",
+    "NationId": "167",
+    "Rating": "58",
+    "Attribute1": "50",
+    "Attribute2": "52",
+    "Attribute3": "58",
+    "Attribute4": "58",
+    "Attribute5": "43",
+    "Attribute6": "41",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

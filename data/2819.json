@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Gerardo",
+    "LastName": "Torrado",
+    "CommonName": null,
+    "Height": "176",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "4",
+      "Day": "30"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1878",
+    "LeagueId": "341",
+    "NationId": "83",
+    "Rating": "73",
+    "Attribute1": "66",
+    "Attribute2": "55",
+    "Attribute3": "65",
+    "Attribute4": "57",
+    "Attribute5": "76",
+    "Attribute6": "67",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

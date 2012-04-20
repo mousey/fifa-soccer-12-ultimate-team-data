@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Thomas",
+    "LastName": "Schrammel",
+    "CommonName": null,
+    "Height": "176",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "9",
+      "Day": "5"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "254",
+    "LeagueId": "80",
+    "NationId": "4",
+    "Rating": "66",
+    "Attribute1": "80",
+    "Attribute2": "47",
+    "Attribute3": "64",
+    "Attribute4": "66",
+    "Attribute5": "65",
+    "Attribute6": "61",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

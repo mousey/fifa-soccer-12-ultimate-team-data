@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Gareth",
+    "LastName": "McGlynn",
+    "CommonName": null,
+    "Height": "176",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "10",
+      "Day": "29"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "445",
+    "LeagueId": "65",
+    "NationId": "25",
+    "Rating": "59",
+    "Attribute1": "66",
+    "Attribute2": "52",
+    "Attribute3": "56",
+    "Attribute4": "60",
+    "Attribute5": "39",
+    "Attribute6": "55",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

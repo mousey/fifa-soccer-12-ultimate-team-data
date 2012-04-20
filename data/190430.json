@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Joe",
+    "LastName": "Bennett",
+    "CommonName": null,
+    "Height": "177",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "3",
+      "Day": "28"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "12",
+    "LeagueId": "14",
+    "NationId": "14",
+    "Rating": "66",
+    "Attribute1": "69",
+    "Attribute2": "39",
+    "Attribute3": "61",
+    "Attribute4": "66",
+    "Attribute5": "68",
+    "Attribute6": "63",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

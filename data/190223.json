@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Mikel",
+    "LastName": "Balenziaga O.",
+    "CommonName": "Balenziaga",
+    "Height": "176",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "2",
+      "Day": "29"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "462",
+    "LeagueId": "54",
+    "NationId": "45",
+    "Rating": "65",
+    "Attribute1": "71",
+    "Attribute2": "47",
+    "Attribute3": "66",
+    "Attribute4": "66",
+    "Attribute5": "63",
+    "Attribute6": "64",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

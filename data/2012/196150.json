@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Teófilo",
+    "LastName": "Gutiérrez",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "5",
+      "Day": "17"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "101085",
+    "LeagueId": "353",
+    "NationId": "56",
+    "Rating": "74",
+    "Attribute1": "71",
+    "Attribute2": "72",
+    "Attribute3": "66",
+    "Attribute4": "70",
+    "Attribute5": "54",
+    "Attribute6": "79",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

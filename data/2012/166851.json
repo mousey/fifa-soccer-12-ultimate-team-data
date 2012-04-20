@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Kári",
+    "LastName": "Árnason",
+    "CommonName": null,
+    "Height": "190",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "10",
+      "Day": "13"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "77",
+    "LeagueId": "50",
+    "NationId": "24",
+    "Rating": "64",
+    "Attribute1": "53",
+    "Attribute2": "45",
+    "Attribute3": "61",
+    "Attribute4": "45",
+    "Attribute5": "69",
+    "Attribute6": "62",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Sergio",
+    "LastName": "Romero",
+    "CommonName": null,
+    "Height": "192",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "2",
+      "Day": "22"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1837",
+    "LeagueId": "32",
+    "NationId": "52",
+    "Rating": "77",
+    "Attribute1": "79",
+    "Attribute2": "72",
+    "Attribute3": "84",
+    "Attribute4": "81",
+    "Attribute5": "51",
+    "Attribute6": "70",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

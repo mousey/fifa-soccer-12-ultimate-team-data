@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Phil",
+    "LastName": "Edwards",
+    "CommonName": null,
+    "Height": "173",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "11",
+      "Day": "8"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "361",
+    "LeagueId": "60",
+    "NationId": "14",
+    "Rating": "61",
+    "Attribute1": "65",
+    "Attribute2": "33",
+    "Attribute3": "39",
+    "Attribute4": "38",
+    "Attribute5": "66",
+    "Attribute6": "70",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jorge Miguel",
+    "LastName": "Feijoca Chula",
+    "CommonName": "Chula",
+    "Height": "171",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "2",
+      "Day": "13"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1895",
+    "LeagueId": "308",
+    "NationId": "38",
+    "Rating": "68",
+    "Attribute1": "83",
+    "Attribute2": "59",
+    "Attribute3": "59",
+    "Attribute4": "73",
+    "Attribute5": "32",
+    "Attribute6": "40",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

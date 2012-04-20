@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Fabian",
+    "LastName": "Espindola",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "5",
+      "Day": "4"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "111065",
+    "LeagueId": "39",
+    "NationId": "52",
+    "Rating": "69",
+    "Attribute1": "78",
+    "Attribute2": "68",
+    "Attribute3": "55",
+    "Attribute4": "72",
+    "Attribute5": "49",
+    "Attribute6": "61",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

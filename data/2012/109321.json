@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Christian",
+    "LastName": "Weber",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "9",
+      "Day": "15"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110636",
+    "LeagueId": "20",
+    "NationId": "21",
+    "Rating": "64",
+    "Attribute1": "70",
+    "Attribute2": "51",
+    "Attribute3": "60",
+    "Attribute4": "61",
+    "Attribute5": "65",
+    "Attribute6": "66",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

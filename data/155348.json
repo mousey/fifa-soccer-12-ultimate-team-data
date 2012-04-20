@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Tae You",
+    "LastName": "Han",
+    "CommonName": "Han Tae You",
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "3",
+      "Day": "31"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "982",
+    "LeagueId": "83",
+    "NationId": "167",
+    "Rating": "59",
+    "Attribute1": "62",
+    "Attribute2": "48",
+    "Attribute3": "59",
+    "Attribute4": "56",
+    "Attribute5": "59",
+    "Attribute6": "60",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

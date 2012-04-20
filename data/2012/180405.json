@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Luiz Marcelo",
+    "LastName": "Morais dos Reis",
+    "CommonName": "Lulinha",
+    "Height": "170",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "4",
+      "Day": "10"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1598",
+    "LeagueId": "7",
+    "NationId": "54",
+    "Rating": "70",
+    "Attribute1": "84",
+    "Attribute2": "61",
+    "Attribute3": "63",
+    "Attribute4": "77",
+    "Attribute5": "49",
+    "Attribute6": "50",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

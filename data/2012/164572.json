@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Gonzalo",
+    "LastName": "Segares",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "10",
+      "Day": "13"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "693",
+    "LeagueId": "39",
+    "NationId": "72",
+    "Rating": "65",
+    "Attribute1": "70",
+    "Attribute2": "56",
+    "Attribute3": "60",
+    "Attribute4": "62",
+    "Attribute5": "69",
+    "Attribute6": "63",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

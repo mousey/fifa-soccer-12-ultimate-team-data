@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Yoann",
+    "LastName": "Folly",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "6",
+      "Day": "6"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "77",
+    "LeagueId": "50",
+    "NationId": "144",
+    "Rating": "61",
+    "Attribute1": "73",
+    "Attribute2": "44",
+    "Attribute3": "60",
+    "Attribute4": "64",
+    "Attribute5": "69",
+    "Attribute6": "76",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

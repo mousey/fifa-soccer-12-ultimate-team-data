@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Paolo",
+    "LastName": "Cardozo",
+    "CommonName": null,
+    "Height": "165",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "6",
+      "Day": "9"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "697",
+    "LeagueId": "39",
+    "NationId": "60",
+    "Rating": "63",
+    "Attribute1": "71",
+    "Attribute2": "61",
+    "Attribute3": "60",
+    "Attribute4": "67",
+    "Attribute5": "48",
+    "Attribute6": "50",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

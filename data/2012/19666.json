@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ramiro",
+    "LastName": "Corrales",
+    "CommonName": null,
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1977",
+      "Month": "3",
+      "Day": "12"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "111928",
+    "LeagueId": "39",
+    "NationId": "95",
+    "Rating": "62",
+    "Attribute1": "41",
+    "Attribute2": "60",
+    "Attribute3": "58",
+    "Attribute4": "61",
+    "Attribute5": "65",
+    "Attribute6": "67",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

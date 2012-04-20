@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jordi",
+    "LastName": "Gómez García-Penche",
+    "CommonName": "Jordi Gómez",
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "5",
+      "Day": "24"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1917",
+    "LeagueId": "13",
+    "NationId": "45",
+    "Rating": "71",
+    "Attribute1": "70",
+    "Attribute2": "70",
+    "Attribute3": "72",
+    "Attribute4": "75",
+    "Attribute5": "56",
+    "Attribute6": "54",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

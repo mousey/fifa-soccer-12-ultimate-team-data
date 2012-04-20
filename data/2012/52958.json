@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Marc",
+    "LastName": "Bertrán Vilanova",
+    "CommonName": "Marc Bertrán",
+    "Height": "181",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "5",
+      "Day": "22"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "479",
+    "LeagueId": "53",
+    "NationId": "45",
+    "Rating": "69",
+    "Attribute1": "75",
+    "Attribute2": "46",
+    "Attribute3": "67",
+    "Attribute4": "65",
+    "Attribute5": "70",
+    "Attribute6": "65",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

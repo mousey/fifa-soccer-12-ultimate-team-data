@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Alastair",
+    "LastName": "Taylor",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "9",
+      "Day": "13"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1932",
+    "LeagueId": "14",
+    "NationId": "14",
+    "Rating": "52",
+    "Attribute1": "81",
+    "Attribute2": "34",
+    "Attribute3": "42",
+    "Attribute4": "57",
+    "Attribute5": "41",
+    "Attribute6": "42",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

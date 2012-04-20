@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Mario",
+    "LastName": "Reiter",
+    "CommonName": null,
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "10",
+      "Day": "23"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111373",
+    "LeagueId": "80",
+    "NationId": "4",
+    "Rating": "60",
+    "Attribute1": "66",
+    "Attribute2": "45",
+    "Attribute3": "56",
+    "Attribute4": "60",
+    "Attribute5": "67",
+    "Attribute6": "63",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

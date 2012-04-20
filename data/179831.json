@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Craig",
+    "LastName": "Curran",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "8",
+      "Day": "23"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1480",
+    "LeagueId": "60",
+    "NationId": "14",
+    "Rating": "59",
+    "Attribute1": "75",
+    "Attribute2": "55",
+    "Attribute3": "47",
+    "Attribute4": "54",
+    "Attribute5": "47",
+    "Attribute6": "63",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

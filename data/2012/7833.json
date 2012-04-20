@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Khalid",
+    "LastName": "Sinouh",
+    "CommonName": null,
+    "Height": "192",
+    "DateOfBirth": {
+      "Year": "1975",
+      "Month": "5",
+      "Day": "2"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "247",
+    "LeagueId": "10",
+    "NationId": "129",
+    "Rating": "67",
+    "Attribute1": "70",
+    "Attribute2": "65",
+    "Attribute3": "56",
+    "Attribute4": "66",
+    "Attribute5": "51",
+    "Attribute6": "70",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Joost",
+    "LastName": "Broerse",
+    "CommonName": null,
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "5",
+      "Day": "8"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1971",
+    "LeagueId": "10",
+    "NationId": "34",
+    "Rating": "64",
+    "Attribute1": "65",
+    "Attribute2": "56",
+    "Attribute3": "52",
+    "Attribute4": "57",
+    "Attribute5": "69",
+    "Attribute6": "63",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

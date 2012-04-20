@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Moussa",
+    "LastName": "Maâzou",
+    "CommonName": null,
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "8",
+      "Day": "25"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "15005",
+    "LeagueId": "4",
+    "NationId": "132",
+    "Rating": "71",
+    "Attribute1": "85",
+    "Attribute2": "69",
+    "Attribute3": "51",
+    "Attribute4": "60",
+    "Attribute5": "55",
+    "Attribute6": "75",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

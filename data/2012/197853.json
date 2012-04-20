@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Serge",
+    "LastName": "Aurier",
+    "CommonName": null,
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1992",
+      "Month": "12",
+      "Day": "24"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "64",
+    "LeagueId": "17",
+    "NationId": "18",
+    "Rating": "64",
+    "Attribute1": "82",
+    "Attribute2": "30",
+    "Attribute3": "60",
+    "Attribute4": "47",
+    "Attribute5": "68",
+    "Attribute6": "61",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

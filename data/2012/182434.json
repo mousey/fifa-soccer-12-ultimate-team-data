@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Matthew",
+    "LastName": "Kemp",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1980",
+      "Month": "8",
+      "Day": "8"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111397",
+    "LeagueId": "351",
+    "NationId": "195",
+    "Rating": "61",
+    "Attribute1": "52",
+    "Attribute2": "38",
+    "Attribute3": "57",
+    "Attribute4": "54",
+    "Attribute5": "65",
+    "Attribute6": "56",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

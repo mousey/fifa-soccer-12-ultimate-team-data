@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Kurt",
+    "LastName": "Morsink",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "6",
+      "Day": "27"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "688",
+    "LeagueId": "39",
+    "NationId": "72",
+    "Rating": "59",
+    "Attribute1": "63",
+    "Attribute2": "53",
+    "Attribute3": "54",
+    "Attribute4": "57",
+    "Attribute5": "61",
+    "Attribute6": "56",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

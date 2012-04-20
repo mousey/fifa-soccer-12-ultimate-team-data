@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Sergio",
+    "LastName": "Garabato Sastre",
+    "CommonName": "Garabato",
+    "Height": "187",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "5",
+      "Day": "16"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1853",
+    "LeagueId": "53",
+    "NationId": "45",
+    "Rating": "55",
+    "Attribute1": "58",
+    "Attribute2": "50",
+    "Attribute3": "49",
+    "Attribute4": "60",
+    "Attribute5": "52",
+    "Attribute6": "56",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

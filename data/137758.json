@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Simone",
+    "LastName": "Rizzato",
+    "CommonName": null,
+    "Height": "174",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "9",
+      "Day": "21"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "203",
+    "LeagueId": "32",
+    "NationId": "27",
+    "Rating": "67",
+    "Attribute1": "84",
+    "Attribute2": "54",
+    "Attribute3": "60",
+    "Attribute4": "65",
+    "Attribute5": "65",
+    "Attribute6": "64",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

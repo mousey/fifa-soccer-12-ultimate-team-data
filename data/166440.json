@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Joey",
+    "LastName": "Gjertsen",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "6",
+      "Day": "13"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111928",
+    "LeagueId": "39",
+    "NationId": "95",
+    "Rating": "61",
+    "Attribute1": "68",
+    "Attribute2": "61",
+    "Attribute3": "57",
+    "Attribute4": "62",
+    "Attribute5": "47",
+    "Attribute6": "63",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

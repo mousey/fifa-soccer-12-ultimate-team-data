@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Alberto",
+    "LastName": "Costa",
+    "CommonName": null,
+    "Height": "176",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "1",
+      "Day": "9"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "461",
+    "LeagueId": "53",
+    "NationId": "52",
+    "Rating": "78",
+    "Attribute1": "67",
+    "Attribute2": "81",
+    "Attribute3": "78",
+    "Attribute4": "79",
+    "Attribute5": "68",
+    "Attribute6": "59",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

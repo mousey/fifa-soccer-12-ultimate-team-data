@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "David",
+    "LastName": "Mulligan",
+    "CommonName": null,
+    "Height": "173",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "3",
+      "Day": "24"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111766",
+    "LeagueId": "351",
+    "NationId": "198",
+    "Rating": "54",
+    "Attribute1": "66",
+    "Attribute2": "48",
+    "Attribute3": "52",
+    "Attribute4": "48",
+    "Attribute5": "52",
+    "Attribute6": "51",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

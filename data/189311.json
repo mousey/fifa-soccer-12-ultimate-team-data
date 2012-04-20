@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Tom",
+    "LastName": "Hateley",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "9",
+      "Day": "12"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "83",
+    "LeagueId": "50",
+    "NationId": "14",
+    "Rating": "68",
+    "Attribute1": "68",
+    "Attribute2": "59",
+    "Attribute3": "66",
+    "Attribute4": "68",
+    "Attribute5": "68",
+    "Attribute6": "67",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

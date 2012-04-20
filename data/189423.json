@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Josef",
+    "LastName": "de Souza Dias",
+    "CommonName": "Souza",
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "2",
+      "Day": "11"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "236",
+    "LeagueId": "308",
+    "NationId": "54",
+    "Rating": "73",
+    "Attribute1": "66",
+    "Attribute2": "65",
+    "Attribute3": "70",
+    "Attribute4": "74",
+    "Attribute5": "74",
+    "Attribute6": "63",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

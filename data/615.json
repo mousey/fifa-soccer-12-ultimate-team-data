@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Terrell",
+    "LastName": "Forbes",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "8",
+      "Day": "17"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1958",
+    "LeagueId": "60",
+    "NationId": "14",
+    "Rating": "60",
+    "Attribute1": "78",
+    "Attribute2": "18",
+    "Attribute3": "33",
+    "Attribute4": "25",
+    "Attribute5": "61",
+    "Attribute6": "71",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

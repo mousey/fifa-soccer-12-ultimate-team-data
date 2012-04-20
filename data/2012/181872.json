@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Arturo",
+    "LastName": "Vidal",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "5",
+      "Day": "22"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "45",
+    "LeagueId": "31",
+    "NationId": "55",
+    "Rating": "83",
+    "Attribute1": "81",
+    "Attribute2": "73",
+    "Attribute3": "81",
+    "Attribute4": "79",
+    "Attribute5": "79",
+    "Attribute6": "71",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

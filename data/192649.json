@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Roberto",
+    "LastName": "López Esquiroz",
+    "CommonName": "Rúper",
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "6",
+      "Day": "4"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "468",
+    "LeagueId": "54",
+    "NationId": "45",
+    "Rating": "65",
+    "Attribute1": "62",
+    "Attribute2": "54",
+    "Attribute3": "64",
+    "Attribute4": "57",
+    "Attribute5": "64",
+    "Attribute6": "55",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

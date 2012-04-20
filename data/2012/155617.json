@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Seung Hwan",
+    "LastName": "Bang",
+    "CommonName": "Bang Seung Hwan",
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "2",
+      "Day": "25"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "982",
+    "LeagueId": "83",
+    "NationId": "167",
+    "Rating": "62",
+    "Attribute1": "64",
+    "Attribute2": "59",
+    "Attribute3": "47",
+    "Attribute4": "58",
+    "Attribute5": "60",
+    "Attribute6": "63",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

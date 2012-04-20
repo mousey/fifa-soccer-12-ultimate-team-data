@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "José Joaquín",
+    "LastName": "Martínez",
+    "CommonName": null,
+    "Height": "179",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "2",
+      "Day": "22"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1879",
+    "LeagueId": "341",
+    "NationId": "83",
+    "Rating": "66",
+    "Attribute1": "78",
+    "Attribute2": "59",
+    "Attribute3": "62",
+    "Attribute4": "67",
+    "Attribute5": "62",
+    "Attribute6": "55",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

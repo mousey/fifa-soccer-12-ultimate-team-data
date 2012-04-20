@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jong Hwan",
+    "LastName": "Back",
+    "CommonName": "Back Jong Hwan",
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "4",
+      "Day": "18"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "112115",
+    "LeagueId": "83",
+    "NationId": "167",
+    "Rating": "46",
+    "Attribute1": "54",
+    "Attribute2": "49",
+    "Attribute3": "50",
+    "Attribute4": "52",
+    "Attribute5": "50",
+    "Attribute6": "57",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

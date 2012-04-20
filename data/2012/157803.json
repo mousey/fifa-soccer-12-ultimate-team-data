@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Edmond",
+    "LastName": "Kapllani",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "7",
+      "Day": "31"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "100409",
+    "LeagueId": "19",
+    "NationId": "1",
+    "Rating": "65",
+    "Attribute1": "53",
+    "Attribute2": "63",
+    "Attribute3": "57",
+    "Attribute4": "66",
+    "Attribute5": "54",
+    "Attribute6": "63",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "William",
+    "LastName": "Gros",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1992",
+      "Month": "3",
+      "Day": "31"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "82",
+    "LeagueId": "50",
+    "NationId": "18",
+    "Rating": "58",
+    "Attribute1": "59",
+    "Attribute2": "59",
+    "Attribute3": "42",
+    "Attribute4": "51",
+    "Attribute5": "49",
+    "Attribute6": "67",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

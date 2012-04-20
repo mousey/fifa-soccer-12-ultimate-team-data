@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Nico",
+    "LastName": "Pulzetti",
+    "CommonName": null,
+    "Height": "176",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "2",
+      "Day": "13"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "189",
+    "LeagueId": "31",
+    "NationId": "27",
+    "Rating": "69",
+    "Attribute1": "67",
+    "Attribute2": "60",
+    "Attribute3": "72",
+    "Attribute4": "66",
+    "Attribute5": "65",
+    "Attribute6": "64",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

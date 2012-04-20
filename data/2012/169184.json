@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Paul",
+    "LastName": "Dixon",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "11",
+      "Day": "22"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "181",
+    "LeagueId": "50",
+    "NationId": "42",
+    "Rating": "70",
+    "Attribute1": "77",
+    "Attribute2": "54",
+    "Attribute3": "67",
+    "Attribute4": "68",
+    "Attribute5": "71",
+    "Attribute6": "68",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

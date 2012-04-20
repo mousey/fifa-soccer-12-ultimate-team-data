@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jérôme",
+    "LastName": "Polenz",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "11",
+      "Day": "7"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1831",
+    "LeagueId": "20",
+    "NationId": "21",
+    "Rating": "62",
+    "Attribute1": "73",
+    "Attribute2": "56",
+    "Attribute3": "61",
+    "Attribute4": "65",
+    "Attribute5": "62",
+    "Attribute6": "62",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Maurice",
+    "LastName": "Trapp",
+    "CommonName": null,
+    "Height": "191",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "12",
+      "Day": "31"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1831",
+    "LeagueId": "20",
+    "NationId": "21",
+    "Rating": "53",
+    "Attribute1": "66",
+    "Attribute2": "41",
+    "Attribute3": "53",
+    "Attribute4": "56",
+    "Attribute5": "56",
+    "Attribute6": "52",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jimmy",
+    "LastName": "Walker",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1973",
+      "Month": "7",
+      "Day": "9"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1803",
+    "LeagueId": "60",
+    "NationId": "14",
+    "Rating": "61",
+    "Attribute1": "57",
+    "Attribute2": "65",
+    "Attribute3": "67",
+    "Attribute4": "57",
+    "Attribute5": "22",
+    "Attribute6": "62",
+    "Rare": "1",
+    "ItemType": "PlayerGk"
+  }
+}

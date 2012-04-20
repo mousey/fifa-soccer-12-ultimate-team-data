@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Keith",
+    "LastName": "Buckley",
+    "CommonName": null,
+    "Height": "177",
+    "DateOfBirth": {
+      "Year": "1992",
+      "Month": "6",
+      "Day": "17"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "305",
+    "LeagueId": "65",
+    "NationId": "25",
+    "Rating": "53",
+    "Attribute1": "59",
+    "Attribute2": "52",
+    "Attribute3": "55",
+    "Attribute4": "45",
+    "Attribute5": "45",
+    "Attribute6": "51",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Bruno",
+    "LastName": "Coutinho Martins",
+    "CommonName": "Bruno",
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "6",
+      "Day": "21"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1570",
+    "LeagueId": "66",
+    "NationId": "54",
+    "Rating": "65",
+    "Attribute1": "75",
+    "Attribute2": "68",
+    "Attribute3": "54",
+    "Attribute4": "65",
+    "Attribute5": "68",
+    "Attribute6": "66",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

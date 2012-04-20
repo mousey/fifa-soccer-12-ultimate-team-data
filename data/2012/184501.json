@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Michael",
+    "LastName": "Lang",
+    "CommonName": null,
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "2",
+      "Day": "8"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "322",
+    "LeagueId": "189",
+    "NationId": "47",
+    "Rating": "55",
+    "Attribute1": "57",
+    "Attribute2": "50",
+    "Attribute3": "51",
+    "Attribute4": "45",
+    "Attribute5": "59",
+    "Attribute6": "62",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

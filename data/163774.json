@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Simeon",
+    "LastName": "Jackson",
+    "CommonName": null,
+    "Height": "173",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "3",
+      "Day": "28"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1792",
+    "LeagueId": "13",
+    "NationId": "70",
+    "Rating": "68",
+    "Attribute1": "83",
+    "Attribute2": "64",
+    "Attribute3": "42",
+    "Attribute4": "71",
+    "Attribute5": "47",
+    "Attribute6": "73",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

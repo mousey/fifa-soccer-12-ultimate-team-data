@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Will",
+    "LastName": "Johnson",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "1",
+      "Day": "21"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111065",
+    "LeagueId": "39",
+    "NationId": "70",
+    "Rating": "67",
+    "Attribute1": "82",
+    "Attribute2": "60",
+    "Attribute3": "61",
+    "Attribute4": "67",
+    "Attribute5": "63",
+    "Attribute6": "63",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

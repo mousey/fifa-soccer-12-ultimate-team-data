@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Víctor Javier",
+    "LastName": "Añino Bermúdez",
+    "CommonName": "Vitolo",
+    "Height": "168",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "9",
+      "Day": "9"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1884",
+    "LeagueId": "63",
+    "NationId": "45",
+    "Rating": "72",
+    "Attribute1": "73",
+    "Attribute2": "68",
+    "Attribute3": "71",
+    "Attribute4": "72",
+    "Attribute5": "70",
+    "Attribute6": "63",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

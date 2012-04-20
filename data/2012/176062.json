@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Sacha",
+    "LastName": "Kljestan",
+    "CommonName": null,
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "9",
+      "Day": "9"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "229",
+    "LeagueId": "4",
+    "NationId": "95",
+    "Rating": "69",
+    "Attribute1": "71",
+    "Attribute2": "68",
+    "Attribute3": "68",
+    "Attribute4": "70",
+    "Attribute5": "60",
+    "Attribute6": "66",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

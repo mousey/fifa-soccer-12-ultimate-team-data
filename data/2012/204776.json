@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Toni",
+    "LastName": "Leistner",
+    "CommonName": null,
+    "Height": "190",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "8",
+      "Day": "19"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "503",
+    "LeagueId": "20",
+    "NationId": "21",
+    "Rating": "61",
+    "Attribute1": "66",
+    "Attribute2": "39",
+    "Attribute3": "54",
+    "Attribute4": "49",
+    "Attribute5": "64",
+    "Attribute6": "64",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

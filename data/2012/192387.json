@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ciro",
+    "LastName": "Immobile",
+    "CommonName": null,
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "2",
+      "Day": "20"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "200",
+    "LeagueId": "32",
+    "NationId": "27",
+    "Rating": "65",
+    "Attribute1": "70",
+    "Attribute2": "62",
+    "Attribute3": "49",
+    "Attribute4": "58",
+    "Attribute5": "55",
+    "Attribute6": "68",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

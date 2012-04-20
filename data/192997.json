@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Loïc",
+    "LastName": "Poujol",
+    "CommonName": null,
+    "Height": "187",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "2",
+      "Day": "27"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "226",
+    "LeagueId": "16",
+    "NationId": "18",
+    "Rating": "56",
+    "Attribute1": "54",
+    "Attribute2": "31",
+    "Attribute3": "50",
+    "Attribute4": "45",
+    "Attribute5": "62",
+    "Attribute6": "58",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

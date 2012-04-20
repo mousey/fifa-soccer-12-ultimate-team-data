@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "David",
+    "LastName": "López Moreno",
+    "CommonName": "David Lopez",
+    "Height": "181",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "9",
+      "Day": "10"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "448",
+    "LeagueId": "53",
+    "NationId": "45",
+    "Rating": "74",
+    "Attribute1": "71",
+    "Attribute2": "72",
+    "Attribute3": "81",
+    "Attribute4": "74",
+    "Attribute5": "52",
+    "Attribute6": "50",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

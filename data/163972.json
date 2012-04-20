@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Maurizio",
+    "LastName": "Lauro",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "3",
+      "Day": "12"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "110915",
+    "LeagueId": "31",
+    "NationId": "27",
+    "Rating": "69",
+    "Attribute1": "64",
+    "Attribute2": "48",
+    "Attribute3": "64",
+    "Attribute4": "46",
+    "Attribute5": "69",
+    "Attribute6": "67",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

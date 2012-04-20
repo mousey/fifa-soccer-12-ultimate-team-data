@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Mehmet",
+    "LastName": "Ekici",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "3",
+      "Day": "25"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "38",
+    "LeagueId": "19",
+    "NationId": "48",
+    "Rating": "75",
+    "Attribute1": "73",
+    "Attribute2": "72",
+    "Attribute3": "73",
+    "Attribute4": "78",
+    "Attribute5": "62",
+    "Attribute6": "54",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

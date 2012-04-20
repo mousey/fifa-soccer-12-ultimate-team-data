@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Dominic",
+    "LastName": "Maroh",
+    "CommonName": null,
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "3",
+      "Day": "4"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "171",
+    "LeagueId": "19",
+    "NationId": "44",
+    "Rating": "69",
+    "Attribute1": "61",
+    "Attribute2": "41",
+    "Attribute3": "47",
+    "Attribute4": "44",
+    "Attribute5": "72",
+    "Attribute6": "68",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

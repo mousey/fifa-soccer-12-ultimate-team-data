@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Diego",
+    "LastName": "Pérez",
+    "CommonName": null,
+    "Height": "177",
+    "DateOfBirth": {
+      "Year": "1980",
+      "Month": "5",
+      "Day": "18"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "189",
+    "LeagueId": "31",
+    "NationId": "60",
+    "Rating": "75",
+    "Attribute1": "64",
+    "Attribute2": "58",
+    "Attribute3": "74",
+    "Attribute4": "69",
+    "Attribute5": "75",
+    "Attribute6": "74",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

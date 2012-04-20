@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Reuben",
+    "LastName": "Reid",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "7",
+      "Day": "26"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1920",
+    "LeagueId": "60",
+    "NationId": "14",
+    "Rating": "62",
+    "Attribute1": "81",
+    "Attribute2": "56",
+    "Attribute3": "53",
+    "Attribute4": "68",
+    "Attribute5": "48",
+    "Attribute6": "62",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

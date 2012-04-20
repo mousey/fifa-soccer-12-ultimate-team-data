@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Rodrigo",
+    "LastName": "Gimeno Molina",
+    "CommonName": "Rodri",
+    "Height": "181",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "9",
+      "Day": "21"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "15019",
+    "LeagueId": "54",
+    "NationId": "45",
+    "Rating": "61",
+    "Attribute1": "43",
+    "Attribute2": "52",
+    "Attribute3": "53",
+    "Attribute4": "51",
+    "Attribute5": "66",
+    "Attribute6": "61",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

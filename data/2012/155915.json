@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Lewis",
+    "LastName": "Buxton",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "12",
+      "Day": "10"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1807",
+    "LeagueId": "60",
+    "NationId": "14",
+    "Rating": "64",
+    "Attribute1": "65",
+    "Attribute2": "41",
+    "Attribute3": "51",
+    "Attribute4": "57",
+    "Attribute5": "67",
+    "Attribute6": "65",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

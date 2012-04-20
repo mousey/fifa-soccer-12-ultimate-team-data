@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Chris",
+    "LastName": "Coyne",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1978",
+      "Month": "12",
+      "Day": "20"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111399",
+    "LeagueId": "351",
+    "NationId": "195",
+    "Rating": "62",
+    "Attribute1": "48",
+    "Attribute2": "15",
+    "Attribute3": "40",
+    "Attribute4": "38",
+    "Attribute5": "65",
+    "Attribute6": "77",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

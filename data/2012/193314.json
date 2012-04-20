@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Aitor",
+    "LastName": "Fernández A.",
+    "CommonName": "Aitor",
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "5",
+      "Day": "3"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "448",
+    "LeagueId": "53",
+    "NationId": "45",
+    "Rating": "59",
+    "Attribute1": "48",
+    "Attribute2": "68",
+    "Attribute3": "53",
+    "Attribute4": "54",
+    "Attribute5": "58",
+    "Attribute6": "71",
+    "Rare": "1",
+    "ItemType": "PlayerGk"
+  }
+}

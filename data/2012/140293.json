@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Antonio",
+    "LastName": "Mirante",
+    "CommonName": null,
+    "Height": "193",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "7",
+      "Day": "8"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "50",
+    "LeagueId": "31",
+    "NationId": "27",
+    "Rating": "76",
+    "Attribute1": "80",
+    "Attribute2": "79",
+    "Attribute3": "67",
+    "Attribute4": "77",
+    "Attribute5": "60",
+    "Attribute6": "74",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

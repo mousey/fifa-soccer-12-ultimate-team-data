@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Gareth",
+    "LastName": "Bale",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "7",
+      "Day": "16"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "18",
+    "LeagueId": "13",
+    "NationId": "50",
+    "Rating": "86",
+    "Attribute1": "92",
+    "Attribute2": "79",
+    "Attribute3": "82",
+    "Attribute4": "85",
+    "Attribute5": "75",
+    "Attribute6": "70",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

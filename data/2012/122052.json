@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jörg",
+    "LastName": "Hahnel",
+    "CommonName": null,
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "1",
+      "Day": "11"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "27",
+    "LeagueId": "20",
+    "NationId": "21",
+    "Rating": "64",
+    "Attribute1": "62",
+    "Attribute2": "63",
+    "Attribute3": "60",
+    "Attribute4": "70",
+    "Attribute5": "50",
+    "Attribute6": "61",
+    "Rare": "1",
+    "ItemType": "PlayerGk"
+  }
+}

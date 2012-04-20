@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Daniel",
+    "LastName": "Williams",
+    "CommonName": null,
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "3",
+      "Day": "8"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "10029",
+    "LeagueId": "19",
+    "NationId": "21",
+    "Rating": "65",
+    "Attribute1": "75",
+    "Attribute2": "41",
+    "Attribute3": "64",
+    "Attribute4": "65",
+    "Attribute5": "65",
+    "Attribute6": "68",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Toifilou",
+    "LastName": "Maoulida",
+    "CommonName": null,
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "6",
+      "Day": "8"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "58",
+    "LeagueId": "17",
+    "NationId": "18",
+    "Rating": "68",
+    "Attribute1": "73",
+    "Attribute2": "64",
+    "Attribute3": "63",
+    "Attribute4": "69",
+    "Attribute5": "48",
+    "Attribute6": "71",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

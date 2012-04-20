@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Gill",
+    "LastName": "Swerts",
+    "CommonName": null,
+    "Height": "179",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "9",
+      "Day": "23"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "246",
+    "LeagueId": "10",
+    "NationId": "7",
+    "Rating": "65",
+    "Attribute1": "65",
+    "Attribute2": "48",
+    "Attribute3": "63",
+    "Attribute4": "65",
+    "Attribute5": "67",
+    "Attribute6": "69",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

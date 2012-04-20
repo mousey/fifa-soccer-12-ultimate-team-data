@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Thiago Heleno",
+    "LastName": "Ferreira",
+    "CommonName": "Thiago Heleno",
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "9",
+      "Day": "17"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "383",
+    "LeagueId": "7",
+    "NationId": "54",
+    "Rating": "74",
+    "Attribute1": "74",
+    "Attribute2": "48",
+    "Attribute3": "48",
+    "Attribute4": "48",
+    "Attribute5": "76",
+    "Attribute6": "80",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

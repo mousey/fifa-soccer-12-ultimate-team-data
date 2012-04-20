@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Paul",
+    "LastName": "Pogba",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1993",
+      "Month": "3",
+      "Day": "15"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "11",
+    "LeagueId": "13",
+    "NationId": "18",
+    "Rating": "55",
+    "Attribute1": "68",
+    "Attribute2": "34",
+    "Attribute3": "46",
+    "Attribute4": "38",
+    "Attribute5": "58",
+    "Attribute6": "48",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

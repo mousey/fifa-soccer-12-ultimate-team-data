@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Gabriel",
+    "LastName": "Obertan",
+    "CommonName": null,
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "2",
+      "Day": "26"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "13",
+    "LeagueId": "13",
+    "NationId": "18",
+    "Rating": "71",
+    "Attribute1": "84",
+    "Attribute2": "58",
+    "Attribute3": "69",
+    "Attribute4": "74",
+    "Attribute5": "56",
+    "Attribute6": "63",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

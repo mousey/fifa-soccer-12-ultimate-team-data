@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Baggio",
+    "LastName": "Husidic",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "5",
+      "Day": "19"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "693",
+    "LeagueId": "39",
+    "NationId": "95",
+    "Rating": "62",
+    "Attribute1": "53",
+    "Attribute2": "62",
+    "Attribute3": "58",
+    "Attribute4": "63",
+    "Attribute5": "56",
+    "Attribute6": "62",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

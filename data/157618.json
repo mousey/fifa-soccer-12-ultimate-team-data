@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Andreas",
+    "LastName": "Ottl",
+    "CommonName": null,
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "3",
+      "Day": "1"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "166",
+    "LeagueId": "19",
+    "NationId": "21",
+    "Rating": "72",
+    "Attribute1": "57",
+    "Attribute2": "54",
+    "Attribute3": "65",
+    "Attribute4": "64",
+    "Attribute5": "74",
+    "Attribute6": "75",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

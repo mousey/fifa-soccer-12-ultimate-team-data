@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Marius",
+    "LastName": "Žaliukas",
+    "CommonName": null,
+    "Height": "191",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "11",
+      "Day": "10"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "80",
+    "LeagueId": "50",
+    "NationId": "30",
+    "Rating": "71",
+    "Attribute1": "71",
+    "Attribute2": "40",
+    "Attribute3": "46",
+    "Attribute4": "56",
+    "Attribute5": "77",
+    "Attribute6": "66",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Rudy",
+    "LastName": "Riou",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1980",
+      "Month": "1",
+      "Day": "22"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "71",
+    "LeagueId": "17",
+    "NationId": "18",
+    "Rating": "62",
+    "Attribute1": "60",
+    "Attribute2": "65",
+    "Attribute3": "64",
+    "Attribute4": "67",
+    "Attribute5": "40",
+    "Attribute6": "65",
+    "Rare": "1",
+    "ItemType": "PlayerGk"
+  }
+}

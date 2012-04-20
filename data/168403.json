@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Raffaele",
+    "LastName": "Schiavi",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "3",
+      "Day": "15"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110912",
+    "LeagueId": "32",
+    "NationId": "27",
+    "Rating": "65",
+    "Attribute1": "58",
+    "Attribute2": "40",
+    "Attribute3": "45",
+    "Attribute4": "36",
+    "Attribute5": "70",
+    "Attribute6": "71",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

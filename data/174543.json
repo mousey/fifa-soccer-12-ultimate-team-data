@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Claudio",
+    "LastName": "Bravo",
+    "CommonName": null,
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "4",
+      "Day": "13"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "457",
+    "LeagueId": "53",
+    "NationId": "55",
+    "Rating": "77",
+    "Attribute1": "80",
+    "Attribute2": "71",
+    "Attribute3": "84",
+    "Attribute4": "82",
+    "Attribute5": "58",
+    "Attribute6": "74",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

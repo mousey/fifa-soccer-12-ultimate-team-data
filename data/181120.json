@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Tae-Se",
+    "LastName": "Jong",
+    "CommonName": "Chong Tese",
+    "Height": "181",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "3",
+      "Day": "2"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "160",
+    "LeagueId": "20",
+    "NationId": "166",
+    "Rating": "73",
+    "Attribute1": "80",
+    "Attribute2": "68",
+    "Attribute3": "58",
+    "Attribute4": "73",
+    "Attribute5": "62",
+    "Attribute6": "79",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

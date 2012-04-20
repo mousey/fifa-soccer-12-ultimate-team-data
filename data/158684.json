@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Paul",
+    "LastName": "Obiefule",
+    "CommonName": null,
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "5",
+      "Day": "15"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "299",
+    "LeagueId": "41",
+    "NationId": "133",
+    "Rating": "56",
+    "Attribute1": "64",
+    "Attribute2": "51",
+    "Attribute3": "52",
+    "Attribute4": "53",
+    "Attribute5": "61",
+    "Attribute6": "63",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

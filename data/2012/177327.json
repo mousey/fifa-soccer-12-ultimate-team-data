@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Elie",
+    "LastName": "Dohin",
+    "CommonName": null,
+    "Height": "171",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "7",
+      "Day": "29"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "212",
+    "LeagueId": "17",
+    "NationId": "18",
+    "Rating": "58",
+    "Attribute1": "64",
+    "Attribute2": "46",
+    "Attribute3": "60",
+    "Attribute4": "54",
+    "Attribute5": "57",
+    "Attribute6": "49",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

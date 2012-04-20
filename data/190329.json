@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Sanna",
+    "LastName": "Nyassi",
+    "CommonName": null,
+    "Height": "173",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "1",
+      "Day": "31"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "694",
+    "LeagueId": "39",
+    "NationId": "116",
+    "Rating": "65",
+    "Attribute1": "89",
+    "Attribute2": "67",
+    "Attribute3": "56",
+    "Attribute4": "65",
+    "Attribute5": "45",
+    "Attribute6": "49",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

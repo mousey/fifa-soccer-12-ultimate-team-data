@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Kristof",
+    "LastName": "Van Hout",
+    "CommonName": null,
+    "Height": "208",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "2",
+      "Day": "9"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "100081",
+    "LeagueId": "4",
+    "NationId": "7",
+    "Rating": "65",
+    "Attribute1": "64",
+    "Attribute2": "66",
+    "Attribute3": "65",
+    "Attribute4": "64",
+    "Attribute5": "35",
+    "Attribute6": "66",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

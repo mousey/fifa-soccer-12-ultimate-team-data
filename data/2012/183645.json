@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Christian",
+    "LastName": "Ramsebner",
+    "CommonName": null,
+    "Height": "191",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "3",
+      "Day": "26"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "111373",
+    "LeagueId": "80",
+    "NationId": "4",
+    "Rating": "61",
+    "Attribute1": "55",
+    "Attribute2": "36",
+    "Attribute3": "25",
+    "Attribute4": "38",
+    "Attribute5": "68",
+    "Attribute6": "64",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

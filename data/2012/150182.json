@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Miroslaw",
+    "LastName": "Sznaucner",
+    "CommonName": null,
+    "Height": "174",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "5",
+      "Day": "9"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "393",
+    "LeagueId": "63",
+    "NationId": "37",
+    "Rating": "69",
+    "Attribute1": "72",
+    "Attribute2": "40",
+    "Attribute3": "74",
+    "Attribute4": "59",
+    "Attribute5": "67",
+    "Attribute6": "70",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Hyun Ho",
+    "LastName": "Lee",
+    "CommonName": "Lee Hyun Ho",
+    "Height": "170",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "11",
+      "Day": "29"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1478",
+    "LeagueId": "83",
+    "NationId": "167",
+    "Rating": "61",
+    "Attribute1": "80",
+    "Attribute2": "61",
+    "Attribute3": "61",
+    "Attribute4": "67",
+    "Attribute5": "42",
+    "Attribute6": "66",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

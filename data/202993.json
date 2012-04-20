@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jong Hyun",
+    "LastName": "Lee",
+    "CommonName": "Lee Jong Hyun",
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "1",
+      "Day": "8"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110765",
+    "LeagueId": "83",
+    "NationId": "167",
+    "Rating": "54",
+    "Attribute1": "58",
+    "Attribute2": "51",
+    "Attribute3": "58",
+    "Attribute4": "42",
+    "Attribute5": "51",
+    "Attribute6": "60",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

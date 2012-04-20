@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Javier",
+    "LastName": "Guerra Rodríguez",
+    "CommonName": "Javi Guerra",
+    "Height": "179",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "3",
+      "Day": "15"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "462",
+    "LeagueId": "54",
+    "NationId": "45",
+    "Rating": "74",
+    "Attribute1": "77",
+    "Attribute2": "69",
+    "Attribute3": "52",
+    "Attribute4": "66",
+    "Attribute5": "56",
+    "Attribute6": "78",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

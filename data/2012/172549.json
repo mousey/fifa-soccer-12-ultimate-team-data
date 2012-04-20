@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Anders",
+    "LastName": "Randrup",
+    "CommonName": null,
+    "Height": "181",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "7",
+      "Day": "16"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "269",
+    "LeagueId": "1",
+    "NationId": "13",
+    "Rating": "64",
+    "Attribute1": "67",
+    "Attribute2": "32",
+    "Attribute3": "63",
+    "Attribute4": "54",
+    "Attribute5": "68",
+    "Attribute6": "53",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

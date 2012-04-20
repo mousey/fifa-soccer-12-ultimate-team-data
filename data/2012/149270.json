@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Carl",
+    "LastName": "Valeri",
+    "CommonName": null,
+    "Height": "176",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "8",
+      "Day": "14"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111974",
+    "LeagueId": "32",
+    "NationId": "195",
+    "Rating": "66",
+    "Attribute1": "65",
+    "Attribute2": "52",
+    "Attribute3": "70",
+    "Attribute4": "61",
+    "Attribute5": "64",
+    "Attribute6": "65",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

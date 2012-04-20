@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ryan",
+    "LastName": "Shawcross",
+    "CommonName": null,
+    "Height": "191",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "10",
+      "Day": "4"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1806",
+    "LeagueId": "13",
+    "NationId": "14",
+    "Rating": "77",
+    "Attribute1": "67",
+    "Attribute2": "39",
+    "Attribute3": "49",
+    "Attribute4": "46",
+    "Attribute5": "81",
+    "Attribute6": "80",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

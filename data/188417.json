@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Álvaro",
+    "LastName": "Fernández",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "10",
+      "Day": "11"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111144",
+    "LeagueId": "39",
+    "NationId": "60",
+    "Rating": "69",
+    "Attribute1": "67",
+    "Attribute2": "63",
+    "Attribute3": "67",
+    "Attribute4": "69",
+    "Attribute5": "59",
+    "Attribute6": "65",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

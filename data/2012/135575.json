@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Daniel",
+    "LastName": "da Silva Carvalho",
+    "CommonName": "Daniel Carvalho",
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "3",
+      "Day": "1"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1035",
+    "LeagueId": "7",
+    "NationId": "54",
+    "Rating": "74",
+    "Attribute1": "67",
+    "Attribute2": "78",
+    "Attribute3": "75",
+    "Attribute4": "78",
+    "Attribute5": "60",
+    "Attribute6": "61",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

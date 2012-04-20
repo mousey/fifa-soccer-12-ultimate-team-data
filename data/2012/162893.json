@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Johan",
+    "LastName": "Djourou",
+    "CommonName": null,
+    "Height": "192",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "1",
+      "Day": "18"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1",
+    "LeagueId": "13",
+    "NationId": "47",
+    "Rating": "77",
+    "Attribute1": "76",
+    "Attribute2": "39",
+    "Attribute3": "62",
+    "Attribute4": "61",
+    "Attribute5": "78",
+    "Attribute6": "80",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

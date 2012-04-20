@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Alexandru",
+    "LastName": "Antoniuc",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "5",
+      "Day": "23"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110227",
+    "LeagueId": "67",
+    "NationId": "33",
+    "Rating": "59",
+    "Attribute1": "51",
+    "Attribute2": "61",
+    "Attribute3": "48",
+    "Attribute4": "64",
+    "Attribute5": "49",
+    "Attribute6": "61",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

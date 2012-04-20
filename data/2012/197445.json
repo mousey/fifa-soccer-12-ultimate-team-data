@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "David",
+    "LastName": "Alaba",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1992",
+      "Month": "6",
+      "Day": "24"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "21",
+    "LeagueId": "19",
+    "NationId": "4",
+    "Rating": "73",
+    "Attribute1": "78",
+    "Attribute2": "60",
+    "Attribute3": "72",
+    "Attribute4": "78",
+    "Attribute5": "61",
+    "Attribute6": "62",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

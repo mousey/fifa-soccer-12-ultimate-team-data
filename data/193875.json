@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jack",
+    "LastName": "Hingert",
+    "CommonName": null,
+    "Height": "176",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "9",
+      "Day": "26"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111395",
+    "LeagueId": "351",
+    "NationId": "195",
+    "Rating": "56",
+    "Attribute1": "72",
+    "Attribute2": "36",
+    "Attribute3": "60",
+    "Attribute4": "48",
+    "Attribute5": "56",
+    "Attribute6": "53",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

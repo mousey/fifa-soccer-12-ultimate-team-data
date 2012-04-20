@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jonas",
+    "LastName": "De Roeck",
+    "CommonName": null,
+    "Height": "187",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "12",
+      "Day": "20"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "100409",
+    "LeagueId": "19",
+    "NationId": "7",
+    "Rating": "68",
+    "Attribute1": "54",
+    "Attribute2": "49",
+    "Attribute3": "61",
+    "Attribute4": "47",
+    "Attribute5": "71",
+    "Attribute6": "68",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

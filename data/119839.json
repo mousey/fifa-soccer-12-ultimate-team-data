@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Danny",
+    "LastName": "Coid",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "10",
+      "Day": "3"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110313",
+    "LeagueId": "61",
+    "NationId": "14",
+    "Rating": "59",
+    "Attribute1": "65",
+    "Attribute2": "50",
+    "Attribute3": "61",
+    "Attribute4": "53",
+    "Attribute5": "59",
+    "Attribute6": "65",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

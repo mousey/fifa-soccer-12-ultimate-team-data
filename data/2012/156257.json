@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Seyi",
+    "LastName": "Olajengbesi",
+    "CommonName": null,
+    "Height": "192",
+    "DateOfBirth": {
+      "Year": "1980",
+      "Month": "11",
+      "Day": "17"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1826",
+    "LeagueId": "20",
+    "NationId": "133",
+    "Rating": "64",
+    "Attribute1": "66",
+    "Attribute2": "27",
+    "Attribute3": "42",
+    "Attribute4": "42",
+    "Attribute5": "69",
+    "Attribute6": "69",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

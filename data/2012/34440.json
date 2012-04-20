@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Nicky",
+    "LastName": "Hayen",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1980",
+      "Month": "8",
+      "Day": "16"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "100087",
+    "LeagueId": "4",
+    "NationId": "7",
+    "Rating": "62",
+    "Attribute1": "42",
+    "Attribute2": "38",
+    "Attribute3": "42",
+    "Attribute4": "30",
+    "Attribute5": "66",
+    "Attribute6": "58",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

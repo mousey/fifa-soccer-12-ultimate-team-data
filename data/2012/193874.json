@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Adriano José",
+    "LastName": "de Lara",
+    "CommonName": "Adriano",
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "12",
+      "Day": "9"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "112119",
+    "LeagueId": "7",
+    "NationId": "54",
+    "Rating": "64",
+    "Attribute1": "61",
+    "Attribute2": "61",
+    "Attribute3": "64",
+    "Attribute4": "69",
+    "Attribute5": "62",
+    "Attribute6": "54",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

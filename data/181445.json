@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Rasmus",
+    "LastName": "Bengtsson",
+    "CommonName": null,
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "6",
+      "Day": "26"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1908",
+    "LeagueId": "10",
+    "NationId": "46",
+    "Rating": "69",
+    "Attribute1": "47",
+    "Attribute2": "41",
+    "Attribute3": "58",
+    "Attribute4": "50",
+    "Attribute5": "70",
+    "Attribute6": "69",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

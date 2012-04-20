@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Nicolas",
+    "LastName": "Douchez",
+    "CommonName": null,
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1980",
+      "Month": "4",
+      "Day": "22"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "73",
+    "LeagueId": "16",
+    "NationId": "18",
+    "Rating": "79",
+    "Attribute1": "80",
+    "Attribute2": "77",
+    "Attribute3": "70",
+    "Attribute4": "82",
+    "Attribute5": "62",
+    "Attribute6": "78",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

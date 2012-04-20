@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Rivaldo",
+    "LastName": "Barbosa de Souza",
+    "CommonName": "Rivaldo",
+    "Height": "181",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "8",
+      "Day": "25"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "383",
+    "LeagueId": "7",
+    "NationId": "54",
+    "Rating": "67",
+    "Attribute1": "65",
+    "Attribute2": "58",
+    "Attribute3": "69",
+    "Attribute4": "69",
+    "Attribute5": "64",
+    "Attribute6": "58",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

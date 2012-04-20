@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Eyong",
+    "LastName": "Enoh",
+    "CommonName": null,
+    "Height": "174",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "3",
+      "Day": "23"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "245",
+    "LeagueId": "10",
+    "NationId": "103",
+    "Rating": "72",
+    "Attribute1": "72",
+    "Attribute2": "34",
+    "Attribute3": "57",
+    "Attribute4": "56",
+    "Attribute5": "76",
+    "Attribute6": "66",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

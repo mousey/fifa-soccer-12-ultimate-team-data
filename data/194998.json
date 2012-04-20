@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jamie",
+    "LastName": "Ness",
+    "CommonName": null,
+    "Height": "177",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "3",
+      "Day": "2"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "86",
+    "LeagueId": "50",
+    "NationId": "42",
+    "Rating": "68",
+    "Attribute1": "73",
+    "Attribute2": "53",
+    "Attribute3": "69",
+    "Attribute4": "69",
+    "Attribute5": "68",
+    "Attribute6": "70",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Gerard",
+    "LastName": "O'Callaghan",
+    "CommonName": null,
+    "Height": "166",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "12",
+      "Day": "23"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "111132",
+    "LeagueId": "65",
+    "NationId": "25",
+    "Rating": "52",
+    "Attribute1": "61",
+    "Attribute2": "45",
+    "Attribute3": "49",
+    "Attribute4": "53",
+    "Attribute5": "34",
+    "Attribute6": "39",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

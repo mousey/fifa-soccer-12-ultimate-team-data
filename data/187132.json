@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Carlos",
+    "LastName": "Zambrano",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "7",
+      "Day": "10"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110329",
+    "LeagueId": "20",
+    "NationId": "59",
+    "Rating": "74",
+    "Attribute1": "68",
+    "Attribute2": "52",
+    "Attribute3": "65",
+    "Attribute4": "66",
+    "Attribute5": "75",
+    "Attribute6": "77",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

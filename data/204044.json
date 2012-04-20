@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Martin",
+    "LastName": "Kobylański",
+    "CommonName": null,
+    "Height": "179",
+    "DateOfBirth": {
+      "Year": "1994",
+      "Month": "3",
+      "Day": "8"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "162",
+    "LeagueId": "20",
+    "NationId": "37",
+    "Rating": "59",
+    "Attribute1": "70",
+    "Attribute2": "58",
+    "Attribute3": "54",
+    "Attribute4": "67",
+    "Attribute5": "39",
+    "Attribute6": "58",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Francisco",
+    "LastName": "Navas Cobo",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "11",
+      "Day": "17"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "698",
+    "LeagueId": "39",
+    "NationId": "95",
+    "Rating": "57",
+    "Attribute1": "74",
+    "Attribute2": "55",
+    "Attribute3": "51",
+    "Attribute4": "63",
+    "Attribute5": "37",
+    "Attribute6": "48",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

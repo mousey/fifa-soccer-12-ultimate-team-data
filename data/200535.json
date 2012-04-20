@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Terry",
+    "LastName": "Antonis",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1993",
+      "Month": "11",
+      "Day": "26"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111400",
+    "LeagueId": "351",
+    "NationId": "195",
+    "Rating": "59",
+    "Attribute1": "74",
+    "Attribute2": "48",
+    "Attribute3": "46",
+    "Attribute4": "70",
+    "Attribute5": "34",
+    "Attribute6": "34",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

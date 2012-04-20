@@ -1,0 +1,15 @@
+{
+  "Manager": {
+    "FirstName": "Roy",
+    "LastName": "Hodgson",
+    "NationId": "14",
+    "Value": "74",
+    "Rare": "1",
+    "Weight": "15",
+    "FormationId": "15",
+    "TalkRating": "0",
+    "Negotiation": "2",
+    "AssetId": "1000313",
+    "ItemType": "Manager"
+  }
+}

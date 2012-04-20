@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Zola",
+    "LastName": "Matumona",
+    "CommonName": null,
+    "Height": "165",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "11",
+      "Day": "26"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1747",
+    "LeagueId": "4",
+    "NationId": "110",
+    "Rating": "64",
+    "Attribute1": "56",
+    "Attribute2": "62",
+    "Attribute3": "64",
+    "Attribute4": "69",
+    "Attribute5": "41",
+    "Attribute6": "58",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

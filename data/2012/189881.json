@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Chris",
+    "LastName": "Smalling",
+    "CommonName": null,
+    "Height": "192",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "11",
+      "Day": "22"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "11",
+    "LeagueId": "13",
+    "NationId": "14",
+    "Rating": "77",
+    "Attribute1": "70",
+    "Attribute2": "24",
+    "Attribute3": "50",
+    "Attribute4": "52",
+    "Attribute5": "79",
+    "Attribute6": "73",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

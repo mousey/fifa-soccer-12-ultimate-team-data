@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Fábio",
+    "LastName": "Pereira da Silva",
+    "CommonName": "Fábio",
+    "Height": "172",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "7",
+      "Day": "9"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "11",
+    "LeagueId": "13",
+    "NationId": "54",
+    "Rating": "75",
+    "Attribute1": "83",
+    "Attribute2": "58",
+    "Attribute3": "73",
+    "Attribute4": "77",
+    "Attribute5": "71",
+    "Attribute6": "62",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

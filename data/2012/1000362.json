@@ -1,0 +1,15 @@
+{
+  "Manager": {
+    "FirstName": "John",
+    "LastName": "van den Brom",
+    "NationId": "34",
+    "Value": "67",
+    "Rare": "0",
+    "Weight": "15",
+    "FormationId": "23",
+    "TalkRating": "2",
+    "Negotiation": "0",
+    "AssetId": "1000362",
+    "ItemType": "Manager"
+  }
+}

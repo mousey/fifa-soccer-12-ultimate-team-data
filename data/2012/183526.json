@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Nabil",
+    "LastName": "El Zhar",
+    "CommonName": null,
+    "Height": "171",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "8",
+      "Day": "27"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1853",
+    "LeagueId": "53",
+    "NationId": "129",
+    "Rating": "70",
+    "Attribute1": "83",
+    "Attribute2": "65",
+    "Attribute3": "64",
+    "Attribute4": "81",
+    "Attribute5": "49",
+    "Attribute6": "56",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

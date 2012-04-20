@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Maxime",
+    "LastName": "Gonalons",
+    "CommonName": null,
+    "Height": "187",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "3",
+      "Day": "10"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "66",
+    "LeagueId": "16",
+    "NationId": "18",
+    "Rating": "78",
+    "Attribute1": "72",
+    "Attribute2": "69",
+    "Attribute3": "76",
+    "Attribute4": "73",
+    "Attribute5": "80",
+    "Attribute6": "79",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

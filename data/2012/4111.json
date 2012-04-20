@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Richard",
+    "LastName": "Dunne",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "9",
+      "Day": "21"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "2",
+    "LeagueId": "13",
+    "NationId": "25",
+    "Rating": "78",
+    "Attribute1": "54",
+    "Attribute2": "40",
+    "Attribute3": "38",
+    "Attribute4": "33",
+    "Attribute5": "81",
+    "Attribute6": "78",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

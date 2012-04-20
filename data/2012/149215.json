@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Angelo",
+    "LastName": "Iorio",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "8",
+      "Day": "26"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111491",
+    "LeagueId": "32",
+    "NationId": "27",
+    "Rating": "65",
+    "Attribute1": "59",
+    "Attribute2": "42",
+    "Attribute3": "45",
+    "Attribute4": "44",
+    "Attribute5": "66",
+    "Attribute6": "70",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

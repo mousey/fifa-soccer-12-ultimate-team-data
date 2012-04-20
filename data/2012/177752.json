@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Royston",
+    "LastName": "Drenthe",
+    "CommonName": null,
+    "Height": "168",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "4",
+      "Day": "8"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "7",
+    "LeagueId": "13",
+    "NationId": "34",
+    "Rating": "73",
+    "Attribute1": "90",
+    "Attribute2": "69",
+    "Attribute3": "68",
+    "Attribute4": "80",
+    "Attribute5": "65",
+    "Attribute6": "73",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

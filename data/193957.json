@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Cristian",
+    "LastName": "Montano",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "12",
+      "Day": "11"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1937",
+    "LeagueId": "60",
+    "NationId": "14",
+    "Rating": "61",
+    "Attribute1": "78",
+    "Attribute2": "55",
+    "Attribute3": "54",
+    "Attribute4": "65",
+    "Attribute5": "59",
+    "Attribute6": "50",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

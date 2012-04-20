@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Liam",
+    "LastName": "Noble",
+    "CommonName": null,
+    "Height": "173",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "5",
+      "Day": "8"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1480",
+    "LeagueId": "60",
+    "NationId": "14",
+    "Rating": "60",
+    "Attribute1": "70",
+    "Attribute2": "63",
+    "Attribute3": "63",
+    "Attribute4": "66",
+    "Attribute5": "47",
+    "Attribute6": "50",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

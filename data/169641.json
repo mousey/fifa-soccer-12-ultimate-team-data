@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jamie",
+    "LastName": "O'Hara",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "9",
+      "Day": "25"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "110",
+    "LeagueId": "13",
+    "NationId": "14",
+    "Rating": "76",
+    "Attribute1": "69",
+    "Attribute2": "70",
+    "Attribute3": "79",
+    "Attribute4": "73",
+    "Attribute5": "74",
+    "Attribute6": "64",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

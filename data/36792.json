@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ian",
+    "LastName": "Murray",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "3",
+      "Day": "20"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "81",
+    "LeagueId": "50",
+    "NationId": "42",
+    "Rating": "64",
+    "Attribute1": "58",
+    "Attribute2": "37",
+    "Attribute3": "63",
+    "Attribute4": "59",
+    "Attribute5": "66",
+    "Attribute6": "62",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

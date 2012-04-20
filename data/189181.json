@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Darko",
+    "LastName": "Bodul",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "1",
+      "Day": "11"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "209",
+    "LeagueId": "80",
+    "NationId": "10",
+    "Rating": "65",
+    "Attribute1": "73",
+    "Attribute2": "63",
+    "Attribute3": "38",
+    "Attribute4": "66",
+    "Attribute5": "50",
+    "Attribute6": "63",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

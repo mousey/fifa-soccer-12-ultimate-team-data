@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Ryan",
+    "LastName": "Esson",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1980",
+      "Month": "3",
+      "Day": "19"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "620",
+    "LeagueId": "50",
+    "NationId": "42",
+    "Rating": "60",
+    "Attribute1": "61",
+    "Attribute2": "63",
+    "Attribute3": "56",
+    "Attribute4": "58",
+    "Attribute5": "31",
+    "Attribute6": "62",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

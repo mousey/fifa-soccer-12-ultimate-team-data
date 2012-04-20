@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Derek",
+    "LastName": "Foran",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "10",
+      "Day": "9"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "563",
+    "LeagueId": "65",
+    "NationId": "25",
+    "Rating": "54",
+    "Attribute1": "34",
+    "Attribute2": "28",
+    "Attribute3": "20",
+    "Attribute4": "31",
+    "Attribute5": "57",
+    "Attribute6": "55",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

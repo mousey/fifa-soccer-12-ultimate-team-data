@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Eduardo",
+    "LastName": "Ramos Gómez",
+    "CommonName": "Edu Ramos",
+    "Height": "176",
+    "DateOfBirth": {
+      "Year": "1992",
+      "Month": "2",
+      "Day": "17"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110902",
+    "LeagueId": "54",
+    "NationId": "45",
+    "Rating": "61",
+    "Attribute1": "69",
+    "Attribute2": "49",
+    "Attribute3": "61",
+    "Attribute4": "56",
+    "Attribute5": "61",
+    "Attribute6": "43",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

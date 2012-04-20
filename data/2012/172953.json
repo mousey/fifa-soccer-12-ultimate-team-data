@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Adrian",
+    "LastName": "Mariappa",
+    "CommonName": null,
+    "Height": "179",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "10",
+      "Day": "3"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1795",
+    "LeagueId": "14",
+    "NationId": "14",
+    "Rating": "68",
+    "Attribute1": "76",
+    "Attribute2": "28",
+    "Attribute3": "45",
+    "Attribute4": "54",
+    "Attribute5": "71",
+    "Attribute6": "80",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

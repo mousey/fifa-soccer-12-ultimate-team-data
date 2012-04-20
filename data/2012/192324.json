@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Manuel",
+    "LastName": "Torres Caturla",
+    "CommonName": "Manu Torres",
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "8",
+      "Day": "14"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "100851",
+    "LeagueId": "54",
+    "NationId": "45",
+    "Rating": "66",
+    "Attribute1": "76",
+    "Attribute2": "42",
+    "Attribute3": "61",
+    "Attribute4": "58",
+    "Attribute5": "67",
+    "Attribute6": "58",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

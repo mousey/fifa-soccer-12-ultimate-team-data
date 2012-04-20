@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jakob",
+    "LastName": "Poulsen",
+    "CommonName": null,
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "7",
+      "Day": "7"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1516",
+    "LeagueId": "1",
+    "NationId": "13",
+    "Rating": "70",
+    "Attribute1": "73",
+    "Attribute2": "67",
+    "Attribute3": "72",
+    "Attribute4": "70",
+    "Attribute5": "63",
+    "Attribute6": "58",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

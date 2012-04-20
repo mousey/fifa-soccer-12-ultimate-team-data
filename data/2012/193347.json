@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Kenneth",
+    "LastName": "Staelens",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "5",
+      "Day": "3"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1902",
+    "LeagueId": "10",
+    "NationId": "7",
+    "Rating": "58",
+    "Attribute1": "63",
+    "Attribute2": "56",
+    "Attribute3": "59",
+    "Attribute4": "59",
+    "Attribute5": "61",
+    "Attribute6": "56",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

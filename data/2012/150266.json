@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Dimitrios",
+    "LastName": "Papadopoulos",
+    "CommonName": null,
+    "Height": "177",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "10",
+      "Day": "20"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "450",
+    "LeagueId": "54",
+    "NationId": "22",
+    "Rating": "63",
+    "Attribute1": "68",
+    "Attribute2": "60",
+    "Attribute3": "45",
+    "Attribute4": "64",
+    "Attribute5": "56",
+    "Attribute6": "60",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

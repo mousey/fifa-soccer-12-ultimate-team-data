@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Pavle",
+    "LastName": "Ninkov",
+    "CommonName": null,
+    "Height": "181",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "4",
+      "Day": "20"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1809",
+    "LeagueId": "16",
+    "NationId": "51",
+    "Rating": "70",
+    "Attribute1": "65",
+    "Attribute2": "57",
+    "Attribute3": "71",
+    "Attribute4": "69",
+    "Attribute5": "70",
+    "Attribute6": "63",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

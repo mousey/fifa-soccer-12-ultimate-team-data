@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jose",
+    "LastName": "Holebas",
+    "CommonName": null,
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "6",
+      "Day": "27"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "280",
+    "LeagueId": "63",
+    "NationId": "21",
+    "Rating": "67",
+    "Attribute1": "88",
+    "Attribute2": "62",
+    "Attribute3": "55",
+    "Attribute4": "68",
+    "Attribute5": "70",
+    "Attribute6": "69",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

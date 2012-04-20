@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Christophe",
+    "LastName": "Berra",
+    "CommonName": null,
+    "Height": "191",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "1",
+      "Day": "31"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "110",
+    "LeagueId": "13",
+    "NationId": "42",
+    "Rating": "73",
+    "Attribute1": "67",
+    "Attribute2": "15",
+    "Attribute3": "50",
+    "Attribute4": "47",
+    "Attribute5": "73",
+    "Attribute6": "78",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Lateef",
+    "LastName": "Elford-Alliyu",
+    "CommonName": null,
+    "Height": "173",
+    "DateOfBirth": {
+      "Year": "1992",
+      "Month": "6",
+      "Day": "1"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "109",
+    "LeagueId": "13",
+    "NationId": "133",
+    "Rating": "61",
+    "Attribute1": "80",
+    "Attribute2": "53",
+    "Attribute3": "30",
+    "Attribute4": "64",
+    "Attribute5": "45",
+    "Attribute6": "60",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Paul",
+    "LastName": "McLaren",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1976",
+      "Month": "11",
+      "Day": "17"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1951",
+    "LeagueId": "61",
+    "NationId": "14",
+    "Rating": "56",
+    "Attribute1": "42",
+    "Attribute2": "45",
+    "Attribute3": "62",
+    "Attribute4": "53",
+    "Attribute5": "64",
+    "Attribute6": "61",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Davide",
+    "LastName": "Taini",
+    "CommonName": null,
+    "Height": "190",
+    "DateOfBirth": {
+      "Year": "1976",
+      "Month": "12",
+      "Day": "7"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "322",
+    "LeagueId": "189",
+    "NationId": "47",
+    "Rating": "60",
+    "Attribute1": "67",
+    "Attribute2": "56",
+    "Attribute3": "58",
+    "Attribute4": "66",
+    "Attribute5": "42",
+    "Attribute6": "52",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

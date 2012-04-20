@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Gökhan",
+    "LastName": "Inler",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "6",
+      "Day": "27"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "48",
+    "LeagueId": "31",
+    "NationId": "47",
+    "Rating": "80",
+    "Attribute1": "72",
+    "Attribute2": "76",
+    "Attribute3": "79",
+    "Attribute4": "75",
+    "Attribute5": "79",
+    "Attribute6": "73",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

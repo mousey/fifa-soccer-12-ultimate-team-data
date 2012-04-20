@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Bruno Cesar",
+    "LastName": "Zanaki",
+    "CommonName": "Bruno Cesar",
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "11",
+      "Day": "3"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "234",
+    "LeagueId": "308",
+    "NationId": "54",
+    "Rating": "77",
+    "Attribute1": "75",
+    "Attribute2": "77",
+    "Attribute3": "76",
+    "Attribute4": "80",
+    "Attribute5": "56",
+    "Attribute6": "55",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

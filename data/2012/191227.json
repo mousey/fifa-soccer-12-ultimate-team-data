@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Kevin",
+    "LastName": "Maek",
+    "CommonName": null,
+    "Height": "192",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "11",
+      "Day": "4"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1826",
+    "LeagueId": "20",
+    "NationId": "21",
+    "Rating": "58",
+    "Attribute1": "63",
+    "Attribute2": "51",
+    "Attribute3": "52",
+    "Attribute4": "56",
+    "Attribute5": "66",
+    "Attribute6": "67",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

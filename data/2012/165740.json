@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Adam",
+    "LastName": "Johnson",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "7",
+      "Day": "14"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "10",
+    "LeagueId": "13",
+    "NationId": "14",
+    "Rating": "82",
+    "Attribute1": "87",
+    "Attribute2": "75",
+    "Attribute3": "76",
+    "Attribute4": "85",
+    "Attribute5": "56",
+    "Attribute6": "51",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

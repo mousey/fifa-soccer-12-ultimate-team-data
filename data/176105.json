@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Miran",
+    "LastName": "Burgič",
+    "CommonName": null,
+    "Height": "181",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "9",
+      "Day": "25"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "2045",
+    "LeagueId": "80",
+    "NationId": "44",
+    "Rating": "65",
+    "Attribute1": "69",
+    "Attribute2": "60",
+    "Attribute3": "49",
+    "Attribute4": "61",
+    "Attribute5": "50",
+    "Attribute6": "77",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

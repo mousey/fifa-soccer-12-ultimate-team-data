@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Braulio",
+    "LastName": "Nóbrega Rodríguez",
+    "CommonName": "Braulio",
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "9",
+      "Day": "18"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "244",
+    "LeagueId": "53",
+    "NationId": "45",
+    "Rating": "68",
+    "Attribute1": "67",
+    "Attribute2": "67",
+    "Attribute3": "48",
+    "Attribute4": "70",
+    "Attribute5": "50",
+    "Attribute6": "71",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Dariusz",
+    "LastName": "Sztylka",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1978",
+      "Month": "5",
+      "Day": "2"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111092",
+    "LeagueId": "66",
+    "NationId": "37",
+    "Rating": "63",
+    "Attribute1": "58",
+    "Attribute2": "48",
+    "Attribute3": "60",
+    "Attribute4": "57",
+    "Attribute5": "64",
+    "Attribute6": "59",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Kees",
+    "LastName": "Luijckx",
+    "CommonName": null,
+    "Height": "190",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "2",
+      "Day": "11"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1904",
+    "LeagueId": "10",
+    "NationId": "34",
+    "Rating": "67",
+    "Attribute1": "60",
+    "Attribute2": "68",
+    "Attribute3": "68",
+    "Attribute4": "64",
+    "Attribute5": "72",
+    "Attribute6": "61",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

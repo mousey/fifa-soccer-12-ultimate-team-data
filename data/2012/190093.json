@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Daniel",
+    "LastName": "Castellano Betancor",
+    "CommonName": "Dani Castellano",
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "11",
+      "Day": "2"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "472",
+    "LeagueId": "54",
+    "NationId": "45",
+    "Rating": "62",
+    "Attribute1": "74",
+    "Attribute2": "53",
+    "Attribute3": "52",
+    "Attribute4": "69",
+    "Attribute5": "49",
+    "Attribute6": "52",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

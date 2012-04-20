@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Sebastián",
+    "LastName": "Saja",
+    "CommonName": null,
+    "Height": "189",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "6",
+      "Day": "5"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "101085",
+    "LeagueId": "353",
+    "NationId": "52",
+    "Rating": "72",
+    "Attribute1": "77",
+    "Attribute2": "70",
+    "Attribute3": "64",
+    "Attribute4": "74",
+    "Attribute5": "23",
+    "Attribute6": "69",
+    "Rare": "1",
+    "ItemType": "PlayerGk"
+  }
+}

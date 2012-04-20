@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Oscar",
+    "LastName": "Wendt",
+    "CommonName": null,
+    "Height": "181",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "10",
+      "Day": "24"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "23",
+    "LeagueId": "19",
+    "NationId": "46",
+    "Rating": "74",
+    "Attribute1": "79",
+    "Attribute2": "66",
+    "Attribute3": "76",
+    "Attribute4": "66",
+    "Attribute5": "75",
+    "Attribute6": "69",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Stephen",
+    "LastName": "Maher",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "3",
+      "Day": "3"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "837",
+    "LeagueId": "65",
+    "NationId": "25",
+    "Rating": "57",
+    "Attribute1": "61",
+    "Attribute2": "51",
+    "Attribute3": "58",
+    "Attribute4": "50",
+    "Attribute5": "55",
+    "Attribute6": "56",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

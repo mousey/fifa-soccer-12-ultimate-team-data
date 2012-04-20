@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Stephane",
+    "LastName": "Besle",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "1",
+      "Day": "23"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "435",
+    "LeagueId": "189",
+    "NationId": "18",
+    "Rating": "58",
+    "Attribute1": "51",
+    "Attribute2": "46",
+    "Attribute3": "44",
+    "Attribute4": "44",
+    "Attribute5": "66",
+    "Attribute6": "66",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

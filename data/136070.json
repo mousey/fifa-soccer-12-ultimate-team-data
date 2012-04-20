@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Luís Alberto",
+    "LastName": "Silva dos Santos",
+    "CommonName": "Luís Alberto",
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "11",
+      "Day": "17"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1891",
+    "LeagueId": "308",
+    "NationId": "54",
+    "Rating": "74",
+    "Attribute1": "64",
+    "Attribute2": "63",
+    "Attribute3": "70",
+    "Attribute4": "67",
+    "Attribute5": "75",
+    "Attribute6": "82",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

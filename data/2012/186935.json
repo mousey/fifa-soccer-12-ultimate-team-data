@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Claudemir",
+    "LastName": "Domingues de Souza",
+    "CommonName": "Claudemir",
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "3",
+      "Day": "27"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "819",
+    "LeagueId": "1",
+    "NationId": "54",
+    "Rating": "76",
+    "Attribute1": "75",
+    "Attribute2": "73",
+    "Attribute3": "75",
+    "Attribute4": "75",
+    "Attribute5": "71",
+    "Attribute6": "67",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

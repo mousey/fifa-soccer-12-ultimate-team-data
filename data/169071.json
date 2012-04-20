@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "David",
+    "LastName": "Gonzalez",
+    "CommonName": null,
+    "Height": "181",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "11",
+      "Day": "9"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "324",
+    "LeagueId": "189",
+    "NationId": "47",
+    "Rating": "57",
+    "Attribute1": "57",
+    "Attribute2": "56",
+    "Attribute3": "58",
+    "Attribute4": "61",
+    "Attribute5": "48",
+    "Attribute6": "53",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

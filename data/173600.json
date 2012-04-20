@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Roberto",
+    "LastName": "Lago Soto",
+    "CommonName": "Roberto Lago",
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "8",
+      "Day": "30"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "450",
+    "LeagueId": "54",
+    "NationId": "45",
+    "Rating": "68",
+    "Attribute1": "79",
+    "Attribute2": "53",
+    "Attribute3": "60",
+    "Attribute4": "61",
+    "Attribute5": "67",
+    "Attribute6": "65",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

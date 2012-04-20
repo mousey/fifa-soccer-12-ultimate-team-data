@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Danny",
+    "LastName": "Buijs",
+    "CommonName": null,
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "6",
+      "Day": "21"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "82",
+    "LeagueId": "50",
+    "NationId": "34",
+    "Rating": "61",
+    "Attribute1": "71",
+    "Attribute2": "52",
+    "Attribute3": "61",
+    "Attribute4": "59",
+    "Attribute5": "66",
+    "Attribute6": "66",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

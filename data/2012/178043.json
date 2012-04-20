@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Francesco",
+    "LastName": "Della Rocca",
+    "CommonName": null,
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "9",
+      "Day": "14"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1843",
+    "LeagueId": "31",
+    "NationId": "27",
+    "Rating": "66",
+    "Attribute1": "70",
+    "Attribute2": "60",
+    "Attribute3": "68",
+    "Attribute4": "71",
+    "Attribute5": "59",
+    "Attribute6": "55",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

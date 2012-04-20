@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Gabriel",
+    "LastName": "Tamaş",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "11",
+      "Day": "9"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "109",
+    "LeagueId": "13",
+    "NationId": "39",
+    "Rating": "75",
+    "Attribute1": "52",
+    "Attribute2": "59",
+    "Attribute3": "53",
+    "Attribute4": "54",
+    "Attribute5": "76",
+    "Attribute6": "78",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

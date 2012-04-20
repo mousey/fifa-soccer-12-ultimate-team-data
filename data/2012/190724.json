@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Marvin",
+    "LastName": "Pourie",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "1",
+      "Day": "8"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "270",
+    "LeagueId": "1",
+    "NationId": "21",
+    "Rating": "63",
+    "Attribute1": "70",
+    "Attribute2": "58",
+    "Attribute3": "43",
+    "Attribute4": "61",
+    "Attribute5": "46",
+    "Attribute6": "69",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

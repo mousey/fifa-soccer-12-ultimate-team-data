@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jamie",
+    "LastName": "Jones",
+    "CommonName": null,
+    "Height": "191",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "2",
+      "Day": "18"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1958",
+    "LeagueId": "60",
+    "NationId": "14",
+    "Rating": "64",
+    "Attribute1": "71",
+    "Attribute2": "56",
+    "Attribute3": "52",
+    "Attribute4": "74",
+    "Attribute5": "32",
+    "Attribute6": "62",
+    "Rare": "1",
+    "ItemType": "PlayerGk"
+  }
+}

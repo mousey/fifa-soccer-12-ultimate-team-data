@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Nicolás",
+    "LastName": "Gaitán",
+    "CommonName": null,
+    "Height": "173",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "2",
+      "Day": "23"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "234",
+    "LeagueId": "308",
+    "NationId": "52",
+    "Rating": "80",
+    "Attribute1": "81",
+    "Attribute2": "75",
+    "Attribute3": "77",
+    "Attribute4": "85",
+    "Attribute5": "47",
+    "Attribute6": "57",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

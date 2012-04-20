@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Chris",
+    "LastName": "Schuler",
+    "CommonName": null,
+    "Height": "193",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "9",
+      "Day": "6"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111065",
+    "LeagueId": "39",
+    "NationId": "95",
+    "Rating": "63",
+    "Attribute1": "58",
+    "Attribute2": "35",
+    "Attribute3": "49",
+    "Attribute4": "35",
+    "Attribute5": "67",
+    "Attribute6": "74",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

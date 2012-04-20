@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Muhamed",
+    "LastName": "Džakmić",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "8",
+      "Day": "23"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "112115",
+    "LeagueId": "83",
+    "NationId": "8",
+    "Rating": "62",
+    "Attribute1": "64",
+    "Attribute2": "59",
+    "Attribute3": "60",
+    "Attribute4": "61",
+    "Attribute5": "62",
+    "Attribute6": "62",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

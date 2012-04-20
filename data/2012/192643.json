@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Kevin",
+    "LastName": "Kratz",
+    "CommonName": null,
+    "Height": "173",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "1",
+      "Day": "21"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1826",
+    "LeagueId": "20",
+    "NationId": "21",
+    "Rating": "66",
+    "Attribute1": "75",
+    "Attribute2": "62",
+    "Attribute3": "62",
+    "Attribute4": "64",
+    "Attribute5": "67",
+    "Attribute6": "58",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

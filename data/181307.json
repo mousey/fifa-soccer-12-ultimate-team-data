@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Philip",
+    "LastName": "Haglund",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "3",
+      "Day": "22"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "319",
+    "LeagueId": "56",
+    "NationId": "46",
+    "Rating": "69",
+    "Attribute1": "62",
+    "Attribute2": "60",
+    "Attribute3": "64",
+    "Attribute4": "61",
+    "Attribute5": "70",
+    "Attribute6": "61",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

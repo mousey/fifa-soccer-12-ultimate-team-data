@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Daan",
+    "LastName": "Bovenberg",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "10",
+      "Day": "25"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1903",
+    "LeagueId": "10",
+    "NationId": "34",
+    "Rating": "66",
+    "Attribute1": "68",
+    "Attribute2": "49",
+    "Attribute3": "64",
+    "Attribute4": "54",
+    "Attribute5": "66",
+    "Attribute6": "76",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

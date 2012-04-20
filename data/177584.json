@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "John",
+    "LastName": "Dillon",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "8",
+      "Day": "2"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "563",
+    "LeagueId": "65",
+    "NationId": "14",
+    "Rating": "56",
+    "Attribute1": "58",
+    "Attribute2": "54",
+    "Attribute3": "57",
+    "Attribute4": "52",
+    "Attribute5": "53",
+    "Attribute6": "55",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

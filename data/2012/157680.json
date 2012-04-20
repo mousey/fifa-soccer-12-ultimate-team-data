@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Sergio",
+    "LastName": "Martinez B.",
+    "CommonName": "Ballesteros",
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1975",
+      "Month": "9",
+      "Day": "4"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1853",
+    "LeagueId": "53",
+    "NationId": "45",
+    "Rating": "73",
+    "Attribute1": "47",
+    "Attribute2": "53",
+    "Attribute3": "56",
+    "Attribute4": "48",
+    "Attribute5": "82",
+    "Attribute6": "63",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

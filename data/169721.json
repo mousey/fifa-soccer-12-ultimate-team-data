@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Micah",
+    "LastName": "Richards",
+    "CommonName": null,
+    "Height": "181",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "6",
+      "Day": "24"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "10",
+    "LeagueId": "13",
+    "NationId": "14",
+    "Rating": "80",
+    "Attribute1": "84",
+    "Attribute2": "49",
+    "Attribute3": "66",
+    "Attribute4": "68",
+    "Attribute5": "84",
+    "Attribute6": "89",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

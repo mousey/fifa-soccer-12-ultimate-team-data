@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Dominic",
+    "LastName": "Foley",
+    "CommonName": null,
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1976",
+      "Month": "7",
+      "Day": "7"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1750",
+    "LeagueId": "4",
+    "NationId": "25",
+    "Rating": "62",
+    "Attribute1": "34",
+    "Attribute2": "65",
+    "Attribute3": "55",
+    "Attribute4": "55",
+    "Attribute5": "56",
+    "Attribute6": "77",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

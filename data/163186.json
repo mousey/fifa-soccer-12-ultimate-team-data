@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Guillaume",
+    "LastName": "Gillet",
+    "CommonName": null,
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "3",
+      "Day": "9"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "229",
+    "LeagueId": "4",
+    "NationId": "7",
+    "Rating": "69",
+    "Attribute1": "70",
+    "Attribute2": "70",
+    "Attribute3": "71",
+    "Attribute4": "67",
+    "Attribute5": "69",
+    "Attribute6": "77",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

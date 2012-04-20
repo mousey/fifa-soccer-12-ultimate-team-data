@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Shannon",
+    "LastName": "Cole",
+    "CommonName": null,
+    "Height": "176",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "8",
+      "Day": "4"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111400",
+    "LeagueId": "351",
+    "NationId": "195",
+    "Rating": "59",
+    "Attribute1": "66",
+    "Attribute2": "62",
+    "Attribute3": "56",
+    "Attribute4": "67",
+    "Attribute5": "57",
+    "Attribute6": "52",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

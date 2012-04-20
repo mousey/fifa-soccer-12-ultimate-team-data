@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Collen",
+    "LastName": "Warner",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "6",
+      "Day": "24"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111065",
+    "LeagueId": "39",
+    "NationId": "95",
+    "Rating": "63",
+    "Attribute1": "72",
+    "Attribute2": "55",
+    "Attribute3": "56",
+    "Attribute4": "66",
+    "Attribute5": "49",
+    "Attribute6": "49",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Gordon",
+    "LastName": "Smith",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "2",
+      "Day": "14"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "80",
+    "LeagueId": "50",
+    "NationId": "42",
+    "Rating": "60",
+    "Attribute1": "67",
+    "Attribute2": "56",
+    "Attribute3": "49",
+    "Attribute4": "48",
+    "Attribute5": "47",
+    "Attribute6": "72",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Raúl José",
+    "LastName": "Trindade Meireles",
+    "CommonName": "Raúl Meireles",
+    "Height": "179",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "3",
+      "Day": "17"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "5",
+    "LeagueId": "13",
+    "NationId": "38",
+    "Rating": "82",
+    "Attribute1": "69",
+    "Attribute2": "80",
+    "Attribute3": "81",
+    "Attribute4": "79",
+    "Attribute5": "73",
+    "Attribute6": "71",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Marvin",
+    "LastName": "Martin",
+    "CommonName": null,
+    "Height": "171",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "1",
+      "Day": "10"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "226",
+    "LeagueId": "16",
+    "NationId": "18",
+    "Rating": "80",
+    "Attribute1": "80",
+    "Attribute2": "68",
+    "Attribute3": "82",
+    "Attribute4": "81",
+    "Attribute5": "60",
+    "Attribute6": "53",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

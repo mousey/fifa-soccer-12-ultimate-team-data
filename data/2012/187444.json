@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Young Woo",
+    "LastName": "Kim",
+    "CommonName": "Kim Young Woo",
+    "Height": "176",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "6",
+      "Day": "15"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1477",
+    "LeagueId": "83",
+    "NationId": "167",
+    "Rating": "64",
+    "Attribute1": "74",
+    "Attribute2": "63",
+    "Attribute3": "66",
+    "Attribute4": "67",
+    "Attribute5": "51",
+    "Attribute6": "60",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Samir",
+    "LastName": "Ujkani",
+    "CommonName": null,
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "7",
+      "Day": "5"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "112225",
+    "LeagueId": "31",
+    "NationId": "1",
+    "Rating": "70",
+    "Attribute1": "69",
+    "Attribute2": "68",
+    "Attribute3": "60",
+    "Attribute4": "74",
+    "Attribute5": "56",
+    "Attribute6": "72",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

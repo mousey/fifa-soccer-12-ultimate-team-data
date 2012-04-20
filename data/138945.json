@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Julien",
+    "LastName": "Viale",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "2",
+      "Day": "13"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1814",
+    "LeagueId": "17",
+    "NationId": "18",
+    "Rating": "66",
+    "Attribute1": "69",
+    "Attribute2": "64",
+    "Attribute3": "54",
+    "Attribute4": "59",
+    "Attribute5": "45",
+    "Attribute6": "69",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

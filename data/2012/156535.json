@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Thomas",
+    "LastName": "Buffel",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "2",
+      "Day": "19"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "673",
+    "LeagueId": "4",
+    "NationId": "7",
+    "Rating": "72",
+    "Attribute1": "69",
+    "Attribute2": "67",
+    "Attribute3": "71",
+    "Attribute4": "73",
+    "Attribute5": "59",
+    "Attribute6": "57",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

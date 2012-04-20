@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Sam",
+    "LastName": "Magri",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1994",
+      "Month": "3",
+      "Day": "30"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1790",
+    "LeagueId": "14",
+    "NationId": "14",
+    "Rating": "53",
+    "Attribute1": "64",
+    "Attribute2": "28",
+    "Attribute3": "50",
+    "Attribute4": "52",
+    "Attribute5": "53",
+    "Attribute6": "58",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

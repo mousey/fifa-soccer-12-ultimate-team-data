@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Aleksandar",
+    "LastName": "Luković",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "10",
+      "Day": "23"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "100769",
+    "LeagueId": "67",
+    "NationId": "51",
+    "Rating": "73",
+    "Attribute1": "72",
+    "Attribute2": "57",
+    "Attribute3": "71",
+    "Attribute4": "70",
+    "Attribute5": "75",
+    "Attribute6": "69",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

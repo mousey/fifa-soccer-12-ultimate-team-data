@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Trent",
+    "LastName": "Sainsbury",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1992",
+      "Month": "1",
+      "Day": "5"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111396",
+    "LeagueId": "351",
+    "NationId": "195",
+    "Rating": "57",
+    "Attribute1": "60",
+    "Attribute2": "41",
+    "Attribute3": "51",
+    "Attribute4": "30",
+    "Attribute5": "61",
+    "Attribute6": "62",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Gavin",
+    "LastName": "Peers",
+    "CommonName": null,
+    "Height": "181",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "11",
+      "Day": "10"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "563",
+    "LeagueId": "65",
+    "NationId": "25",
+    "Rating": "59",
+    "Attribute1": "54",
+    "Attribute2": "39",
+    "Attribute3": "46",
+    "Attribute4": "42",
+    "Attribute5": "62",
+    "Attribute6": "65",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

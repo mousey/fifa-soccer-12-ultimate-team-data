@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Dominic",
+    "LastName": "Peitz",
+    "CommonName": null,
+    "Height": "196",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "9",
+      "Day": "11"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "27",
+    "LeagueId": "20",
+    "NationId": "21",
+    "Rating": "66",
+    "Attribute1": "42",
+    "Attribute2": "59",
+    "Attribute3": "57",
+    "Attribute4": "53",
+    "Attribute5": "78",
+    "Attribute6": "60",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

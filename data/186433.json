@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Dugary",
+    "LastName": "Ndabashinze",
+    "CommonName": null,
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "10",
+      "Day": "8"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "673",
+    "LeagueId": "4",
+    "NationId": "102",
+    "Rating": "64",
+    "Attribute1": "82",
+    "Attribute2": "54",
+    "Attribute3": "58",
+    "Attribute4": "68",
+    "Attribute5": "49",
+    "Attribute6": "63",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

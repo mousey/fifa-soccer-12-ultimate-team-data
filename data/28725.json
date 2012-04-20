@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Andy",
+    "LastName": "Kirk",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "5",
+      "Day": "29"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "182",
+    "LeagueId": "50",
+    "NationId": "35",
+    "Rating": "66",
+    "Attribute1": "65",
+    "Attribute2": "60",
+    "Attribute3": "55",
+    "Attribute4": "68",
+    "Attribute5": "47",
+    "Attribute6": "72",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

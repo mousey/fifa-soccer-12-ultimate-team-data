@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Zack",
+    "LastName": "Schilawski",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "4",
+      "Day": "15"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "691",
+    "LeagueId": "39",
+    "NationId": "95",
+    "Rating": "61",
+    "Attribute1": "68",
+    "Attribute2": "58",
+    "Attribute3": "51",
+    "Attribute4": "64",
+    "Attribute5": "49",
+    "Attribute6": "60",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

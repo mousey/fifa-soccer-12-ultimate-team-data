@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Juan Francisco",
+    "LastName": "García García",
+    "CommonName": "Juanfran",
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1976",
+      "Month": "7",
+      "Day": "15"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1853",
+    "LeagueId": "53",
+    "NationId": "45",
+    "Rating": "71",
+    "Attribute1": "70",
+    "Attribute2": "52",
+    "Attribute3": "67",
+    "Attribute4": "63",
+    "Attribute5": "75",
+    "Attribute6": "64",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Matt",
+    "LastName": "Hill",
+    "CommonName": null,
+    "Height": "173",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "3",
+      "Day": "26"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1926",
+    "LeagueId": "14",
+    "NationId": "14",
+    "Rating": "61",
+    "Attribute1": "54",
+    "Attribute2": "34",
+    "Attribute3": "49",
+    "Attribute4": "43",
+    "Attribute5": "66",
+    "Attribute6": "61",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

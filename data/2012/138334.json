@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Mounir",
+    "LastName": "El Hamdaoui",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "7",
+      "Day": "14"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "245",
+    "LeagueId": "10",
+    "NationId": "129",
+    "Rating": "78",
+    "Attribute1": "70",
+    "Attribute2": "80",
+    "Attribute3": "63",
+    "Attribute4": "79",
+    "Attribute5": "55",
+    "Attribute6": "56",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

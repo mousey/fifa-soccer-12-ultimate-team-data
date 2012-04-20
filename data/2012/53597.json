@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Gavin",
+    "LastName": "Mahon",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1977",
+      "Month": "1",
+      "Day": "2"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1937",
+    "LeagueId": "60",
+    "NationId": "14",
+    "Rating": "63",
+    "Attribute1": "50",
+    "Attribute2": "50",
+    "Attribute3": "58",
+    "Attribute4": "41",
+    "Attribute5": "69",
+    "Attribute6": "62",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

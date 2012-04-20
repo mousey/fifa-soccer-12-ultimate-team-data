@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Chinedu",
+    "LastName": "Ede",
+    "CommonName": null,
+    "Height": "179",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "2",
+      "Day": "5"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1831",
+    "LeagueId": "20",
+    "NationId": "21",
+    "Rating": "66",
+    "Attribute1": "91",
+    "Attribute2": "59",
+    "Attribute3": "58",
+    "Attribute4": "70",
+    "Attribute5": "40",
+    "Attribute6": "62",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

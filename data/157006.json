@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Javier",
+    "LastName": "del Pino González",
+    "CommonName": "Del Pino",
+    "Height": "176",
+    "DateOfBirth": {
+      "Year": "1980",
+      "Month": "7",
+      "Day": "10"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "477",
+    "LeagueId": "54",
+    "NationId": "45",
+    "Rating": "69",
+    "Attribute1": "71",
+    "Attribute2": "61",
+    "Attribute3": "67",
+    "Attribute4": "67",
+    "Attribute5": "54",
+    "Attribute6": "76",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

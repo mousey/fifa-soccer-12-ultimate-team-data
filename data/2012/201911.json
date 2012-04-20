@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "William",
+    "LastName": "Keane",
+    "CommonName": null,
+    "Height": "187",
+    "DateOfBirth": {
+      "Year": "1993",
+      "Month": "1",
+      "Day": "11"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "11",
+    "LeagueId": "13",
+    "NationId": "14",
+    "Rating": "59",
+    "Attribute1": "71",
+    "Attribute2": "55",
+    "Attribute3": "46",
+    "Attribute4": "61",
+    "Attribute5": "45",
+    "Attribute6": "58",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

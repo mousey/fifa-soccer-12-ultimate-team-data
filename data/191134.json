@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Danny",
+    "LastName": "Shelley",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "12",
+      "Day": "29"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "121",
+    "LeagueId": "61",
+    "NationId": "14",
+    "Rating": "53",
+    "Attribute1": "70",
+    "Attribute2": "45",
+    "Attribute3": "46",
+    "Attribute4": "53",
+    "Attribute5": "51",
+    "Attribute6": "55",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

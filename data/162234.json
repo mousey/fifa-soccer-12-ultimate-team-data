@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Lewis",
+    "LastName": "Guy",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "8",
+      "Day": "22"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1951",
+    "LeagueId": "61",
+    "NationId": "14",
+    "Rating": "61",
+    "Attribute1": "77",
+    "Attribute2": "51",
+    "Attribute3": "44",
+    "Attribute4": "58",
+    "Attribute5": "53",
+    "Attribute6": "66",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

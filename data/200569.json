@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jong Chan",
+    "LastName": "Lee",
+    "CommonName": "Lee Jong Chan",
+    "Height": "176",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "4",
+      "Day": "26"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "2055",
+    "LeagueId": "83",
+    "NationId": "167",
+    "Rating": "60",
+    "Attribute1": "53",
+    "Attribute2": "42",
+    "Attribute3": "41",
+    "Attribute4": "44",
+    "Attribute5": "65",
+    "Attribute6": "65",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

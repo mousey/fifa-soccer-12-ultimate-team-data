@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Enrique",
+    "LastName": "García Martínez",
+    "CommonName": "Kike",
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "11",
+      "Day": "25"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1855",
+    "LeagueId": "54",
+    "NationId": "45",
+    "Rating": "66",
+    "Attribute1": "63",
+    "Attribute2": "61",
+    "Attribute3": "39",
+    "Attribute4": "60",
+    "Attribute5": "46",
+    "Attribute6": "67",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

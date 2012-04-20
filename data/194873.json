@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Evgeniy",
+    "LastName": "Bashkirov",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "7",
+      "Day": "6"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "100769",
+    "LeagueId": "67",
+    "NationId": "40",
+    "Rating": "51",
+    "Attribute1": "62",
+    "Attribute2": "49",
+    "Attribute3": "55",
+    "Attribute4": "53",
+    "Attribute5": "46",
+    "Attribute6": "51",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

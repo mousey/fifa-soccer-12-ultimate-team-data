@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Christian",
+    "LastName": "Klem",
+    "CommonName": null,
+    "Height": "172",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "4",
+      "Day": "21"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "209",
+    "LeagueId": "80",
+    "NationId": "4",
+    "Rating": "64",
+    "Attribute1": "83",
+    "Attribute2": "56",
+    "Attribute3": "60",
+    "Attribute4": "65",
+    "Attribute5": "48",
+    "Attribute6": "53",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

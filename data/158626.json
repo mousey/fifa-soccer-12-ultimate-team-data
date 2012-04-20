@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Mathieu",
+    "LastName": "Debuchy",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "7",
+      "Day": "28"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "65",
+    "LeagueId": "16",
+    "NationId": "18",
+    "Rating": "77",
+    "Attribute1": "78",
+    "Attribute2": "60",
+    "Attribute3": "78",
+    "Attribute4": "70",
+    "Attribute5": "74",
+    "Attribute6": "73",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

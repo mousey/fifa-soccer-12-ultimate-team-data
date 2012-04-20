@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Magnus Wolff",
+    "LastName": "Eikrem",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "8",
+      "Day": "8"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "417",
+    "LeagueId": "41",
+    "NationId": "36",
+    "Rating": "74",
+    "Attribute1": "73",
+    "Attribute2": "61",
+    "Attribute3": "70",
+    "Attribute4": "73",
+    "Attribute5": "66",
+    "Attribute6": "64",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

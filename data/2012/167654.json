@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jeroen",
+    "LastName": "Simaeys",
+    "CommonName": null,
+    "Height": "193",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "5",
+      "Day": "12"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "673",
+    "LeagueId": "4",
+    "NationId": "7",
+    "Rating": "69",
+    "Attribute1": "61",
+    "Attribute2": "60",
+    "Attribute3": "60",
+    "Attribute4": "53",
+    "Attribute5": "71",
+    "Attribute6": "68",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

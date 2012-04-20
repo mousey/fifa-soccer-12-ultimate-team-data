@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Sebastian",
+    "LastName": "De Maio",
+    "CommonName": null,
+    "Height": "190",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "3",
+      "Day": "5"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "190",
+    "LeagueId": "32",
+    "NationId": "18",
+    "Rating": "67",
+    "Attribute1": "72",
+    "Attribute2": "40",
+    "Attribute3": "33",
+    "Attribute4": "35",
+    "Attribute5": "77",
+    "Attribute6": "72",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

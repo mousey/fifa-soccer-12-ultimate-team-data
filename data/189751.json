@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Mirko",
+    "LastName": "Eramo",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "7",
+      "Day": "12"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110734",
+    "LeagueId": "32",
+    "NationId": "27",
+    "Rating": "61",
+    "Attribute1": "72",
+    "Attribute2": "57",
+    "Attribute3": "62",
+    "Attribute4": "61",
+    "Attribute5": "54",
+    "Attribute6": "64",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

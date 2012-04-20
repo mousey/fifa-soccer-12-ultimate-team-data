@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Matthias",
+    "LastName": "Lindner",
+    "CommonName": null,
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "9",
+      "Day": "7"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111373",
+    "LeagueId": "80",
+    "NationId": "4",
+    "Rating": "58",
+    "Attribute1": "66",
+    "Attribute2": "50",
+    "Attribute3": "55",
+    "Attribute4": "57",
+    "Attribute5": "41",
+    "Attribute6": "52",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Brian",
+    "LastName": "Vandenbussche",
+    "CommonName": null,
+    "Height": "196",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "9",
+      "Day": "24"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1913",
+    "LeagueId": "10",
+    "NationId": "7",
+    "Rating": "67",
+    "Attribute1": "70",
+    "Attribute2": "66",
+    "Attribute3": "64",
+    "Attribute4": "67",
+    "Attribute5": "50",
+    "Attribute6": "67",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

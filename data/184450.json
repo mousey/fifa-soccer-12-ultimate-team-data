@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Wiljan",
+    "LastName": "Pluim",
+    "CommonName": null,
+    "Height": "190",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "1",
+      "Day": "4"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1902",
+    "LeagueId": "10",
+    "NationId": "34",
+    "Rating": "66",
+    "Attribute1": "60",
+    "Attribute2": "60",
+    "Attribute3": "66",
+    "Attribute4": "69",
+    "Attribute5": "58",
+    "Attribute6": "58",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jair",
+    "LastName": "Benítez",
+    "CommonName": null,
+    "Height": "170",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "1",
+      "Day": "12"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "695",
+    "LeagueId": "39",
+    "NationId": "56",
+    "Rating": "66",
+    "Attribute1": "83",
+    "Attribute2": "55",
+    "Attribute3": "61",
+    "Attribute4": "66",
+    "Attribute5": "68",
+    "Attribute6": "65",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

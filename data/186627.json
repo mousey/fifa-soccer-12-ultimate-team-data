@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Mario",
+    "LastName": "Balotelli",
+    "CommonName": null,
+    "Height": "189",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "8",
+      "Day": "12"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "10",
+    "LeagueId": "13",
+    "NationId": "27",
+    "Rating": "81",
+    "Attribute1": "83",
+    "Attribute2": "79",
+    "Attribute3": "67",
+    "Attribute4": "83",
+    "Attribute5": "61",
+    "Attribute6": "70",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

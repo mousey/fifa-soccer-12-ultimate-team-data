@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Norberto",
+    "LastName": "Murara Neto",
+    "CommonName": "Neto",
+    "Height": "191",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "7",
+      "Day": "19"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110374",
+    "LeagueId": "31",
+    "NationId": "54",
+    "Rating": "74",
+    "Attribute1": "74",
+    "Attribute2": "72",
+    "Attribute3": "60",
+    "Attribute4": "80",
+    "Attribute5": "69",
+    "Attribute6": "74",
+    "Rare": "1",
+    "ItemType": "PlayerGk"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Philipp",
+    "LastName": "Wendler",
+    "CommonName": null,
+    "Height": "193",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "6",
+      "Day": "2"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "15011",
+    "LeagueId": "80",
+    "NationId": "4",
+    "Rating": "55",
+    "Attribute1": "60",
+    "Attribute2": "46",
+    "Attribute3": "54",
+    "Attribute4": "56",
+    "Attribute5": "44",
+    "Attribute6": "58",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

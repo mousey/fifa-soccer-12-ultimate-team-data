@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Iván",
+    "LastName": "Ramis Barrios",
+    "CommonName": "Ramis",
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "10",
+      "Day": "25"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "453",
+    "LeagueId": "53",
+    "NationId": "45",
+    "Rating": "77",
+    "Attribute1": "58",
+    "Attribute2": "61",
+    "Attribute3": "64",
+    "Attribute4": "56",
+    "Attribute5": "78",
+    "Attribute6": "76",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

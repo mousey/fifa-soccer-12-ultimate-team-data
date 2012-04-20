@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Roberto",
+    "LastName": "Guana",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "1",
+      "Day": "21"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110915",
+    "LeagueId": "31",
+    "NationId": "27",
+    "Rating": "73",
+    "Attribute1": "65",
+    "Attribute2": "61",
+    "Attribute3": "71",
+    "Attribute4": "66",
+    "Attribute5": "71",
+    "Attribute6": "63",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

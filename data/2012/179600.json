@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Hamdi",
+    "LastName": "Salihi",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "1",
+      "Day": "19"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "254",
+    "LeagueId": "80",
+    "NationId": "1",
+    "Rating": "71",
+    "Attribute1": "68",
+    "Attribute2": "69",
+    "Attribute3": "48",
+    "Attribute4": "67",
+    "Attribute5": "52",
+    "Attribute6": "77",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

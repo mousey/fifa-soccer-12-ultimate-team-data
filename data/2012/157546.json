@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Andrea",
+    "LastName": "De Falco",
+    "CommonName": null,
+    "Height": "179",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "6",
+      "Day": "19"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1848",
+    "LeagueId": "32",
+    "NationId": "27",
+    "Rating": "64",
+    "Attribute1": "68",
+    "Attribute2": "62",
+    "Attribute3": "63",
+    "Attribute4": "62",
+    "Attribute5": "60",
+    "Attribute6": "51",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

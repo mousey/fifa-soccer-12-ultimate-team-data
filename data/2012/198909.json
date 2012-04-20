@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jordan",
+    "LastName": "Mustoe",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "1",
+      "Day": "28"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1917",
+    "LeagueId": "13",
+    "NationId": "14",
+    "Rating": "55",
+    "Attribute1": "66",
+    "Attribute2": "33",
+    "Attribute3": "56",
+    "Attribute4": "50",
+    "Attribute5": "51",
+    "Attribute6": "54",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Darryl",
+    "LastName": "Westlake",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "3",
+      "Day": "1"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1803",
+    "LeagueId": "60",
+    "NationId": "14",
+    "Rating": "56",
+    "Attribute1": "64",
+    "Attribute2": "22",
+    "Attribute3": "55",
+    "Attribute4": "60",
+    "Attribute5": "60",
+    "Attribute6": "61",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

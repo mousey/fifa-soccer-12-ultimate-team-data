@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Victor",
+    "LastName": "Vázquez Solsona",
+    "CommonName": "Victor Vazquez",
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "1",
+      "Day": "20"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "231",
+    "LeagueId": "4",
+    "NationId": "45",
+    "Rating": "73",
+    "Attribute1": "59",
+    "Attribute2": "67",
+    "Attribute3": "74",
+    "Attribute4": "76",
+    "Attribute5": "53",
+    "Attribute6": "54",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

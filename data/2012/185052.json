@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Daniel",
+    "LastName": "Offredi",
+    "CommonName": null,
+    "Height": "190",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "3",
+      "Day": "26"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "2044",
+    "LeagueId": "32",
+    "NationId": "27",
+    "Rating": "59",
+    "Attribute1": "58",
+    "Attribute2": "56",
+    "Attribute3": "50",
+    "Attribute4": "63",
+    "Attribute5": "54",
+    "Attribute6": "62",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

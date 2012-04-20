@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "João Miranda",
+    "LastName": "de Souza Filho",
+    "CommonName": "Miranda",
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "9",
+      "Day": "7"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "240",
+    "LeagueId": "53",
+    "NationId": "54",
+    "Rating": "75",
+    "Attribute1": "72",
+    "Attribute2": "49",
+    "Attribute3": "59",
+    "Attribute4": "62",
+    "Attribute5": "75",
+    "Attribute6": "80",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

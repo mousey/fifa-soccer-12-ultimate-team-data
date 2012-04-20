@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Neil",
+    "LastName": "Austin",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "4",
+      "Day": "26"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1941",
+    "LeagueId": "60",
+    "NationId": "14",
+    "Rating": "59",
+    "Attribute1": "64",
+    "Attribute2": "31",
+    "Attribute3": "45",
+    "Attribute4": "46",
+    "Attribute5": "66",
+    "Attribute6": "65",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

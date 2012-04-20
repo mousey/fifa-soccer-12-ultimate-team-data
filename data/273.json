@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Sigurd",
+    "LastName": "Rushfeldt",
+    "CommonName": null,
+    "Height": "190",
+    "DateOfBirth": {
+      "Year": "1972",
+      "Month": "12",
+      "Day": "11"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "418",
+    "LeagueId": "41",
+    "NationId": "36",
+    "Rating": "73",
+    "Attribute1": "71",
+    "Attribute2": "71",
+    "Attribute3": "59",
+    "Attribute4": "57",
+    "Attribute5": "60",
+    "Attribute6": "78",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Antonio Caio",
+    "LastName": "Silva Sousa",
+    "CommonName": "Caio",
+    "Height": "167",
+    "DateOfBirth": {
+      "Year": "1980",
+      "Month": "11",
+      "Day": "1"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1035",
+    "LeagueId": "7",
+    "NationId": "54",
+    "Rating": "74",
+    "Attribute1": "70",
+    "Attribute2": "70",
+    "Attribute3": "71",
+    "Attribute4": "80",
+    "Attribute5": "58",
+    "Attribute6": "56",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Pascal",
+    "LastName": "Gos",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "8",
+      "Day": "15"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "110500",
+    "LeagueId": "20",
+    "NationId": "21",
+    "Rating": "53",
+    "Attribute1": "64",
+    "Attribute2": "32",
+    "Attribute3": "37",
+    "Attribute4": "46",
+    "Attribute5": "56",
+    "Attribute6": "65",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

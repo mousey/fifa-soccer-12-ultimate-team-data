@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Nicolás",
+    "LastName": "Córdova",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "1",
+      "Day": "9"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "190",
+    "LeagueId": "32",
+    "NationId": "55",
+    "Rating": "66",
+    "Attribute1": "57",
+    "Attribute2": "54",
+    "Attribute3": "70",
+    "Attribute4": "61",
+    "Attribute5": "61",
+    "Attribute6": "48",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Sung Ho",
+    "LastName": "Park",
+    "CommonName": "Park Sung Ho",
+    "Height": "190",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "7",
+      "Day": "27"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "980",
+    "LeagueId": "83",
+    "NationId": "167",
+    "Rating": "63",
+    "Attribute1": "66",
+    "Attribute2": "60",
+    "Attribute3": "43",
+    "Attribute4": "61",
+    "Attribute5": "57",
+    "Attribute6": "73",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Morgan",
+    "LastName": "Amalfitano",
+    "CommonName": null,
+    "Height": "176",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "3",
+      "Day": "20"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "219",
+    "LeagueId": "16",
+    "NationId": "18",
+    "Rating": "79",
+    "Attribute1": "73",
+    "Attribute2": "74",
+    "Attribute3": "82",
+    "Attribute4": "79",
+    "Attribute5": "69",
+    "Attribute6": "58",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

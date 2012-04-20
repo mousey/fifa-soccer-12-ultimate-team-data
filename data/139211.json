@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Héctor",
+    "LastName": "Reynoso",
+    "CommonName": null,
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1980",
+      "Month": "10",
+      "Day": "3"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1880",
+    "LeagueId": "341",
+    "NationId": "83",
+    "Rating": "71",
+    "Attribute1": "57",
+    "Attribute2": "53",
+    "Attribute3": "60",
+    "Attribute4": "54",
+    "Attribute5": "76",
+    "Attribute6": "74",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

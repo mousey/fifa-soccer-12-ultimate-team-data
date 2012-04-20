@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Joe",
+    "LastName": "Hart",
+    "CommonName": null,
+    "Height": "196",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "4",
+      "Day": "19"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "10",
+    "LeagueId": "13",
+    "NationId": "14",
+    "Rating": "83",
+    "Attribute1": "84",
+    "Attribute2": "77",
+    "Attribute3": "74",
+    "Attribute4": "88",
+    "Attribute5": "52",
+    "Attribute6": "80",
+    "Rare": "1",
+    "ItemType": "PlayerGk"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jerónimo",
+    "LastName": "Figueroa Cabrera",
+    "CommonName": "Momo",
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "7",
+      "Day": "15"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "449",
+    "LeagueId": "53",
+    "NationId": "45",
+    "Rating": "69",
+    "Attribute1": "67",
+    "Attribute2": "67",
+    "Attribute3": "65",
+    "Attribute4": "70",
+    "Attribute5": "48",
+    "Attribute6": "56",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

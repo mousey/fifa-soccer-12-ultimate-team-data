@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Nnamdi",
+    "LastName": "Oduamadi",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "10",
+      "Day": "17"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "54",
+    "LeagueId": "32",
+    "NationId": "133",
+    "Rating": "67",
+    "Attribute1": "93",
+    "Attribute2": "59",
+    "Attribute3": "51",
+    "Attribute4": "74",
+    "Attribute5": "41",
+    "Attribute6": "57",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

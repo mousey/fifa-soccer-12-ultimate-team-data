@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Adam",
+    "LastName": "Sarota",
+    "CommonName": null,
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "12",
+      "Day": "28"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1903",
+    "LeagueId": "10",
+    "NationId": "195",
+    "Rating": "65",
+    "Attribute1": "68",
+    "Attribute2": "64",
+    "Attribute3": "64",
+    "Attribute4": "66",
+    "Attribute5": "49",
+    "Attribute6": "47",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

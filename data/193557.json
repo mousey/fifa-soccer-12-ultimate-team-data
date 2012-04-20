@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Frank",
+    "LastName": "Nouble",
+    "CommonName": null,
+    "Height": "190",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "9",
+      "Day": "24"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "19",
+    "LeagueId": "14",
+    "NationId": "14",
+    "Rating": "67",
+    "Attribute1": "80",
+    "Attribute2": "62",
+    "Attribute3": "44",
+    "Attribute4": "64",
+    "Attribute5": "53",
+    "Attribute6": "67",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

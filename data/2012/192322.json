@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Matt",
+    "LastName": "Mundy",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "5",
+      "Day": "8"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111395",
+    "LeagueId": "351",
+    "NationId": "195",
+    "Rating": "56",
+    "Attribute1": "49",
+    "Attribute2": "32",
+    "Attribute3": "51",
+    "Attribute4": "45",
+    "Attribute5": "59",
+    "Attribute6": "65",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

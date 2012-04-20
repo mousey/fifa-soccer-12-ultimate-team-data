@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Kamil",
+    "LastName": "Glik",
+    "CommonName": null,
+    "Height": "190",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "2",
+      "Day": "3"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "54",
+    "LeagueId": "32",
+    "NationId": "37",
+    "Rating": "71",
+    "Attribute1": "59",
+    "Attribute2": "30",
+    "Attribute3": "44",
+    "Attribute4": "36",
+    "Attribute5": "75",
+    "Attribute6": "74",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

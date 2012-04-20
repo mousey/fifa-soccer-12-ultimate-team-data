@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Lenny",
+    "LastName": "Pidgeley",
+    "CommonName": null,
+    "Height": "191",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "2",
+      "Day": "7"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "143",
+    "LeagueId": "60",
+    "NationId": "14",
+    "Rating": "58",
+    "Attribute1": "61",
+    "Attribute2": "59",
+    "Attribute3": "58",
+    "Attribute4": "63",
+    "Attribute5": "53",
+    "Attribute6": "48",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

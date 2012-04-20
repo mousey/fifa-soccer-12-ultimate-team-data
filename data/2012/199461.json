@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Stephen",
+    "LastName": "Traynor",
+    "CommonName": null,
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "10",
+      "Day": "25"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "305",
+    "LeagueId": "65",
+    "NationId": "25",
+    "Rating": "53",
+    "Attribute1": "58",
+    "Attribute2": "51",
+    "Attribute3": "54",
+    "Attribute4": "48",
+    "Attribute5": "54",
+    "Attribute6": "60",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

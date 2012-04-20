@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Pierre",
+    "LastName": "Merkel",
+    "CommonName": null,
+    "Height": "190",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "5",
+      "Day": "25"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110500",
+    "LeagueId": "20",
+    "NationId": "21",
+    "Rating": "58",
+    "Attribute1": "52",
+    "Attribute2": "56",
+    "Attribute3": "45",
+    "Attribute4": "53",
+    "Attribute5": "50",
+    "Attribute6": "61",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

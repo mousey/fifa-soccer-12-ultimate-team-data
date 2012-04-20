@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Leighton",
+    "LastName": "Baines",
+    "CommonName": null,
+    "Height": "170",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "12",
+      "Day": "11"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "7",
+    "LeagueId": "13",
+    "NationId": "14",
+    "Rating": "80",
+    "Attribute1": "79",
+    "Attribute2": "73",
+    "Attribute3": "78",
+    "Attribute4": "78",
+    "Attribute5": "74",
+    "Attribute6": "69",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

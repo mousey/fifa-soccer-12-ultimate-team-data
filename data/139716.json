@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Evgeniy",
+    "LastName": "Aldonin",
+    "CommonName": null,
+    "Height": "179",
+    "DateOfBirth": {
+      "Year": "1980",
+      "Month": "1",
+      "Day": "22"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "315",
+    "LeagueId": "67",
+    "NationId": "40",
+    "Rating": "69",
+    "Attribute1": "65",
+    "Attribute2": "60",
+    "Attribute3": "72",
+    "Attribute4": "64",
+    "Attribute5": "66",
+    "Attribute6": "62",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

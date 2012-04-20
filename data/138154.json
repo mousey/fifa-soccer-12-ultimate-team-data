@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jon",
+    "LastName": "Otsemobor",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "3",
+      "Day": "23"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1807",
+    "LeagueId": "60",
+    "NationId": "14",
+    "Rating": "63",
+    "Attribute1": "85",
+    "Attribute2": "36",
+    "Attribute3": "58",
+    "Attribute4": "62",
+    "Attribute5": "60",
+    "Attribute6": "67",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

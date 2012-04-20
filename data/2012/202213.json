@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Alan",
+    "LastName": "Koger",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1987",
+      "Month": "9",
+      "Day": "23"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "691",
+    "LeagueId": "39",
+    "NationId": "95",
+    "Rating": "56",
+    "Attribute1": "59",
+    "Attribute2": "52",
+    "Attribute3": "36",
+    "Attribute4": "56",
+    "Attribute5": "49",
+    "Attribute6": "61",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

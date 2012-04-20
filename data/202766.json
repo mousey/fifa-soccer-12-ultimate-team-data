@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Korey",
+    "LastName": "Veeder",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1991",
+      "Month": "10",
+      "Day": "3"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "687",
+    "LeagueId": "39",
+    "NationId": "95",
+    "Rating": "57",
+    "Attribute1": "60",
+    "Attribute2": "49",
+    "Attribute3": "57",
+    "Attribute4": "54",
+    "Attribute5": "55",
+    "Attribute6": "57",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

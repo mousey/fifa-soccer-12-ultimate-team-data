@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Robin",
+    "LastName": "Shroot",
+    "CommonName": null,
+    "Height": "179",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "3",
+      "Day": "26"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "361",
+    "LeagueId": "60",
+    "NationId": "35",
+    "Rating": "60",
+    "Attribute1": "69",
+    "Attribute2": "57",
+    "Attribute3": "58",
+    "Attribute4": "61",
+    "Attribute5": "45",
+    "Attribute6": "55",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

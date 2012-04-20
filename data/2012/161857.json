@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Florian",
+    "LastName": "Klein",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "11",
+      "Day": "17"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "256",
+    "LeagueId": "80",
+    "NationId": "4",
+    "Rating": "68",
+    "Attribute1": "83",
+    "Attribute2": "53",
+    "Attribute3": "64",
+    "Attribute4": "67",
+    "Attribute5": "65",
+    "Attribute6": "55",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

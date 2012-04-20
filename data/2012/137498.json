@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Brian",
+    "LastName": "Wilson",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "5",
+      "Day": "9"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1935",
+    "LeagueId": "60",
+    "NationId": "14",
+    "Rating": "62",
+    "Attribute1": "64",
+    "Attribute2": "54",
+    "Attribute3": "66",
+    "Attribute4": "56",
+    "Attribute5": "60",
+    "Attribute6": "64",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

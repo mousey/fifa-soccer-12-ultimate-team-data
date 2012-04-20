@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Kayode",
+    "LastName": "Odejayi",
+    "CommonName": null,
+    "Height": "191",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "2",
+      "Day": "21"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1935",
+    "LeagueId": "60",
+    "NationId": "133",
+    "Rating": "62",
+    "Attribute1": "78",
+    "Attribute2": "53",
+    "Attribute3": "40",
+    "Attribute4": "54",
+    "Attribute5": "54",
+    "Attribute6": "73",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

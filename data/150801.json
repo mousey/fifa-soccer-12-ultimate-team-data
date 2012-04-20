@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "John",
+    "LastName": "Grant",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "8",
+      "Day": "9"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1959",
+    "LeagueId": "61",
+    "NationId": "14",
+    "Rating": "57",
+    "Attribute1": "68",
+    "Attribute2": "53",
+    "Attribute3": "42",
+    "Attribute4": "57",
+    "Attribute5": "48",
+    "Attribute6": "69",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

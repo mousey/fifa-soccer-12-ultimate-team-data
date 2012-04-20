@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Israel",
+    "LastName": "Villaseñor",
+    "CommonName": null,
+    "Height": "189",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "11",
+      "Day": "20"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110151",
+    "LeagueId": "341",
+    "NationId": "83",
+    "Rating": "65",
+    "Attribute1": "64",
+    "Attribute2": "67",
+    "Attribute3": "64",
+    "Attribute4": "68",
+    "Attribute5": "40",
+    "Attribute6": "65",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

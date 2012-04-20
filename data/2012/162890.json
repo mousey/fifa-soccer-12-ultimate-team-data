@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jonathan",
+    "LastName": "Spector",
+    "CommonName": null,
+    "Height": "181",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "1",
+      "Day": "3"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "88",
+    "LeagueId": "14",
+    "NationId": "95",
+    "Rating": "69",
+    "Attribute1": "67",
+    "Attribute2": "34",
+    "Attribute3": "67",
+    "Attribute4": "65",
+    "Attribute5": "68",
+    "Attribute6": "74",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

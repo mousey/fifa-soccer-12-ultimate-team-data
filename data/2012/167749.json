@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Sammy",
+    "LastName": "Ochoa",
+    "CommonName": null,
+    "Height": "182",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "9",
+      "Day": "4"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111144",
+    "LeagueId": "39",
+    "NationId": "95",
+    "Rating": "62",
+    "Attribute1": "67",
+    "Attribute2": "60",
+    "Attribute3": "49",
+    "Attribute4": "60",
+    "Attribute5": "52",
+    "Attribute6": "71",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Helgi Valur",
+    "LastName": "Daníelsson",
+    "CommonName": null,
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "7",
+      "Day": "13"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "433",
+    "LeagueId": "56",
+    "NationId": "24",
+    "Rating": "58",
+    "Attribute1": "58",
+    "Attribute2": "45",
+    "Attribute3": "54",
+    "Attribute4": "52",
+    "Attribute5": "66",
+    "Attribute6": "58",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

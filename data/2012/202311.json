@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Eun Sun",
+    "LastName": "Kim",
+    "CommonName": "Kim Eun Sun",
+    "Height": "181",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "3",
+      "Day": "30"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "112258",
+    "LeagueId": "83",
+    "NationId": "167",
+    "Rating": "59",
+    "Attribute1": "66",
+    "Attribute2": "56",
+    "Attribute3": "61",
+    "Attribute4": "56",
+    "Attribute5": "55",
+    "Attribute6": "62",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

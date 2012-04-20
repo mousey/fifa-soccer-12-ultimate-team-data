@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Albin",
+    "LastName": "Ebondo",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "2",
+      "Day": "23"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1819",
+    "LeagueId": "16",
+    "NationId": "18",
+    "Rating": "72",
+    "Attribute1": "77",
+    "Attribute2": "44",
+    "Attribute3": "71",
+    "Attribute4": "67",
+    "Attribute5": "73",
+    "Attribute6": "69",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

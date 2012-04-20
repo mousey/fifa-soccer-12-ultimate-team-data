@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Joe",
+    "LastName": "Edwards",
+    "CommonName": null,
+    "Height": "173",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "10",
+      "Day": "31"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1919",
+    "LeagueId": "14",
+    "NationId": "14",
+    "Rating": "63",
+    "Attribute1": "62",
+    "Attribute2": "34",
+    "Attribute3": "52",
+    "Attribute4": "60",
+    "Attribute5": "61",
+    "Attribute6": "60",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

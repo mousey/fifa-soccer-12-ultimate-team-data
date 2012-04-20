@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Carlos Miguel",
+    "LastName": "Mondim Saleiro",
+    "CommonName": "Carlos Saleiro",
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "2",
+      "Day": "25"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "324",
+    "LeagueId": "189",
+    "NationId": "38",
+    "Rating": "71",
+    "Attribute1": "65",
+    "Attribute2": "68",
+    "Attribute3": "64",
+    "Attribute4": "70",
+    "Attribute5": "54",
+    "Attribute6": "72",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Celso",
+    "LastName": "Borges",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "5",
+      "Day": "27"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "2041",
+    "LeagueId": "41",
+    "NationId": "72",
+    "Rating": "75",
+    "Attribute1": "75",
+    "Attribute2": "76",
+    "Attribute3": "70",
+    "Attribute4": "65",
+    "Attribute5": "64",
+    "Attribute6": "83",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

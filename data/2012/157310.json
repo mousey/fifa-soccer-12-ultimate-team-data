@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Sylvain",
+    "LastName": "Marveaux",
+    "CommonName": null,
+    "Height": "172",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "4",
+      "Day": "15"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "13",
+    "LeagueId": "13",
+    "NationId": "18",
+    "Rating": "75",
+    "Attribute1": "75",
+    "Attribute2": "72",
+    "Attribute3": "77",
+    "Attribute4": "76",
+    "Attribute5": "59",
+    "Attribute6": "58",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

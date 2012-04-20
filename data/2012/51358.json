@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Peter",
+    "LastName": "Wisgerhof",
+    "CommonName": null,
+    "Height": "181",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "11",
+      "Day": "19"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1908",
+    "LeagueId": "10",
+    "NationId": "34",
+    "Rating": "74",
+    "Attribute1": "41",
+    "Attribute2": "43",
+    "Attribute3": "58",
+    "Attribute4": "51",
+    "Attribute5": "77",
+    "Attribute6": "74",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

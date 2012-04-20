@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Joe",
+    "LastName": "Thompson",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "3",
+      "Day": "5"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1955",
+    "LeagueId": "60",
+    "NationId": "14",
+    "Rating": "58",
+    "Attribute1": "79",
+    "Attribute2": "42",
+    "Attribute3": "52",
+    "Attribute4": "60",
+    "Attribute5": "31",
+    "Attribute6": "45",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

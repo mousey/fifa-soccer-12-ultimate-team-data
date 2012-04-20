@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Anthony",
+    "LastName": "Stokes",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "7",
+      "Day": "25"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "78",
+    "LeagueId": "50",
+    "NationId": "25",
+    "Rating": "75",
+    "Attribute1": "78",
+    "Attribute2": "75",
+    "Attribute3": "49",
+    "Attribute4": "73",
+    "Attribute5": "52",
+    "Attribute6": "72",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

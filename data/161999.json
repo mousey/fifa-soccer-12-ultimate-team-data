@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Abdoulay",
+    "LastName": "Konko",
+    "CommonName": null,
+    "Height": "175",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "3",
+      "Day": "9"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "46",
+    "LeagueId": "31",
+    "NationId": "18",
+    "Rating": "76",
+    "Attribute1": "85",
+    "Attribute2": "61",
+    "Attribute3": "75",
+    "Attribute4": "76",
+    "Attribute5": "73",
+    "Attribute6": "72",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

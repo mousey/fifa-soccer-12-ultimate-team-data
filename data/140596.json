@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Milan",
+    "LastName": "Dudić",
+    "CommonName": null,
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "11",
+      "Day": "1"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "209",
+    "LeagueId": "80",
+    "NationId": "51",
+    "Rating": "67",
+    "Attribute1": "52",
+    "Attribute2": "28",
+    "Attribute3": "48",
+    "Attribute4": "56",
+    "Attribute5": "69",
+    "Attribute6": "78",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

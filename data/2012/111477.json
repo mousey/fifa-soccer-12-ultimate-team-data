@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Fabien",
+    "LastName": "Audard",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1978",
+      "Month": "3",
+      "Day": "28"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "217",
+    "LeagueId": "16",
+    "NationId": "18",
+    "Rating": "75",
+    "Attribute1": "78",
+    "Attribute2": "70",
+    "Attribute3": "74",
+    "Attribute4": "81",
+    "Attribute5": "65",
+    "Attribute6": "75",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

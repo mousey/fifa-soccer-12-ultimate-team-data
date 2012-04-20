@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Tomasz",
+    "LastName": "Kiełbowicz",
+    "CommonName": null,
+    "Height": "179",
+    "DateOfBirth": {
+      "Year": "1976",
+      "Month": "2",
+      "Day": "21"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "1871",
+    "LeagueId": "66",
+    "NationId": "37",
+    "Rating": "64",
+    "Attribute1": "63",
+    "Attribute2": "52",
+    "Attribute3": "72",
+    "Attribute4": "53",
+    "Attribute5": "64",
+    "Attribute6": "52",
+    "Rare": "1",
+    "ItemType": "PlayerD"
+  }
+}

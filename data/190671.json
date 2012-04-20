@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Mike",
+    "LastName": "Frantz",
+    "CommonName": null,
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "10",
+      "Day": "14"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "171",
+    "LeagueId": "19",
+    "NationId": "21",
+    "Rating": "70",
+    "Attribute1": "75",
+    "Attribute2": "64",
+    "Attribute3": "68",
+    "Attribute4": "69",
+    "Attribute5": "70",
+    "Attribute6": "70",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jesús",
+    "LastName": "Dátolo",
+    "CommonName": null,
+    "Height": "177",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "5",
+      "Day": "19"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "452",
+    "LeagueId": "53",
+    "NationId": "52",
+    "Rating": "76",
+    "Attribute1": "75",
+    "Attribute2": "70",
+    "Attribute3": "75",
+    "Attribute4": "82",
+    "Attribute5": "53",
+    "Attribute6": "55",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

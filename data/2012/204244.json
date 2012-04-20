@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Franck",
+    "LastName": "Matondo",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1985",
+      "Month": "3",
+      "Day": "8"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "15011",
+    "LeagueId": "80",
+    "NationId": "23",
+    "Rating": "52",
+    "Attribute1": "66",
+    "Attribute2": "49",
+    "Attribute3": "45",
+    "Attribute4": "49",
+    "Attribute5": "44",
+    "Attribute6": "56",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

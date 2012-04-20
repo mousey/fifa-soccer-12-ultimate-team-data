@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Sascha",
+    "LastName": "Pfeffer",
+    "CommonName": null,
+    "Height": "176",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "10",
+      "Day": "19"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "503",
+    "LeagueId": "20",
+    "NationId": "21",
+    "Rating": "58",
+    "Attribute1": "66",
+    "Attribute2": "47",
+    "Attribute3": "52",
+    "Attribute4": "65",
+    "Attribute5": "46",
+    "Attribute6": "46",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

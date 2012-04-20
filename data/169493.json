@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Frank",
+    "LastName": "Fielding",
+    "CommonName": null,
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "4",
+      "Day": "4"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "91",
+    "LeagueId": "14",
+    "NationId": "14",
+    "Rating": "70",
+    "Attribute1": "71",
+    "Attribute2": "72",
+    "Attribute3": "70",
+    "Attribute4": "70",
+    "Attribute5": "58",
+    "Attribute6": "70",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

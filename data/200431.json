@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Gialunca",
+    "LastName": "Nicco",
+    "CommonName": null,
+    "Height": "183",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "8",
+      "Day": "10"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "200",
+    "LeagueId": "32",
+    "NationId": "27",
+    "Rating": "62",
+    "Attribute1": "71",
+    "Attribute2": "54",
+    "Attribute3": "58",
+    "Attribute4": "65",
+    "Attribute5": "58",
+    "Attribute6": "63",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Diego",
+    "LastName": "Seoane Pérez",
+    "CommonName": "Seoane",
+    "Height": "180",
+    "DateOfBirth": {
+      "Year": "1988",
+      "Month": "4",
+      "Day": "26"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "242",
+    "LeagueId": "54",
+    "NationId": "45",
+    "Rating": "67",
+    "Attribute1": "75",
+    "Attribute2": "48",
+    "Attribute3": "60",
+    "Attribute4": "57",
+    "Attribute5": "67",
+    "Attribute6": "64",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

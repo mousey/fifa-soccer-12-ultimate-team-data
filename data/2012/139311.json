@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Markus",
+    "LastName": "Böcskör",
+    "CommonName": null,
+    "Height": "184",
+    "DateOfBirth": {
+      "Year": "1982",
+      "Month": "10",
+      "Day": "1"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1785",
+    "LeagueId": "80",
+    "NationId": "4",
+    "Rating": "55",
+    "Attribute1": "54",
+    "Attribute2": "58",
+    "Attribute3": "54",
+    "Attribute4": "55",
+    "Attribute5": "53",
+    "Attribute6": "51",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}

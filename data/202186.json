@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Marcos Paullo",
+    "LastName": "Barcelos Peixoto",
+    "CommonName": "Marcos Paullo",
+    "Height": "174",
+    "DateOfBirth": {
+      "Year": "1990",
+      "Month": "3",
+      "Day": "28"
+    },
+    "PreferredFoot": "Left",
+    "ClubId": "689",
+    "LeagueId": "39",
+    "NationId": "54",
+    "Rating": "59",
+    "Attribute1": "74",
+    "Attribute2": "60",
+    "Attribute3": "52",
+    "Attribute4": "61",
+    "Attribute5": "36",
+    "Attribute6": "37",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

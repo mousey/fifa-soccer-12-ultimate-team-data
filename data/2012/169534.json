@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jeppe",
+    "LastName": "Curth",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "3",
+      "Day": "21"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "820",
+    "LeagueId": "1",
+    "NationId": "13",
+    "Rating": "68",
+    "Attribute1": "78",
+    "Attribute2": "63",
+    "Attribute3": "54",
+    "Attribute4": "67",
+    "Attribute5": "52",
+    "Attribute6": "75",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

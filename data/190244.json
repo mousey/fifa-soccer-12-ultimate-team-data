@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "João Pedro",
+    "LastName": "de Lemos Paiva",
+    "CommonName": "João Paiva",
+    "Height": "174",
+    "DateOfBirth": {
+      "Year": "1983",
+      "Month": "2",
+      "Day": "8"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "322",
+    "LeagueId": "189",
+    "NationId": "38",
+    "Rating": "62",
+    "Attribute1": "72",
+    "Attribute2": "59",
+    "Attribute3": "53",
+    "Attribute4": "69",
+    "Attribute5": "42",
+    "Attribute6": "58",
+    "Rare": "0",
+    "ItemType": "PlayerA"
+  }
+}

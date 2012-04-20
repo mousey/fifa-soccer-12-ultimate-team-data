@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Mamadou",
+    "LastName": "Samassa",
+    "CommonName": null,
+    "Height": "188",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "5",
+      "Day": "1"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "110456",
+    "LeagueId": "16",
+    "NationId": "126",
+    "Rating": "69",
+    "Attribute1": "59",
+    "Attribute2": "67",
+    "Attribute3": "56",
+    "Attribute4": "67",
+    "Attribute5": "55",
+    "Attribute6": "81",
+    "Rare": "1",
+    "ItemType": "PlayerA"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Giorgos",
+    "LastName": "Fotakis",
+    "CommonName": null,
+    "Height": "177",
+    "DateOfBirth": {
+      "Year": "1981",
+      "Month": "10",
+      "Day": "29"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "393",
+    "LeagueId": "63",
+    "NationId": "22",
+    "Rating": "73",
+    "Attribute1": "71",
+    "Attribute2": "77",
+    "Attribute3": "74",
+    "Attribute4": "75",
+    "Attribute5": "65",
+    "Attribute6": "62",
+    "Rare": "1",
+    "ItemType": "PlayerM"
+  }
+}

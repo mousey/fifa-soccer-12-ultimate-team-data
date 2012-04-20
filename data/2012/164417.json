@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "James",
+    "LastName": "O'Connor",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1984",
+      "Month": "11",
+      "Day": "20"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "142",
+    "LeagueId": "14",
+    "NationId": "25",
+    "Rating": "68",
+    "Attribute1": "68",
+    "Attribute2": "33",
+    "Attribute3": "64",
+    "Attribute4": "52",
+    "Attribute5": "69",
+    "Attribute6": "69",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

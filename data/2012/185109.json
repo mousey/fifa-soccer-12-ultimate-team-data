@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Maciej",
+    "LastName": "Sadlok",
+    "CommonName": null,
+    "Height": "186",
+    "DateOfBirth": {
+      "Year": "1989",
+      "Month": "6",
+      "Day": "29"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "1570",
+    "LeagueId": "66",
+    "NationId": "37",
+    "Rating": "67",
+    "Attribute1": "68",
+    "Attribute2": "46",
+    "Attribute3": "59",
+    "Attribute4": "50",
+    "Attribute5": "66",
+    "Attribute6": "68",
+    "Rare": "0",
+    "ItemType": "PlayerD"
+  }
+}

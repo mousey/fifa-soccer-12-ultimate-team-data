@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Bocundji",
+    "LastName": "Ca",
+    "CommonName": null,
+    "Height": "172",
+    "DateOfBirth": {
+      "Year": "1986",
+      "Month": "12",
+      "Day": "28"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "379",
+    "LeagueId": "17",
+    "NationId": "119",
+    "Rating": "66",
+    "Attribute1": "74",
+    "Attribute2": "39",
+    "Attribute3": "59",
+    "Attribute4": "56",
+    "Attribute5": "70",
+    "Attribute6": "64",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

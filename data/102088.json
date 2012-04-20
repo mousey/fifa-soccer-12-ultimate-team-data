@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Stefano",
+    "LastName": "Morrone",
+    "CommonName": null,
+    "Height": "178",
+    "DateOfBirth": {
+      "Year": "1978",
+      "Month": "10",
+      "Day": "26"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "50",
+    "LeagueId": "31",
+    "NationId": "27",
+    "Rating": "74",
+    "Attribute1": "61",
+    "Attribute2": "61",
+    "Attribute3": "71",
+    "Attribute4": "71",
+    "Attribute5": "72",
+    "Attribute6": "60",
+    "Rare": "0",
+    "ItemType": "PlayerM"
+  }
+}

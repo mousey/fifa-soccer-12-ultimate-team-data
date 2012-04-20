@@ -1,0 +1,26 @@
+{
+  "Player": {
+    "FirstName": "Jung Rae",
+    "LastName": "Lee",
+    "CommonName": "Lee Jung Rae",
+    "Height": "185",
+    "DateOfBirth": {
+      "Year": "1979",
+      "Month": "11",
+      "Day": "12"
+    },
+    "PreferredFoot": "Right",
+    "ClubId": "111588",
+    "LeagueId": "83",
+    "NationId": "167",
+    "Rating": "61",
+    "Attribute1": "68",
+    "Attribute2": "62",
+    "Attribute3": "61",
+    "Attribute4": "56",
+    "Attribute5": "38",
+    "Attribute6": "58",
+    "Rare": "0",
+    "ItemType": "PlayerGk"
+  }
+}
