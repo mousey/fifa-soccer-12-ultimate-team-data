@@ -123,6 +123,7 @@ Most of these fields are self-explanatory, but they're detailed below:
 
 `http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/web/6000263.json`
 
+```
 {
   "Badge": {
     "ClubId": "86",
@@ -134,6 +135,7 @@ Most of these fields are self-explanatory, but they're detailed below:
     "Rare": "1"
   }
 }
+```
 
 # Fun discoveries
 
