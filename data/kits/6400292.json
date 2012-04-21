@@ -1,0 +1,13 @@
+{
+  "Kit": {
+    "ClubId": "456",
+    "LeagueId": "53",
+    "NationId": "45",
+    "Rating": "72",
+    "Rare": "1",
+    "Category": "3",
+    "Desc": "TeamName_Abbr15_456",
+    "BioDesc": "Racing de Santander",
+    "ItemType": "Kit"
+  }
+}
