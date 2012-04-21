@@ -1,0 +1,11 @@
+{
+  "Ball": {
+    "Rating": "70",
+    "Rare": "0",
+    "Desc": "adidas Speedcell FEF",
+    "AssetId": "18",
+    "Manufacturer": "ManufacturerAdidas",
+    "Name": "BallName_18",
+    "ItemType": "Ball"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "Ball": {
+    "Rating": "70",
+    "Rare": "0",
+    "Desc": "Puma - Ligue 2",
+    "AssetId": "204",
+    "Manufacturer": "ManufacturerPuma",
+    "Name": "BallName_204",
+    "ItemType": "Ball"
+  }
+}

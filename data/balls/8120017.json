@@ -1,0 +1,11 @@
+{
+  "Ball": {
+    "Rating": "70",
+    "Rare": "0",
+    "Desc": "Mitre Tensile - Football League",
+    "AssetId": "29",
+    "Manufacturer": "ManufacturerMitre",
+    "Name": "BallName_29",
+    "ItemType": "Ball"
+  }
+}

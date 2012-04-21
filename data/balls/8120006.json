@@ -1,0 +1,11 @@
+{
+  "Ball": {
+    "Rating": "70",
+    "Rare": "0",
+    "Desc": "adidas Predator",
+    "AssetId": "22",
+    "Manufacturer": "ManufacturerAdidas",
+    "Name": "BallName_22",
+    "ItemType": "Ball"
+  }
+}

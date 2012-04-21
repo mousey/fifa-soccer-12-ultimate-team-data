@@ -1,0 +1,11 @@
+{
+  "Ball": {
+    "Rating": "70",
+    "Rare": "0",
+    "Desc": "Puma King XL",
+    "AssetId": "32",
+    "Manufacturer": "ManufacturerPuma",
+    "Name": "BallName_32",
+    "ItemType": "Ball"
+  }
+}

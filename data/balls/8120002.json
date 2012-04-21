@@ -1,0 +1,11 @@
+{
+  "Ball": {
+    "Rating": "70",
+    "Rare": "0",
+    "Desc": "adidas F50 Top X-ite",
+    "AssetId": "15",
+    "Manufacturer": "ManufacturerAdidas",
+    "Name": "BallName_15",
+    "ItemType": "Ball"
+  }
+}

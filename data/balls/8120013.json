@@ -1,0 +1,11 @@
+{
+  "Ball": {
+    "Rating": "70",
+    "Rare": "0",
+    "Desc": "Derbystar Brillant APS Eredivisie",
+    "AssetId": "11",
+    "Manufacturer": "ManufacturerDerbyStar",
+    "Name": "BallName_11",
+    "ItemType": "Ball"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "Ball": {
+    "Rating": "70",
+    "Rare": "0",
+    "Desc": "Puma PowerCat 1.10",
+    "AssetId": "31",
+    "Manufacturer": "ManufacturerPuma",
+    "Name": "BallName_31",
+    "ItemType": "Ball"
+  }
+}

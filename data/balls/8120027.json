@@ -1,0 +1,11 @@
+{
+  "Ball": {
+    "Rating": "70",
+    "Rare": "0",
+    "Desc": "Umbro Neo Pro - Black/White/Red",
+    "AssetId": "25",
+    "Manufacturer": "ManufacturerUmbro",
+    "Name": "BallName_25",
+    "ItemType": "Ball"
+  }
+}

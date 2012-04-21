@@ -1,0 +1,11 @@
+{
+  "Ball": {
+    "Rating": "70",
+    "Rare": "0",
+    "Desc": "Puma - Ligue 1",
+    "AssetId": "23",
+    "Manufacturer": "ManufacturerPuma",
+    "Name": "BallName_23",
+    "ItemType": "Ball"
+  }
+}

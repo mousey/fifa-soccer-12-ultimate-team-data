@@ -1,0 +1,11 @@
+{
+  "Ball": {
+    "Rating": "70",
+    "Rare": "0",
+    "Desc": "Nike Seitiro Hi-Vis",
+    "AssetId": "9",
+    "Manufacturer": "ManufacturerNike",
+    "Name": "BallName_9",
+    "ItemType": "Ball"
+  }
+}

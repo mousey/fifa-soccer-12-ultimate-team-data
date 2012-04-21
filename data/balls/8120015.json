@@ -1,0 +1,11 @@
+{
+  "Ball": {
+    "Rating": "70",
+    "Rare": "0",
+    "Desc": "Hummel 0.8 Concept",
+    "AssetId": "216",
+    "Manufacturer": "ManufacturerHummel",
+    "Name": "BallName_216",
+    "ItemType": "Ball"
+  }
+}

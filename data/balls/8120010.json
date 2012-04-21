@@ -1,0 +1,11 @@
+{
+  "Ball": {
+    "Rating": "70",
+    "Rare": "0",
+    "Desc": "adidas Speedcell Snow",
+    "AssetId": "19",
+    "Manufacturer": "ManufacturerAdidas",
+    "Name": "BallName_19",
+    "ItemType": "Ball"
+  }
+}

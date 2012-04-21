@@ -1,0 +1,11 @@
+{
+  "Ball": {
+    "Rating": "70",
+    "Rare": "0",
+    "Desc": "Mitre Tensile - SPL",
+    "AssetId": "30",
+    "Manufacturer": "ManufacturerMitre",
+    "Name": "BallName_30",
+    "ItemType": "Ball"
+  }
+}

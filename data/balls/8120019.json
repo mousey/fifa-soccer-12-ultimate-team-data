@@ -1,0 +1,11 @@
+{
+  "Ball": {
+    "Rating": "70",
+    "Rare": "0",
+    "Desc": "Nike Seitiro",
+    "AssetId": "7",
+    "Manufacturer": "ManufacturerNike",
+    "Name": "BallName_7",
+    "ItemType": "Ball"
+  }
+}

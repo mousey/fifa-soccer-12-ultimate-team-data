@@ -1,0 +1,11 @@
+{
+  "Ball": {
+    "Rating": "70",
+    "Rare": "0",
+    "Desc": "adidas Speedcell",
+    "AssetId": "16",
+    "Manufacturer": "ManufacturerAdidas",
+    "Name": "BallName_16",
+    "ItemType": "Ball"
+  }
+}

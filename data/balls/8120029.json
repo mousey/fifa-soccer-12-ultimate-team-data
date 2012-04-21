@@ -1,0 +1,11 @@
+{
+  "Ball": {
+    "Rating": "70",
+    "Rare": "0",
+    "Desc": "Umbro Neo Pro England Ball",
+    "AssetId": "27",
+    "Manufacturer": "ManufacturerUmbro",
+    "Name": "BallName_27",
+    "ItemType": "Ball"
+  }
+}
