@@ -135,6 +135,26 @@ Most of these fields are self-explanatory, but they're detailed below:
 }
 ```
 
+## Physios
+
+![](http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/images/players/web/heads_staff_4000022.png)
+
+`http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/web/4000022.json`
+
+```
+{
+  "Physio": {
+    "FirstName": "Y",
+    "LastName": "Santos",
+    "Rating": "66",
+    "Rare": "0",
+    "Attr": "3",
+    "Amount": "5",
+    "ItemType": "Physio"
+  }
+}
+```
+
 # Fun discoveries
 
 * BLAH is the tallest player in the game. He's an OK goalkeeper, albeit a bit slow clumsy. I use him as a benchwarmer and only bring him on for last-minute corner kicks. Dude's taller than Crouch and connect headers with the force of  thousand suns.
