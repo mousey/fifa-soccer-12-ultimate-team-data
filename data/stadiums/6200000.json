@@ -1,0 +1,11 @@
+{
+  "Stadium": {
+    "Rating": "86",
+    "Rare": "1",
+    "StadiumId": "1",
+    "Name": "Old Trafford",
+    "Cap": "76200",
+    "Boost": "8",
+    "ItemType": "Stadium"
+  }
+}

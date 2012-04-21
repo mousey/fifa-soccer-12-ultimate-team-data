@@ -1,0 +1,11 @@
+{
+  "Stadium": {
+    "Rating": "86",
+    "Rare": "1",
+    "StadiumId": "10",
+    "Name": "Estadio Mestalla",
+    "Cap": "53500",
+    "Boost": "8",
+    "ItemType": "Stadium"
+  }
+}

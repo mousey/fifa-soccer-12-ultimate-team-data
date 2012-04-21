@@ -1,0 +1,11 @@
+{
+  "Stadium": {
+    "Rating": "86",
+    "Rare": "1",
+    "StadiumId": "155",
+    "Name": "Wembley Stadium",
+    "Cap": "90000",
+    "Boost": "8",
+    "ItemType": "Stadium"
+  }
+}

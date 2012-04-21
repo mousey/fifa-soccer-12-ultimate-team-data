@@ -1,0 +1,11 @@
+{
+  "Stadium": {
+    "Rating": "86",
+    "Rare": "1",
+    "StadiumId": "6",
+    "Name": "Camp Nou",
+    "Cap": "98750",
+    "Boost": "8",
+    "ItemType": "Stadium"
+  }
+}

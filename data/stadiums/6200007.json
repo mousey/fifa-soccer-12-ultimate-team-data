@@ -1,0 +1,11 @@
+{
+  "Stadium": {
+    "Rating": "86",
+    "Rare": "1",
+    "StadiumId": "13",
+    "Name": "Anfield",
+    "Cap": "45400",
+    "Boost": "8",
+    "ItemType": "Stadium"
+  }
+}

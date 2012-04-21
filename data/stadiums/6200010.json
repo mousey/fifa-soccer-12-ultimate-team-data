@@ -1,0 +1,11 @@
+{
+  "Stadium": {
+    "Rating": "64",
+    "Rare": "1",
+    "StadiumId": "26",
+    "Name": "Forest Park Stadium",
+    "Cap": "28000",
+    "Boost": "5",
+    "ItemType": "Stadium"
+  }
+}

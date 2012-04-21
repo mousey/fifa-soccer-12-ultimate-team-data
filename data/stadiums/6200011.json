@@ -1,0 +1,11 @@
+{
+  "Stadium": {
+    "Rating": "86",
+    "Rare": "1",
+    "StadiumId": "28",
+    "Name": "Stamford Bridge",
+    "Cap": "42000",
+    "Boost": "8",
+    "ItemType": "Stadium"
+  }
+}

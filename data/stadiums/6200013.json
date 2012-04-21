@@ -1,0 +1,11 @@
+{
+  "Stadium": {
+    "Rating": "86",
+    "Rare": "1",
+    "StadiumId": "30",
+    "Name": "Veltins-Arena",
+    "Cap": "61500",
+    "Boost": "8",
+    "ItemType": "Stadium"
+  }
+}

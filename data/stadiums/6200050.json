@@ -1,0 +1,11 @@
+{
+  "Stadium": {
+    "Rating": "64",
+    "Rare": "1",
+    "StadiumId": "229",
+    "Name": "Arena d'Oro",
+    "Cap": "20000",
+    "Boost": "5",
+    "ItemType": "Stadium"
+  }
+}

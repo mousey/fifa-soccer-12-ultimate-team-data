@@ -1,0 +1,11 @@
+{
+  "Stadium": {
+    "Rating": "86",
+    "Rare": "1",
+    "StadiumId": "100",
+    "Name": "St James' Park",
+    "Cap": "52350",
+    "Boost": "8",
+    "ItemType": "Stadium"
+  }
+}

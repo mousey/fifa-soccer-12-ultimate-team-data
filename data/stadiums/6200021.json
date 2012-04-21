@@ -1,0 +1,11 @@
+{
+  "Stadium": {
+    "Rating": "86",
+    "Rare": "1",
+    "StadiumId": "104",
+    "Name": "Estadio Azteca",
+    "Cap": "105000",
+    "Boost": "8",
+    "ItemType": "Stadium"
+  }
+}

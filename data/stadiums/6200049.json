@@ -1,0 +1,11 @@
+{
+  "Stadium": {
+    "Rating": "64",
+    "Rare": "1",
+    "StadiumId": "228",
+    "Name": "Court Lane",
+    "Cap": "22500",
+    "Boost": "5",
+    "ItemType": "Stadium"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "Stadium": {
+    "Rating": "74",
+    "Rare": "1",
+    "StadiumId": "248",
+    "Name": "BC Place Stadium",
+    "Cap": "20000",
+    "Boost": "6",
+    "ItemType": "Stadium"
+  }
+}

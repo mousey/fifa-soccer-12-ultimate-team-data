@@ -1,0 +1,11 @@
+{
+  "Stadium": {
+    "Rating": "74",
+    "Rare": "0",
+    "StadiumId": "33",
+    "Name": "Union Park Stadium",
+    "Cap": "25000",
+    "Boost": "5",
+    "ItemType": "Stadium"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "Stadium": {
+    "Rating": "86",
+    "Rare": "1",
+    "StadiumId": "29",
+    "Name": "Stade Velodrome",
+    "Cap": "60000",
+    "Boost": "8",
+    "ItemType": "Stadium"
+  }
+}
