@@ -70,6 +70,71 @@ Most of these fields are self-explanatory, but they're detailed below:
 * **ItemType:** This tells us whether the player's a goalkeeper (PlayerGk), defender (PlayerD), midfielder (PlayerM), or an attacking player (PlayerA).
 
 
+## Kits
+
+### Home
+
+![](http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/images/kits/web/j0_00086.png)
+
+`http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/web/6300263.json`
+
+```
+{
+  "Kit": {
+    "ClubId": "86",
+    "LeagueId": "50",
+    "NationId": "42",
+    "Rating": "73",
+    "Rare": "1",
+    "Category": "2",
+    "Desc": "TeamName_Abbr15_86",
+    "BioDesc": "Rangers",
+    "ItemType": "Kit"
+  }
+}
+```
+
+### Away
+
+![](http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/images/kits/web/j1_00086.png)
+
+`http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/web/6400263.json`
+
+
+```
+{
+  "Kit": {
+    "ClubId": "86",
+    "LeagueId": "50",
+    "NationId": "42",
+    "Rating": "73",
+    "Rare": "1",
+    "Category": "3",
+    "Desc": "TeamName_Abbr15_86",
+    "BioDesc": "Rangers",
+    "ItemType": "Kit"
+  }
+}
+```
+
+## Badges
+
+![](http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/images/clubbadges/web/s86.png)
+
+`http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/web/6000263.json`
+
+{
+  "Badge": {
+    "ClubId": "86",
+    "LeagueId": "50",
+    "NationId": "42",
+    "Rating": "73",
+    "Category": "1",
+    "ItemType": "Badge",
+    "Rare": "1"
+  }
+}
+
 # Fun discoveries
 
 * BLAH is the tallest player in the game. He's an OK goalkeeper, albeit a bit slow clumsy. I use him as a benchwarmer and only bring him on for last-minute corner kicks. Dude's taller than Crouch and connect headers with the force of  thousand suns.
