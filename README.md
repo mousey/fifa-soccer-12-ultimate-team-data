@@ -6,6 +6,10 @@ You can use this information to [hack player data](http://www.youtube.com/watch?
 
 ## Player Images
 
+![](http://i.imgur.com/D9pTc.png)
+![](http://i.imgur.com/Qph7i.png)
+![](http://i.imgur.com/W6n3n.png)
+
 Every player in the game has a unique identifier. Identifiers remain the same regardless of the season.
 
 Let's take Maurice Edu as an example. He's an American midfielder currently playing for Rangers FC, the most successful club in the world. Maurice was on the cover of the American version of FIFA 11. He's also my 4-year old son's favorite player.
@@ -17,11 +21,6 @@ http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/images/playe
 http://cdn.content.easports.com/fifa/fltOnlineAssets/2011/fut/items/images/players/web/179686.png
 http://cdn.content.easports.com/fifa/fltOnlineAssets/2010/fut/items/images/players/web/179686.png
 ```
-
-![](http://i.imgur.com/D9pTc.png)
-![](http://i.imgur.com/Qph7i.png)
-![](http://i.imgur.com/W6n3n.png)
-
 
 ## Player data
 
@@ -72,9 +71,10 @@ Most of these fields are self-explanatory, but they're detailed below:
 
 ## Kits
 
-### Home
-
 ![](http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/images/kits/web/j0_00086.png)
+![](http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/images/kits/web/j1_00086.png)
+
+### Home
 
 `http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/web/6300263.json`
 
@@ -95,8 +95,6 @@ Most of these fields are self-explanatory, but they're detailed below:
 ```
 
 ### Away
-
-![](http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/images/kits/web/j1_00086.png)
 
 `http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/web/6400263.json`
 
@@ -123,6 +121,7 @@ Most of these fields are self-explanatory, but they're detailed below:
 
 `http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/web/6000263.json`
 
+```
 {
   "Badge": {
     "ClubId": "86",
@@ -134,6 +133,7 @@ Most of these fields are self-explanatory, but they're detailed below:
     "Rare": "1"
   }
 }
+```
 
 # Fun discoveries
 
