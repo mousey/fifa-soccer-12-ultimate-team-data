@@ -135,9 +135,9 @@ Most of these fields are self-explanatory, but they're detailed below:
 
 # Stadia
 
-![](http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/images/players/web/heads_staff_1000408.png)
+![](hhttp://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/images/stadiums/web/6.jpg)
 
-`http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/images/stadiums/web/6.jpg`
+`http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/web/6200004.json`
 
 ```
 {
