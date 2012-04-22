@@ -381,9 +381,9 @@ Data: `http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/web/5
 
 # Fun discoveries
 
-* BLAH is the tallest player in the game. He's an OK goalkeeper, albeit a bit slow clumsy. I use him as a benchwarmer and only bring him on for last-minute corner kicks. Dude's taller than Crouch and connect headers with the force of  thousand suns.
+* Kristof Van Hout is the tallest player in the game. He's an OK goalkeeper, but a bit slow clumsy. I use him as a benchwarmer and only bring him on for last-minute corner kicks. Dude's taller than Crouch and connect headers with the force of a thousand suns.
 
-* Is the smallest player in the game. Do it for the lulz.
+* Quero Is the smallest player in the game. Do it for the lulz.
 
 # Please note
 
