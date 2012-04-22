@@ -8,6 +8,8 @@ FIFA Ultimate Team exposes all player data via publicly accessible web services.
 
 # FIFA Ultimate Team 2012 Data - Neckbeard Edition
 
+All of the data can be found in the repository [here](https://github.com/leereilly/fifa-soccer-12-ultimate-team-data/tree/master/data).
+
 ## Players
 
 ### Player Images
