@@ -133,6 +133,26 @@ Most of these fields are self-explanatory, but they're detailed below:
 }
 ```
 
+# Stadia
+
+![](http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/images/players/web/heads_staff_1000408.png)
+
+`http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/images/stadiums/web/6.jpg`
+
+```
+{
+  "Stadium": {
+    "Rating": "86",
+    "Rare": "1",
+    "StadiumId": "6",
+    "Name": "Camp Nou",
+    "Cap": "98750",
+    "Boost": "8",
+    "ItemType": "Stadium"
+  }
+}
+```
+
 # Staff
 
 ## Managers
@@ -200,6 +220,25 @@ Most of these fields are self-explanatory, but they're detailed below:
 ```
 
 ## Fitness Coaches
+
+![](http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/images/players/web/heads_staff_3000004.png)
+
+`http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/web/3000004.json`
+
+```
+{
+  "FitnessCoach": {
+    "FirstName": "A",
+    "LastName": "Bachman",
+    "Rating": "55",
+    "Rare": "0",
+    "Pos": "2",
+    "PosBonus": "3",
+    "Amount": "1",
+    "ItemType": "FitnessCoach"
+  }
+}
+```
 
 ## Physios
 
