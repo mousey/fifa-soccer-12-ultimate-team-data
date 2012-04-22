@@ -1,3 +1,5 @@
+![FIFA 12 Player Database](http://i.imgur.com/gUxon.png)
+
 # FIFA Ultimate Team 2012 Data - Basic Edition
 
 FIFA Ultimate Team exposes all player data via publicly accessible web services. This repository is here to help you build *your* ultimate team and will show you who the tallest player is, the fastest, the best overall, etc.
