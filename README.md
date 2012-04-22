@@ -181,6 +181,24 @@ Most of these fields are self-explanatory, but they're detailed below:
 
 ## Goalkeeper Coaches
 
+![](http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/images/players/web/heads_staff_9000021.png)
+
+`http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/web/9000021.json`
+
+```javascript
+{
+  "GkCoach": {
+    "FirstName": "D",
+    "LastName": "Gustafo",
+    "Rating": "64",
+    "Rare": "1",
+    "Attr": "3",
+    "Amount": "5",
+    "ItemType": "GkCoach"
+  }
+}
+```
+
 ## Fitness Coaches
 
 ## Physios
