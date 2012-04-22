@@ -2,11 +2,7 @@
 
 FIFA Ultimate Team exposes all player data via publicly accessible web services. This repository is here to help you build *your* ultimate team and will show you who the tallest player is, the fastest, the best overall, etc.
 
-99.9% of those reading will be interested in this and nothing else: [player-database.csv](https://raw.github.com/leereilly/fifa-soccer-12-ultimate-team-data/master/player-database.csv).
-
-If you have no idea what a CSV file, you can open it in Excel, Numbers or in Google Docs / [Zoho Sheet](https://sheet.zoho.com).
-
-
+99.9% of those reading will be interested in this and nothing else: [player-database.csv](https://raw.github.com/leereilly/fifa-soccer-12-ultimate-team-data/master/player-database.csv). It's a database of a the UT players and their stats. If you have no idea what a CSV file, you can open it in Excel, Numbers or in Google Docs / [Zoho Sheet](https://sheet.zoho.com).
 
 # FIFA Ultimate Team 2012 Data - Neckbeard Edition
 
@@ -14,13 +10,9 @@ If you have no idea what a CSV file, you can open it in Excel, Numbers or in Goo
 
 ### Player Images
 
-![](http://i.imgur.com/D9pTc.png)
-![](http://i.imgur.com/Qph7i.png)
-![](http://i.imgur.com/W6n3n.png)
+Every asset (players, clubs, kits, etc) in the game has a unique identifier. Identifiers remain the same regardless of the season.
 
-Every player in the game has a unique identifier. Identifiers remain the same regardless of the season.
-
-Let's take Maurice Edu as an example. He's an American midfielder currently playing for Rangers FC, the most successful club in the world. Maurice was on the cover of the American version of FIFA 11. He's also my 4-year old son's favorite player.
+Let's take Maurice Edu as an example. He's an American midfielder currently playing for Rangers FC, the most successful club in the world. Maurice was on the cover of the American version of FIFA '09. He's also my 4-year old son's favorite player.
 
 Mo's FIFA player ID is 179686, so we can grab his image from the 2012, 2011 and 2010 data set with the following URLs:
 
@@ -29,6 +21,10 @@ http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/images/playe
 http://cdn.content.easports.com/fifa/fltOnlineAssets/2011/fut/items/images/players/web/179686.png
 http://cdn.content.easports.com/fifa/fltOnlineAssets/2010/fut/items/images/players/web/179686.png
 ```
+
+![Maurice Edu 2010](http://i.imgur.com/D9pTc.png)
+![Maurice Edu 2011](http://i.imgur.com/Qph7i.png)
+![Maurice Edu 2012](http://i.imgur.com/W6n3n.png)
 
 ### Player data
 
