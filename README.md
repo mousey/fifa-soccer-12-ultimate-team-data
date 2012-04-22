@@ -389,8 +389,6 @@ Data: `http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/web/5
 
 * Special edition cards are not tracked here
 * You should not use/abuse the web services/API/URLs listed above - doing so will probably get you blacklisted on the FIFA servers and you'll find it hard to play online.
-* Mapping for ClubId -> Club, LeagueId -> League, NationId -> Nation are beyond the scope of this project.
-
 
 # Statto! Statto! Statto!
 
