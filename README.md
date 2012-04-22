@@ -133,6 +133,16 @@ Most of these fields are self-explanatory, but they're detailed below:
 }
 ```
 
+# Staff
+
+## Managers
+
+## Head Coaches
+
+## Goalkeeper Coaches
+
+## Fitness Coaches
+
 ## Physios
 
 ![](http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/images/players/web/heads_staff_4000022.png)
