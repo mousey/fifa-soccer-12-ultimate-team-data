@@ -81,9 +81,9 @@ Most of these fields are self-explanatory, but they're detailed below:
 
 ![](http://i.imgur.com/2s1bV.png)
 
-`http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/images/kits/web/j0_00086.png`
+Image: `http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/images/kits/web/j0_00086.png`
 
-`http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/web/6300263.json`
+Data: `http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/web/6300263.json`
 
 ```javascript
 {
@@ -105,9 +105,9 @@ Most of these fields are self-explanatory, but they're detailed below:
 
 ![](http://i.imgur.com/tMoa6.png)
 
-`http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/images/kits/web/j1_00086.png`
+Image: `http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/images/kits/web/j1_00086.png`
 
-`http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/web/6400263.json`
+Data: `http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/web/6400263.json`
 
 
 ```javascript
@@ -130,9 +130,9 @@ Most of these fields are self-explanatory, but they're detailed below:
 
 ![](http://i.imgur.com/H8hNy.png)
 
-`http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/images/clubbadges/web/s86.png`
+Image: `http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/images/clubbadges/web/s86.png`
 
-`http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/web/6000263.json`
+Data: `http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/web/6000263.json`
 
 ```javascript
 {
@@ -152,9 +152,9 @@ Most of these fields are self-explanatory, but they're detailed below:
 
 ![](http://i.imgur.com/FEbBA.jpg)
 
-`http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/images/stadiums/web/249.jpg`
+Image: `http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/images/stadiums/web/249.jpg`
 
-`http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/web/6200054.json`
+Data: `http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/web/6200054.json`
 
 ```javascript
 {
@@ -174,9 +174,11 @@ Most of these fields are self-explanatory, but they're detailed below:
 
 ## Managers
 
-![](http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/images/players/web/heads_staff_1000408.png)
+![](http://i.imgur.com/He8Bd.png)
 
-`http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/web/1000408.json`
+Image: `http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/images/players/web/heads_staff_1000408.png`
+
+Data: `http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/web/1000408.json`
 
 ```javascript
 {
@@ -198,9 +200,11 @@ Most of these fields are self-explanatory, but they're detailed below:
 
 ## Head Coaches
 
-`http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/web/2000021.json`
+Image: `http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/images/players/web/heads_staff_2000021.png`
 
-![](http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/images/players/web/heads_staff_2000021.png)
+Data: `http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/web/2000021.json`
+
+![](http://i.imgur.com/IEXtu.png)
 
 ```javascript
 {
@@ -218,9 +222,11 @@ Most of these fields are self-explanatory, but they're detailed below:
 
 ## Goalkeeper Coaches
 
-![](http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/images/players/web/heads_staff_9000021.png)
+![](http://i.imgur.com/sPjKc.png)
 
-`http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/web/9000021.json`
+Image: `http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/images/players/web/heads_staff_9000021.png`
+
+Data: `http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/web/9000021.json`
 
 ```javascript
 {
@@ -238,9 +244,11 @@ Most of these fields are self-explanatory, but they're detailed below:
 
 ## Fitness Coaches
 
-![](http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/images/players/web/heads_staff_3000004.png)
+![](http://i.imgur.com/tjMs7.png)
 
-`http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/web/3000004.json`
+Image: `http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/images/players/web/heads_staff_3000004.png`
+
+Data: `http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/web/3000004.json`
 
 ```javascript
 {
@@ -259,9 +267,11 @@ Most of these fields are self-explanatory, but they're detailed below:
 
 ## Physios
 
-![](http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/images/players/web/heads_staff_4000022.png)
+![](http://i.imgur.com/GpzW5.png)
 
-`http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/web/4000022.json`
+Image: `http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/images/players/web/heads_staff_4000022.png`
+
+Data: `http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/web/4000022.json`
 
 ```javascript
 {
