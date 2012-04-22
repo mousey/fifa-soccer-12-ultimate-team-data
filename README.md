@@ -137,7 +137,47 @@ Most of these fields are self-explanatory, but they're detailed below:
 
 ## Managers
 
+![](http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/images/players/web/heads_staff_1000408.png)
+
+`http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/web/1000408.json`
+
+```
+{
+  "Manager": {
+    "FirstName": "Alex",
+    "LastName": "Ferguson",
+    "NationId": "42",
+    "Value": "83",
+    "Rare": "1",
+    "Weight": "15",
+    "FormationId": "17",
+    "TalkRating": "0",
+    "Negotiation": "3",
+    "AssetId": "1000408",
+    "ItemType": "Manager"
+  }
+}
+```
+
 ## Head Coaches
+
+`http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/web/2000021.json`
+
+![](http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/images/players/web/heads_staff_2000021.png)
+
+```javascript
+{
+  "HeadCoach": {
+    "FirstName": "S",
+    "LastName": "Kitchen",
+    "Rating": "77",
+    "Rare": "0",
+    "Attr": "4",
+    "Amount": "10",
+    "ItemType": "HeadCoach"
+  }
+}
+```
 
 ## Goalkeeper Coaches
 
