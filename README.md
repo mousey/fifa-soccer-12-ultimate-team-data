@@ -135,19 +135,19 @@ Most of these fields are self-explanatory, but they're detailed below:
 
 # Stadia
 
-![](hhttp://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/images/stadiums/web/6.jpg)
+![](hhttp://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/images/stadiums/web/249.jpg)
 
-`http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/web/6200004.json`
+`http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/web/6200054.json`
 
-```
+```javascript
 {
   "Stadium": {
-    "Rating": "86",
-    "Rare": "1",
-    "StadiumId": "6",
-    "Name": "Camp Nou",
-    "Cap": "98750",
-    "Boost": "8",
+    "Rating": "74",
+    "Rare": "0",
+    "StadiumId": "249",
+    "Name": "British Modern",
+    "Cap": "20000",
+    "Boost": "5",
     "ItemType": "Stadium"
   }
 }
