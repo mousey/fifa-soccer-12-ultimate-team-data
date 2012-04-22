@@ -1,0 +1,9 @@
+{
+  "Healing": {
+    "Desc": "Morale Player Bronze",
+    "Rating": "55",
+    "Rare": "0",
+    "Amount": "20",
+    "ItemType": "MoralePlayer"
+  }
+}
