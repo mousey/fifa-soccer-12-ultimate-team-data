@@ -1,0 +1,10508 @@
+{
+ "Years": [
+  {
+   "Year": "2010",
+   "Nations": [
+    1,
+    2,
+    4,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    63,
+    66,
+    70,
+    72,
+    77,
+    78,
+    81,
+    82,
+    83,
+    85,
+    87,
+    90,
+    92,
+    93,
+    95,
+    97,
+    98,
+    99,
+    101,
+    102,
+    103,
+    104,
+    105,
+    107,
+    108,
+    110,
+    111,
+    112,
+    115,
+    116,
+    117,
+    118,
+    119,
+    120,
+    126,
+    129,
+    131,
+    133,
+    136,
+    138,
+    140,
+    144,
+    145,
+    146,
+    147,
+    148,
+    150,
+    151,
+    155,
+    161,
+    162,
+    163,
+    164,
+    165,
+    167,
+    171,
+    178,
+    179,
+    186,
+    195,
+    198,
+    208
+   ],
+   "Leagues": [
+    {
+     "LeagueId": 1,
+     "NationId": 13
+    },
+    {
+     "LeagueId": 4,
+     "NationId": 7
+    },
+    {
+     "LeagueId": 7,
+     "NationId": 54
+    },
+    {
+     "LeagueId": 10,
+     "NationId": 34
+    },
+    {
+     "LeagueId": 13,
+     "NationId": 14
+    },
+    {
+     "LeagueId": 14,
+     "NationId": 14
+    },
+    {
+     "LeagueId": 16,
+     "NationId": 18
+    },
+    {
+     "LeagueId": 17,
+     "NationId": 18
+    },
+    {
+     "LeagueId": 19,
+     "NationId": 21
+    },
+    {
+     "LeagueId": 20,
+     "NationId": 21
+    },
+    {
+     "LeagueId": 31,
+     "NationId": 27
+    },
+    {
+     "LeagueId": 32,
+     "NationId": 27
+    },
+    {
+     "LeagueId": 41,
+     "NationId": 36
+    },
+    {
+     "LeagueId": 50,
+     "NationId": 42
+    },
+    {
+     "LeagueId": 53,
+     "NationId": 45
+    },
+    {
+     "LeagueId": 54,
+     "NationId": 45
+    },
+    {
+     "LeagueId": 56,
+     "NationId": 46
+    },
+    {
+     "LeagueId": 60,
+     "NationId": 14
+    },
+    {
+     "LeagueId": 61,
+     "NationId": 14
+    },
+    {
+     "LeagueId": 63,
+     "NationId": 22
+    },
+    {
+     "LeagueId": 65,
+     "NationId": 25
+    },
+    {
+     "LeagueId": 66,
+     "NationId": 37
+    },
+    {
+     "LeagueId": 68,
+     "NationId": 48
+    },
+    {
+     "LeagueId": 80,
+     "NationId": 4
+    },
+    {
+     "LeagueId": 83,
+     "NationId": 167
+    },
+    {
+     "LeagueId": 189,
+     "NationId": 47
+    },
+    {
+     "LeagueId": 190,
+     "NationId": 47
+    },
+    {
+     "LeagueId": 308,
+     "NationId": 38
+    },
+    {
+     "LeagueId": 319,
+     "NationId": 12
+    },
+    {
+     "LeagueId": 341,
+     "NationId": 83
+    },
+    {
+     "LeagueId": 347,
+     "NationId": 140
+    },
+    {
+     "LeagueId": 351,
+     "NationId": 195
+    },
+    {
+     "LeagueId": 353,
+     "NationId": 52
+    }
+   ],
+   "Teams": [
+    {
+     "TeamId": 1,
+     "LeagueId": 13
+    },
+    {
+     "TeamId": 2,
+     "LeagueId": 13
+    },
+    {
+     "TeamId": 3,
+     "LeagueId": 13
+    },
+    {
+     "TeamId": 4,
+     "LeagueId": 13,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 5,
+     "LeagueId": 13
+    },
+    {
+     "TeamId": 7,
+     "LeagueId": 13,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 8,
+     "LeagueId": 60
+    },
+    {
+     "TeamId": 9,
+     "LeagueId": 13,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 10,
+     "LeagueId": 13
+    },
+    {
+     "TeamId": 11,
+     "LeagueId": 13
+    },
+    {
+     "TeamId": 12,
+     "LeagueId": 14
+    },
+    {
+     "TeamId": 13,
+     "LeagueId": 14
+    },
+    {
+     "TeamId": 14,
+     "LeagueId": 14,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 15,
+     "LeagueId": 14
+    },
+    {
+     "TeamId": 17,
+     "LeagueId": 60
+    },
+    {
+     "TeamId": 18,
+     "LeagueId": 13,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 19,
+     "LeagueId": 13,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 21,
+     "LeagueId": 19
+    },
+    {
+     "TeamId": 22,
+     "LeagueId": 19
+    },
+    {
+     "TeamId": 23,
+     "LeagueId": 19
+    },
+    {
+     "TeamId": 25,
+     "LeagueId": 19
+    },
+    {
+     "TeamId": 27,
+     "LeagueId": 20
+    },
+    {
+     "TeamId": 28,
+     "LeagueId": 19
+    },
+    {
+     "TeamId": 29,
+     "LeagueId": 20
+    },
+    {
+     "TeamId": 31,
+     "LeagueId": 19
+    },
+    {
+     "TeamId": 32,
+     "LeagueId": 19
+    },
+    {
+     "TeamId": 33,
+     "LeagueId": 20
+    },
+    {
+     "TeamId": 34,
+     "LeagueId": 19
+    },
+    {
+     "TeamId": 36,
+     "LeagueId": 19
+    },
+    {
+     "TeamId": 38,
+     "LeagueId": 19
+    },
+    {
+     "TeamId": 39,
+     "LeagueId": 31
+    },
+    {
+     "TeamId": 44,
+     "LeagueId": 31
+    },
+    {
+     "TeamId": 45,
+     "LeagueId": 31
+    },
+    {
+     "TeamId": 46,
+     "LeagueId": 31
+    },
+    {
+     "TeamId": 47,
+     "LeagueId": 31,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 48,
+     "LeagueId": 31
+    },
+    {
+     "TeamId": 50,
+     "LeagueId": 31
+    },
+    {
+     "TeamId": 51,
+     "LeagueId": 32
+    },
+    {
+     "TeamId": 52,
+     "LeagueId": 31
+    },
+    {
+     "TeamId": 54,
+     "LeagueId": 32
+    },
+    {
+     "TeamId": 55,
+     "LeagueId": 31
+    },
+    {
+     "TeamId": 57,
+     "LeagueId": 16
+    },
+    {
+     "TeamId": 58,
+     "LeagueId": 17
+    },
+    {
+     "TeamId": 59,
+     "LeagueId": 16
+    },
+    {
+     "TeamId": 62,
+     "LeagueId": 17
+    },
+    {
+     "TeamId": 64,
+     "LeagueId": 16
+    },
+    {
+     "TeamId": 65,
+     "LeagueId": 16,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 66,
+     "LeagueId": 16
+    },
+    {
+     "TeamId": 68,
+     "LeagueId": 17
+    },
+    {
+     "TeamId": 69,
+     "LeagueId": 16
+    },
+    {
+     "TeamId": 70,
+     "LeagueId": 16
+    },
+    {
+     "TeamId": 71,
+     "LeagueId": 17
+    },
+    {
+     "TeamId": 72,
+     "LeagueId": 16
+    },
+    {
+     "TeamId": 73,
+     "LeagueId": 16
+    },
+    {
+     "TeamId": 74,
+     "LeagueId": 16
+    },
+    {
+     "TeamId": 76,
+     "LeagueId": 17
+    },
+    {
+     "TeamId": 77,
+     "LeagueId": 50
+    },
+    {
+     "TeamId": 78,
+     "LeagueId": 50
+    },
+    {
+     "TeamId": 79,
+     "LeagueId": 50
+    },
+    {
+     "TeamId": 80,
+     "LeagueId": 50
+    },
+    {
+     "TeamId": 81,
+     "LeagueId": 50
+    },
+    {
+     "TeamId": 82,
+     "LeagueId": 50
+    },
+    {
+     "TeamId": 83,
+     "LeagueId": 50,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 86,
+     "LeagueId": 50
+    },
+    {
+     "TeamId": 88,
+     "LeagueId": 13
+    },
+    {
+     "TeamId": 89,
+     "LeagueId": 60
+    },
+    {
+     "TeamId": 91,
+     "LeagueId": 14
+    },
+    {
+     "TeamId": 92,
+     "LeagueId": 61
+    },
+    {
+     "TeamId": 94,
+     "LeagueId": 14
+    },
+    {
+     "TeamId": 95,
+     "LeagueId": 14
+    },
+    {
+     "TeamId": 97,
+     "LeagueId": 60
+    },
+    {
+     "TeamId": 106,
+     "LeagueId": 13,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 109,
+     "LeagueId": 14
+    },
+    {
+     "TeamId": 110,
+     "LeagueId": 13,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 121,
+     "LeagueId": 61
+    },
+    {
+     "TeamId": 127,
+     "LeagueId": 61
+    },
+    {
+     "TeamId": 135,
+     "LeagueId": 61
+    },
+    {
+     "TeamId": 142,
+     "LeagueId": 14
+    },
+    {
+     "TeamId": 143,
+     "LeagueId": 60
+    },
+    {
+     "TeamId": 144,
+     "LeagueId": 13
+    },
+    {
+     "TeamId": 147,
+     "LeagueId": 61
+    },
+    {
+     "TeamId": 149,
+     "LeagueId": 61
+    },
+    {
+     "TeamId": 159,
+     "LeagueId": 20,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 160,
+     "LeagueId": 19
+    },
+    {
+     "TeamId": 162,
+     "LeagueId": 20
+    },
+    {
+     "TeamId": 165,
+     "LeagueId": 20
+    },
+    {
+     "TeamId": 166,
+     "LeagueId": 19
+    },
+    {
+     "TeamId": 169,
+     "LeagueId": 19
+    },
+    {
+     "TeamId": 171,
+     "LeagueId": 19
+    },
+    {
+     "TeamId": 175,
+     "LeagueId": 19
+    },
+    {
+     "TeamId": 181,
+     "LeagueId": 50
+    },
+    {
+     "TeamId": 184,
+     "LeagueId": 50
+    },
+    {
+     "TeamId": 189,
+     "LeagueId": 31
+    },
+    {
+     "TeamId": 190,
+     "LeagueId": 32
+    },
+    {
+     "TeamId": 191,
+     "LeagueId": 80
+    },
+    {
+     "TeamId": 192,
+     "LeagueId": 31
+    },
+    {
+     "TeamId": 203,
+     "LeagueId": 32
+    },
+    {
+     "TeamId": 209,
+     "LeagueId": 80,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 210,
+     "LeagueId": 17
+    },
+    {
+     "TeamId": 212,
+     "LeagueId": 17
+    },
+    {
+     "TeamId": 217,
+     "LeagueId": 16
+    },
+    {
+     "TeamId": 219,
+     "LeagueId": 16
+    },
+    {
+     "TeamId": 224,
+     "LeagueId": 17
+    },
+    {
+     "TeamId": 226,
+     "LeagueId": 16
+    },
+    {
+     "TeamId": 229,
+     "LeagueId": 4
+    },
+    {
+     "TeamId": 231,
+     "LeagueId": 4
+    },
+    {
+     "TeamId": 232,
+     "LeagueId": 4
+    },
+    {
+     "TeamId": 234,
+     "LeagueId": 308
+    },
+    {
+     "TeamId": 236,
+     "LeagueId": 308,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 237,
+     "LeagueId": 308
+    },
+    {
+     "TeamId": 240,
+     "LeagueId": 53,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 241,
+     "LeagueId": 53
+    },
+    {
+     "TeamId": 242,
+     "LeagueId": 53,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 243,
+     "LeagueId": 53,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 244,
+     "LeagueId": 53
+    },
+    {
+     "TeamId": 245,
+     "LeagueId": 10
+    },
+    {
+     "TeamId": 246,
+     "LeagueId": 10
+    },
+    {
+     "TeamId": 247,
+     "LeagueId": 10
+    },
+    {
+     "TeamId": 252,
+     "LeagueId": 80
+    },
+    {
+     "TeamId": 254,
+     "LeagueId": 80
+    },
+    {
+     "TeamId": 256,
+     "LeagueId": 80
+    },
+    {
+     "TeamId": 260,
+     "LeagueId": 53
+    },
+    {
+     "TeamId": 266,
+     "LeagueId": 319
+    },
+    {
+     "TeamId": 267,
+     "LeagueId": 319
+    },
+    {
+     "TeamId": 269,
+     "LeagueId": 1
+    },
+    {
+     "TeamId": 270,
+     "LeagueId": 1
+    },
+    {
+     "TeamId": 271,
+     "LeagueId": 1,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 272,
+     "LeagueId": 1,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 278,
+     "LeagueId": 63
+    },
+    {
+     "TeamId": 280,
+     "LeagueId": 63
+    },
+    {
+     "TeamId": 298,
+     "LeagueId": 41
+    },
+    {
+     "TeamId": 299,
+     "LeagueId": 41
+    },
+    {
+     "TeamId": 300,
+     "LeagueId": 41
+    },
+    {
+     "TeamId": 305,
+     "LeagueId": 65
+    },
+    {
+     "TeamId": 306,
+     "LeagueId": 65
+    },
+    {
+     "TeamId": 319,
+     "LeagueId": 56
+    },
+    {
+     "TeamId": 320,
+     "LeagueId": 56,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 321,
+     "LeagueId": 56,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 322,
+     "LeagueId": 189
+    },
+    {
+     "TeamId": 324,
+     "LeagueId": 190
+    },
+    {
+     "TeamId": 325,
+     "LeagueId": 68
+    },
+    {
+     "TeamId": 326,
+     "LeagueId": 68
+    },
+    {
+     "TeamId": 327,
+     "LeagueId": 68
+    },
+    {
+     "TeamId": 330,
+     "LeagueId": 319,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 346,
+     "LeagueId": 60
+    },
+    {
+     "TeamId": 347,
+     "LeagueId": 32
+    },
+    {
+     "TeamId": 357,
+     "LeagueId": 61
+    },
+    {
+     "TeamId": 373,
+     "LeagueId": 61
+    },
+    {
+     "TeamId": 378,
+     "LeagueId": 17
+    },
+    {
+     "TeamId": 382,
+     "LeagueId": 61
+    },
+    {
+     "TeamId": 383,
+     "LeagueId": 7
+    },
+    {
+     "TeamId": 393,
+     "LeagueId": 63
+    },
+    {
+     "TeamId": 417,
+     "LeagueId": 41
+    },
+    {
+     "TeamId": 418,
+     "LeagueId": 41
+    },
+    {
+     "TeamId": 422,
+     "LeagueId": 65,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 423,
+     "LeagueId": 65,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 432,
+     "LeagueId": 56,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 433,
+     "LeagueId": 56
+    },
+    {
+     "TeamId": 434,
+     "LeagueId": 189
+    },
+    {
+     "TeamId": 435,
+     "LeagueId": 189
+    },
+    {
+     "TeamId": 436,
+     "LeagueId": 68
+    },
+    {
+     "TeamId": 445,
+     "LeagueId": 65
+    },
+    {
+     "TeamId": 448,
+     "LeagueId": 53
+    },
+    {
+     "TeamId": 449,
+     "LeagueId": 54
+    },
+    {
+     "TeamId": 450,
+     "LeagueId": 54,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 452,
+     "LeagueId": 53,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 453,
+     "LeagueId": 53
+    },
+    {
+     "TeamId": 456,
+     "LeagueId": 53
+    },
+    {
+     "TeamId": 457,
+     "LeagueId": 54
+    },
+    {
+     "TeamId": 459,
+     "LeagueId": 53
+    },
+    {
+     "TeamId": 461,
+     "LeagueId": 53,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 462,
+     "LeagueId": 53
+    },
+    {
+     "TeamId": 468,
+     "LeagueId": 54
+    },
+    {
+     "TeamId": 472,
+     "LeagueId": 54
+    },
+    {
+     "TeamId": 477,
+     "LeagueId": 54
+    },
+    {
+     "TeamId": 479,
+     "LeagueId": 53
+    },
+    {
+     "TeamId": 480,
+     "LeagueId": 54
+    },
+    {
+     "TeamId": 481,
+     "LeagueId": 53,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 483,
+     "LeagueId": 53
+    },
+    {
+     "TeamId": 485,
+     "LeagueId": 19
+    },
+    {
+     "TeamId": 517,
+     "LeagueId": 7
+    },
+    {
+     "TeamId": 546,
+     "LeagueId": 4
+    },
+    {
+     "TeamId": 563,
+     "LeagueId": 65
+    },
+    {
+     "TeamId": 567,
+     "LeagueId": 7
+    },
+    {
+     "TeamId": 568,
+     "LeagueId": 7
+    },
+    {
+     "TeamId": 571,
+     "LeagueId": 54
+    },
+    {
+     "TeamId": 573,
+     "LeagueId": 53
+    },
+    {
+     "TeamId": 598,
+     "LeagueId": 7
+    },
+    {
+     "TeamId": 613,
+     "LeagueId": 17
+    },
+    {
+     "TeamId": 614,
+     "LeagueId": 17,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 650,
+     "LeagueId": 10
+    },
+    {
+     "TeamId": 665,
+     "LeagueId": 308,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 670,
+     "LeagueId": 4
+    },
+    {
+     "TeamId": 672,
+     "LeagueId": 4
+    },
+    {
+     "TeamId": 673,
+     "LeagueId": 4
+    },
+    {
+     "TeamId": 674,
+     "LeagueId": 4
+    },
+    {
+     "TeamId": 675,
+     "LeagueId": 4
+    },
+    {
+     "TeamId": 680,
+     "LeagueId": 4
+    },
+    {
+     "TeamId": 681,
+     "LeagueId": 4
+    },
+    {
+     "TeamId": 687,
+     "LeagueId": 39
+    },
+    {
+     "TeamId": 688,
+     "LeagueId": 39
+    },
+    {
+     "TeamId": 689,
+     "LeagueId": 39
+    },
+    {
+     "TeamId": 691,
+     "LeagueId": 39
+    },
+    {
+     "TeamId": 693,
+     "LeagueId": 39
+    },
+    {
+     "TeamId": 694,
+     "LeagueId": 39
+    },
+    {
+     "TeamId": 695,
+     "LeagueId": 39
+    },
+    {
+     "TeamId": 696,
+     "LeagueId": 39
+    },
+    {
+     "TeamId": 697,
+     "LeagueId": 39
+    },
+    {
+     "TeamId": 698,
+     "LeagueId": 39
+    },
+    {
+     "TeamId": 700,
+     "LeagueId": 56,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 703,
+     "LeagueId": 56,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 705,
+     "LeagueId": 56,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 706,
+     "LeagueId": 56,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 708,
+     "LeagueId": 56
+    },
+    {
+     "TeamId": 710,
+     "LeagueId": 56,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 711,
+     "LeagueId": 56,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 741,
+     "LeagueId": 68
+    },
+    {
+     "TeamId": 742,
+     "LeagueId": 68
+    },
+    {
+     "TeamId": 744,
+     "LeagueId": 308,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 780,
+     "LeagueId": 80
+    },
+    {
+     "TeamId": 813,
+     "LeagueId": 319
+    },
+    {
+     "TeamId": 819,
+     "LeagueId": 1,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 820,
+     "LeagueId": 1
+    },
+    {
+     "TeamId": 826,
+     "LeagueId": 1
+    },
+    {
+     "TeamId": 837,
+     "LeagueId": 65
+    },
+    {
+     "TeamId": 838,
+     "LeagueId": 65,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 873,
+     "LeagueId": 66,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 874,
+     "LeagueId": 66
+    },
+    {
+     "TeamId": 894,
+     "LeagueId": 189
+    },
+    {
+     "TeamId": 896,
+     "LeagueId": 189
+    },
+    {
+     "TeamId": 897,
+     "LeagueId": 189,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 898,
+     "LeagueId": 189
+    },
+    {
+     "TeamId": 900,
+     "LeagueId": 189
+    },
+    {
+     "TeamId": 917,
+     "LeagueId": 41
+    },
+    {
+     "TeamId": 918,
+     "LeagueId": 41
+    },
+    {
+     "TeamId": 919,
+     "LeagueId": 41
+    },
+    {
+     "TeamId": 920,
+     "LeagueId": 41
+    },
+    {
+     "TeamId": 922,
+     "LeagueId": 41
+    },
+    {
+     "TeamId": 980,
+     "LeagueId": 83
+    },
+    {
+     "TeamId": 981,
+     "LeagueId": 83
+    },
+    {
+     "TeamId": 982,
+     "LeagueId": 83
+    },
+    {
+     "TeamId": 983,
+     "LeagueId": 83
+    },
+    {
+     "TeamId": 1028,
+     "LeagueId": 341,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 1032,
+     "LeagueId": 341,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 1035,
+     "LeagueId": 7
+    },
+    {
+     "TeamId": 1039,
+     "LeagueId": 7
+    },
+    {
+     "TeamId": 1041,
+     "LeagueId": 7
+    },
+    {
+     "TeamId": 1043,
+     "LeagueId": 7
+    },
+    {
+     "TeamId": 1048,
+     "LeagueId": 7
+    },
+    {
+     "TeamId": 1053,
+     "LeagueId": 7
+    },
+    {
+     "TeamId": 1439,
+     "LeagueId": 56,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 1445,
+     "LeagueId": 1
+    },
+    {
+     "TeamId": 1447,
+     "LeagueId": 1
+    },
+    {
+     "TeamId": 1456,
+     "LeagueId": 41
+    },
+    {
+     "TeamId": 1457,
+     "LeagueId": 68
+    },
+    {
+     "TeamId": 1464,
+     "LeagueId": 41
+    },
+    {
+     "TeamId": 1473,
+     "LeagueId": 83
+    },
+    {
+     "TeamId": 1474,
+     "LeagueId": 83
+    },
+    {
+     "TeamId": 1475,
+     "LeagueId": 83
+    },
+    {
+     "TeamId": 1476,
+     "LeagueId": 83
+    },
+    {
+     "TeamId": 1477,
+     "LeagueId": 83
+    },
+    {
+     "TeamId": 1478,
+     "LeagueId": 83
+    },
+    {
+     "TeamId": 1480,
+     "LeagueId": 60
+    },
+    {
+     "TeamId": 1516,
+     "LeagueId": 1
+    },
+    {
+     "TeamId": 1524,
+     "LeagueId": 41
+    },
+    {
+     "TeamId": 1530,
+     "LeagueId": 17
+    },
+    {
+     "TeamId": 1564,
+     "LeagueId": 66
+    },
+    {
+     "TeamId": 1570,
+     "LeagueId": 66
+    },
+    {
+     "TeamId": 1571,
+     "LeagueId": 65
+    },
+    {
+     "TeamId": 1572,
+     "LeagueId": 65
+    },
+    {
+     "TeamId": 1629,
+     "LeagueId": 7
+    },
+    {
+     "TeamId": 1714,
+     "LeagueId": 189
+    },
+    {
+     "TeamId": 1719,
+     "LeagueId": 7
+    },
+    {
+     "TeamId": 1738,
+     "LeagueId": 17
+    },
+    {
+     "TeamId": 1739,
+     "LeagueId": 16
+    },
+    {
+     "TeamId": 1742,
+     "LeagueId": 53
+    },
+    {
+     "TeamId": 1744,
+     "LeagueId": 32
+    },
+    {
+     "TeamId": 1746,
+     "LeagueId": 32
+    },
+    {
+     "TeamId": 1750,
+     "LeagueId": 4
+    },
+    {
+     "TeamId": 1755,
+     "LeagueId": 41
+    },
+    {
+     "TeamId": 1757,
+     "LeagueId": 41
+    },
+    {
+     "TeamId": 1785,
+     "LeagueId": 80
+    },
+    {
+     "TeamId": 1786,
+     "LeagueId": 1
+    },
+    {
+     "TeamId": 1787,
+     "LeagueId": 80
+    },
+    {
+     "TeamId": 1788,
+     "LeagueId": 1
+    },
+    {
+     "TeamId": 1790,
+     "LeagueId": 13
+    },
+    {
+     "TeamId": 1792,
+     "LeagueId": 60
+    },
+    {
+     "TeamId": 1793,
+     "LeagueId": 14
+    },
+    {
+     "TeamId": 1794,
+     "LeagueId": 14
+    },
+    {
+     "TeamId": 1795,
+     "LeagueId": 14
+    },
+    {
+     "TeamId": 1796,
+     "LeagueId": 13
+    },
+    {
+     "TeamId": 1797,
+     "LeagueId": 61
+    },
+    {
+     "TeamId": 1798,
+     "LeagueId": 60
+    },
+    {
+     "TeamId": 1799,
+     "LeagueId": 14
+    },
+    {
+     "TeamId": 1800,
+     "LeagueId": 14
+    },
+    {
+     "TeamId": 1801,
+     "LeagueId": 14
+    },
+    {
+     "TeamId": 1802,
+     "LeagueId": 60
+    },
+    {
+     "TeamId": 1803,
+     "LeagueId": 60
+    },
+    {
+     "TeamId": 1804,
+     "LeagueId": 61
+    },
+    {
+     "TeamId": 1805,
+     "LeagueId": 16
+    },
+    {
+     "TeamId": 1806,
+     "LeagueId": 13
+    },
+    {
+     "TeamId": 1807,
+     "LeagueId": 14
+    },
+    {
+     "TeamId": 1808,
+     "LeagueId": 60
+    },
+    {
+     "TeamId": 1809,
+     "LeagueId": 16
+    },
+    {
+     "TeamId": 1814,
+     "LeagueId": 17
+    },
+    {
+     "TeamId": 1815,
+     "LeagueId": 17
+    },
+    {
+     "TeamId": 1819,
+     "LeagueId": 16
+    },
+    {
+     "TeamId": 1820,
+     "LeagueId": 17
+    },
+    {
+     "TeamId": 1823,
+     "LeagueId": 16
+    },
+    {
+     "TeamId": 1824,
+     "LeagueId": 19
+    },
+    {
+     "TeamId": 1825,
+     "LeagueId": 20
+    },
+    {
+     "TeamId": 1826,
+     "LeagueId": 20
+    },
+    {
+     "TeamId": 1828,
+     "LeagueId": 20
+    },
+    {
+     "TeamId": 1831,
+     "LeagueId": 20
+    },
+    {
+     "TeamId": 1832,
+     "LeagueId": 20
+    },
+    {
+     "TeamId": 1834,
+     "LeagueId": 20
+    },
+    {
+     "TeamId": 1837,
+     "LeagueId": 31
+    },
+    {
+     "TeamId": 1838,
+     "LeagueId": 31
+    },
+    {
+     "TeamId": 1839,
+     "LeagueId": 32,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 1840,
+     "LeagueId": 32
+    },
+    {
+     "TeamId": 1842,
+     "LeagueId": 31
+    },
+    {
+     "TeamId": 1843,
+     "LeagueId": 31
+    },
+    {
+     "TeamId": 1844,
+     "LeagueId": 31
+    },
+    {
+     "TeamId": 1846,
+     "LeagueId": 32
+    },
+    {
+     "TeamId": 1847,
+     "LeagueId": 32
+    },
+    {
+     "TeamId": 1848,
+     "LeagueId": 31
+    },
+    {
+     "TeamId": 1853,
+     "LeagueId": 54
+    },
+    {
+     "TeamId": 1854,
+     "LeagueId": 54
+    },
+    {
+     "TeamId": 1855,
+     "LeagueId": 54
+    },
+    {
+     "TeamId": 1856,
+     "LeagueId": 54
+    },
+    {
+     "TeamId": 1860,
+     "LeagueId": 53
+    },
+    {
+     "TeamId": 1861,
+     "LeagueId": 53
+    },
+    {
+     "TeamId": 1862,
+     "LeagueId": 190
+    },
+    {
+     "TeamId": 1867,
+     "LeagueId": 54
+    },
+    {
+     "TeamId": 1871,
+     "LeagueId": 66
+    },
+    {
+     "TeamId": 1873,
+     "LeagueId": 66,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 1876,
+     "LeagueId": 353
+    },
+    {
+     "TeamId": 1877,
+     "LeagueId": 353
+    },
+    {
+     "TeamId": 1878,
+     "LeagueId": 341
+    },
+    {
+     "TeamId": 1879,
+     "LeagueId": 341,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 1880,
+     "LeagueId": 341
+    },
+    {
+     "TeamId": 1881,
+     "LeagueId": 341
+    },
+    {
+     "TeamId": 1882,
+     "LeagueId": 341,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 1884,
+     "LeagueId": 63
+    },
+    {
+     "TeamId": 1887,
+     "LeagueId": 308
+    },
+    {
+     "TeamId": 1889,
+     "LeagueId": 308
+    },
+    {
+     "TeamId": 1891,
+     "LeagueId": 308,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 1892,
+     "LeagueId": 308,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 1893,
+     "LeagueId": 308,
+     "Kit": [
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 1895,
+     "LeagueId": 308
+    },
+    {
+     "TeamId": 1896,
+     "LeagueId": 308
+    },
+    {
+     "TeamId": 1901,
+     "LeagueId": 308
+    },
+    {
+     "TeamId": 1902,
+     "LeagueId": 10
+    },
+    {
+     "TeamId": 1903,
+     "LeagueId": 10
+    },
+    {
+     "TeamId": 1904,
+     "LeagueId": 10
+    },
+    {
+     "TeamId": 1905,
+     "LeagueId": 10
+    },
+    {
+     "TeamId": 1906,
+     "LeagueId": 10
+    },
+    {
+     "TeamId": 1907,
+     "LeagueId": 10
+    },
+    {
+     "TeamId": 1908,
+     "LeagueId": 10
+    },
+    {
+     "TeamId": 1909,
+     "LeagueId": 10
+    },
+    {
+     "TeamId": 1910,
+     "LeagueId": 10
+    },
+    {
+     "TeamId": 1913,
+     "LeagueId": 10
+    },
+    {
+     "TeamId": 1915,
+     "LeagueId": 10
+    },
+    {
+     "TeamId": 1917,
+     "LeagueId": 13,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 1919,
+     "LeagueId": 14,
+     "Kit": [
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 1920,
+     "LeagueId": 60
+    },
+    {
+     "TeamId": 1924,
+     "LeagueId": 61,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 1925,
+     "LeagueId": 60
+    },
+    {
+     "TeamId": 1926,
+     "LeagueId": 14
+    },
+    {
+     "TeamId": 1928,
+     "LeagueId": 61
+    },
+    {
+     "TeamId": 1929,
+     "LeagueId": 14
+    },
+    {
+     "TeamId": 1930,
+     "LeagueId": 61
+    },
+    {
+     "TeamId": 1931,
+     "LeagueId": 60
+    },
+    {
+     "TeamId": 1932,
+     "LeagueId": 14
+    },
+    {
+     "TeamId": 1933,
+     "LeagueId": 60
+    },
+    {
+     "TeamId": 1934,
+     "LeagueId": 60,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 1935,
+     "LeagueId": 60
+    },
+    {
+     "TeamId": 1936,
+     "LeagueId": 61
+    },
+    {
+     "TeamId": 1937,
+     "LeagueId": 61
+    },
+    {
+     "TeamId": 1938,
+     "LeagueId": 14
+    },
+    {
+     "TeamId": 1939,
+     "LeagueId": 60
+    },
+    {
+     "TeamId": 1941,
+     "LeagueId": 60
+    },
+    {
+     "TeamId": 1943,
+     "LeagueId": 61
+    },
+    {
+     "TeamId": 1945,
+     "LeagueId": 61
+    },
+    {
+     "TeamId": 1946,
+     "LeagueId": 61
+    },
+    {
+     "TeamId": 1949,
+     "LeagueId": 14
+    },
+    {
+     "TeamId": 1952,
+     "LeagueId": 13,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 1954,
+     "LeagueId": 60
+    },
+    {
+     "TeamId": 1955,
+     "LeagueId": 61
+    },
+    {
+     "TeamId": 1957,
+     "LeagueId": 61
+    },
+    {
+     "TeamId": 1958,
+     "LeagueId": 60,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 1959,
+     "LeagueId": 61
+    },
+    {
+     "TeamId": 1960,
+     "LeagueId": 14,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 1961,
+     "LeagueId": 14
+    },
+    {
+     "TeamId": 1962,
+     "LeagueId": 60,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 1968,
+     "LeagueId": 54
+    },
+    {
+     "TeamId": 1970,
+     "LeagueId": 341,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 2007,
+     "LeagueId": 4
+    },
+    {
+     "TeamId": 2041,
+     "LeagueId": 41
+    },
+    {
+     "TeamId": 2044,
+     "LeagueId": 32
+    },
+    {
+     "TeamId": 2055,
+     "LeagueId": 83
+    },
+    {
+     "TeamId": 2056,
+     "LeagueId": 83
+    },
+    {
+     "TeamId": 10018,
+     "LeagueId": 308
+    },
+    {
+     "TeamId": 10029,
+     "LeagueId": 19
+    },
+    {
+     "TeamId": 10030,
+     "LeagueId": 20
+    },
+    {
+     "TeamId": 15005,
+     "LeagueId": 4
+    },
+    {
+     "TeamId": 15011,
+     "LeagueId": 80
+    },
+    {
+     "TeamId": 15015,
+     "LeagueId": 61
+    },
+    {
+     "TeamId": 15019,
+     "LeagueId": 54
+    },
+    {
+     "TeamId": 15048,
+     "LeagueId": 60
+    },
+    {
+     "TeamId": 100081,
+     "LeagueId": 4
+    },
+    {
+     "TeamId": 100142,
+     "LeagueId": 319,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 100143,
+     "LeagueId": 319
+    },
+    {
+     "TeamId": 100145,
+     "LeagueId": 319,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 100149,
+     "LeagueId": 319
+    },
+    {
+     "TeamId": 100409,
+     "LeagueId": 20
+    },
+    {
+     "TeamId": 100634,
+     "LeagueId": 10
+    },
+    {
+     "TeamId": 100646,
+     "LeagueId": 10
+    },
+    {
+     "TeamId": 100651,
+     "LeagueId": 10
+    },
+    {
+     "TeamId": 100737,
+     "LeagueId": 308
+    },
+    {
+     "TeamId": 100804,
+     "LeagueId": 50
+    },
+    {
+     "TeamId": 100805,
+     "LeagueId": 50
+    },
+    {
+     "TeamId": 100851,
+     "LeagueId": 54
+    },
+    {
+     "TeamId": 100852,
+     "LeagueId": 54
+    },
+    {
+     "TeamId": 100879,
+     "LeagueId": 54
+    },
+    {
+     "TeamId": 100882,
+     "LeagueId": 54
+    },
+    {
+     "TeamId": 101007,
+     "LeagueId": 68
+    },
+    {
+     "TeamId": 101008,
+     "LeagueId": 68
+    },
+    {
+     "TeamId": 101014,
+     "LeagueId": 68
+    },
+    {
+     "TeamId": 101018,
+     "LeagueId": 68
+    },
+    {
+     "TeamId": 101020,
+     "LeagueId": 68
+    },
+    {
+     "TeamId": 101024,
+     "LeagueId": 68
+    },
+    {
+     "TeamId": 101025,
+     "LeagueId": 68
+    },
+    {
+     "TeamId": 101035,
+     "LeagueId": 68
+    },
+    {
+     "TeamId": 101041,
+     "LeagueId": 68
+    },
+    {
+     "TeamId": 101114,
+     "LeagueId": 341,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 101116,
+     "LeagueId": 341,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 110062,
+     "LeagueId": 54
+    },
+    {
+     "TeamId": 110144,
+     "LeagueId": 341,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 110147,
+     "LeagueId": 341
+    },
+    {
+     "TeamId": 110149,
+     "LeagueId": 341,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 110150,
+     "LeagueId": 341
+    },
+    {
+     "TeamId": 110151,
+     "LeagueId": 341
+    },
+    {
+     "TeamId": 110152,
+     "LeagueId": 341,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 110313,
+     "LeagueId": 61
+    },
+    {
+     "TeamId": 110326,
+     "LeagueId": 17
+    },
+    {
+     "TeamId": 110329,
+     "LeagueId": 20
+    },
+    {
+     "TeamId": 110364,
+     "LeagueId": 31
+    },
+    {
+     "TeamId": 110373,
+     "LeagueId": 32
+    },
+    {
+     "TeamId": 110374,
+     "LeagueId": 31
+    },
+    {
+     "TeamId": 110456,
+     "LeagueId": 16,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 110464,
+     "LeagueId": 319,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 110467,
+     "LeagueId": 319
+    },
+    {
+     "TeamId": 110468,
+     "LeagueId": 319,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 110471,
+     "LeagueId": 319
+    },
+    {
+     "TeamId": 110472,
+     "LeagueId": 319,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 110526,
+     "LeagueId": 20
+    },
+    {
+     "TeamId": 110556,
+     "LeagueId": 31
+    },
+    {
+     "TeamId": 110569,
+     "LeagueId": 17
+    },
+    {
+     "TeamId": 110596,
+     "LeagueId": 20
+    },
+    {
+     "TeamId": 110636,
+     "LeagueId": 20
+    },
+    {
+     "TeamId": 110724,
+     "LeagueId": 4
+    },
+    {
+     "TeamId": 110734,
+     "LeagueId": 32
+    },
+    {
+     "TeamId": 110744,
+     "LeagueId": 66
+    },
+    {
+     "TeamId": 110745,
+     "LeagueId": 66
+    },
+    {
+     "TeamId": 110747,
+     "LeagueId": 66
+    },
+    {
+     "TeamId": 110749,
+     "LeagueId": 66
+    },
+    {
+     "TeamId": 110765,
+     "LeagueId": 83
+    },
+    {
+     "TeamId": 110770,
+     "LeagueId": 189,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 110780,
+     "LeagueId": 341
+    },
+    {
+     "TeamId": 110839,
+     "LeagueId": 54
+    },
+    {
+     "TeamId": 110902,
+     "LeagueId": 54
+    },
+    {
+     "TeamId": 110912,
+     "LeagueId": 32
+    },
+    {
+     "TeamId": 110915,
+     "LeagueId": 32
+    },
+    {
+     "TeamId": 110929,
+     "LeagueId": 347
+    },
+    {
+     "TeamId": 110930,
+     "LeagueId": 347
+    },
+    {
+     "TeamId": 111042,
+     "LeagueId": 7
+    },
+    {
+     "TeamId": 111044,
+     "LeagueId": 7
+    },
+    {
+     "TeamId": 111050,
+     "LeagueId": 7
+    },
+    {
+     "TeamId": 111057,
+     "LeagueId": 7
+    },
+    {
+     "TeamId": 111065,
+     "LeagueId": 39
+    },
+    {
+     "TeamId": 111070,
+     "LeagueId": 39
+    },
+    {
+     "TeamId": 111082,
+     "LeagueId": 66
+    },
+    {
+     "TeamId": 111083,
+     "LeagueId": 66
+    },
+    {
+     "TeamId": 111086,
+     "LeagueId": 66
+    },
+    {
+     "TeamId": 111091,
+     "LeagueId": 66
+    },
+    {
+     "TeamId": 111092,
+     "LeagueId": 66
+    },
+    {
+     "TeamId": 111144,
+     "LeagueId": 39
+    },
+    {
+     "TeamId": 111277,
+     "LeagueId": 56,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 111293,
+     "LeagueId": 7
+    },
+    {
+     "TeamId": 111339,
+     "LeagueId": 68
+    },
+    {
+     "TeamId": 111373,
+     "LeagueId": 80
+    },
+    {
+     "TeamId": 111376,
+     "LeagueId": 16
+    },
+    {
+     "TeamId": 111377,
+     "LeagueId": 17
+    },
+    {
+     "TeamId": 111393,
+     "LeagueId": 351
+    },
+    {
+     "TeamId": 111395,
+     "LeagueId": 351
+    },
+    {
+     "TeamId": 111396,
+     "LeagueId": 351
+    },
+    {
+     "TeamId": 111397,
+     "LeagueId": 351,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 111398,
+     "LeagueId": 351
+    },
+    {
+     "TeamId": 111399,
+     "LeagueId": 351
+    },
+    {
+     "TeamId": 111400,
+     "LeagueId": 351
+    },
+    {
+     "TeamId": 111429,
+     "LeagueId": 66
+    },
+    {
+     "TeamId": 111433,
+     "LeagueId": 32
+    },
+    {
+     "TeamId": 111491,
+     "LeagueId": 32
+    },
+    {
+     "TeamId": 111540,
+     "LeagueId": 308
+    },
+    {
+     "TeamId": 111588,
+     "LeagueId": 83
+    },
+    {
+     "TeamId": 111594,
+     "LeagueId": 56,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 111651,
+     "LeagueId": 39
+    },
+    {
+     "TeamId": 111657,
+     "LeagueId": 32
+    },
+    {
+     "TeamId": 111666,
+     "LeagueId": 341,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 111705,
+     "LeagueId": 56,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 111720,
+     "LeagueId": 319
+    },
+    {
+     "TeamId": 111766,
+     "LeagueId": 351
+    },
+    {
+     "TeamId": 111812,
+     "LeagueId": 319,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 111928,
+     "LeagueId": 39
+    },
+    {
+     "TeamId": 111974,
+     "LeagueId": 32
+    },
+    {
+     "TeamId": 111976,
+     "LeagueId": 7
+    },
+    {
+     "TeamId": 111985,
+     "LeagueId": 319
+    },
+    {
+     "TeamId": 111988,
+     "LeagueId": 68
+    },
+    {
+     "TeamId": 111989,
+     "LeagueId": 17
+    },
+    {
+     "TeamId": 111993,
+     "LeagueId": 32
+    },
+    {
+     "TeamId": 112077,
+     "LeagueId": 7
+    },
+    {
+     "TeamId": 112078,
+     "LeagueId": 351
+    },
+    {
+     "TeamId": 112079,
+     "LeagueId": 351
+    },
+    {
+     "TeamId": 112107,
+     "LeagueId": 32
+    },
+    {
+     "TeamId": 112115,
+     "LeagueId": 83
+    }
+   ]
+  },
+  {
+   "Year": "2011",
+   "Nations": [
+    1,
+    2,
+    4,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    63,
+    66,
+    68,
+    70,
+    72,
+    73,
+    76,
+    77,
+    78,
+    80,
+    81,
+    82,
+    83,
+    85,
+    87,
+    88,
+    89,
+    90,
+    92,
+    93,
+    95,
+    97,
+    98,
+    99,
+    101,
+    102,
+    103,
+    104,
+    105,
+    107,
+    108,
+    110,
+    111,
+    112,
+    115,
+    116,
+    117,
+    118,
+    119,
+    120,
+    122,
+    126,
+    129,
+    130,
+    131,
+    133,
+    134,
+    136,
+    138,
+    139,
+    140,
+    143,
+    144,
+    145,
+    146,
+    147,
+    148,
+    149,
+    155,
+    161,
+    163,
+    165,
+    167,
+    171,
+    178,
+    179,
+    181,
+    186,
+    191,
+    195,
+    198,
+    208,
+    213
+   ],
+   "Leagues": [
+    {
+     "LeagueId": 1,
+     "NationId": 13
+    },
+    {
+     "LeagueId": 4,
+     "NationId": 7
+    },
+    {
+     "LeagueId": 7,
+     "NationId": 54
+    },
+    {
+     "LeagueId": 10,
+     "NationId": 34
+    },
+    {
+     "LeagueId": 13,
+     "NationId": 14
+    },
+    {
+     "LeagueId": 14,
+     "NationId": 14
+    },
+    {
+     "LeagueId": 16,
+     "NationId": 18
+    },
+    {
+     "LeagueId": 17,
+     "NationId": 18
+    },
+    {
+     "LeagueId": 19,
+     "NationId": 21
+    },
+    {
+     "LeagueId": 20,
+     "NationId": 21
+    },
+    {
+     "LeagueId": 31,
+     "NationId": 27
+    },
+    {
+     "LeagueId": 32,
+     "NationId": 27
+    },
+    {
+     "LeagueId": 39,
+     "NationId": 95
+    },
+    {
+     "LeagueId": 41,
+     "NationId": 36
+    },
+    {
+     "LeagueId": 50,
+     "NationId": 42
+    },
+    {
+     "LeagueId": 53,
+     "NationId": 45
+    },
+    {
+     "LeagueId": 54,
+     "NationId": 45
+    },
+    {
+     "LeagueId": 56,
+     "NationId": 46
+    },
+    {
+     "LeagueId": 60,
+     "NationId": 14
+    },
+    {
+     "LeagueId": 61,
+     "NationId": 14
+    },
+    {
+     "LeagueId": 63,
+     "NationId": 22
+    },
+    {
+     "LeagueId": 65,
+     "NationId": 25
+    },
+    {
+     "LeagueId": 66,
+     "NationId": 37
+    },
+    {
+     "LeagueId": 67,
+     "NationId": 40
+    },
+    {
+     "LeagueId": 68,
+     "NationId": 48
+    },
+    {
+     "LeagueId": 76,
+     "NationId": 211
+    },
+    {
+     "LeagueId": 80,
+     "NationId": 4
+    },
+    {
+     "LeagueId": 83,
+     "NationId": 167
+    },
+    {
+     "LeagueId": 189,
+     "NationId": 47
+    },
+    {
+     "LeagueId": 308,
+     "NationId": 38
+    },
+    {
+     "LeagueId": 319,
+     "NationId": 12
+    },
+    {
+     "LeagueId": 341,
+     "NationId": 83
+    },
+    {
+     "LeagueId": 347,
+     "NationId": 140
+    },
+    {
+     "LeagueId": 351,
+     "NationId": 195
+    },
+    {
+     "LeagueId": 353,
+     "NationId": 52
+    }
+   ],
+   "Teams": [
+    {
+     "TeamId": 1,
+     "LeagueId": 13
+    },
+    {
+     "TeamId": 2,
+     "LeagueId": 13
+    },
+    {
+     "TeamId": 3,
+     "LeagueId": 13
+    },
+    {
+     "TeamId": 4,
+     "LeagueId": 13,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 5,
+     "LeagueId": 13
+    },
+    {
+     "TeamId": 7,
+     "LeagueId": 13,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 8,
+     "LeagueId": 14
+    },
+    {
+     "TeamId": 9,
+     "LeagueId": 13
+    },
+    {
+     "TeamId": 10,
+     "LeagueId": 13
+    },
+    {
+     "TeamId": 11,
+     "LeagueId": 13
+    },
+    {
+     "TeamId": 12,
+     "LeagueId": 14
+    },
+    {
+     "TeamId": 13,
+     "LeagueId": 13
+    },
+    {
+     "TeamId": 14,
+     "LeagueId": 14,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 15,
+     "LeagueId": 14
+    },
+    {
+     "TeamId": 17,
+     "LeagueId": 60
+    },
+    {
+     "TeamId": 18,
+     "LeagueId": 13
+    },
+    {
+     "TeamId": 19,
+     "LeagueId": 13,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 21,
+     "LeagueId": 19
+    },
+    {
+     "TeamId": 22,
+     "LeagueId": 19
+    },
+    {
+     "TeamId": 23,
+     "LeagueId": 19
+    },
+    {
+     "TeamId": 25,
+     "LeagueId": 19
+    },
+    {
+     "TeamId": 28,
+     "LeagueId": 19
+    },
+    {
+     "TeamId": 29,
+     "LeagueId": 19
+    },
+    {
+     "TeamId": 31,
+     "LeagueId": 19
+    },
+    {
+     "TeamId": 32,
+     "LeagueId": 19
+    },
+    {
+     "TeamId": 33,
+     "LeagueId": 20
+    },
+    {
+     "TeamId": 34,
+     "LeagueId": 19
+    },
+    {
+     "TeamId": 36,
+     "LeagueId": 19
+    },
+    {
+     "TeamId": 38,
+     "LeagueId": 19
+    },
+    {
+     "TeamId": 39,
+     "LeagueId": 32
+    },
+    {
+     "TeamId": 44,
+     "LeagueId": 31
+    },
+    {
+     "TeamId": 45,
+     "LeagueId": 31,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 46,
+     "LeagueId": 31
+    },
+    {
+     "TeamId": 47,
+     "LeagueId": 31
+    },
+    {
+     "TeamId": 48,
+     "LeagueId": 31
+    },
+    {
+     "TeamId": 50,
+     "LeagueId": 31
+    },
+    {
+     "TeamId": 51,
+     "LeagueId": 32
+    },
+    {
+     "TeamId": 52,
+     "LeagueId": 31
+    },
+    {
+     "TeamId": 54,
+     "LeagueId": 32
+    },
+    {
+     "TeamId": 55,
+     "LeagueId": 31
+    },
+    {
+     "TeamId": 57,
+     "LeagueId": 16
+    },
+    {
+     "TeamId": 59,
+     "LeagueId": 16
+    },
+    {
+     "TeamId": 64,
+     "LeagueId": 16,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 65,
+     "LeagueId": 16,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 66,
+     "LeagueId": 16,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 68,
+     "LeagueId": 17
+    },
+    {
+     "TeamId": 69,
+     "LeagueId": 16
+    },
+    {
+     "TeamId": 70,
+     "LeagueId": 16,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 71,
+     "LeagueId": 17
+    },
+    {
+     "TeamId": 72,
+     "LeagueId": 16
+    },
+    {
+     "TeamId": 73,
+     "LeagueId": 16,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 74,
+     "LeagueId": 16
+    },
+    {
+     "TeamId": 77,
+     "LeagueId": 50
+    },
+    {
+     "TeamId": 78,
+     "LeagueId": 50
+    },
+    {
+     "TeamId": 80,
+     "LeagueId": 50
+    },
+    {
+     "TeamId": 81,
+     "LeagueId": 50
+    },
+    {
+     "TeamId": 82,
+     "LeagueId": 50
+    },
+    {
+     "TeamId": 83,
+     "LeagueId": 50
+    },
+    {
+     "TeamId": 86,
+     "LeagueId": 50
+    },
+    {
+     "TeamId": 88,
+     "LeagueId": 13
+    },
+    {
+     "TeamId": 89,
+     "LeagueId": 60
+    },
+    {
+     "TeamId": 91,
+     "LeagueId": 14
+    },
+    {
+     "TeamId": 94,
+     "LeagueId": 14
+    },
+    {
+     "TeamId": 95,
+     "LeagueId": 14
+    },
+    {
+     "TeamId": 97,
+     "LeagueId": 14,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 106,
+     "LeagueId": 13,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 109,
+     "LeagueId": 13
+    },
+    {
+     "TeamId": 110,
+     "LeagueId": 13,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 121,
+     "LeagueId": 61
+    },
+    {
+     "TeamId": 127,
+     "LeagueId": 61
+    },
+    {
+     "TeamId": 135,
+     "LeagueId": 61
+    },
+    {
+     "TeamId": 142,
+     "LeagueId": 14
+    },
+    {
+     "TeamId": 143,
+     "LeagueId": 60
+    },
+    {
+     "TeamId": 144,
+     "LeagueId": 13
+    },
+    {
+     "TeamId": 147,
+     "LeagueId": 61
+    },
+    {
+     "TeamId": 149,
+     "LeagueId": 61
+    },
+    {
+     "TeamId": 159,
+     "LeagueId": 20
+    },
+    {
+     "TeamId": 160,
+     "LeagueId": 20
+    },
+    {
+     "TeamId": 162,
+     "LeagueId": 20
+    },
+    {
+     "TeamId": 165,
+     "LeagueId": 20
+    },
+    {
+     "TeamId": 166,
+     "LeagueId": 20
+    },
+    {
+     "TeamId": 169,
+     "LeagueId": 19
+    },
+    {
+     "TeamId": 171,
+     "LeagueId": 19
+    },
+    {
+     "TeamId": 175,
+     "LeagueId": 19
+    },
+    {
+     "TeamId": 181,
+     "LeagueId": 50
+    },
+    {
+     "TeamId": 184,
+     "LeagueId": 50
+    },
+    {
+     "TeamId": 189,
+     "LeagueId": 31
+    },
+    {
+     "TeamId": 190,
+     "LeagueId": 31
+    },
+    {
+     "TeamId": 191,
+     "LeagueId": 80
+    },
+    {
+     "TeamId": 192,
+     "LeagueId": 31
+    },
+    {
+     "TeamId": 200,
+     "LeagueId": 32
+    },
+    {
+     "TeamId": 203,
+     "LeagueId": 32
+    },
+    {
+     "TeamId": 209,
+     "LeagueId": 80,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 210,
+     "LeagueId": 16
+    },
+    {
+     "TeamId": 212,
+     "LeagueId": 17
+    },
+    {
+     "TeamId": 217,
+     "LeagueId": 16
+    },
+    {
+     "TeamId": 219,
+     "LeagueId": 16,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 224,
+     "LeagueId": 17
+    },
+    {
+     "TeamId": 226,
+     "LeagueId": 16
+    },
+    {
+     "TeamId": 229,
+     "LeagueId": 4
+    },
+    {
+     "TeamId": 231,
+     "LeagueId": 4
+    },
+    {
+     "TeamId": 232,
+     "LeagueId": 4
+    },
+    {
+     "TeamId": 234,
+     "LeagueId": 308,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 236,
+     "LeagueId": 308,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 237,
+     "LeagueId": 308,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 239,
+     "LeagueId": 4
+    },
+    {
+     "TeamId": 240,
+     "LeagueId": 53,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 241,
+     "LeagueId": 53
+    },
+    {
+     "TeamId": 242,
+     "LeagueId": 53,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 243,
+     "LeagueId": 53,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 244,
+     "LeagueId": 53
+    },
+    {
+     "TeamId": 245,
+     "LeagueId": 10
+    },
+    {
+     "TeamId": 246,
+     "LeagueId": 10
+    },
+    {
+     "TeamId": 247,
+     "LeagueId": 10
+    },
+    {
+     "TeamId": 252,
+     "LeagueId": 80
+    },
+    {
+     "TeamId": 254,
+     "LeagueId": 80,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 256,
+     "LeagueId": 80
+    },
+    {
+     "TeamId": 260,
+     "LeagueId": 54
+    },
+    {
+     "TeamId": 266,
+     "LeagueId": 319,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 267,
+     "LeagueId": 319
+    },
+    {
+     "TeamId": 269,
+     "LeagueId": 1
+    },
+    {
+     "TeamId": 270,
+     "LeagueId": 1
+    },
+    {
+     "TeamId": 272,
+     "LeagueId": 1,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 278,
+     "LeagueId": 63
+    },
+    {
+     "TeamId": 280,
+     "LeagueId": 63
+    },
+    {
+     "TeamId": 294,
+     "LeagueId": 17
+    },
+    {
+     "TeamId": 298,
+     "LeagueId": 41
+    },
+    {
+     "TeamId": 299,
+     "LeagueId": 41
+    },
+    {
+     "TeamId": 300,
+     "LeagueId": 41
+    },
+    {
+     "TeamId": 301,
+     "LeagueId": 66,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 305,
+     "LeagueId": 65
+    },
+    {
+     "TeamId": 306,
+     "LeagueId": 65
+    },
+    {
+     "TeamId": 312,
+     "LeagueId": 67
+    },
+    {
+     "TeamId": 315,
+     "LeagueId": 67
+    },
+    {
+     "TeamId": 319,
+     "LeagueId": 56
+    },
+    {
+     "TeamId": 320,
+     "LeagueId": 56
+    },
+    {
+     "TeamId": 321,
+     "LeagueId": 56
+    },
+    {
+     "TeamId": 322,
+     "LeagueId": 189
+    },
+    {
+     "TeamId": 325,
+     "LeagueId": 68
+    },
+    {
+     "TeamId": 326,
+     "LeagueId": 68
+    },
+    {
+     "TeamId": 327,
+     "LeagueId": 68
+    },
+    {
+     "TeamId": 330,
+     "LeagueId": 319,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 346,
+     "LeagueId": 60
+    },
+    {
+     "TeamId": 347,
+     "LeagueId": 31,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 357,
+     "LeagueId": 61
+    },
+    {
+     "TeamId": 361,
+     "LeagueId": 61
+    },
+    {
+     "TeamId": 373,
+     "LeagueId": 60
+    },
+    {
+     "TeamId": 378,
+     "LeagueId": 16
+    },
+    {
+     "TeamId": 379,
+     "LeagueId": 17
+    },
+    {
+     "TeamId": 382,
+     "LeagueId": 61
+    },
+    {
+     "TeamId": 383,
+     "LeagueId": 7
+    },
+    {
+     "TeamId": 393,
+     "LeagueId": 63
+    },
+    {
+     "TeamId": 417,
+     "LeagueId": 41
+    },
+    {
+     "TeamId": 418,
+     "LeagueId": 41
+    },
+    {
+     "TeamId": 420,
+     "LeagueId": 66
+    },
+    {
+     "TeamId": 423,
+     "LeagueId": 65
+    },
+    {
+     "TeamId": 432,
+     "LeagueId": 56
+    },
+    {
+     "TeamId": 433,
+     "LeagueId": 56
+    },
+    {
+     "TeamId": 435,
+     "LeagueId": 189
+    },
+    {
+     "TeamId": 436,
+     "LeagueId": 68
+    },
+    {
+     "TeamId": 448,
+     "LeagueId": 53
+    },
+    {
+     "TeamId": 449,
+     "LeagueId": 54
+    },
+    {
+     "TeamId": 450,
+     "LeagueId": 54,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 452,
+     "LeagueId": 53,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 453,
+     "LeagueId": 53,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 456,
+     "LeagueId": 53
+    },
+    {
+     "TeamId": 457,
+     "LeagueId": 53
+    },
+    {
+     "TeamId": 459,
+     "LeagueId": 53
+    },
+    {
+     "TeamId": 461,
+     "LeagueId": 53,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 462,
+     "LeagueId": 54
+    },
+    {
+     "TeamId": 468,
+     "LeagueId": 54
+    },
+    {
+     "TeamId": 472,
+     "LeagueId": 54
+    },
+    {
+     "TeamId": 477,
+     "LeagueId": 54
+    },
+    {
+     "TeamId": 479,
+     "LeagueId": 53
+    },
+    {
+     "TeamId": 480,
+     "LeagueId": 54
+    },
+    {
+     "TeamId": 481,
+     "LeagueId": 53,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 483,
+     "LeagueId": 53
+    },
+    {
+     "TeamId": 485,
+     "LeagueId": 19
+    },
+    {
+     "TeamId": 487,
+     "LeagueId": 20
+    },
+    {
+     "TeamId": 506,
+     "LeagueId": 20
+    },
+    {
+     "TeamId": 517,
+     "LeagueId": 7
+    },
+    {
+     "TeamId": 563,
+     "LeagueId": 65
+    },
+    {
+     "TeamId": 567,
+     "LeagueId": 7
+    },
+    {
+     "TeamId": 568,
+     "LeagueId": 7
+    },
+    {
+     "TeamId": 569,
+     "LeagueId": 7
+    },
+    {
+     "TeamId": 571,
+     "LeagueId": 54
+    },
+    {
+     "TeamId": 573,
+     "LeagueId": 53,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 598,
+     "LeagueId": 7
+    },
+    {
+     "TeamId": 613,
+     "LeagueId": 17
+    },
+    {
+     "TeamId": 614,
+     "LeagueId": 17
+    },
+    {
+     "TeamId": 620,
+     "LeagueId": 50
+    },
+    {
+     "TeamId": 635,
+     "LeagueId": 10
+    },
+    {
+     "TeamId": 650,
+     "LeagueId": 10
+    },
+    {
+     "TeamId": 665,
+     "LeagueId": 308,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 670,
+     "LeagueId": 4
+    },
+    {
+     "TeamId": 673,
+     "LeagueId": 4
+    },
+    {
+     "TeamId": 674,
+     "LeagueId": 4
+    },
+    {
+     "TeamId": 675,
+     "LeagueId": 4
+    },
+    {
+     "TeamId": 680,
+     "LeagueId": 4
+    },
+    {
+     "TeamId": 681,
+     "LeagueId": 4
+    },
+    {
+     "TeamId": 687,
+     "LeagueId": 39
+    },
+    {
+     "TeamId": 688,
+     "LeagueId": 39
+    },
+    {
+     "TeamId": 689,
+     "LeagueId": 39
+    },
+    {
+     "TeamId": 691,
+     "LeagueId": 39
+    },
+    {
+     "TeamId": 693,
+     "LeagueId": 39
+    },
+    {
+     "TeamId": 694,
+     "LeagueId": 39
+    },
+    {
+     "TeamId": 695,
+     "LeagueId": 39
+    },
+    {
+     "TeamId": 696,
+     "LeagueId": 39
+    },
+    {
+     "TeamId": 697,
+     "LeagueId": 39
+    },
+    {
+     "TeamId": 698,
+     "LeagueId": 39
+    },
+    {
+     "TeamId": 700,
+     "LeagueId": 56
+    },
+    {
+     "TeamId": 703,
+     "LeagueId": 56
+    },
+    {
+     "TeamId": 705,
+     "LeagueId": 56
+    },
+    {
+     "TeamId": 710,
+     "LeagueId": 56
+    },
+    {
+     "TeamId": 711,
+     "LeagueId": 56
+    },
+    {
+     "TeamId": 741,
+     "LeagueId": 68
+    },
+    {
+     "TeamId": 742,
+     "LeagueId": 68
+    },
+    {
+     "TeamId": 744,
+     "LeagueId": 308,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 780,
+     "LeagueId": 80
+    },
+    {
+     "TeamId": 813,
+     "LeagueId": 319,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 819,
+     "LeagueId": 1,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 820,
+     "LeagueId": 1
+    },
+    {
+     "TeamId": 837,
+     "LeagueId": 65
+    },
+    {
+     "TeamId": 838,
+     "LeagueId": 65
+    },
+    {
+     "TeamId": 873,
+     "LeagueId": 66
+    },
+    {
+     "TeamId": 874,
+     "LeagueId": 66
+    },
+    {
+     "TeamId": 894,
+     "LeagueId": 189
+    },
+    {
+     "TeamId": 896,
+     "LeagueId": 189
+    },
+    {
+     "TeamId": 897,
+     "LeagueId": 189,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 898,
+     "LeagueId": 189,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 900,
+     "LeagueId": 189
+    },
+    {
+     "TeamId": 917,
+     "LeagueId": 41
+    },
+    {
+     "TeamId": 919,
+     "LeagueId": 41
+    },
+    {
+     "TeamId": 920,
+     "LeagueId": 41
+    },
+    {
+     "TeamId": 922,
+     "LeagueId": 41
+    },
+    {
+     "TeamId": 980,
+     "LeagueId": 83
+    },
+    {
+     "TeamId": 981,
+     "LeagueId": 83
+    },
+    {
+     "TeamId": 982,
+     "LeagueId": 83
+    },
+    {
+     "TeamId": 983,
+     "LeagueId": 83
+    },
+    {
+     "TeamId": 1028,
+     "LeagueId": 341,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 1032,
+     "LeagueId": 341,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 1035,
+     "LeagueId": 7
+    },
+    {
+     "TeamId": 1039,
+     "LeagueId": 7
+    },
+    {
+     "TeamId": 1041,
+     "LeagueId": 7
+    },
+    {
+     "TeamId": 1043,
+     "LeagueId": 7
+    },
+    {
+     "TeamId": 1048,
+     "LeagueId": 7
+    },
+    {
+     "TeamId": 1053,
+     "LeagueId": 7
+    },
+    {
+     "TeamId": 1439,
+     "LeagueId": 56
+    },
+    {
+     "TeamId": 1445,
+     "LeagueId": 1
+    },
+    {
+     "TeamId": 1446,
+     "LeagueId": 1
+    },
+    {
+     "TeamId": 1447,
+     "LeagueId": 1
+    },
+    {
+     "TeamId": 1454,
+     "LeagueId": 41
+    },
+    {
+     "TeamId": 1456,
+     "LeagueId": 41
+    },
+    {
+     "TeamId": 1463,
+     "LeagueId": 41
+    },
+    {
+     "TeamId": 1473,
+     "LeagueId": 83
+    },
+    {
+     "TeamId": 1474,
+     "LeagueId": 83
+    },
+    {
+     "TeamId": 1475,
+     "LeagueId": 83
+    },
+    {
+     "TeamId": 1476,
+     "LeagueId": 83
+    },
+    {
+     "TeamId": 1477,
+     "LeagueId": 83
+    },
+    {
+     "TeamId": 1478,
+     "LeagueId": 83
+    },
+    {
+     "TeamId": 1480,
+     "LeagueId": 60
+    },
+    {
+     "TeamId": 1516,
+     "LeagueId": 1
+    },
+    {
+     "TeamId": 1524,
+     "LeagueId": 41
+    },
+    {
+     "TeamId": 1530,
+     "LeagueId": 17
+    },
+    {
+     "TeamId": 1570,
+     "LeagueId": 66
+    },
+    {
+     "TeamId": 1571,
+     "LeagueId": 65
+    },
+    {
+     "TeamId": 1572,
+     "LeagueId": 65
+    },
+    {
+     "TeamId": 1629,
+     "LeagueId": 7
+    },
+    {
+     "TeamId": 1714,
+     "LeagueId": 189
+    },
+    {
+     "TeamId": 1715,
+     "LeagueId": 189
+    },
+    {
+     "TeamId": 1719,
+     "LeagueId": 7
+    },
+    {
+     "TeamId": 1738,
+     "LeagueId": 17
+    },
+    {
+     "TeamId": 1739,
+     "LeagueId": 17
+    },
+    {
+     "TeamId": 1742,
+     "LeagueId": 54
+    },
+    {
+     "TeamId": 1744,
+     "LeagueId": 32
+    },
+    {
+     "TeamId": 1746,
+     "LeagueId": 32
+    },
+    {
+     "TeamId": 1750,
+     "LeagueId": 4
+    },
+    {
+     "TeamId": 1755,
+     "LeagueId": 41
+    },
+    {
+     "TeamId": 1757,
+     "LeagueId": 41
+    },
+    {
+     "TeamId": 1785,
+     "LeagueId": 80
+    },
+    {
+     "TeamId": 1786,
+     "LeagueId": 1
+    },
+    {
+     "TeamId": 1788,
+     "LeagueId": 1
+    },
+    {
+     "TeamId": 1790,
+     "LeagueId": 14
+    },
+    {
+     "TeamId": 1792,
+     "LeagueId": 14
+    },
+    {
+     "TeamId": 1793,
+     "LeagueId": 14
+    },
+    {
+     "TeamId": 1794,
+     "LeagueId": 14
+    },
+    {
+     "TeamId": 1795,
+     "LeagueId": 14
+    },
+    {
+     "TeamId": 1796,
+     "LeagueId": 14,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 1797,
+     "LeagueId": 61
+    },
+    {
+     "TeamId": 1798,
+     "LeagueId": 60
+    },
+    {
+     "TeamId": 1799,
+     "LeagueId": 14
+    },
+    {
+     "TeamId": 1800,
+     "LeagueId": 14
+    },
+    {
+     "TeamId": 1801,
+     "LeagueId": 14,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 1802,
+     "LeagueId": 61
+    },
+    {
+     "TeamId": 1803,
+     "LeagueId": 60
+    },
+    {
+     "TeamId": 1804,
+     "LeagueId": 61
+    },
+    {
+     "TeamId": 1805,
+     "LeagueId": 17
+    },
+    {
+     "TeamId": 1806,
+     "LeagueId": 13
+    },
+    {
+     "TeamId": 1807,
+     "LeagueId": 60
+    },
+    {
+     "TeamId": 1808,
+     "LeagueId": 60
+    },
+    {
+     "TeamId": 1809,
+     "LeagueId": 16
+    },
+    {
+     "TeamId": 1814,
+     "LeagueId": 17
+    },
+    {
+     "TeamId": 1815,
+     "LeagueId": 17
+    },
+    {
+     "TeamId": 1819,
+     "LeagueId": 16,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 1820,
+     "LeagueId": 17
+    },
+    {
+     "TeamId": 1823,
+     "LeagueId": 16
+    },
+    {
+     "TeamId": 1824,
+     "LeagueId": 19
+    },
+    {
+     "TeamId": 1825,
+     "LeagueId": 20
+    },
+    {
+     "TeamId": 1826,
+     "LeagueId": 20
+    },
+    {
+     "TeamId": 1828,
+     "LeagueId": 20
+    },
+    {
+     "TeamId": 1831,
+     "LeagueId": 20
+    },
+    {
+     "TeamId": 1832,
+     "LeagueId": 20
+    },
+    {
+     "TeamId": 1837,
+     "LeagueId": 31
+    },
+    {
+     "TeamId": 1838,
+     "LeagueId": 32
+    },
+    {
+     "TeamId": 1839,
+     "LeagueId": 32
+    },
+    {
+     "TeamId": 1841,
+     "LeagueId": 41
+    },
+    {
+     "TeamId": 1842,
+     "LeagueId": 31
+    },
+    {
+     "TeamId": 1843,
+     "LeagueId": 31
+    },
+    {
+     "TeamId": 1844,
+     "LeagueId": 32
+    },
+    {
+     "TeamId": 1846,
+     "LeagueId": 32
+    },
+    {
+     "TeamId": 1847,
+     "LeagueId": 32
+    },
+    {
+     "TeamId": 1848,
+     "LeagueId": 31
+    },
+    {
+     "TeamId": 1853,
+     "LeagueId": 53
+    },
+    {
+     "TeamId": 1854,
+     "LeagueId": 54
+    },
+    {
+     "TeamId": 1856,
+     "LeagueId": 54
+    },
+    {
+     "TeamId": 1860,
+     "LeagueId": 53
+    },
+    {
+     "TeamId": 1861,
+     "LeagueId": 53
+    },
+    {
+     "TeamId": 1867,
+     "LeagueId": 54
+    },
+    {
+     "TeamId": 1871,
+     "LeagueId": 66
+    },
+    {
+     "TeamId": 1873,
+     "LeagueId": 66
+    },
+    {
+     "TeamId": 1876,
+     "LeagueId": 353
+    },
+    {
+     "TeamId": 1877,
+     "LeagueId": 353
+    },
+    {
+     "TeamId": 1878,
+     "LeagueId": 341
+    },
+    {
+     "TeamId": 1879,
+     "LeagueId": 341,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 1880,
+     "LeagueId": 341
+    },
+    {
+     "TeamId": 1881,
+     "LeagueId": 341
+    },
+    {
+     "TeamId": 1882,
+     "LeagueId": 341,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 1884,
+     "LeagueId": 63
+    },
+    {
+     "TeamId": 1887,
+     "LeagueId": 308,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 1891,
+     "LeagueId": 308,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 1892,
+     "LeagueId": 308,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": false,
+       "V4": false,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 1893,
+     "LeagueId": 308
+    },
+    {
+     "TeamId": 1895,
+     "LeagueId": 308
+    },
+    {
+     "TeamId": 1896,
+     "LeagueId": 308,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 1897,
+     "LeagueId": 308,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 1901,
+     "LeagueId": 308,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 1902,
+     "LeagueId": 10
+    },
+    {
+     "TeamId": 1903,
+     "LeagueId": 10
+    },
+    {
+     "TeamId": 1904,
+     "LeagueId": 10
+    },
+    {
+     "TeamId": 1906,
+     "LeagueId": 10
+    },
+    {
+     "TeamId": 1907,
+     "LeagueId": 10
+    },
+    {
+     "TeamId": 1908,
+     "LeagueId": 10
+    },
+    {
+     "TeamId": 1909,
+     "LeagueId": 10
+    },
+    {
+     "TeamId": 1910,
+     "LeagueId": 10
+    },
+    {
+     "TeamId": 1913,
+     "LeagueId": 10
+    },
+    {
+     "TeamId": 1915,
+     "LeagueId": 10
+    },
+    {
+     "TeamId": 1917,
+     "LeagueId": 13,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 1919,
+     "LeagueId": 14,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 1920,
+     "LeagueId": 60
+    },
+    {
+     "TeamId": 1924,
+     "LeagueId": 61,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 1925,
+     "LeagueId": 60
+    },
+    {
+     "TeamId": 1926,
+     "LeagueId": 13
+    },
+    {
+     "TeamId": 1928,
+     "LeagueId": 61
+    },
+    {
+     "TeamId": 1929,
+     "LeagueId": 60
+    },
+    {
+     "TeamId": 1930,
+     "LeagueId": 61
+    },
+    {
+     "TeamId": 1931,
+     "LeagueId": 61
+    },
+    {
+     "TeamId": 1932,
+     "LeagueId": 14
+    },
+    {
+     "TeamId": 1933,
+     "LeagueId": 61
+    },
+    {
+     "TeamId": 1934,
+     "LeagueId": 60
+    },
+    {
+     "TeamId": 1935,
+     "LeagueId": 60
+    },
+    {
+     "TeamId": 1936,
+     "LeagueId": 61
+    },
+    {
+     "TeamId": 1937,
+     "LeagueId": 60
+    },
+    {
+     "TeamId": 1938,
+     "LeagueId": 60
+    },
+    {
+     "TeamId": 1939,
+     "LeagueId": 60
+    },
+    {
+     "TeamId": 1941,
+     "LeagueId": 60
+    },
+    {
+     "TeamId": 1943,
+     "LeagueId": 60
+    },
+    {
+     "TeamId": 1945,
+     "LeagueId": 61
+    },
+    {
+     "TeamId": 1946,
+     "LeagueId": 61
+    },
+    {
+     "TeamId": 1949,
+     "LeagueId": 14
+    },
+    {
+     "TeamId": 1951,
+     "LeagueId": 61
+    },
+    {
+     "TeamId": 1952,
+     "LeagueId": 14,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 1954,
+     "LeagueId": 61
+    },
+    {
+     "TeamId": 1955,
+     "LeagueId": 60
+    },
+    {
+     "TeamId": 1958,
+     "LeagueId": 60,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 1959,
+     "LeagueId": 61
+    },
+    {
+     "TeamId": 1960,
+     "LeagueId": 14,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 1961,
+     "LeagueId": 14,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 1962,
+     "LeagueId": 60,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 1970,
+     "LeagueId": 341,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 1971,
+     "LeagueId": 10
+    },
+    {
+     "TeamId": 2007,
+     "LeagueId": 4
+    },
+    {
+     "TeamId": 2013,
+     "LeagueId": 4
+    },
+    {
+     "TeamId": 2023,
+     "LeagueId": 54
+    },
+    {
+     "TeamId": 2044,
+     "LeagueId": 32
+    },
+    {
+     "TeamId": 2045,
+     "LeagueId": 80
+    },
+    {
+     "TeamId": 2055,
+     "LeagueId": 83
+    },
+    {
+     "TeamId": 2056,
+     "LeagueId": 83
+    },
+    {
+     "TeamId": 10029,
+     "LeagueId": 19
+    },
+    {
+     "TeamId": 10030,
+     "LeagueId": 20
+    },
+    {
+     "TeamId": 10031,
+     "LeagueId": 308
+    },
+    {
+     "TeamId": 15001,
+     "LeagueId": 1
+    },
+    {
+     "TeamId": 15005,
+     "LeagueId": 4,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 15011,
+     "LeagueId": 80
+    },
+    {
+     "TeamId": 15015,
+     "LeagueId": 61
+    },
+    {
+     "TeamId": 15019,
+     "LeagueId": 54
+    },
+    {
+     "TeamId": 15048,
+     "LeagueId": 60
+    },
+    {
+     "TeamId": 100081,
+     "LeagueId": 4,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 100142,
+     "LeagueId": 319,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 100143,
+     "LeagueId": 319
+    },
+    {
+     "TeamId": 100145,
+     "LeagueId": 319,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 100149,
+     "LeagueId": 319,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 100409,
+     "LeagueId": 20
+    },
+    {
+     "TeamId": 100634,
+     "LeagueId": 10
+    },
+    {
+     "TeamId": 100651,
+     "LeagueId": 10
+    },
+    {
+     "TeamId": 100737,
+     "LeagueId": 308,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 100764,
+     "LeagueId": 67
+    },
+    {
+     "TeamId": 100765,
+     "LeagueId": 67
+    },
+    {
+     "TeamId": 100766,
+     "LeagueId": 67
+    },
+    {
+     "TeamId": 100767,
+     "LeagueId": 67
+    },
+    {
+     "TeamId": 100769,
+     "LeagueId": 67
+    },
+    {
+     "TeamId": 100804,
+     "LeagueId": 50
+    },
+    {
+     "TeamId": 100805,
+     "LeagueId": 50
+    },
+    {
+     "TeamId": 100831,
+     "LeagueId": 54
+    },
+    {
+     "TeamId": 100851,
+     "LeagueId": 54,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 100879,
+     "LeagueId": 53
+    },
+    {
+     "TeamId": 101007,
+     "LeagueId": 68
+    },
+    {
+     "TeamId": 101014,
+     "LeagueId": 68
+    },
+    {
+     "TeamId": 101020,
+     "LeagueId": 68
+    },
+    {
+     "TeamId": 101024,
+     "LeagueId": 68
+    },
+    {
+     "TeamId": 101025,
+     "LeagueId": 68
+    },
+    {
+     "TeamId": 101033,
+     "LeagueId": 68
+    },
+    {
+     "TeamId": 101035,
+     "LeagueId": 68
+    },
+    {
+     "TeamId": 101041,
+     "LeagueId": 68
+    },
+    {
+     "TeamId": 101114,
+     "LeagueId": 341,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 101116,
+     "LeagueId": 341,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 101121,
+     "LeagueId": 341,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 110062,
+     "LeagueId": 54
+    },
+    {
+     "TeamId": 110103,
+     "LeagueId": 67
+    },
+    {
+     "TeamId": 110109,
+     "LeagueId": 67
+    },
+    {
+     "TeamId": 110144,
+     "LeagueId": 341,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 110147,
+     "LeagueId": 341
+    },
+    {
+     "TeamId": 110149,
+     "LeagueId": 341,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 110150,
+     "LeagueId": 341,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 110151,
+     "LeagueId": 341,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 110152,
+     "LeagueId": 341,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 110225,
+     "LeagueId": 67
+    },
+    {
+     "TeamId": 110227,
+     "LeagueId": 67
+    },
+    {
+     "TeamId": 110230,
+     "LeagueId": 67
+    },
+    {
+     "TeamId": 110231,
+     "LeagueId": 67
+    },
+    {
+     "TeamId": 110233,
+     "LeagueId": 67
+    },
+    {
+     "TeamId": 110234,
+     "LeagueId": 67
+    },
+    {
+     "TeamId": 110313,
+     "LeagueId": 61
+    },
+    {
+     "TeamId": 110326,
+     "LeagueId": 17
+    },
+    {
+     "TeamId": 110329,
+     "LeagueId": 19,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 110364,
+     "LeagueId": 31
+    },
+    {
+     "TeamId": 110374,
+     "LeagueId": 31
+    },
+    {
+     "TeamId": 110456,
+     "LeagueId": 16,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 110464,
+     "LeagueId": 319,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 110467,
+     "LeagueId": 319,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 110468,
+     "LeagueId": 319,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 110471,
+     "LeagueId": 319
+    },
+    {
+     "TeamId": 110472,
+     "LeagueId": 319
+    },
+    {
+     "TeamId": 110556,
+     "LeagueId": 31,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": false
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": false
+      }
+     ]
+    },
+    {
+     "TeamId": 110569,
+     "LeagueId": 17
+    },
+    {
+     "TeamId": 110596,
+     "LeagueId": 20
+    },
+    {
+     "TeamId": 110636,
+     "LeagueId": 20
+    },
+    {
+     "TeamId": 110704,
+     "LeagueId": 54
+    },
+    {
+     "TeamId": 110724,
+     "LeagueId": 4
+    },
+    {
+     "TeamId": 110734,
+     "LeagueId": 32
+    },
+    {
+     "TeamId": 110744,
+     "LeagueId": 66
+    },
+    {
+     "TeamId": 110745,
+     "LeagueId": 66
+    },
+    {
+     "TeamId": 110747,
+     "LeagueId": 66
+    },
+    {
+     "TeamId": 110749,
+     "LeagueId": 66
+    },
+    {
+     "TeamId": 110765,
+     "LeagueId": 83
+    },
+    {
+     "TeamId": 110770,
+     "LeagueId": 189,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 110780,
+     "LeagueId": 341
+    },
+    {
+     "TeamId": 110832,
+     "LeagueId": 54,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 110839,
+     "LeagueId": 54
+    },
+    {
+     "TeamId": 110902,
+     "LeagueId": 54
+    },
+    {
+     "TeamId": 110912,
+     "LeagueId": 32
+    },
+    {
+     "TeamId": 110915,
+     "LeagueId": 31
+    },
+    {
+     "TeamId": 110929,
+     "LeagueId": 347
+    },
+    {
+     "TeamId": 110930,
+     "LeagueId": 347
+    },
+    {
+     "TeamId": 111042,
+     "LeagueId": 7
+    },
+    {
+     "TeamId": 111049,
+     "LeagueId": 7
+    },
+    {
+     "TeamId": 111059,
+     "LeagueId": 7
+    },
+    {
+     "TeamId": 111065,
+     "LeagueId": 39
+    },
+    {
+     "TeamId": 111070,
+     "LeagueId": 39
+    },
+    {
+     "TeamId": 111082,
+     "LeagueId": 66
+    },
+    {
+     "TeamId": 111083,
+     "LeagueId": 66
+    },
+    {
+     "TeamId": 111091,
+     "LeagueId": 66
+    },
+    {
+     "TeamId": 111092,
+     "LeagueId": 66,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 111132,
+     "LeagueId": 65
+    },
+    {
+     "TeamId": 111144,
+     "LeagueId": 39
+    },
+    {
+     "TeamId": 111239,
+     "LeagueId": 20
+    },
+    {
+     "TeamId": 111266,
+     "LeagueId": 67
+    },
+    {
+     "TeamId": 111271,
+     "LeagueId": 17
+    },
+    {
+     "TeamId": 111277,
+     "LeagueId": 56
+    },
+    {
+     "TeamId": 111339,
+     "LeagueId": 68
+    },
+    {
+     "TeamId": 111373,
+     "LeagueId": 80
+    },
+    {
+     "TeamId": 111376,
+     "LeagueId": 17
+    },
+    {
+     "TeamId": 111377,
+     "LeagueId": 17
+    },
+    {
+     "TeamId": 111393,
+     "LeagueId": 351
+    },
+    {
+     "TeamId": 111395,
+     "LeagueId": 351
+    },
+    {
+     "TeamId": 111396,
+     "LeagueId": 351
+    },
+    {
+     "TeamId": 111397,
+     "LeagueId": 351,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 111398,
+     "LeagueId": 351
+    },
+    {
+     "TeamId": 111399,
+     "LeagueId": 351
+    },
+    {
+     "TeamId": 111400,
+     "LeagueId": 351
+    },
+    {
+     "TeamId": 111429,
+     "LeagueId": 66,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 111491,
+     "LeagueId": 32
+    },
+    {
+     "TeamId": 111540,
+     "LeagueId": 308,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 111588,
+     "LeagueId": 83
+    },
+    {
+     "TeamId": 111594,
+     "LeagueId": 56,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 111651,
+     "LeagueId": 39
+    },
+    {
+     "TeamId": 111657,
+     "LeagueId": 32
+    },
+    {
+     "TeamId": 111705,
+     "LeagueId": 56
+    },
+    {
+     "TeamId": 111766,
+     "LeagueId": 351
+    },
+    {
+     "TeamId": 111812,
+     "LeagueId": 319,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 111835,
+     "LeagueId": 56
+    },
+    {
+     "TeamId": 111928,
+     "LeagueId": 39
+    },
+    {
+     "TeamId": 111967,
+     "LeagueId": 65
+    },
+    {
+     "TeamId": 111974,
+     "LeagueId": 32
+    },
+    {
+     "TeamId": 111976,
+     "LeagueId": 7
+    },
+    {
+     "TeamId": 111988,
+     "LeagueId": 68
+    },
+    {
+     "TeamId": 111989,
+     "LeagueId": 16
+    },
+    {
+     "TeamId": 111993,
+     "LeagueId": 32
+    },
+    {
+     "TeamId": 112072,
+     "LeagueId": 56
+    },
+    {
+     "TeamId": 112077,
+     "LeagueId": 7
+    },
+    {
+     "TeamId": 112078,
+     "LeagueId": 351
+    },
+    {
+     "TeamId": 112079,
+     "LeagueId": 351
+    },
+    {
+     "TeamId": 112115,
+     "LeagueId": 83
+    },
+    {
+     "TeamId": 112119,
+     "LeagueId": 7
+    },
+    {
+     "TeamId": 112122,
+     "LeagueId": 68
+    },
+    {
+     "TeamId": 112134,
+     "LeagueId": 39
+    },
+    {
+     "TeamId": 112224,
+     "LeagueId": 351
+    },
+    {
+     "TeamId": 112225,
+     "LeagueId": 32
+    },
+    {
+     "TeamId": 112231,
+     "LeagueId": 32
+    },
+    {
+     "TeamId": 112232,
+     "LeagueId": 68
+    },
+    {
+     "TeamId": 112235,
+     "LeagueId": 319
+    },
+    {
+     "TeamId": 112236,
+     "LeagueId": 319,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 112237,
+     "LeagueId": 32
+    }
+   ]
+  },
+  {
+   "Year": "2012",
+   "Nations": [
+    1,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+
+    10,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    63,
+    66,
+    70,
+    72,
+    73,
+    76,
+    77,
+    78,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    92,
+    93,
+    95,
+    97,
+    98,
+    99,
+    101,
+    102,
+    103,
+    104,
+    105,
+    107,
+    108,
+    110,
+    111,
+    112,
+    115,
+    116,
+    117,
+    118,
+    119,
+    120,
+    122,
+    123,
+    126,
+    129,
+    130,
+    131,
+    132,
+    133,
+    134,
+    136,
+    137,
+    138,
+    140,
+    143,
+    144,
+    145,
+    146,
+    147,
+    148,
+    155,
+    160,
+    161,
+    162,
+    163,
+    165,
+    166,
+    167,
+    171,
+    178,
+    181,
+    182,
+    183,
+    186,
+    191,
+    195,
+    198,
+    208,
+    213,
+    214
+   ],
+   "Leagues": [
+    {
+     "LeagueId": 1,
+     "NationId": 13
+    },
+    {
+     "LeagueId": 4,
+     "NationId": 7
+    },
+    {
+     "LeagueId": 7,
+     "NationId": 54
+    },
+    {
+     "LeagueId": 10,
+     "NationId": 34
+    },
+    {
+     "LeagueId": 13,
+     "NationId": 14
+    },
+    {
+     "LeagueId": 14,
+     "NationId": 14
+    },
+    {
+     "LeagueId": 16,
+     "NationId": 18
+    },
+    {
+     "LeagueId": 17,
+     "NationId": 18
+    },
+    {
+     "LeagueId": 19,
+     "NationId": 21
+    },
+    {
+     "LeagueId": 20,
+     "NationId": 21
+    },
+    {
+     "LeagueId": 31,
+     "NationId": 27
+    },
+    {
+     "LeagueId": 32,
+     "NationId": 27
+    },
+    {
+     "LeagueId": 39,
+     "NationId": 95
+    },
+    {
+     "LeagueId": 41,
+     "NationId": 36
+    },
+    {
+     "LeagueId": 50,
+     "NationId": 42
+    },
+    {
+     "LeagueId": 53,
+     "NationId": 45
+    },
+    {
+     "LeagueId": 54,
+     "NationId": 45
+    },
+    {
+     "LeagueId": 56,
+     "NationId": 46
+    },
+    {
+     "LeagueId": 60,
+     "NationId": 14
+    },
+    {
+     "LeagueId": 61,
+     "NationId": 14
+    },
+    {
+     "LeagueId": 63,
+     "NationId": 22
+    },
+    {
+     "LeagueId": 65,
+     "NationId": 25
+    },
+    {
+     "LeagueId": 66,
+     "NationId": 37
+    },
+    {
+     "LeagueId": 67,
+     "NationId": 40
+    },
+    {
+     "LeagueId": 80,
+     "NationId": 4
+    },
+    {
+     "LeagueId": 83,
+     "NationId": 167
+    },
+    {
+     "LeagueId": 189,
+     "NationId": 47
+    },
+    {
+     "LeagueId": 308,
+     "NationId": 38
+    },
+    {
+     "LeagueId": 341,
+     "NationId": 83
+    },
+    {
+     "LeagueId": 347,
+     "NationId": 140
+    },
+    {
+     "LeagueId": 351,
+     "NationId": 195
+    },
+    {
+     "LeagueId": 353,
+     "NationId": 52
+    }
+   ],
+   "Teams": [
+    {
+     "TeamId": 1,
+     "LeagueId": 13
+    },
+    {
+     "TeamId": 2,
+     "LeagueId": 13,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 3,
+     "LeagueId": 13
+    },
+    {
+     "TeamId": 4,
+     "LeagueId": 13,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 5,
+     "LeagueId": 13
+    },
+    {
+     "TeamId": 7,
+     "LeagueId": 13,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 8,
+     "LeagueId": 14
+    },
+    {
+     "TeamId": 9,
+     "LeagueId": 13
+    },
+    {
+     "TeamId": 10,
+     "LeagueId": 13
+    },
+    {
+     "TeamId": 11,
+     "LeagueId": 13
+    },
+    {
+     "TeamId": 12,
+     "LeagueId": 14
+    },
+    {
+     "TeamId": 13,
+     "LeagueId": 13
+    },
+    {
+     "TeamId": 14,
+     "LeagueId": 14,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 15,
+     "LeagueId": 13
+    },
+    {
+     "TeamId": 17,
+     "LeagueId": 14
+    },
+    {
+     "TeamId": 18,
+     "LeagueId": 13
+    },
+    {
+     "TeamId": 19,
+     "LeagueId": 14,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 21,
+     "LeagueId": 19
+    },
+    {
+     "TeamId": 22,
+     "LeagueId": 19
+    },
+    {
+     "TeamId": 23,
+     "LeagueId": 19
+    },
+    {
+     "TeamId": 25,
+     "LeagueId": 19
+    },
+    {
+     "TeamId": 27,
+     "LeagueId": 20
+    },
+    {
+     "TeamId": 28,
+     "LeagueId": 19
+    },
+    {
+     "TeamId": 29,
+     "LeagueId": 19
+    },
+    {
+     "TeamId": 31,
+     "LeagueId": 19
+    },
+    {
+     "TeamId": 32,
+     "LeagueId": 19
+    },
+    {
+     "TeamId": 33,
+     "LeagueId": 20
+    },
+    {
+     "TeamId": 34,
+     "LeagueId": 19
+    },
+    {
+     "TeamId": 36,
+     "LeagueId": 19
+    },
+    {
+     "TeamId": 38,
+     "LeagueId": 19
+    },
+    {
+     "TeamId": 39,
+     "LeagueId": 31
+    },
+    {
+     "TeamId": 44,
+     "LeagueId": 31
+    },
+    {
+     "TeamId": 45,
+     "LeagueId": 31,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 46,
+     "LeagueId": 31
+    },
+    {
+     "TeamId": 47,
+     "LeagueId": 31
+    },
+    {
+     "TeamId": 48,
+     "LeagueId": 31
+    },
+    {
+     "TeamId": 50,
+     "LeagueId": 31
+    },
+    {
+     "TeamId": 52,
+     "LeagueId": 31
+    },
+    {
+     "TeamId": 54,
+     "LeagueId": 32
+    },
+    {
+     "TeamId": 55,
+     "LeagueId": 31,
+     "Kit": [
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 57,
+     "LeagueId": 16
+    },
+    {
+     "TeamId": 58,
+     "LeagueId": 17
+    },
+    {
+     "TeamId": 59,
+     "LeagueId": 16
+    },
+    {
+     "TeamId": 62,
+     "LeagueId": 17
+    },
+    {
+     "TeamId": 64,
+     "LeagueId": 17
+    },
+    {
+     "TeamId": 65,
+     "LeagueId": 16,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 66,
+     "LeagueId": 16,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 68,
+     "LeagueId": 17
+    },
+    {
+     "TeamId": 69,
+     "LeagueId": 17
+    },
+    {
+     "TeamId": 70,
+     "LeagueId": 16
+    },
+    {
+     "TeamId": 71,
+     "LeagueId": 17
+    },
+    {
+     "TeamId": 72,
+     "LeagueId": 16
+    },
+    {
+     "TeamId": 73,
+     "LeagueId": 16,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 74,
+     "LeagueId": 16
+    },
+    {
+     "TeamId": 77,
+     "LeagueId": 50
+    },
+    {
+     "TeamId": 78,
+     "LeagueId": 50
+    },
+    {
+     "TeamId": 80,
+     "LeagueId": 50
+    },
+    {
+     "TeamId": 81,
+     "LeagueId": 50,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 82,
+     "LeagueId": 50
+    },
+    {
+     "TeamId": 83,
+     "LeagueId": 50
+    },
+    {
+     "TeamId": 86,
+     "LeagueId": 50,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 88,
+     "LeagueId": 14
+    },
+    {
+     "TeamId": 89,
+     "LeagueId": 60
+    },
+    {
+     "TeamId": 91,
+     "LeagueId": 14
+    },
+    {
+     "TeamId": 94,
+     "LeagueId": 14
+    },
+    {
+     "TeamId": 95,
+     "LeagueId": 14
+    },
+    {
+     "TeamId": 97,
+     "LeagueId": 14,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 106,
+     "LeagueId": 13,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 109,
+     "LeagueId": 13,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 110,
+     "LeagueId": 13,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 121,
+     "LeagueId": 61
+    },
+    {
+     "TeamId": 127,
+     "LeagueId": 61
+    },
+    {
+     "TeamId": 135,
+     "LeagueId": 61
+    },
+    {
+     "TeamId": 142,
+     "LeagueId": 14
+    },
+    {
+     "TeamId": 143,
+     "LeagueId": 60
+    },
+    {
+     "TeamId": 144,
+     "LeagueId": 13
+    },
+    {
+     "TeamId": 147,
+     "LeagueId": 61
+    },
+    {
+     "TeamId": 160,
+     "LeagueId": 20
+    },
+    {
+     "TeamId": 162,
+     "LeagueId": 20
+    },
+    {
+     "TeamId": 165,
+     "LeagueId": 20
+    },
+    {
+     "TeamId": 166,
+     "LeagueId": 19
+    },
+    {
+     "TeamId": 169,
+     "LeagueId": 19
+    },
+    {
+     "TeamId": 171,
+     "LeagueId": 19
+    },
+    {
+     "TeamId": 175,
+     "LeagueId": 19
+    },
+    {
+     "TeamId": 181,
+     "LeagueId": 50
+    },
+    {
+     "TeamId": 182,
+     "LeagueId": 50
+    },
+    {
+     "TeamId": 189,
+     "LeagueId": 31
+    },
+    {
+     "TeamId": 190,
+     "LeagueId": 32
+    },
+    {
+     "TeamId": 191,
+     "LeagueId": 80
+    },
+    {
+     "TeamId": 192,
+     "LeagueId": 31
+    },
+    {
+     "TeamId": 200,
+     "LeagueId": 32
+    },
+    {
+     "TeamId": 203,
+     "LeagueId": 32
+    },
+    {
+     "TeamId": 206,
+     "LeagueId": 32
+    },
+    {
+     "TeamId": 209,
+     "LeagueId": 80,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 210,
+     "LeagueId": 16
+    },
+    {
+     "TeamId": 212,
+     "LeagueId": 17
+    },
+    {
+     "TeamId": 217,
+     "LeagueId": 16
+    },
+    {
+     "TeamId": 219,
+     "LeagueId": 16,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 226,
+     "LeagueId": 16
+    },
+    {
+     "TeamId": 229,
+     "LeagueId": 4
+    },
+    {
+     "TeamId": 231,
+     "LeagueId": 4
+    },
+    {
+     "TeamId": 232,
+     "LeagueId": 4
+    },
+    {
+     "TeamId": 234,
+     "LeagueId": 308,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 236,
+     "LeagueId": 308,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 237,
+     "LeagueId": 308,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 239,
+     "LeagueId": 4
+    },
+    {
+     "TeamId": 240,
+     "LeagueId": 53
+    },
+    {
+     "TeamId": 241,
+     "LeagueId": 53
+    },
+    {
+     "TeamId": 242,
+     "LeagueId": 54,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 243,
+     "LeagueId": 53,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 244,
+     "LeagueId": 53
+    },
+    {
+     "TeamId": 245,
+     "LeagueId": 10
+    },
+    {
+     "TeamId": 246,
+     "LeagueId": 10
+    },
+    {
+     "TeamId": 247,
+     "LeagueId": 10
+    },
+    {
+     "TeamId": 254,
+     "LeagueId": 80,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 256,
+     "LeagueId": 80
+    },
+    {
+     "TeamId": 269,
+     "LeagueId": 1
+    },
+    {
+     "TeamId": 270,
+     "LeagueId": 1
+    },
+    {
+     "TeamId": 271,
+     "LeagueId": 1
+    },
+    {
+     "TeamId": 272,
+     "LeagueId": 1,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 278,
+     "LeagueId": 63,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 280,
+     "LeagueId": 63
+    },
+    {
+     "TeamId": 294,
+     "LeagueId": 17
+    },
+    {
+     "TeamId": 298,
+     "LeagueId": 41
+    },
+    {
+     "TeamId": 299,
+     "LeagueId": 41
+    },
+    {
+     "TeamId": 300,
+     "LeagueId": 41
+    },
+    {
+     "TeamId": 301,
+     "LeagueId": 66
+    },
+    {
+     "TeamId": 305,
+     "LeagueId": 65
+    },
+    {
+     "TeamId": 306,
+     "LeagueId": 65
+    },
+    {
+     "TeamId": 312,
+     "LeagueId": 67
+    },
+    {
+     "TeamId": 315,
+     "LeagueId": 67
+    },
+    {
+     "TeamId": 319,
+     "LeagueId": 56
+    },
+    {
+     "TeamId": 320,
+     "LeagueId": 56
+    },
+    {
+     "TeamId": 321,
+     "LeagueId": 56
+    },
+    {
+     "TeamId": 322,
+     "LeagueId": 189
+    },
+    {
+     "TeamId": 324,
+     "LeagueId": 189
+    },
+    {
+     "TeamId": 325,
+     "LeagueId": 76
+    },
+    {
+     "TeamId": 346,
+     "LeagueId": 60
+    },
+    {
+     "TeamId": 347,
+     "LeagueId": 31,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 357,
+     "LeagueId": 61
+    },
+    {
+     "TeamId": 361,
+     "LeagueId": 60
+    },
+    {
+     "TeamId": 373,
+     "LeagueId": 61
+    },
+    {
+     "TeamId": 378,
+     "LeagueId": 16
+    },
+    {
+     "TeamId": 379,
+     "LeagueId": 17
+    },
+    {
+     "TeamId": 382,
+     "LeagueId": 61
+    },
+    {
+     "TeamId": 383,
+     "LeagueId": 7
+    },
+    {
+     "TeamId": 393,
+     "LeagueId": 63
+    },
+    {
+     "TeamId": 417,
+     "LeagueId": 41
+    },
+    {
+     "TeamId": 418,
+     "LeagueId": 41
+    },
+    {
+     "TeamId": 420,
+     "LeagueId": 66
+    },
+    {
+     "TeamId": 423,
+     "LeagueId": 65
+    },
+    {
+     "TeamId": 432,
+     "LeagueId": 56
+    },
+    {
+     "TeamId": 433,
+     "LeagueId": 56,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 435,
+     "LeagueId": 189
+    },
+    {
+     "TeamId": 445,
+     "LeagueId": 65
+    },
+    {
+     "TeamId": 448,
+     "LeagueId": 53
+    },
+    {
+     "TeamId": 449,
+     "LeagueId": 53,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 450,
+     "LeagueId": 54,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 452,
+     "LeagueId": 53
+    },
+    {
+     "TeamId": 453,
+     "LeagueId": 53,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 456,
+     "LeagueId": 53
+    },
+    {
+     "TeamId": 457,
+     "LeagueId": 53
+    },
+    {
+     "TeamId": 459,
+     "LeagueId": 53
+    },
+    {
+     "TeamId": 461,
+     "LeagueId": 53
+    },
+    {
+     "TeamId": 462,
+     "LeagueId": 54
+    },
+    {
+     "TeamId": 468,
+     "LeagueId": 54
+    },
+    {
+     "TeamId": 472,
+     "LeagueId": 54
+    },
+    {
+     "TeamId": 477,
+     "LeagueId": 54
+    },
+    {
+     "TeamId": 479,
+     "LeagueId": 53
+    },
+    {
+     "TeamId": 480,
+     "LeagueId": 53
+    },
+    {
+     "TeamId": 481,
+     "LeagueId": 53
+    },
+    {
+     "TeamId": 483,
+     "LeagueId": 53
+    },
+    {
+     "TeamId": 485,
+     "LeagueId": 19
+    },
+    {
+     "TeamId": 503,
+     "LeagueId": 20
+    },
+    {
+     "TeamId": 506,
+     "LeagueId": 20
+    },
+    {
+     "TeamId": 517,
+     "LeagueId": 7
+    },
+    {
+     "TeamId": 563,
+     "LeagueId": 65
+    },
+    {
+     "TeamId": 567,
+     "LeagueId": 7
+    },
+    {
+     "TeamId": 568,
+     "LeagueId": 7
+    },
+    {
+     "TeamId": 569,
+     "LeagueId": 7
+    },
+    {
+     "TeamId": 571,
+     "LeagueId": 54
+    },
+    {
+     "TeamId": 573,
+     "LeagueId": 53
+    },
+    {
+     "TeamId": 598,
+     "LeagueId": 7
+    },
+    {
+     "TeamId": 613,
+     "LeagueId": 17
+    },
+    {
+     "TeamId": 614,
+     "LeagueId": 16,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 620,
+     "LeagueId": 50
+    },
+    {
+     "TeamId": 635,
+     "LeagueId": 10
+    },
+    {
+     "TeamId": 650,
+     "LeagueId": 10
+    },
+    {
+     "TeamId": 665,
+     "LeagueId": 308,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 673,
+     "LeagueId": 4
+    },
+    {
+     "TeamId": 674,
+     "LeagueId": 4
+    },
+    {
+     "TeamId": 675,
+     "LeagueId": 4
+    },
+    {
+     "TeamId": 680,
+     "LeagueId": 4
+    },
+    {
+     "TeamId": 681,
+     "LeagueId": 4
+    },
+    {
+     "TeamId": 687,
+     "LeagueId": 39
+    },
+    {
+     "TeamId": 688,
+     "LeagueId": 39
+    },
+    {
+     "TeamId": 689,
+     "LeagueId": 39
+    },
+    {
+     "TeamId": 691,
+     "LeagueId": 39
+    },
+    {
+     "TeamId": 693,
+     "LeagueId": 39
+    },
+    {
+     "TeamId": 694,
+     "LeagueId": 39
+    },
+    {
+     "TeamId": 695,
+     "LeagueId": 39
+    },
+    {
+     "TeamId": 696,
+     "LeagueId": 39
+    },
+    {
+     "TeamId": 697,
+     "LeagueId": 39
+    },
+    {
+     "TeamId": 698,
+     "LeagueId": 39
+    },
+    {
+     "TeamId": 700,
+     "LeagueId": 56
+    },
+    {
+     "TeamId": 702,
+     "LeagueId": 56
+    },
+    {
+     "TeamId": 705,
+     "LeagueId": 56
+    },
+    {
+     "TeamId": 710,
+     "LeagueId": 56
+    },
+    {
+     "TeamId": 711,
+     "LeagueId": 56
+    },
+    {
+     "TeamId": 744,
+     "LeagueId": 308,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 780,
+     "LeagueId": 80,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 819,
+     "LeagueId": 1,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 820,
+     "LeagueId": 1
+    },
+    {
+     "TeamId": 826,
+     "LeagueId": 1
+    },
+    {
+     "TeamId": 837,
+     "LeagueId": 65
+    },
+    {
+     "TeamId": 838,
+     "LeagueId": 65
+    },
+    {
+     "TeamId": 873,
+     "LeagueId": 66
+    },
+    {
+     "TeamId": 874,
+     "LeagueId": 66
+    },
+    {
+     "TeamId": 894,
+     "LeagueId": 189
+    },
+    {
+     "TeamId": 896,
+     "LeagueId": 189
+    },
+    {
+     "TeamId": 897,
+     "LeagueId": 189,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 900,
+     "LeagueId": 189,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 917,
+     "LeagueId": 41
+    },
+    {
+     "TeamId": 919,
+     "LeagueId": 41
+    },
+    {
+     "TeamId": 920,
+     "LeagueId": 41
+    },
+    {
+     "TeamId": 922,
+     "LeagueId": 41
+    },
+    {
+     "TeamId": 980,
+     "LeagueId": 83
+    },
+    {
+     "TeamId": 981,
+     "LeagueId": 83
+    },
+    {
+     "TeamId": 982,
+     "LeagueId": 83
+    },
+    {
+     "TeamId": 983,
+     "LeagueId": 83
+    },
+    {
+     "TeamId": 1028,
+     "LeagueId": 341,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 1032,
+     "LeagueId": 341,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 1035,
+     "LeagueId": 7
+    },
+    {
+     "TeamId": 1039,
+     "LeagueId": 7
+    },
+    {
+     "TeamId": 1041,
+     "LeagueId": 7
+    },
+    {
+     "TeamId": 1043,
+     "LeagueId": 7
+    },
+    {
+     "TeamId": 1048,
+     "LeagueId": 7
+    },
+    {
+     "TeamId": 1053,
+     "LeagueId": 7
+    },
+    {
+     "TeamId": 1446,
+     "LeagueId": 1
+    },
+    {
+     "TeamId": 1447,
+     "LeagueId": 1
+    },
+    {
+     "TeamId": 1456,
+     "LeagueId": 41
+    },
+    {
+     "TeamId": 1465,
+     "LeagueId": 41
+    },
+    {
+     "TeamId": 1473,
+     "LeagueId": 83
+    },
+    {
+     "TeamId": 1474,
+     "LeagueId": 83
+    },
+    {
+     "TeamId": 1475,
+     "LeagueId": 83
+    },
+    {
+     "TeamId": 1476,
+     "LeagueId": 83
+    },
+    {
+     "TeamId": 1477,
+     "LeagueId": 83
+    },
+    {
+     "TeamId": 1478,
+     "LeagueId": 83
+    },
+    {
+     "TeamId": 1480,
+     "LeagueId": 60
+    },
+    {
+     "TeamId": 1516,
+     "LeagueId": 1
+    },
+    {
+     "TeamId": 1524,
+     "LeagueId": 41
+    },
+    {
+     "TeamId": 1530,
+     "LeagueId": 17
+    },
+    {
+     "TeamId": 1570,
+     "LeagueId": 66
+    },
+    {
+     "TeamId": 1571,
+     "LeagueId": 65
+    },
+    {
+     "TeamId": 1572,
+     "LeagueId": 65
+    },
+    {
+     "TeamId": 1598,
+     "LeagueId": 7
+    },
+    {
+     "TeamId": 1629,
+     "LeagueId": 7
+    },
+    {
+     "TeamId": 1715,
+     "LeagueId": 189
+    },
+    {
+     "TeamId": 1738,
+     "LeagueId": 17
+    },
+    {
+     "TeamId": 1739,
+     "LeagueId": 17
+    },
+    {
+     "TeamId": 1742,
+     "LeagueId": 54
+    },
+    {
+     "TeamId": 1744,
+     "LeagueId": 32
+    },
+    {
+     "TeamId": 1746,
+     "LeagueId": 32
+    },
+    {
+     "TeamId": 1747,
+     "LeagueId": 4
+    },
+    {
+     "TeamId": 1750,
+     "LeagueId": 4
+    },
+    {
+     "TeamId": 1755,
+     "LeagueId": 41
+    },
+    {
+     "TeamId": 1785,
+     "LeagueId": 80
+    },
+    {
+     "TeamId": 1788,
+     "LeagueId": 1
+    },
+    {
+     "TeamId": 1790,
+     "LeagueId": 14
+    },
+    {
+     "TeamId": 1792,
+     "LeagueId": 13
+    },
+    {
+     "TeamId": 1793,
+     "LeagueId": 14
+    },
+    {
+     "TeamId": 1794,
+     "LeagueId": 60
+    },
+    {
+     "TeamId": 1795,
+     "LeagueId": 14
+    },
+    {
+     "TeamId": 1796,
+     "LeagueId": 14,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 1797,
+     "LeagueId": 61
+    },
+    {
+     "TeamId": 1798,
+     "LeagueId": 60
+    },
+    {
+     "TeamId": 1799,
+     "LeagueId": 14
+    },
+    {
+     "TeamId": 1800,
+     "LeagueId": 14
+    },
+    {
+     "TeamId": 1801,
+     "LeagueId": 60
+    },
+    {
+     "TeamId": 1802,
+     "LeagueId": 61
+    },
+    {
+     "TeamId": 1803,
+     "LeagueId": 60
+    },
+    {
+     "TeamId": 1804,
+     "LeagueId": 61
+    },
+    {
+     "TeamId": 1806,
+     "LeagueId": 13
+    },
+    {
+     "TeamId": 1807,
+     "LeagueId": 60
+    },
+    {
+     "TeamId": 1808,
+     "LeagueId": 14
+    },
+    {
+     "TeamId": 1809,
+     "LeagueId": 16
+    },
+    {
+     "TeamId": 1814,
+     "LeagueId": 17
+    },
+    {
+     "TeamId": 1815,
+     "LeagueId": 17
+    },
+    {
+     "TeamId": 1816,
+     "LeagueId": 17
+    },
+    {
+     "TeamId": 1819,
+     "LeagueId": 16,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 1820,
+     "LeagueId": 17
+    },
+    {
+     "TeamId": 1823,
+     "LeagueId": 16
+    },
+    {
+     "TeamId": 1824,
+     "LeagueId": 20
+    },
+    {
+     "TeamId": 1825,
+     "LeagueId": 20
+    },
+    {
+     "TeamId": 1826,
+     "LeagueId": 20
+    },
+    {
+     "TeamId": 1831,
+     "LeagueId": 20
+    },
+    {
+     "TeamId": 1832,
+     "LeagueId": 20
+    },
+    {
+     "TeamId": 1837,
+     "LeagueId": 32,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 1838,
+     "LeagueId": 31
+    },
+    {
+     "TeamId": 1842,
+     "LeagueId": 31
+    },
+    {
+     "TeamId": 1843,
+     "LeagueId": 31,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 1844,
+     "LeagueId": 32
+    },
+    {
+     "TeamId": 1846,
+     "LeagueId": 32
+    },
+    {
+     "TeamId": 1847,
+     "LeagueId": 32
+    },
+    {
+     "TeamId": 1848,
+     "LeagueId": 32
+    },
+    {
+     "TeamId": 1853,
+     "LeagueId": 53
+    },
+    {
+     "TeamId": 1855,
+     "LeagueId": 54
+    },
+    {
+     "TeamId": 1860,
+     "LeagueId": 53
+    },
+    {
+     "TeamId": 1861,
+     "LeagueId": 54
+    },
+    {
+     "TeamId": 1862,
+     "LeagueId": 189
+    },
+    {
+     "TeamId": 1867,
+     "LeagueId": 54
+    },
+    {
+     "TeamId": 1871,
+     "LeagueId": 66
+    },
+    {
+     "TeamId": 1873,
+     "LeagueId": 66
+    },
+    {
+     "TeamId": 1876,
+     "LeagueId": 353
+    },
+    {
+     "TeamId": 1877,
+     "LeagueId": 353
+    },
+    {
+     "TeamId": 1878,
+     "LeagueId": 341
+    },
+    {
+     "TeamId": 1879,
+     "LeagueId": 341,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 1880,
+     "LeagueId": 341
+    },
+    {
+     "TeamId": 1881,
+     "LeagueId": 341
+    },
+    {
+     "TeamId": 1882,
+     "LeagueId": 341,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 1884,
+     "LeagueId": 63
+    },
+    {
+     "TeamId": 1887,
+     "LeagueId": 308,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 1888,
+     "LeagueId": 308
+    },
+    {
+     "TeamId": 1891,
+     "LeagueId": 308,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 1892,
+     "LeagueId": 308,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 1893,
+     "LeagueId": 308
+    },
+    {
+     "TeamId": 1895,
+     "LeagueId": 308,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 1896,
+     "LeagueId": 308,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 1897,
+     "LeagueId": 308,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 1901,
+     "LeagueId": 308,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 1902,
+     "LeagueId": 10
+    },
+    {
+     "TeamId": 1903,
+     "LeagueId": 10
+    },
+    {
+     "TeamId": 1904,
+     "LeagueId": 10
+    },
+    {
+     "TeamId": 1905,
+     "LeagueId": 10
+    },
+    {
+     "TeamId": 1906,
+     "LeagueId": 10
+    },
+    {
+     "TeamId": 1908,
+     "LeagueId": 10
+    },
+    {
+     "TeamId": 1909,
+     "LeagueId": 10
+    },
+    {
+     "TeamId": 1910,
+     "LeagueId": 10
+    },
+    {
+     "TeamId": 1913,
+     "LeagueId": 10
+    },
+    {
+     "TeamId": 1915,
+     "LeagueId": 10
+    },
+    {
+     "TeamId": 1917,
+     "LeagueId": 13,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 1919,
+     "LeagueId": 14
+    },
+    {
+     "TeamId": 1920,
+     "LeagueId": 60
+    },
+    {
+     "TeamId": 1924,
+     "LeagueId": 60,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 1925,
+     "LeagueId": 60
+    },
+    {
+     "TeamId": 1926,
+     "LeagueId": 14
+    },
+    {
+     "TeamId": 1928,
+     "LeagueId": 61
+    },
+    {
+     "TeamId": 1929,
+     "LeagueId": 61
+    },
+    {
+     "TeamId": 1930,
+     "LeagueId": 61
+    },
+    {
+     "TeamId": 1932,
+     "LeagueId": 14
+    },
+    {
+     "TeamId": 1933,
+     "LeagueId": 60
+    },
+    {
+     "TeamId": 1934,
+     "LeagueId": 61
+    },
+    {
+     "TeamId": 1935,
+     "LeagueId": 60
+    },
+    {
+     "TeamId": 1936,
+     "LeagueId": 61
+    },
+    {
+     "TeamId": 1937,
+     "LeagueId": 60
+    },
+    {
+     "TeamId": 1938,
+     "LeagueId": 14
+    },
+    {
+     "TeamId": 1939,
+     "LeagueId": 60,
+     "Kit": [
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 1941,
+     "LeagueId": 60
+    },
+    {
+     "TeamId": 1943,
+     "LeagueId": 60
+    },
+    {
+     "TeamId": 1945,
+     "LeagueId": 60
+    },
+    {
+     "TeamId": 1946,
+     "LeagueId": 61
+    },
+    {
+     "TeamId": 1949,
+     "LeagueId": 60
+    },
+    {
+     "TeamId": 1951,
+     "LeagueId": 61
+    },
+    {
+     "TeamId": 1952,
+     "LeagueId": 14
+    },
+    {
+     "TeamId": 1954,
+     "LeagueId": 61
+    },
+    {
+     "TeamId": 1955,
+     "LeagueId": 60
+    },
+    {
+     "TeamId": 1958,
+     "LeagueId": 60,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 1959,
+     "LeagueId": 61
+    },
+    {
+     "TeamId": 1960,
+     "LeagueId": 13,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 1961,
+     "LeagueId": 14
+    },
+    {
+     "TeamId": 1962,
+     "LeagueId": 61,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 1970,
+     "LeagueId": 341,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 1971,
+     "LeagueId": 10
+    },
+    {
+     "TeamId": 2007,
+     "LeagueId": 4
+    },
+    {
+     "TeamId": 2041,
+     "LeagueId": 41
+    },
+    {
+     "TeamId": 2044,
+     "LeagueId": 32
+    },
+    {
+     "TeamId": 2045,
+     "LeagueId": 80
+    },
+    {
+     "TeamId": 2055,
+     "LeagueId": 83
+    },
+    {
+     "TeamId": 2056,
+     "LeagueId": 83
+    },
+    {
+     "TeamId": 10019,
+     "LeagueId": 308
+    },
+    {
+     "TeamId": 10029,
+     "LeagueId": 19
+    },
+    {
+     "TeamId": 10030,
+     "LeagueId": 20
+    },
+    {
+     "TeamId": 15001,
+     "LeagueId": 1
+    },
+    {
+     "TeamId": 15005,
+     "LeagueId": 4,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 15011,
+     "LeagueId": 80,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 15015,
+     "LeagueId": 61
+    },
+    {
+     "TeamId": 15019,
+     "LeagueId": 54
+    },
+    {
+     "TeamId": 15021,
+     "LeagueId": 54
+    },
+    {
+     "TeamId": 15048,
+     "LeagueId": 60
+    },
+    {
+     "TeamId": 100081,
+     "LeagueId": 4,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 100087,
+     "LeagueId": 4
+    },
+    {
+     "TeamId": 100409,
+     "LeagueId": 19
+    },
+    {
+     "TeamId": 100634,
+     "LeagueId": 10
+    },
+    {
+     "TeamId": 100651,
+     "LeagueId": 10
+    },
+    {
+     "TeamId": 100764,
+     "LeagueId": 67
+    },
+    {
+     "TeamId": 100765,
+     "LeagueId": 67
+    },
+    {
+     "TeamId": 100766,
+     "LeagueId": 67
+    },
+    {
+     "TeamId": 100767,
+     "LeagueId": 67
+    },
+    {
+     "TeamId": 100769,
+     "LeagueId": 67
+    },
+    {
+     "TeamId": 100804,
+     "LeagueId": 50
+    },
+    {
+     "TeamId": 100805,
+     "LeagueId": 50
+    },
+    {
+     "TeamId": 100831,
+     "LeagueId": 54
+    },
+    {
+     "TeamId": 100851,
+     "LeagueId": 54,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 100879,
+     "LeagueId": 54
+    },
+    {
+     "TeamId": 101085,
+     "LeagueId": 353
+    },
+    {
+     "TeamId": 101112,
+     "LeagueId": 39
+    },
+    {
+     "TeamId": 101114,
+     "LeagueId": 341,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 101116,
+     "LeagueId": 341,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 110062,
+     "LeagueId": 54
+    },
+    {
+     "TeamId": 110089,
+     "LeagueId": 67
+    },
+    {
+     "TeamId": 110103,
+     "LeagueId": 67
+    },
+    {
+     "TeamId": 110109,
+     "LeagueId": 67
+    },
+    {
+     "TeamId": 110144,
+     "LeagueId": 341,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 110147,
+     "LeagueId": 341
+    },
+    {
+     "TeamId": 110149,
+     "LeagueId": 341,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 110150,
+     "LeagueId": 341,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 110151,
+     "LeagueId": 341,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 110152,
+     "LeagueId": 341,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 110227,
+     "LeagueId": 67
+    },
+    {
+     "TeamId": 110231,
+     "LeagueId": 67
+    },
+    {
+     "TeamId": 110233,
+     "LeagueId": 67
+    },
+    {
+     "TeamId": 110234,
+     "LeagueId": 67
+    },
+    {
+     "TeamId": 110313,
+     "LeagueId": 61
+    },
+    {
+     "TeamId": 110326,
+     "LeagueId": 17
+    },
+    {
+     "TeamId": 110329,
+     "LeagueId": 20,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 110364,
+     "LeagueId": 31
+    },
+    {
+     "TeamId": 110374,
+     "LeagueId": 31
+    },
+    {
+     "TeamId": 110456,
+     "LeagueId": 16,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 110500,
+     "LeagueId": 20
+    },
+    {
+     "TeamId": 110556,
+     "LeagueId": 31
+    },
+    {
+     "TeamId": 110569,
+     "LeagueId": 16
+    },
+    {
+     "TeamId": 110596,
+     "LeagueId": 20
+    },
+    {
+     "TeamId": 110636,
+     "LeagueId": 20
+    },
+    {
+     "TeamId": 110704,
+     "LeagueId": 54
+    },
+    {
+     "TeamId": 110724,
+     "LeagueId": 4
+    },
+    {
+     "TeamId": 110734,
+     "LeagueId": 32
+    },
+    {
+     "TeamId": 110744,
+     "LeagueId": 66
+    },
+    {
+     "TeamId": 110745,
+     "LeagueId": 66
+    },
+    {
+     "TeamId": 110747,
+     "LeagueId": 66
+    },
+    {
+     "TeamId": 110749,
+     "LeagueId": 66
+    },
+    {
+     "TeamId": 110765,
+     "LeagueId": 83
+    },
+    {
+     "TeamId": 110770,
+     "LeagueId": 189,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 110780,
+     "LeagueId": 341
+    },
+    {
+     "TeamId": 110832,
+     "LeagueId": 53
+    },
+    {
+     "TeamId": 110833,
+     "LeagueId": 54
+    },
+    {
+     "TeamId": 110839,
+     "LeagueId": 54
+    },
+    {
+     "TeamId": 110890,
+     "LeagueId": 61
+    },
+    {
+     "TeamId": 110902,
+     "LeagueId": 54
+    },
+    {
+     "TeamId": 110912,
+     "LeagueId": 32
+    },
+    {
+     "TeamId": 110915,
+     "LeagueId": 31
+    },
+    {
+     "TeamId": 110929,
+     "LeagueId": 347
+    },
+    {
+     "TeamId": 110930,
+     "LeagueId": 347,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 111044,
+     "LeagueId": 7
+    },
+    {
+     "TeamId": 111045,
+     "LeagueId": 7
+    },
+    {
+     "TeamId": 111059,
+     "LeagueId": 7
+    },
+    {
+     "TeamId": 111065,
+     "LeagueId": 39
+    },
+    {
+     "TeamId": 111070,
+     "LeagueId": 39,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 111083,
+     "LeagueId": 66
+    },
+    {
+     "TeamId": 111085,
+     "LeagueId": 66
+    },
+    {
+     "TeamId": 111087,
+     "LeagueId": 66
+    },
+    {
+     "TeamId": 111091,
+     "LeagueId": 66
+    },
+    {
+     "TeamId": 111092,
+     "LeagueId": 66
+    },
+    {
+     "TeamId": 111132,
+     "LeagueId": 65
+    },
+    {
+     "TeamId": 111140,
+     "LeagueId": 39
+    },
+    {
+     "TeamId": 111144,
+     "LeagueId": 39
+    },
+    {
+     "TeamId": 111239,
+     "LeagueId": 20
+    },
+    {
+     "TeamId": 111271,
+     "LeagueId": 16
+    },
+    {
+     "TeamId": 111277,
+     "LeagueId": 56
+    },
+    {
+     "TeamId": 111373,
+     "LeagueId": 80
+    },
+    {
+     "TeamId": 111376,
+     "LeagueId": 17
+    },
+    {
+     "TeamId": 111393,
+     "LeagueId": 351,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 111395,
+     "LeagueId": 351
+    },
+    {
+     "TeamId": 111396,
+     "LeagueId": 351
+    },
+    {
+     "TeamId": 111397,
+     "LeagueId": 351
+    },
+    {
+     "TeamId": 111398,
+     "LeagueId": 351
+    },
+    {
+     "TeamId": 111399,
+     "LeagueId": 351
+    },
+    {
+     "TeamId": 111400,
+     "LeagueId": 351
+    },
+    {
+     "TeamId": 111491,
+     "LeagueId": 32
+    },
+    {
+     "TeamId": 111540,
+     "LeagueId": 308,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 111588,
+     "LeagueId": 83
+    },
+    {
+     "TeamId": 111594,
+     "LeagueId": 56,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 111651,
+     "LeagueId": 39
+    },
+    {
+     "TeamId": 111678,
+     "LeagueId": 341,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 111766,
+     "LeagueId": 351,
+     "Kit": [
+      {
+       "type": 0,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      },
+      {
+       "type": 1,
+       "V2": true,
+       "V4": true,
+       "V6": true
+      }
+     ]
+    },
+    {
+     "TeamId": 111821,
+     "LeagueId": 80
+    },
+    {
+     "TeamId": 111827,
+     "LeagueId": 54
+    },
+    {
+     "TeamId": 111928,
+     "LeagueId": 39
+    },
+    {
+     "TeamId": 111974,
+     "LeagueId": 32
+    },
+    {
+     "TeamId": 111976,
+     "LeagueId": 7
+    },
+    {
+     "TeamId": 111989,
+     "LeagueId": 17
+    },
+    {
+     "TeamId": 111993,
+     "LeagueId": 32
+    },
+    {
+     "TeamId": 112001,
+     "LeagueId": 7
+    },
+    {
+     "TeamId": 112072,
+     "LeagueId": 56
+    },
+    {
+     "TeamId": 112078,
+     "LeagueId": 351
+    },
+    {
+     "TeamId": 112115,
+     "LeagueId": 83
+    },
+    {
+     "TeamId": 112119,
+     "LeagueId": 7
+    },
+    {
+     "TeamId": 112124,
+     "LeagueId": 32
+    },
+    {
+     "TeamId": 112134,
+     "LeagueId": 39
+    },
+    {
+     "TeamId": 112217,
+     "LeagueId": 67
+    },
+    {
+     "TeamId": 112218,
+     "LeagueId": 67
+    },
+    {
+     "TeamId": 112224,
+     "LeagueId": 351
+    },
+    {
+     "TeamId": 112225,
+     "LeagueId": 31
+    },
+    {
+     "TeamId": 112237,
+     "LeagueId": 32
+    },
+    {
+     "TeamId": 112258,
+     "LeagueId": 83
+    },
+    {
+     "TeamId": 112259,
+     "LeagueId": 61
+    },
+    {
+     "TeamId": 112281,
+     "LeagueId": 32
+    },
+    {
+     "TeamId": 112282,
+     "LeagueId": 32
+    }
+   ]
+  }
+ ]
+}
