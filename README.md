@@ -287,6 +287,28 @@ Data: `http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/web/4
 }
 ```
 
+## Balls
+
+![](http://i.imgur.com/mJvly.png)
+
+Image: `http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/images/balls/web/ball_20.png`
+
+Data: `http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/web/8120011.json`
+
+```javascript
+{
+  "Ball": {
+    "Rating": "70",
+    "Rare": "0",
+    "Desc": "adidas Torfabrik",
+    "AssetId": "20",
+    "Manufacturer": "ManufacturerAdidas",
+    "Name": "BallName_20",
+    "ItemType": "Ball"
+  }
+}
+```
+
 ## Training
 
 Data: `http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/web/5003001.json`
@@ -319,29 +341,9 @@ Data: `http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/web/5
 }
 ```
 
-## Balls
-
-![](http://i.imgur.com/mJvly.png)
-
-Image: `http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/images/balls/web/ball_20.png`
-
-Data: `http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/web/8120011.json`
-
-```javascript
-{
-  "Ball": {
-    "Rating": "70",
-    "Rare": "0",
-    "Desc": "adidas Torfabrik",
-    "AssetId": "20",
-    "Manufacturer": "ManufacturerAdidas",
-    "Name": "BallName_20",
-    "ItemType": "Ball"
-  }
-}
-```
-
 ## Contracts
+
+Image: `http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/images/various/web/5000008.png`
 
 Data: `http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/web/5001009.json`
 
