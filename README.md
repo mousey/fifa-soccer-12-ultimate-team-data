@@ -77,10 +77,11 @@ Most of these fields are self-explanatory, but they're detailed below:
 
 ## Kits
 
-![](http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/images/kits/web/j0_00086.png)
-![](http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/images/kits/web/j1_00086.png)
-
 ### Home
+
+![](http://i.imgur.com/2s1bV.png)
+
+`http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/images/kits/web/j0_00086.png`
 
 `http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/web/6300263.json`
 
@@ -101,6 +102,10 @@ Most of these fields are self-explanatory, but they're detailed below:
 ```
 
 ### Away
+
+![](http://i.imgur.com/tMoa6.png)
+
+`http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/images/kits/web/j1_00086.png`
 
 `http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/web/6400263.json`
 
@@ -123,7 +128,9 @@ Most of these fields are self-explanatory, but they're detailed below:
 
 ## Badges
 
-![](http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/images/clubbadges/web/s86.png)
+![](http://i.imgur.com/H8hNy.png)
+
+`http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/images/clubbadges/web/s86.png`
 
 `http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/web/6000263.json`
 
@@ -143,7 +150,9 @@ Most of these fields are self-explanatory, but they're detailed below:
 
 ## Stadia
 
-![](http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/images/stadiums/web/249.jpg)
+![](http://i.imgur.com/FEbBA.jpg)
+
+`http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/images/stadiums/web/249.jpg`
 
 `http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/web/6200054.json`
 
