@@ -8,9 +8,11 @@ FIFA Ultimate Team exposes all player data via publicly accessible web services.
 
 Here's an example of what you can do with this data: [player-database.csv](https://raw.github.com/leereilly/fifa-soccer-12-ultimate-team-data/master/player-database.csv). If you have no idea what a CSV file, you can open it in Excel, Numbers or in Google Docs / [Zoho Sheet](https://sheet.zoho.com).
 
-# Players
+# Data Set in this Repository
 
-## Player Images
+## Players
+
+### Player Images
 
 ![](http://i.imgur.com/D9pTc.png)
 ![](http://i.imgur.com/Qph7i.png)
@@ -28,7 +30,7 @@ http://cdn.content.easports.com/fifa/fltOnlineAssets/2011/fut/items/images/playe
 http://cdn.content.easports.com/fifa/fltOnlineAssets/2010/fut/items/images/players/web/179686.png
 ```
 
-## Player data
+### Player data
 
 Player data is sent to the client (FIFA ultimate team on your XBOX, PS3, PC, or browser) in JSON e.g.
 
@@ -84,7 +86,7 @@ Most of these fields are self-explanatory, but they're detailed below:
 
 `http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/web/6300263.json`
 
-```
+```javascript
 {
   "Kit": {
     "ClubId": "86",
@@ -105,7 +107,7 @@ Most of these fields are self-explanatory, but they're detailed below:
 `http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/web/6400263.json`
 
 
-```
+```javascript
 {
   "Kit": {
     "ClubId": "86",
@@ -127,7 +129,7 @@ Most of these fields are self-explanatory, but they're detailed below:
 
 `http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/web/6000263.json`
 
-```
+```javascript
 {
   "Badge": {
     "ClubId": "86",
@@ -141,7 +143,7 @@ Most of these fields are self-explanatory, but they're detailed below:
 }
 ```
 
-# Stadia
+## Stadia
 
 ![](http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/images/stadiums/web/249.jpg)
 
@@ -161,7 +163,7 @@ Most of these fields are self-explanatory, but they're detailed below:
 }
 ```
 
-# Staff
+## Staff
 
 ## Managers
 
@@ -169,7 +171,7 @@ Most of these fields are self-explanatory, but they're detailed below:
 
 `http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/web/1000408.json`
 
-```
+```javascript
 {
   "Manager": {
     "FirstName": "Alex",
@@ -233,7 +235,7 @@ Most of these fields are self-explanatory, but they're detailed below:
 
 `http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/web/3000004.json`
 
-```
+```javascript
 {
   "FitnessCoach": {
     "FirstName": "A",
@@ -254,7 +256,7 @@ Most of these fields are self-explanatory, but they're detailed below:
 
 `http://cdn.content.easports.com/fifa/fltOnlineAssets/2012/fut/items/web/4000022.json`
 
-```
+```javascript
 {
   "Physio": {
     "FirstName": "Y",
