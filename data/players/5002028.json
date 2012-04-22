@@ -1,9 +1,0 @@
-{
-  "Healing": {
-    "Desc": "Health All Bronze",
-    "Rating": "60",
-    "Rare": "1",
-    "Amount": "1",
-    "ItemType": "HealthAll"
-  }
-}

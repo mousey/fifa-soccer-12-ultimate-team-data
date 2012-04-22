@@ -1,9 +1,0 @@
-{
-  "Healing": {
-    "Desc": "Morale Player Gold",
-    "Rating": "80",
-    "Rare": "0",
-    "Amount": "60",
-    "ItemType": "MoralePlayer"
-  }
-}
