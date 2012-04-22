@@ -1,14 +1,14 @@
-# FIFA Ultimate Team 2012 Data
+# FIFA Ultimate Team 2012 Data - Basic Edition
 
-FIFA Ultimate Team exposes all player data via publicly accessible web services. This repository is here to help you build *your* ultimate team. Want to know who the tallest player is, the fastest, the best overall? Use this data.
+FIFA Ultimate Team exposes all player data via publicly accessible web services. This repository is here to help you build *your* ultimate team and will show you who the tallest player is, the fastest, the best overall, etc.
 
-## Player Database
+99.9% of those reading will be interested in this and nothing else: [player-database.csv](https://raw.github.com/leereilly/fifa-soccer-12-ultimate-team-data/master/player-database.csv).
 
-99.9% of those reading will be interested in this and nothing else:
+If you have no idea what a CSV file, you can open it in Excel, Numbers or in Google Docs / [Zoho Sheet](https://sheet.zoho.com).
 
-Here's an example of what you can do with this data: [player-database.csv](https://raw.github.com/leereilly/fifa-soccer-12-ultimate-team-data/master/player-database.csv). If you have no idea what a CSV file, you can open it in Excel, Numbers or in Google Docs / [Zoho Sheet](https://sheet.zoho.com).
 
-# Data Set in this Repository
+
+# FIFA Ultimate Team 2012 Data - Neckbeard Edition
 
 ## Players
 
